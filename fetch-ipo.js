@@ -15,7 +15,7 @@ const fs = require('fs');
    financial year — update it each April (e.g. 2027/2027-28). */
 const FY_START = 2026;
 const FY_LABEL = '2026-27';
-const BASE = `https://webnodejs.investorgain.com/cloud/report/data-read/331/1/6/${FY_START}/${FY_LABEL}/0/all`;
+const BASE = `https://webnodejs.investorgain.com/cloud/v2/report/data-read/331/1/7/${FY_START}/${FY_LABEL}/0/all`;
 
 /* source weight for the weighted-average engine (single source for now) */
 const SOURCE_WEIGHTS = { investorgain: 91 };
@@ -128,10 +128,10 @@ function weightedGmp(readings){
 async function main(){
   // Try several endpoint variants — investorgain's data path can vary.
   const now = Date.now();
+  // Confirmed working endpoint (note: /cloud/v2/report/ and /1/7/).
   const candidates = [
-    `https://webnodejs.investorgain.com/cloud/report/data-read/331/1/6/${FY_START}/${FY_LABEL}/0/all?search=&v=${now}`,
-    `https://webnodejs.investorgain.com/cloud/report/data-read/331/1/6/${FY_START}/${FY_LABEL}/0/0?search=&v=${now}`,
-    `https://webnodejs.investorgain.com/cloud/report/data-read/331/1/6/2025/2025-26/0/all?search=&v=${now}`,
+    `https://webnodejs.investorgain.com/cloud/v2/report/data-read/331/1/7/${FY_START}/${FY_LABEL}/0/all?search=&v=${now}`,
+    `https://webnodejs.investorgain.com/cloud/v2/report/data-read/331/1/7/${FY_START}/${FY_LABEL}/0/0?search=&v=${now}`,
   ];
 
   let json = null, okUrl = null;
