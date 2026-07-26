@@ -126,47 +126,60 @@ function weightedGmp(readings){
 
 /* ---------- main ---------- */
 async function main(){
-  const url = `${BASE}?search=&v=${Date.now()}`;
-  let json;
-  try {
-    const res = await fetch(url, { headers:{ 'Content-Type':'application/json',
-      'User-Agent':'Mozilla/5.0 (compatible; BhaavBot/1.0; +karwaandassociates.com)' }});
-    if(!res.ok) throw new Error('HTTP '+res.status);
-    json = await res.json();
-  } catch(e){
-    console.error('fetch failed:', e.message);
-    process.exit(0); // don't fail the Action / don't wipe existing file
+  // Try several endpoint variants — investorgain's data path can vary.
+  const now = Date.now();
+  const candidates = [
+    `https://webnodejs.investorgain.com/cloud/report/data-read/331/1/6/${FY_START}/${FY_LABEL}/0/all?search=&v=${now}`,
+    `https://webnodejs.investorgain.com/cloud/report/data-read/331/1/6/${FY_START}/${FY_LABEL}/0/0?search=&v=${now}`,
+    `https://webnodejs.investorgain.com/cloud/report/data-read/331/1/6/2025/2025-26/0/all?search=&v=${now}`,
+  ];
+
+  let json = null, okUrl = null;
+  for (const url of candidates) {
+    try {
+      console.log('trying:', url);
+      const res = await fetch(url, { headers:{
+        'User-Agent':'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122 Safari/537.36',
+        'Accept':'application/json, text/plain, */*',
+        'Referer':'https://www.investorgain.com/'
+      }});
+      console.log('  -> HTTP', res.status, res.headers.get('content-type'));
+      if (!res.ok) continue;
+      const text = await res.text();
+      console.log('  -> body length', text.length, '| first 200 chars:', text.slice(0,200).replace(/\n/g,' '));
+      let parsed;
+      try { parsed = JSON.parse(text); } catch(e){ console.log('  -> not JSON, skipping'); continue; }
+      const rows = parsed.reportTableData || parsed.data || parsed.rows;
+      if (Array.isArray(rows) && rows.length) { json = parsed; okUrl = url; console.log('  -> SUCCESS: found', rows.length, 'rows'); break; }
+      else { console.log('  -> JSON but no usable rows. keys:', Object.keys(parsed).join(', ')); }
+    } catch(e){ console.log('  -> error:', e.message); }
   }
 
-  const rows = json.reportTableData;
-  if(!Array.isArray(rows) || !rows.length){
-    console.error('no reportTableData; leaving existing file untouched');
+  if (!json) {
+    console.error('DATA SOURCE FAILED: no candidate returned usable rows.');
+    console.error('Leaving any existing bhaav-data.json untouched. See output above for what each URL returned.');
     process.exit(0);
   }
 
+  const rows = json.reportTableData || json.data || json.rows;
   let out = rows.map(transform).filter(Boolean);
+  console.log('transformed', out.length, 'IPOs from', okUrl);
 
-  // preserve trend: set prevPct from the previous committed file
+  // preserve trend from previous file if present
   try {
     if(fs.existsSync('bhaav-data.json')){
       const prev = JSON.parse(fs.readFileSync('bhaav-data.json','utf8'));
       const pmap={}; prev.forEach(p=>{ if(p.name) pmap[p.name.toLowerCase()]=p; });
-      const prevNames=new Set(prev.map(p=>(p.name||'').toLowerCase()));
       out.forEach(r=>{
         const key=r.name.toLowerCase();
-        if(pmap[key]){
-          const oldW = weightedGmp(pmap[key].readings||{});
-          if(oldW!=null) r.prevPct=oldW;
-          r.new=false;
-        } else {
-          r.new=true; // wasn't there last run
-        }
+        if(pmap[key]){ const oldW=weightedGmp(pmap[key].readings||{}); if(oldW!=null) r.prevPct=oldW; r.new=false; }
+        else { r.new=true; }
       });
     }
-  } catch(e){ /* ignore trend errors */ }
+  } catch(e){ /* ignore */ }
 
   fs.writeFileSync('bhaav-data.json', JSON.stringify(out, null, 2));
-  console.log('wrote bhaav-data.json with '+out.length+' IPOs');
+  console.log('WROTE bhaav-data.json with '+out.length+' IPOs');
 }
 
 main();
