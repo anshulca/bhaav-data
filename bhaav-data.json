@@ -58,7 +58,7 @@
     },
     "upd": 0,
     "new": false,
-    "actualList": null,
+    "actualList": 7,
     "readings": {
       "investorgain": {
         "gmp": 0,
@@ -67,20 +67,20 @@
     }
   },
   {
-    "name": "MV Electrosystems",
-    "type": "MAINBOARD",
+    "name": "G.V. Electricals",
+    "type": "SME",
     "status": "UPCOMING",
     "band": [
-      0,
-      0
+      130,
+      130
     ],
-    "lot": 0,
-    "open": "30 Jul",
-    "close": "3 Aug",
-    "list": "6 Aug",
-    "openISO": "2026-07-30",
-    "closeISO": "2026-08-03",
-    "listISO": "2026-08-06",
+    "lot": 1000,
+    "open": "31 Jul",
+    "close": "4 Aug",
+    "list": "7 Aug",
+    "openISO": "2026-07-31",
+    "closeISO": "2026-08-04",
+    "listISO": "2026-08-07",
     "prevPct": 0,
     "sub": {
       "qib": 0,
@@ -90,11 +90,11 @@
       "day": 0
     },
     "upd": 0,
-    "new": false,
-    "actualList": null,
+    "new": true,
+    "actualList": 7,
     "readings": {
       "investorgain": {
-        "gmp": 75,
+        "gmp": 0,
         "pct": 0
       }
     }
@@ -124,7 +124,7 @@
     },
     "upd": 0,
     "new": false,
-    "actualList": null,
+    "actualList": 6,
     "readings": {
       "investorgain": {
         "gmp": 0,
@@ -133,14 +133,14 @@
     }
   },
   {
-    "name": "Juniper Green Energy",
+    "name": "MV Electrosystems",
     "type": "MAINBOARD",
     "status": "UPCOMING",
     "band": [
-      0,
-      0
+      425,
+      425
     ],
-    "lot": 0,
+    "lot": 34,
     "open": "30 Jul",
     "close": "3 Aug",
     "list": "6 Aug",
@@ -157,7 +157,73 @@
     },
     "upd": 0,
     "new": false,
-    "actualList": null,
+    "actualList": 6,
+    "readings": {
+      "investorgain": {
+        "gmp": 75,
+        "pct": 17.6
+      }
+    }
+  },
+  {
+    "name": "Juniper Green Energy",
+    "type": "MAINBOARD",
+    "status": "UPCOMING",
+    "band": [
+      225,
+      225
+    ],
+    "lot": 66,
+    "open": "30 Jul",
+    "close": "3 Aug",
+    "list": "6 Aug",
+    "openISO": "2026-07-30",
+    "closeISO": "2026-08-03",
+    "listISO": "2026-08-06",
+    "prevPct": 0,
+    "sub": {
+      "qib": 0,
+      "hni": 0,
+      "retail": 0,
+      "total": 0,
+      "day": 0
+    },
+    "upd": 0,
+    "new": false,
+    "actualList": 6,
+    "readings": {
+      "investorgain": {
+        "gmp": 0,
+        "pct": 0
+      }
+    }
+  },
+  {
+    "name": "Oneindig Technologies",
+    "type": "SME",
+    "status": "UPCOMING",
+    "band": [
+      96,
+      96
+    ],
+    "lot": 1200,
+    "open": "30 Jul",
+    "close": "3 Aug",
+    "list": "6 Aug",
+    "openISO": "2026-07-30",
+    "closeISO": "2026-08-03",
+    "listISO": "2026-08-06",
+    "prevPct": 0,
+    "sub": {
+      "qib": 0,
+      "hni": 0,
+      "retail": 0,
+      "total": 0,
+      "day": 0
+    },
+    "upd": 0,
+    "new": true,
+    "actualList": 6,
     "readings": {
       "investorgain": {
         "gmp": 0,
@@ -190,7 +256,7 @@
     },
     "upd": 0,
     "new": false,
-    "actualList": null,
+    "actualList": 5,
     "readings": {
       "investorgain": {
         "gmp": 2,
@@ -223,7 +289,7 @@
     },
     "upd": 0,
     "new": false,
-    "actualList": null,
+    "actualList": 5,
     "readings": {
       "investorgain": {
         "gmp": 25,
@@ -256,7 +322,7 @@
     },
     "upd": 0,
     "new": false,
-    "actualList": null,
+    "actualList": 4,
     "readings": {
       "investorgain": {
         "gmp": 245,
@@ -265,42 +331,9 @@
     }
   },
   {
-    "name": "Advance Technoforge",
-    "type": "SME",
-    "status": "UPCOMING",
-    "band": [
-      95,
-      95
-    ],
-    "lot": 1200,
-    "open": "27 Jul",
-    "close": "29 Jul",
-    "list": "3 Aug",
-    "openISO": "2026-07-27",
-    "closeISO": "2026-07-29",
-    "listISO": "2026-08-03",
-    "prevPct": 9.5,
-    "sub": {
-      "qib": 0,
-      "hni": 0,
-      "retail": 0,
-      "total": 0,
-      "day": 0
-    },
-    "upd": 0,
-    "new": false,
-    "actualList": null,
-    "readings": {
-      "investorgain": {
-        "gmp": 9,
-        "pct": 9.5
-      }
-    }
-  },
-  {
     "name": "Propshop Events & Exhibitions",
     "type": "SME",
-    "status": "UPCOMING",
+    "status": "OPEN",
     "band": [
       69,
       69
@@ -317,16 +350,49 @@
       "qib": 0,
       "hni": 0,
       "retail": 0,
-      "total": 0,
-      "day": 0
+      "total": 0.02,
+      "day": 1
     },
     "upd": 0,
     "new": false,
-    "actualList": null,
+    "actualList": 3,
     "readings": {
       "investorgain": {
         "gmp": 0,
         "pct": 0
+      }
+    }
+  },
+  {
+    "name": "Advance Technoforge",
+    "type": "SME",
+    "status": "OPEN",
+    "band": [
+      95,
+      95
+    ],
+    "lot": 1200,
+    "open": "27 Jul",
+    "close": "29 Jul",
+    "list": "3 Aug",
+    "openISO": "2026-07-27",
+    "closeISO": "2026-07-29",
+    "listISO": "2026-08-03",
+    "prevPct": 9.5,
+    "sub": {
+      "qib": 0,
+      "hni": 0,
+      "retail": 0,
+      "total": 0.12,
+      "day": 1
+    },
+    "upd": 0,
+    "new": false,
+    "actualList": 3,
+    "readings": {
+      "investorgain": {
+        "gmp": 9,
+        "pct": 9.5
       }
     }
   },
@@ -350,12 +416,12 @@
       "qib": 0,
       "hni": 0,
       "retail": 0,
-      "total": 0.36,
+      "total": 0.66,
       "day": 3
     },
     "upd": 0,
     "new": false,
-    "actualList": null,
+    "actualList": 31,
     "readings": {
       "investorgain": {
         "gmp": 0,
@@ -383,49 +449,16 @@
       "qib": 0,
       "hni": 0,
       "retail": 0,
-      "total": 0.59,
+      "total": 1.34,
       "day": 3
     },
     "upd": 0,
     "new": false,
-    "actualList": null,
+    "actualList": 30,
     "readings": {
       "investorgain": {
         "gmp": 7,
-        "pct": 1.6
-      }
-    }
-  },
-  {
-    "name": "Xtranet Technologies",
-    "type": "MAINBOARD",
-    "status": "OPEN",
-    "band": [
-      127,
-      127
-    ],
-    "lot": 110,
-    "open": "23 Jul",
-    "close": "27 Jul",
-    "list": "30 Jul",
-    "openISO": "2026-07-23",
-    "closeISO": "2026-07-27",
-    "listISO": "2026-07-30",
-    "prevPct": 7.1,
-    "sub": {
-      "qib": 0,
-      "hni": 0,
-      "retail": 0,
-      "total": 1.96,
-      "day": 3
-    },
-    "upd": 0,
-    "new": false,
-    "actualList": null,
-    "readings": {
-      "investorgain": {
-        "gmp": 9,
-        "pct": 7.1
+        "pct": 1.5
       }
     }
   },
@@ -449,16 +482,49 @@
       "qib": 0,
       "hni": 0,
       "retail": 0,
-      "total": 3.08,
+      "total": 14.34,
       "day": 3
     },
     "upd": 0,
     "new": false,
-    "actualList": null,
+    "actualList": 30,
     "readings": {
       "investorgain": {
-        "gmp": 190,
-        "pct": 39.2
+        "gmp": 200,
+        "pct": 41.2
+      }
+    }
+  },
+  {
+    "name": "Xtranet Technologies",
+    "type": "MAINBOARD",
+    "status": "OPEN",
+    "band": [
+      127,
+      127
+    ],
+    "lot": 110,
+    "open": "23 Jul",
+    "close": "27 Jul",
+    "list": "30 Jul",
+    "openISO": "2026-07-23",
+    "closeISO": "2026-07-27",
+    "listISO": "2026-07-30",
+    "prevPct": 7.1,
+    "sub": {
+      "qib": 0,
+      "hni": 0,
+      "retail": 0,
+      "total": 5.82,
+      "day": 3
+    },
+    "upd": 0,
+    "new": false,
+    "actualList": 30,
+    "readings": {
+      "investorgain": {
+        "gmp": 7,
+        "pct": 5.5
       }
     }
   },
@@ -487,7 +553,7 @@
     },
     "upd": 0,
     "new": false,
-    "actualList": null,
+    "actualList": 29,
     "readings": {
       "investorgain": {
         "gmp": 13,
@@ -520,7 +586,7 @@
     },
     "upd": 0,
     "new": false,
-    "actualList": null,
+    "actualList": 3,
     "readings": {
       "investorgain": {
         "gmp": 2,
@@ -553,7 +619,7 @@
     },
     "upd": 0,
     "new": false,
-    "actualList": null,
+    "actualList": 28,
     "readings": {
       "investorgain": {
         "gmp": 8,
@@ -564,7 +630,7 @@
   {
     "name": "Gulf Lloyds",
     "type": "SME",
-    "status": "CLOSED",
+    "status": "LISTED",
     "band": [
       100,
       100
@@ -586,13 +652,14 @@
     },
     "upd": 0,
     "new": false,
-    "actualList": null,
+    "actualList": 27,
     "readings": {
       "investorgain": {
         "gmp": 1,
         "pct": 1
       }
-    }
+    },
+    "lastGmpPct": 1
   },
   {
     "name": "Caliber Mining",
@@ -619,7 +686,7 @@
     },
     "upd": 0,
     "new": false,
-    "actualList": null,
+    "actualList": 24,
     "readings": {
       "investorgain": {
         "gmp": 60,
@@ -653,7 +720,7 @@
     },
     "upd": 0,
     "new": false,
-    "actualList": null,
+    "actualList": 23,
     "readings": {
       "investorgain": {
         "gmp": 3,
@@ -661,40 +728,6 @@
       }
     },
     "lastGmpPct": 1.3
-  },
-  {
-    "name": "Alpine Texworld",
-    "type": "MAINBOARD",
-    "status": "LISTED",
-    "band": [
-      105,
-      105
-    ],
-    "lot": 142,
-    "open": "14 Jul",
-    "close": "16 Jul",
-    "list": "21 Jul",
-    "openISO": "2026-07-14",
-    "closeISO": "2026-07-16",
-    "listISO": "2026-07-21",
-    "prevPct": 0.9,
-    "sub": {
-      "qib": 0,
-      "hni": 0,
-      "retail": 0,
-      "total": 1.4,
-      "day": 3
-    },
-    "upd": 0,
-    "new": false,
-    "actualList": null,
-    "readings": {
-      "investorgain": {
-        "gmp": 1,
-        "pct": 0.9
-      }
-    },
-    "lastGmpPct": 0.9
   },
   {
     "name": "SBI Funds Management",
@@ -721,7 +754,7 @@
     },
     "upd": 0,
     "new": false,
-    "actualList": null,
+    "actualList": 21,
     "readings": {
       "investorgain": {
         "gmp": 65,
@@ -755,7 +788,7 @@
     },
     "upd": 0,
     "new": false,
-    "actualList": null,
+    "actualList": 21,
     "readings": {
       "investorgain": {
         "gmp": 395,
@@ -763,6 +796,40 @@
       }
     },
     "lastGmpPct": 119.3
+  },
+  {
+    "name": "Alpine Texworld",
+    "type": "MAINBOARD",
+    "status": "LISTED",
+    "band": [
+      105,
+      105
+    ],
+    "lot": 142,
+    "open": "14 Jul",
+    "close": "16 Jul",
+    "list": "21 Jul",
+    "openISO": "2026-07-14",
+    "closeISO": "2026-07-16",
+    "listISO": "2026-07-21",
+    "prevPct": 0.9,
+    "sub": {
+      "qib": 0,
+      "hni": 0,
+      "retail": 0,
+      "total": 1.4,
+      "day": 3
+    },
+    "upd": 0,
+    "new": false,
+    "actualList": 21,
+    "readings": {
+      "investorgain": {
+        "gmp": 1,
+        "pct": 0.9
+      }
+    },
+    "lastGmpPct": 0.9
   },
   {
     "name": "Devson Catalyst",
@@ -789,7 +856,7 @@
     },
     "upd": 0,
     "new": false,
-    "actualList": null,
+    "actualList": 16,
     "readings": {
       "investorgain": {
         "gmp": 49,
@@ -797,40 +864,6 @@
       }
     },
     "lastGmpPct": 41.5
-  },
-  {
-    "name": "Happy Steels",
-    "type": "SME",
-    "status": "LISTED",
-    "band": [
-      66,
-      66
-    ],
-    "lot": 2000,
-    "open": "9 Jul",
-    "close": "13 Jul",
-    "list": "16 Jul",
-    "openISO": "2026-07-09",
-    "closeISO": "2026-07-13",
-    "listISO": "2026-07-16",
-    "prevPct": 15.2,
-    "sub": {
-      "qib": 0,
-      "hni": 0,
-      "retail": 0,
-      "total": 77.81,
-      "day": 3
-    },
-    "upd": 0,
-    "new": false,
-    "actualList": null,
-    "readings": {
-      "investorgain": {
-        "gmp": 10,
-        "pct": 15.2
-      }
-    },
-    "lastGmpPct": 15.2
   },
   {
     "name": "Laser Power & Infra",
@@ -857,7 +890,7 @@
     },
     "upd": 0,
     "new": false,
-    "actualList": null,
+    "actualList": 16,
     "readings": {
       "investorgain": {
         "gmp": 39,
@@ -865,6 +898,40 @@
       }
     },
     "lastGmpPct": 18.2
+  },
+  {
+    "name": "Happy Steels",
+    "type": "SME",
+    "status": "LISTED",
+    "band": [
+      66,
+      66
+    ],
+    "lot": 2000,
+    "open": "9 Jul",
+    "close": "13 Jul",
+    "list": "16 Jul",
+    "openISO": "2026-07-09",
+    "closeISO": "2026-07-13",
+    "listISO": "2026-07-16",
+    "prevPct": 15.2,
+    "sub": {
+      "qib": 0,
+      "hni": 0,
+      "retail": 0,
+      "total": 77.81,
+      "day": 3
+    },
+    "upd": 0,
+    "new": false,
+    "actualList": 16,
+    "readings": {
+      "investorgain": {
+        "gmp": 10,
+        "pct": 15.2
+      }
+    },
+    "lastGmpPct": 15.2
   },
   {
     "name": "Kusumgar",
@@ -891,7 +958,7 @@
     },
     "upd": 0,
     "new": false,
-    "actualList": null,
+    "actualList": 15,
     "readings": {
       "investorgain": {
         "gmp": 161,
@@ -925,7 +992,7 @@
     },
     "upd": 0,
     "new": false,
-    "actualList": null,
+    "actualList": 10,
     "readings": {
       "investorgain": {
         "gmp": 47,
@@ -933,73 +1000,5 @@
       }
     },
     "lastGmpPct": 47.5
-  },
-  {
-    "name": "Knack Packaging",
-    "type": "MAINBOARD",
-    "status": "LISTED",
-    "band": [
-      170,
-      170
-    ],
-    "lot": 88,
-    "open": "1 Jul",
-    "close": "3 Jul",
-    "list": "8 Jul",
-    "openISO": "2026-07-01",
-    "closeISO": "2026-07-03",
-    "listISO": "2026-07-08",
-    "prevPct": 7.7,
-    "sub": {
-      "qib": 0,
-      "hni": 0,
-      "retail": 0,
-      "total": 61.11,
-      "day": 3
-    },
-    "upd": 0,
-    "new": false,
-    "actualList": null,
-    "readings": {
-      "investorgain": {
-        "gmp": 13,
-        "pct": 7.7
-      }
-    },
-    "lastGmpPct": 7.7
-  },
-  {
-    "name": "Seemax Resources",
-    "type": "SME",
-    "status": "LISTED",
-    "band": [
-      141,
-      141
-    ],
-    "lot": 1000,
-    "open": "30 Jun",
-    "close": "2 Jul",
-    "list": "7 Jul",
-    "openISO": "2026-06-30",
-    "closeISO": "2026-07-02",
-    "listISO": "2026-07-07",
-    "prevPct": 0,
-    "sub": {
-      "qib": 0,
-      "hni": 0,
-      "retail": 0,
-      "total": 3.62,
-      "day": 3
-    },
-    "upd": 0,
-    "new": false,
-    "actualList": null,
-    "readings": {
-      "investorgain": {
-        "gmp": 0,
-        "pct": 0
-      }
-    },
-    "lastGmpPct": 0
   }
 ]
