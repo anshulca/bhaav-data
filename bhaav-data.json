@@ -58,7 +58,7 @@
     },
     "upd": 0,
     "new": false,
-    "actualList": 7,
+    "actualList": null,
     "readings": {
       "investorgain": {
         "gmp": 0,
@@ -90,12 +90,12 @@
       "day": 0
     },
     "upd": 0,
-    "new": true,
-    "actualList": 7,
+    "new": false,
+    "actualList": null,
     "readings": {
       "investorgain": {
-        "gmp": 0,
-        "pct": 0
+        "gmp": 12,
+        "pct": 9.2
       }
     }
   },
@@ -124,7 +124,7 @@
     },
     "upd": 0,
     "new": false,
-    "actualList": 6,
+    "actualList": null,
     "readings": {
       "investorgain": {
         "gmp": 0,
@@ -147,7 +147,7 @@
     "openISO": "2026-07-30",
     "closeISO": "2026-08-03",
     "listISO": "2026-08-06",
-    "prevPct": 0,
+    "prevPct": 17.6,
     "sub": {
       "qib": 0,
       "hni": 0,
@@ -157,7 +157,7 @@
     },
     "upd": 0,
     "new": false,
-    "actualList": 6,
+    "actualList": null,
     "readings": {
       "investorgain": {
         "gmp": 75,
@@ -190,7 +190,7 @@
     },
     "upd": 0,
     "new": false,
-    "actualList": 6,
+    "actualList": null,
     "readings": {
       "investorgain": {
         "gmp": 0,
@@ -222,8 +222,8 @@
       "day": 0
     },
     "upd": 0,
-    "new": true,
-    "actualList": 6,
+    "new": false,
+    "actualList": null,
     "readings": {
       "investorgain": {
         "gmp": 0,
@@ -256,7 +256,7 @@
     },
     "upd": 0,
     "new": false,
-    "actualList": 5,
+    "actualList": null,
     "readings": {
       "investorgain": {
         "gmp": 2,
@@ -289,7 +289,7 @@
     },
     "upd": 0,
     "new": false,
-    "actualList": 5,
+    "actualList": null,
     "readings": {
       "investorgain": {
         "gmp": 25,
@@ -322,7 +322,7 @@
     },
     "upd": 0,
     "new": false,
-    "actualList": 4,
+    "actualList": null,
     "readings": {
       "investorgain": {
         "gmp": 245,
@@ -350,12 +350,12 @@
       "qib": 0,
       "hni": 0,
       "retail": 0,
-      "total": 0.02,
+      "total": 0.03,
       "day": 1
     },
     "upd": 0,
     "new": false,
-    "actualList": 3,
+    "actualList": null,
     "readings": {
       "investorgain": {
         "gmp": 0,
@@ -383,12 +383,12 @@
       "qib": 0,
       "hni": 0,
       "retail": 0,
-      "total": 0.12,
+      "total": 0.24,
       "day": 1
     },
     "upd": 0,
     "new": false,
-    "actualList": 3,
+    "actualList": null,
     "readings": {
       "investorgain": {
         "gmp": 9,
@@ -416,12 +416,12 @@
       "qib": 0,
       "hni": 0,
       "retail": 0,
-      "total": 0.66,
+      "total": 0.91,
       "day": 3
     },
     "upd": 0,
     "new": false,
-    "actualList": 31,
+    "actualList": null,
     "readings": {
       "investorgain": {
         "gmp": 0,
@@ -444,21 +444,21 @@
     "openISO": "2026-07-23",
     "closeISO": "2026-07-27",
     "listISO": "2026-07-30",
-    "prevPct": 1.6,
+    "prevPct": 1.5,
     "sub": {
       "qib": 0,
       "hni": 0,
       "retail": 0,
-      "total": 1.34,
+      "total": 7.22,
       "day": 3
     },
     "upd": 0,
     "new": false,
-    "actualList": 30,
+    "actualList": null,
     "readings": {
       "investorgain": {
-        "gmp": 7,
-        "pct": 1.5
+        "gmp": 13,
+        "pct": 3.1
       }
     }
   },
@@ -477,21 +477,21 @@
     "openISO": "2026-07-23",
     "closeISO": "2026-07-27",
     "listISO": "2026-07-30",
-    "prevPct": 39.2,
+    "prevPct": 41.2,
     "sub": {
       "qib": 0,
       "hni": 0,
       "retail": 0,
-      "total": 14.34,
+      "total": 72.33,
       "day": 3
     },
     "upd": 0,
     "new": false,
-    "actualList": 30,
+    "actualList": null,
     "readings": {
       "investorgain": {
-        "gmp": 200,
-        "pct": 41.2
+        "gmp": 199,
+        "pct": 41
       }
     }
   },
@@ -510,21 +510,21 @@
     "openISO": "2026-07-23",
     "closeISO": "2026-07-27",
     "listISO": "2026-07-30",
-    "prevPct": 7.1,
+    "prevPct": 5.5,
     "sub": {
       "qib": 0,
       "hni": 0,
       "retail": 0,
-      "total": 5.82,
+      "total": 12.15,
       "day": 3
     },
     "upd": 0,
     "new": false,
-    "actualList": 30,
+    "actualList": null,
     "readings": {
       "investorgain": {
-        "gmp": 7,
-        "pct": 5.5
+        "gmp": 6,
+        "pct": 4.7
       }
     }
   },
@@ -553,7 +553,7 @@
     },
     "upd": 0,
     "new": false,
-    "actualList": 29,
+    "actualList": null,
     "readings": {
       "investorgain": {
         "gmp": 13,
@@ -586,7 +586,7 @@
     },
     "upd": 0,
     "new": false,
-    "actualList": 3,
+    "actualList": null,
     "readings": {
       "investorgain": {
         "gmp": 2,
@@ -619,7 +619,7 @@
     },
     "upd": 0,
     "new": false,
-    "actualList": 28,
+    "actualList": null,
     "readings": {
       "investorgain": {
         "gmp": 8,
@@ -652,7 +652,7 @@
     },
     "upd": 0,
     "new": false,
-    "actualList": 27,
+    "actualList": null,
     "readings": {
       "investorgain": {
         "gmp": 1,
@@ -686,7 +686,7 @@
     },
     "upd": 0,
     "new": false,
-    "actualList": 24,
+    "actualList": null,
     "readings": {
       "investorgain": {
         "gmp": 60,
@@ -720,7 +720,7 @@
     },
     "upd": 0,
     "new": false,
-    "actualList": 23,
+    "actualList": null,
     "readings": {
       "investorgain": {
         "gmp": 3,
@@ -754,7 +754,7 @@
     },
     "upd": 0,
     "new": false,
-    "actualList": 21,
+    "actualList": null,
     "readings": {
       "investorgain": {
         "gmp": 65,
@@ -788,7 +788,7 @@
     },
     "upd": 0,
     "new": false,
-    "actualList": 21,
+    "actualList": null,
     "readings": {
       "investorgain": {
         "gmp": 395,
@@ -822,7 +822,7 @@
     },
     "upd": 0,
     "new": false,
-    "actualList": 21,
+    "actualList": null,
     "readings": {
       "investorgain": {
         "gmp": 1,
@@ -856,7 +856,7 @@
     },
     "upd": 0,
     "new": false,
-    "actualList": 16,
+    "actualList": null,
     "readings": {
       "investorgain": {
         "gmp": 49,
@@ -890,7 +890,7 @@
     },
     "upd": 0,
     "new": false,
-    "actualList": 16,
+    "actualList": null,
     "readings": {
       "investorgain": {
         "gmp": 39,
@@ -924,7 +924,7 @@
     },
     "upd": 0,
     "new": false,
-    "actualList": 16,
+    "actualList": null,
     "readings": {
       "investorgain": {
         "gmp": 10,
@@ -958,7 +958,7 @@
     },
     "upd": 0,
     "new": false,
-    "actualList": 15,
+    "actualList": null,
     "readings": {
       "investorgain": {
         "gmp": 161,
@@ -992,7 +992,7 @@
     },
     "upd": 0,
     "new": false,
-    "actualList": 10,
+    "actualList": null,
     "readings": {
       "investorgain": {
         "gmp": 47,
