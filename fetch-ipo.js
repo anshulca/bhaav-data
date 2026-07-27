@@ -63,8 +63,21 @@ function transform(row){
   const closeI = isoDate(row['~Srt_Close']);
   const listI  = isoDate(row['~Str_Listing']);
 
-  // subscription: "Sub" is often like "1.74x" (total). Keep total; QIB/HNI need the sub endpoint.
-  const subTotal = num(row['Sub']);
+  // subscription (times, e.g. "1.74x"). Try several fields; strip HTML; sanity-cap.
+  function parseSub(v){
+    if(v==null) return 0;
+    let str=stripTags(String(v)).toLowerCase();
+    str=str.replace(/times|x|,|\s/g,'').trim();
+    if(str===''||str==='-'||str==='--') return 0;
+    const n=parseFloat(str);
+    if(!isFinite(n) || n<0) return 0;
+    if(n>2000) return 0;              // subscription realistically 0..2000x; above = parse error
+    return +n.toFixed(2);
+  }
+  const subTotal = parseSub(row['Sub'] ?? row['~sub'] ?? row['Subscription'] ?? row['~subscription'] ?? row['Total Sub'] ?? row['~total_sub']);
+  const subQib   = parseSub(row['QIB'] ?? row['~qib']);
+  const subHni   = parseSub(row['NII'] ?? row['HNI'] ?? row['~nii'] ?? row['~hni']);
+  const subRet   = parseSub(row['Retail'] ?? row['RII'] ?? row['~retail']);
 
   // status: badge class + date logic (mirrors investorgain's own frontend)
   const badgeM = String(row['Name']||'').match(/bg-(\w+)/);
@@ -109,7 +122,7 @@ function transform(row){
     open:dispDate(openI), close:dispDate(closeI), list:dispDate(listI),
     openISO:openI, closeISO:closeI, listISO:listI,
     prevPct: gmpPct,
-    sub:{ qib:0, hni:0, retail:0, total: subTotal||0, day:0 },
+    sub:{ qib:subQib, hni:subHni, retail:subRet, total: subTotal||0, day:0 },
     upd:0, new:false, actualList,
     readings: {}
   };
