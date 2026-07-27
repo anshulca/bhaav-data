@@ -85,16 +85,23 @@ function transform(row){
     else if(todayISO>=openI && todayISO<=closeI) status='OPEN';
   }
 
-  // listing price: try several field names the feed may use for a listed IPO
+  // listing price: ONLY accept a value that's plausibly a real listing price.
+  // A real listing is never 90% below issue price. Require it within 40%-300% of issue.
   let actualList = null;
-  const listCands = [row['Listing Price'], row['~listing_price'], row['Last Trade'],
-                     row['~last_trade_price'], row['LTP'], row['~ltp'], row['Listing']];
-  for(const c of listCands){ const v=num(stripTags(c)); if(v!=null && v>0){ actualList=v; break; } }
-  // else derive from a listing-gain % if the feed provides one
-  if(actualList==null && issueHi){
-    const lg = num(row['Listing Gain']) ?? num(row['~listing_gain']) ?? num(row['~list_gain_percent']);
-    if(lg!=null) actualList = Math.round(issueHi * (1 + lg/100));
+  if(issueHi){
+    const cands = [row['Listing Price'], row['~listing_price'], row['Last Trade'],
+                   row['~last_trade_price'], row['LTP'], row['~ltp']];
+    for(const c of cands){
+      const v = num(stripTags(c));
+      if(v!=null && v >= issueHi*0.4 && v <= issueHi*3){ actualList=v; break; }  // sanity band
+    }
+    // else derive from an explicit listing-gain % if present and sane
+    if(actualList==null){
+      const lg = num(row['Listing Gain']) ?? num(row['~listing_gain']) ?? num(row['~list_gain_percent']);
+      if(lg!=null && lg>=-60 && lg<=300) actualList = Math.round(issueHi * (1 + lg/100));
+    }
   }
+  // if we still don't have a trustworthy number, leave it null -> card shows "awaited"
 
   const rec = {
     name, type, status,
