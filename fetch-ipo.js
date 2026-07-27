@@ -71,7 +71,7 @@ function transform(row){
     if(str===''||str==='-'||str==='--') return 0;
     const n=parseFloat(str);
     if(!isFinite(n) || n<0) return 0;
-    if(n>2000) return 0;              // subscription realistically 0..2000x; above = parse error
+    if(n>5000) return 0;              // subscription realistically 0..5000x; above = parse error
     return +n.toFixed(2);
   }
   const subTotal = parseSub(row['Sub'] ?? row['~sub'] ?? row['Subscription'] ?? row['~subscription'] ?? row['Total Sub'] ?? row['~total_sub']);
@@ -116,6 +116,12 @@ function transform(row){
   }
   // if we still don't have a trustworthy number, leave it null -> card shows "awaited"
 
+  // extra info fields from the feed
+  const issueSize = stripTags(row['IPO Size'] || '').replace(/&#8377;/g,'\u20B9').trim() || null;
+  const folder = row['~urlrewrite_folder_name'] || '';
+  const infoUrl = folder ? ('https://www.investorgain.com' + folder) : null;   // page has DRHP + anchor list
+  const hasAnchor = /✅|green/i.test(String(row['Anchor']||''));
+
   const rec = {
     name, type, status,
     band:[lo||0, hi||0], lot,
@@ -124,6 +130,7 @@ function transform(row){
     prevPct: gmpPct,
     sub:{ qib:subQib, hni:subHni, retail:subRet, total: subTotal||0, day:0 },
     upd:0, new:false, actualList,
+    issueSize, infoUrl, hasAnchor,
     readings: {}
   };
   if(gmpPct!=null) rec.readings.investorgain = { gmp: Math.round(gmpValue||0), pct: +gmpPct.toFixed(1) };
@@ -206,6 +213,35 @@ async function main(){
       });
     }
   } catch(e){ /* ignore */ }
+
+  /* ---------- manual corrections (optional) ----------
+     The feed has NO listing price, so add real listing prices (or fix any figure)
+     in corrections.json in this repo. Format:
+       { "Indo-MIM": { "actualList": 640 },
+         "Some IPO": { "actualList": 512, "gmpPct": 12.5, "gmpValue": 60 } }
+     Whatever you put here ALWAYS overrides the feed and never gets wiped. */
+  try {
+    if(fs.existsSync('corrections.json')){
+      const corr = JSON.parse(fs.readFileSync('corrections.json','utf8'));
+      const cmap={}; for(const k in corr) cmap[k.toLowerCase().trim()]=corr[k];
+      let applied=0;
+      out.forEach(r=>{
+        const c = cmap[r.name.toLowerCase().trim()];
+        if(!c) return;
+        if(c.actualList!=null) r.actualList = c.actualList;
+        if(c.gmpPct!=null || c.gmpValue!=null){
+          r.readings.investorgain = {
+            gmp: c.gmpValue!=null ? Math.round(c.gmpValue) : (r.readings.investorgain?.gmp||0),
+            pct: c.gmpPct!=null ? +(+c.gmpPct).toFixed(1) : (r.readings.investorgain?.pct||0)
+          };
+        }
+        if(c.type) r.type = c.type;
+        if(c.issueSize) r.issueSize = c.issueSize;
+        applied++;
+      });
+      if(applied) console.log('applied '+applied+' manual correction(s) from corrections.json');
+    }
+  } catch(e){ console.log('corrections.json skipped:', e.message); }
 
   fs.writeFileSync('bhaav-data.json', JSON.stringify(out, null, 2));
   console.log('WROTE bhaav-data.json with '+out.length+' IPOs');
