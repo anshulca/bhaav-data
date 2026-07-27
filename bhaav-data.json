@@ -81,7 +81,7 @@
     "openISO": "2026-07-31",
     "closeISO": "2026-08-04",
     "listISO": "2026-08-07",
-    "prevPct": 0,
+    "prevPct": 9.2,
     "sub": {
       "qib": 0,
       "hni": 0,
@@ -350,7 +350,7 @@
       "qib": 0,
       "hni": 0,
       "retail": 0,
-      "total": 0.03,
+      "total": 0.04,
       "day": 1
     },
     "upd": 0,
@@ -383,7 +383,7 @@
       "qib": 0,
       "hni": 0,
       "retail": 0,
-      "total": 0.24,
+      "total": 0.25,
       "day": 1
     },
     "upd": 0,
@@ -416,7 +416,7 @@
       "qib": 0,
       "hni": 0,
       "retail": 0,
-      "total": 0.91,
+      "total": 0.96,
       "day": 3
     },
     "upd": 0,
@@ -444,12 +444,12 @@
     "openISO": "2026-07-23",
     "closeISO": "2026-07-27",
     "listISO": "2026-07-30",
-    "prevPct": 1.5,
+    "prevPct": 3.1,
     "sub": {
       "qib": 0,
       "hni": 0,
       "retail": 0,
-      "total": 7.22,
+      "total": 7.26,
       "day": 3
     },
     "upd": 0,
@@ -457,8 +457,8 @@
     "actualList": null,
     "readings": {
       "investorgain": {
-        "gmp": 13,
-        "pct": 3.1
+        "gmp": 10,
+        "pct": 2.4
       }
     }
   },
@@ -477,12 +477,12 @@
     "openISO": "2026-07-23",
     "closeISO": "2026-07-27",
     "listISO": "2026-07-30",
-    "prevPct": 41.2,
+    "prevPct": 41,
     "sub": {
       "qib": 0,
       "hni": 0,
       "retail": 0,
-      "total": 72.33,
+      "total": 72.37,
       "day": 3
     },
     "upd": 0,
@@ -490,8 +490,8 @@
     "actualList": null,
     "readings": {
       "investorgain": {
-        "gmp": 199,
-        "pct": 41
+        "gmp": 191,
+        "pct": 39.4
       }
     }
   },
@@ -510,12 +510,12 @@
     "openISO": "2026-07-23",
     "closeISO": "2026-07-27",
     "listISO": "2026-07-30",
-    "prevPct": 5.5,
+    "prevPct": 4.7,
     "sub": {
       "qib": 0,
       "hni": 0,
       "retail": 0,
-      "total": 12.15,
+      "total": 12.24,
       "day": 3
     },
     "upd": 0,
@@ -622,8 +622,8 @@
     "actualList": null,
     "readings": {
       "investorgain": {
-        "gmp": 8,
-        "pct": 10.5
+        "gmp": 6,
+        "pct": 7.8
       }
     }
   },
