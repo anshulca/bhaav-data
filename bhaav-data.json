@@ -139,8 +139,8 @@
     "hasAnchor": true,
     "readings": {
       "investorgain": {
-        "gmp": 0,
-        "pct": 0
+        "gmp": 5,
+        "pct": 5.2
       }
     }
   },
@@ -159,7 +159,7 @@
     "openISO": "2026-07-30",
     "closeISO": "2026-08-03",
     "listISO": "2026-08-06",
-    "prevPct": 24.2,
+    "prevPct": 23.5,
     "sub": {
       "qib": 0,
       "hni": 0,
@@ -175,8 +175,8 @@
     "hasAnchor": true,
     "readings": {
       "investorgain": {
-        "gmp": 100,
-        "pct": 23.5
+        "gmp": 105,
+        "pct": 24.7
       }
     }
   },
@@ -211,8 +211,8 @@
     "hasAnchor": true,
     "readings": {
       "investorgain": {
-        "gmp": 0,
-        "pct": 0
+        "gmp": 22,
+        "pct": 9.8
       }
     }
   },
@@ -327,7 +327,7 @@
   {
     "name": "Poojaa Precision Engg.",
     "type": "SME",
-    "status": "UPCOMING",
+    "status": "OPEN",
     "band": [
       301,
       301
@@ -344,8 +344,8 @@
       "qib": 0,
       "hni": 0,
       "retail": 0,
-      "total": 0,
-      "day": 0
+      "total": 4.18,
+      "day": 1
     },
     "upd": 0,
     "new": false,
@@ -355,8 +355,8 @@
     "hasAnchor": true,
     "readings": {
       "investorgain": {
-        "gmp": 260,
-        "pct": 86.4
+        "gmp": 285,
+        "pct": 94.7
       }
     }
   },
@@ -380,8 +380,8 @@
       "qib": 0,
       "hni": 0,
       "retail": 0,
-      "total": 0.04,
-      "day": 1
+      "total": 0.16,
+      "day": 2
     },
     "upd": 0,
     "new": false,
@@ -416,8 +416,8 @@
       "qib": 0,
       "hni": 0,
       "retail": 0,
-      "total": 0.25,
-      "day": 1
+      "total": 0.36,
+      "day": 2
     },
     "upd": 0,
     "new": false,
@@ -452,7 +452,7 @@
       "qib": 0,
       "hni": 0,
       "retail": 0,
-      "total": 0.96,
+      "total": 1.1,
       "day": 3
     },
     "upd": 0,
@@ -471,7 +471,7 @@
   {
     "name": "Lohia Corp",
     "type": "MAINBOARD",
-    "status": "OPEN",
+    "status": "CLOSED",
     "band": [
       425,
       425
@@ -499,15 +499,15 @@
     "hasAnchor": true,
     "readings": {
       "investorgain": {
-        "gmp": 12,
-        "pct": 2.7
+        "gmp": 20,
+        "pct": 4.6
       }
     }
   },
   {
     "name": "Indo-MIM",
     "type": "MAINBOARD",
-    "status": "OPEN",
+    "status": "CLOSED",
     "band": [
       485,
       485
@@ -535,15 +535,15 @@
     "hasAnchor": true,
     "readings": {
       "investorgain": {
-        "gmp": 190,
-        "pct": 39.2
+        "gmp": 192,
+        "pct": 39.6
       }
     }
   },
   {
     "name": "Xtranet Technologies",
     "type": "MAINBOARD",
-    "status": "OPEN",
+    "status": "CLOSED",
     "band": [
       127,
       127
@@ -555,7 +555,7 @@
     "openISO": "2026-07-23",
     "closeISO": "2026-07-27",
     "listISO": "2026-07-30",
-    "prevPct": 5.5,
+    "prevPct": 6.1,
     "sub": {
       "qib": 0,
       "hni": 0,
@@ -572,7 +572,7 @@
     "readings": {
       "investorgain": {
         "gmp": 8,
-        "pct": 6.1
+        "pct": 6.3
       }
     }
   },
@@ -651,7 +651,7 @@
   {
     "name": "Metalic Technoforge",
     "type": "SME",
-    "status": "CLOSED",
+    "status": "LISTED",
     "band": [
       77,
       77
@@ -682,7 +682,8 @@
         "gmp": 6,
         "pct": 7.8
       }
-    }
+    },
+    "lastGmpPct": 7.8
   },
   {
     "name": "Gulf Lloyds",
