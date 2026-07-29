@@ -194,7 +194,7 @@
     "openISO": "2026-07-30",
     "closeISO": "2026-08-03",
     "listISO": "2026-08-06",
-    "prevPct": 5.8,
+    "prevPct": 7.6,
     "sub": {
       "qib": 0,
       "hni": 0,
@@ -254,7 +254,7 @@
   {
     "name": "H.R. Hygiene Products",
     "type": "SME",
-    "status": "UPCOMING",
+    "status": "OPEN",
     "band": [
       88,
       88
@@ -272,7 +272,7 @@
       "hni": 0,
       "retail": 0,
       "total": 0,
-      "day": 0
+      "day": 1
     },
     "upd": 0,
     "new": false,
@@ -290,7 +290,7 @@
   {
     "name": "Manipal Health Enterprises",
     "type": "MAINBOARD",
-    "status": "UPCOMING",
+    "status": "OPEN",
     "band": [
       590,
       590
@@ -302,13 +302,13 @@
     "openISO": "2026-07-29",
     "closeISO": "2026-07-31",
     "listISO": "2026-08-05",
-    "prevPct": 1.4,
+    "prevPct": 1.7,
     "sub": {
       "qib": 0,
       "hni": 0,
       "retail": 0,
       "total": 0,
-      "day": 0
+      "day": 1
     },
     "upd": 0,
     "new": false,
@@ -344,7 +344,7 @@
       "hni": 0,
       "retail": 0,
       "total": 8.53,
-      "day": 1
+      "day": 2
     },
     "upd": 0,
     "new": false,
@@ -380,7 +380,7 @@
       "hni": 0,
       "retail": 0,
       "total": 0.39,
-      "day": 2
+      "day": 3
     },
     "upd": 0,
     "new": false,
@@ -416,7 +416,7 @@
       "hni": 0,
       "retail": 0,
       "total": 0.44,
-      "day": 2
+      "day": 3
     },
     "upd": 0,
     "new": false,
@@ -434,7 +434,7 @@
   {
     "name": "Silverstorm Parks & Resorts",
     "type": "SME",
-    "status": "OPEN",
+    "status": "CLOSED",
     "band": [
       133,
       133
@@ -482,7 +482,7 @@
     "openISO": "2026-07-23",
     "closeISO": "2026-07-27",
     "listISO": "2026-07-30",
-    "prevPct": 4,
+    "prevPct": 3.9,
     "sub": {
       "qib": 0,
       "hni": 0,
@@ -518,7 +518,7 @@
     "openISO": "2026-07-23",
     "closeISO": "2026-07-27",
     "listISO": "2026-07-30",
-    "prevPct": 37.5,
+    "prevPct": 39.2,
     "sub": {
       "qib": 0,
       "hni": 0,
@@ -554,7 +554,7 @@
     "openISO": "2026-07-23",
     "closeISO": "2026-07-27",
     "listISO": "2026-07-30",
-    "prevPct": 6.7,
+    "prevPct": 9.8,
     "sub": {
       "qib": 0,
       "hni": 0,
@@ -578,7 +578,7 @@
   {
     "name": "Shree Balaji Mala",
     "type": "SME",
-    "status": "CLOSED",
+    "status": "LISTED",
     "band": [
       70,
       70
@@ -590,7 +590,7 @@
     "openISO": "2026-07-22",
     "closeISO": "2026-07-24",
     "listISO": "2026-07-29",
-    "prevPct": 21.4,
+    "prevPct": 78.6,
     "sub": {
       "qib": 0,
       "hni": 0,
@@ -609,7 +609,8 @@
         "gmp": 55,
         "pct": 78.6
       }
-    }
+    },
+    "lastGmpPct": 78.6
   },
   {
     "name": "Cube Highways Trust InvIT",
