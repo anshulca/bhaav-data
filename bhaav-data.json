@@ -14,7 +14,7 @@
     "openISO": "2026-08-05",
     "closeISO": "2026-08-07",
     "listISO": "2026-08-12",
-    "prevPct": 0,
+    "prevPct": 24.5,
     "sub": {
       "qib": 0,
       "hni": 0,
@@ -59,7 +59,7 @@
       "day": 0
     },
     "upd": 0,
-    "new": true,
+    "new": false,
     "actualList": null,
     "issueSize": "₹23.71 Cr",
     "infoUrl": "https://www.investorgain.com/gmp/aegeus-technologies-ipo/2089/",
@@ -86,7 +86,7 @@
     "openISO": "2026-08-03",
     "closeISO": "2026-08-05",
     "listISO": "2026-08-10",
-    "prevPct": 18.52,
+    "prevPct": 18.5,
     "sub": {
       "qib": 0,
       "hni": 0,
@@ -95,15 +95,15 @@
       "day": 0
     },
     "upd": 0,
-    "new": true,
+    "new": false,
     "actualList": null,
     "issueSize": "₹177.81 Cr",
     "infoUrl": "https://www.investorgain.com/gmp/anawil-wire-engieering-ipo/1895/",
     "hasAnchor": true,
     "readings": {
       "investorgain": {
-        "gmp": 50,
-        "pct": 18.5
+        "gmp": 60,
+        "pct": 22.2
       }
     }
   },
@@ -246,8 +246,8 @@
     "hasAnchor": true,
     "readings": {
       "investorgain": {
-        "gmp": 8,
-        "pct": 8.3
+        "gmp": 12,
+        "pct": 12.4
       }
     }
   },
@@ -343,7 +343,7 @@
       "qib": 0,
       "hni": 0,
       "retail": 0,
-      "total": 1.18,
+      "total": 1.43,
       "day": 1
     },
     "upd": 0,
@@ -374,12 +374,12 @@
     "openISO": "2026-07-29",
     "closeISO": "2026-07-31",
     "listISO": "2026-08-05",
-    "prevPct": 1.7,
+    "prevPct": 1.5,
     "sub": {
       "qib": 0,
       "hni": 0,
       "retail": 0,
-      "total": 0.14,
+      "total": 0.15,
       "day": 1
     },
     "upd": 0,
@@ -410,12 +410,12 @@
     "openISO": "2026-07-28",
     "closeISO": "2026-07-30",
     "listISO": "2026-08-04",
-    "prevPct": 99.7,
+    "prevPct": 91.4,
     "sub": {
       "qib": 0,
       "hni": 0,
       "retail": 0,
-      "total": 51.15,
+      "total": 63.4,
       "day": 2
     },
     "upd": 0,
@@ -451,7 +451,7 @@
       "qib": 0,
       "hni": 0,
       "retail": 0,
-      "total": 1.43,
+      "total": 1.53,
       "day": 3
     },
     "upd": 0,
@@ -482,12 +482,12 @@
     "openISO": "2026-07-27",
     "closeISO": "2026-07-29",
     "listISO": "2026-08-03",
-    "prevPct": 8.4,
+    "prevPct": 1.1,
     "sub": {
       "qib": 0,
       "hni": 0,
       "retail": 0,
-      "total": 1.48,
+      "total": 1.55,
       "day": 3
     },
     "upd": 0,
@@ -554,7 +554,7 @@
     "openISO": "2026-07-23",
     "closeISO": "2026-07-27",
     "listISO": "2026-07-30",
-    "prevPct": 3.9,
+    "prevPct": 4.6,
     "sub": {
       "qib": 0,
       "hni": 0,
@@ -570,8 +570,8 @@
     "hasAnchor": true,
     "readings": {
       "investorgain": {
-        "gmp": 20,
-        "pct": 4.6
+        "gmp": 18,
+        "pct": 4.2
       }
     }
   },
@@ -590,7 +590,7 @@
     "openISO": "2026-07-23",
     "closeISO": "2026-07-27",
     "listISO": "2026-07-30",
-    "prevPct": 9.8,
+    "prevPct": 9.1,
     "sub": {
       "qib": 0,
       "hni": 0,
@@ -606,8 +606,8 @@
     "hasAnchor": true,
     "readings": {
       "investorgain": {
-        "gmp": 12,
-        "pct": 9.1
+        "gmp": 15,
+        "pct": 11.4
       }
     }
   },
@@ -626,7 +626,7 @@
     "openISO": "2026-07-23",
     "closeISO": "2026-07-27",
     "listISO": "2026-07-30",
-    "prevPct": 39.2,
+    "prevPct": 35.7,
     "sub": {
       "qib": 0,
       "hni": 0,
@@ -642,8 +642,8 @@
     "hasAnchor": true,
     "readings": {
       "investorgain": {
-        "gmp": 173,
-        "pct": 35.7
+        "gmp": 180,
+        "pct": 37.1
       }
     }
   },
@@ -698,7 +698,7 @@
     "openISO": "2026-07-22",
     "closeISO": "2026-07-24",
     "listISO": "2026-07-29",
-    "prevPct": 78.6,
+    "prevPct": 80,
     "sub": {
       "qib": 0,
       "hni": 0,
