@@ -4,10 +4,10 @@
     "type": "MAINBOARD",
     "status": "UPCOMING",
     "band": [
-      0,
-      0
+      53,
+      53
     ],
-    "lot": 0,
+    "lot": 281,
     "open": "5 Aug",
     "close": "7 Aug",
     "list": "12 Aug",
@@ -25,13 +25,85 @@
     "upd": 0,
     "new": false,
     "actualList": null,
-    "issueSize": null,
+    "issueSize": "₹425.87 Cr",
     "infoUrl": "https://www.investorgain.com/gmp/ardee-industries-ipo/2123/",
+    "hasAnchor": true,
+    "readings": {
+      "investorgain": {
+        "gmp": 13,
+        "pct": 24.5
+      }
+    }
+  },
+  {
+    "name": "Aegeus Technologies",
+    "type": "SME",
+    "status": "UPCOMING",
+    "band": [
+      105,
+      105
+    ],
+    "lot": 1200,
+    "open": "4 Aug",
+    "close": "6 Aug",
+    "list": "11 Aug",
+    "openISO": "2026-08-04",
+    "closeISO": "2026-08-06",
+    "listISO": "2026-08-11",
+    "prevPct": 0,
+    "sub": {
+      "qib": 0,
+      "hni": 0,
+      "retail": 0,
+      "total": 0,
+      "day": 0
+    },
+    "upd": 0,
+    "new": true,
+    "actualList": null,
+    "issueSize": "₹23.71 Cr",
+    "infoUrl": "https://www.investorgain.com/gmp/aegeus-technologies-ipo/2089/",
     "hasAnchor": true,
     "readings": {
       "investorgain": {
         "gmp": 0,
         "pct": 0
+      }
+    }
+  },
+  {
+    "name": "Anawil Wire & Engineering",
+    "type": "SME",
+    "status": "UPCOMING",
+    "band": [
+      270,
+      270
+    ],
+    "lot": 400,
+    "open": "3 Aug",
+    "close": "5 Aug",
+    "list": "10 Aug",
+    "openISO": "2026-08-03",
+    "closeISO": "2026-08-05",
+    "listISO": "2026-08-10",
+    "prevPct": 18.52,
+    "sub": {
+      "qib": 0,
+      "hni": 0,
+      "retail": 0,
+      "total": 0,
+      "day": 0
+    },
+    "upd": 0,
+    "new": true,
+    "actualList": null,
+    "issueSize": "₹177.81 Cr",
+    "infoUrl": "https://www.investorgain.com/gmp/anawil-wire-engieering-ipo/1895/",
+    "hasAnchor": true,
+    "readings": {
+      "investorgain": {
+        "gmp": 50,
+        "pct": 18.5
       }
     }
   },
@@ -104,6 +176,42 @@
       "investorgain": {
         "gmp": 22,
         "pct": 16.9
+      }
+    }
+  },
+  {
+    "name": "Oneindig Technologies",
+    "type": "SME",
+    "status": "UPCOMING",
+    "band": [
+      96,
+      96
+    ],
+    "lot": 1200,
+    "open": "30 Jul",
+    "close": "3 Aug",
+    "list": "6 Aug",
+    "openISO": "2026-07-30",
+    "closeISO": "2026-08-03",
+    "listISO": "2026-08-06",
+    "prevPct": 0,
+    "sub": {
+      "qib": 0,
+      "hni": 0,
+      "retail": 0,
+      "total": 0,
+      "day": 0
+    },
+    "upd": 0,
+    "new": false,
+    "actualList": null,
+    "issueSize": "₹27.65 Cr",
+    "infoUrl": "https://www.investorgain.com/gmp/oneindig-technologies-ipo/1916/",
+    "hasAnchor": true,
+    "readings": {
+      "investorgain": {
+        "gmp": 0,
+        "pct": 0
       }
     }
   },
@@ -216,42 +324,6 @@
     }
   },
   {
-    "name": "Oneindig Technologies",
-    "type": "SME",
-    "status": "UPCOMING",
-    "band": [
-      96,
-      96
-    ],
-    "lot": 1200,
-    "open": "30 Jul",
-    "close": "3 Aug",
-    "list": "6 Aug",
-    "openISO": "2026-07-30",
-    "closeISO": "2026-08-03",
-    "listISO": "2026-08-06",
-    "prevPct": 0,
-    "sub": {
-      "qib": 0,
-      "hni": 0,
-      "retail": 0,
-      "total": 0,
-      "day": 0
-    },
-    "upd": 0,
-    "new": false,
-    "actualList": null,
-    "issueSize": "₹27.65 Cr",
-    "infoUrl": "https://www.investorgain.com/gmp/oneindig-technologies-ipo/1916/",
-    "hasAnchor": true,
-    "readings": {
-      "investorgain": {
-        "gmp": 0,
-        "pct": 0
-      }
-    }
-  },
-  {
     "name": "H.R. Hygiene Products",
     "type": "SME",
     "status": "OPEN",
@@ -271,7 +343,7 @@
       "qib": 0,
       "hni": 0,
       "retail": 0,
-      "total": 0,
+      "total": 1.18,
       "day": 1
     },
     "upd": 0,
@@ -307,7 +379,7 @@
       "qib": 0,
       "hni": 0,
       "retail": 0,
-      "total": 0,
+      "total": 0.14,
       "day": 1
     },
     "upd": 0,
@@ -318,8 +390,8 @@
     "hasAnchor": true,
     "readings": {
       "investorgain": {
-        "gmp": 10,
-        "pct": 1.7
+        "gmp": 9,
+        "pct": 1.5
       }
     }
   },
@@ -343,7 +415,7 @@
       "qib": 0,
       "hni": 0,
       "retail": 0,
-      "total": 8.53,
+      "total": 51.15,
       "day": 2
     },
     "upd": 0,
@@ -354,8 +426,8 @@
     "hasAnchor": true,
     "readings": {
       "investorgain": {
-        "gmp": 300,
-        "pct": 99.7
+        "gmp": 275,
+        "pct": 91.4
       }
     }
   },
@@ -379,7 +451,7 @@
       "qib": 0,
       "hni": 0,
       "retail": 0,
-      "total": 0.39,
+      "total": 1.43,
       "day": 3
     },
     "upd": 0,
@@ -415,7 +487,7 @@
       "qib": 0,
       "hni": 0,
       "retail": 0,
-      "total": 0.44,
+      "total": 1.48,
       "day": 3
     },
     "upd": 0,
@@ -426,8 +498,8 @@
     "hasAnchor": false,
     "readings": {
       "investorgain": {
-        "gmp": 8,
-        "pct": 8.4
+        "gmp": 1,
+        "pct": 1.1
       }
     }
   },
@@ -498,44 +570,8 @@
     "hasAnchor": true,
     "readings": {
       "investorgain": {
-        "gmp": 17,
-        "pct": 3.9
-      }
-    }
-  },
-  {
-    "name": "Indo-MIM",
-    "type": "MAINBOARD",
-    "status": "CLOSED",
-    "band": [
-      485,
-      485
-    ],
-    "lot": 30,
-    "open": "23 Jul",
-    "close": "27 Jul",
-    "list": "30 Jul",
-    "openISO": "2026-07-23",
-    "closeISO": "2026-07-27",
-    "listISO": "2026-07-30",
-    "prevPct": 39.2,
-    "sub": {
-      "qib": 0,
-      "hni": 0,
-      "retail": 0,
-      "total": 72.37,
-      "day": 3
-    },
-    "upd": 0,
-    "new": false,
-    "actualList": null,
-    "issueSize": "₹3811.21 Cr",
-    "infoUrl": "https://www.investorgain.com/gmp/indo-mim-ipo/1594/",
-    "hasAnchor": true,
-    "readings": {
-      "investorgain": {
-        "gmp": 190,
-        "pct": 39.2
+        "gmp": 20,
+        "pct": 4.6
       }
     }
   },
@@ -570,47 +606,46 @@
     "hasAnchor": true,
     "readings": {
       "investorgain": {
-        "gmp": 13,
-        "pct": 9.8
+        "gmp": 12,
+        "pct": 9.1
       }
     }
   },
   {
-    "name": "Shree Balaji Mala",
-    "type": "SME",
-    "status": "LISTED",
+    "name": "Indo-MIM",
+    "type": "MAINBOARD",
+    "status": "CLOSED",
     "band": [
-      70,
-      70
+      485,
+      485
     ],
-    "lot": 2000,
-    "open": "22 Jul",
-    "close": "24 Jul",
-    "list": "29 Jul",
-    "openISO": "2026-07-22",
-    "closeISO": "2026-07-24",
-    "listISO": "2026-07-29",
-    "prevPct": 78.6,
+    "lot": 30,
+    "open": "23 Jul",
+    "close": "27 Jul",
+    "list": "30 Jul",
+    "openISO": "2026-07-23",
+    "closeISO": "2026-07-27",
+    "listISO": "2026-07-30",
+    "prevPct": 39.2,
     "sub": {
       "qib": 0,
       "hni": 0,
       "retail": 0,
-      "total": 200.34,
+      "total": 72.37,
       "day": 3
     },
     "upd": 0,
     "new": false,
     "actualList": null,
-    "issueSize": "₹18.90 Cr",
-    "infoUrl": "https://www.investorgain.com/gmp/shree-balaji-mala-ipo/1967/",
+    "issueSize": "₹3811.21 Cr",
+    "infoUrl": "https://www.investorgain.com/gmp/indo-mim-ipo/1594/",
     "hasAnchor": true,
     "readings": {
       "investorgain": {
-        "gmp": 55,
-        "pct": 78.6
+        "gmp": 173,
+        "pct": 35.7
       }
-    },
-    "lastGmpPct": 78.6
+    }
   },
   {
     "name": "Cube Highways Trust InvIT",
@@ -647,6 +682,43 @@
         "pct": 1.1
       }
     }
+  },
+  {
+    "name": "Shree Balaji Mala",
+    "type": "SME",
+    "status": "LISTED",
+    "band": [
+      70,
+      70
+    ],
+    "lot": 2000,
+    "open": "22 Jul",
+    "close": "24 Jul",
+    "list": "29 Jul",
+    "openISO": "2026-07-22",
+    "closeISO": "2026-07-24",
+    "listISO": "2026-07-29",
+    "prevPct": 78.6,
+    "sub": {
+      "qib": 0,
+      "hni": 0,
+      "retail": 0,
+      "total": 200.34,
+      "day": 3
+    },
+    "upd": 0,
+    "new": false,
+    "actualList": null,
+    "issueSize": "₹18.90 Cr",
+    "infoUrl": "https://www.investorgain.com/gmp/shree-balaji-mala-ipo/1967/",
+    "hasAnchor": true,
+    "readings": {
+      "investorgain": {
+        "gmp": 56,
+        "pct": 80
+      }
+    },
+    "lastGmpPct": 80
   },
   {
     "name": "Metalic Technoforge",
@@ -797,43 +869,6 @@
     "lastGmpPct": 1.3
   },
   {
-    "name": "SBI Funds Management",
-    "type": "MAINBOARD",
-    "status": "LISTED",
-    "band": [
-      574,
-      574
-    ],
-    "lot": 26,
-    "open": "14 Jul",
-    "close": "16 Jul",
-    "list": "21 Jul",
-    "openISO": "2026-07-14",
-    "closeISO": "2026-07-16",
-    "listISO": "2026-07-21",
-    "prevPct": 11.3,
-    "sub": {
-      "qib": 0,
-      "hni": 0,
-      "retail": 0,
-      "total": 41.73,
-      "day": 3
-    },
-    "upd": 0,
-    "new": false,
-    "actualList": null,
-    "issueSize": "₹9812.91 Cr",
-    "infoUrl": "https://www.investorgain.com/gmp/sbi-funds-management-ipo/2210/",
-    "hasAnchor": true,
-    "readings": {
-      "investorgain": {
-        "gmp": 65,
-        "pct": 11.3
-      }
-    },
-    "lastGmpPct": 11.3
-  },
-  {
     "name": "Millworks Technologies",
     "type": "SME",
     "status": "LISTED",
@@ -869,6 +904,43 @@
       }
     },
     "lastGmpPct": 119.3
+  },
+  {
+    "name": "SBI Funds Management",
+    "type": "MAINBOARD",
+    "status": "LISTED",
+    "band": [
+      574,
+      574
+    ],
+    "lot": 26,
+    "open": "14 Jul",
+    "close": "16 Jul",
+    "list": "21 Jul",
+    "openISO": "2026-07-14",
+    "closeISO": "2026-07-16",
+    "listISO": "2026-07-21",
+    "prevPct": 11.3,
+    "sub": {
+      "qib": 0,
+      "hni": 0,
+      "retail": 0,
+      "total": 41.73,
+      "day": 3
+    },
+    "upd": 0,
+    "new": false,
+    "actualList": null,
+    "issueSize": "₹9812.91 Cr",
+    "infoUrl": "https://www.investorgain.com/gmp/sbi-funds-management-ipo/2210/",
+    "hasAnchor": true,
+    "readings": {
+      "investorgain": {
+        "gmp": 65,
+        "pct": 11.3
+      }
+    },
+    "lastGmpPct": 11.3
   },
   {
     "name": "Alpine Texworld",
@@ -908,43 +980,6 @@
     "lastGmpPct": 0.9
   },
   {
-    "name": "Devson Catalyst",
-    "type": "SME",
-    "status": "LISTED",
-    "band": [
-      118,
-      118
-    ],
-    "lot": 1200,
-    "open": "9 Jul",
-    "close": "13 Jul",
-    "list": "16 Jul",
-    "openISO": "2026-07-09",
-    "closeISO": "2026-07-13",
-    "listISO": "2026-07-16",
-    "prevPct": 41.5,
-    "sub": {
-      "qib": 0,
-      "hni": 0,
-      "retail": 0,
-      "total": 220.35,
-      "day": 3
-    },
-    "upd": 0,
-    "new": false,
-    "actualList": null,
-    "issueSize": "₹42.34 Cr",
-    "infoUrl": "https://www.investorgain.com/gmp/devson-catalyst-ipo/2204/",
-    "hasAnchor": true,
-    "readings": {
-      "investorgain": {
-        "gmp": 49,
-        "pct": 41.5
-      }
-    },
-    "lastGmpPct": 41.5
-  },
-  {
     "name": "Laser Power & Infra",
     "type": "MAINBOARD",
     "status": "LISTED",
@@ -982,6 +1017,43 @@
     "lastGmpPct": 18.2
   },
   {
+    "name": "Devson Catalyst",
+    "type": "SME",
+    "status": "LISTED",
+    "band": [
+      118,
+      118
+    ],
+    "lot": 1200,
+    "open": "9 Jul",
+    "close": "13 Jul",
+    "list": "16 Jul",
+    "openISO": "2026-07-09",
+    "closeISO": "2026-07-13",
+    "listISO": "2026-07-16",
+    "prevPct": 41.5,
+    "sub": {
+      "qib": 0,
+      "hni": 0,
+      "retail": 0,
+      "total": 220.35,
+      "day": 3
+    },
+    "upd": 0,
+    "new": false,
+    "actualList": null,
+    "issueSize": "₹42.34 Cr",
+    "infoUrl": "https://www.investorgain.com/gmp/devson-catalyst-ipo/2204/",
+    "hasAnchor": true,
+    "readings": {
+      "investorgain": {
+        "gmp": 49,
+        "pct": 41.5
+      }
+    },
+    "lastGmpPct": 41.5
+  },
+  {
     "name": "Happy Steels",
     "type": "SME",
     "status": "LISTED",
@@ -1017,79 +1089,5 @@
       }
     },
     "lastGmpPct": 15.2
-  },
-  {
-    "name": "Kusumgar",
-    "type": "MAINBOARD",
-    "status": "LISTED",
-    "band": [
-      419,
-      419
-    ],
-    "lot": 35,
-    "open": "8 Jul",
-    "close": "10 Jul",
-    "list": "15 Jul",
-    "openISO": "2026-07-08",
-    "closeISO": "2026-07-10",
-    "listISO": "2026-07-15",
-    "prevPct": 38.4,
-    "sub": {
-      "qib": 0,
-      "hni": 0,
-      "retail": 0,
-      "total": 135.8,
-      "day": 3
-    },
-    "upd": 0,
-    "new": false,
-    "actualList": null,
-    "issueSize": "₹650.36 Cr",
-    "infoUrl": "https://www.investorgain.com/gmp/kusumgar-ipo/1595/",
-    "hasAnchor": true,
-    "readings": {
-      "investorgain": {
-        "gmp": 161,
-        "pct": 38.4
-      }
-    },
-    "lastGmpPct": 38.4
-  },
-  {
-    "name": "IC Electricals",
-    "type": "SME",
-    "status": "LISTED",
-    "band": [
-      99,
-      99
-    ],
-    "lot": 1200,
-    "open": "3 Jul",
-    "close": "7 Jul",
-    "list": "10 Jul",
-    "openISO": "2026-07-03",
-    "closeISO": "2026-07-07",
-    "listISO": "2026-07-10",
-    "prevPct": 47.5,
-    "sub": {
-      "qib": 0,
-      "hni": 0,
-      "retail": 0,
-      "total": 295.08,
-      "day": 3
-    },
-    "upd": 0,
-    "new": false,
-    "actualList": null,
-    "issueSize": "₹47.91 Cr",
-    "infoUrl": "https://www.investorgain.com/gmp/ic-electricals-ipo/1596/",
-    "hasAnchor": true,
-    "readings": {
-      "investorgain": {
-        "gmp": 47,
-        "pct": 47.5
-      }
-    },
-    "lastGmpPct": 47.5
   }
 ]
