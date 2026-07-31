@@ -4,6 +4,11 @@ on:
   schedule:
     - cron: '*/30 * * * *'
   workflow_dispatch:
+    inputs:
+      test_telegram:
+        description: 'Send a Telegram test message now (regardless of IPO dates)'
+        type: boolean
+        default: false
 
 permissions:
   contents: write
@@ -21,14 +26,11 @@ jobs:
           node-version: '22'
 
       - name: Fetch fresh IPO data
+        env:
+          TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
+          TELEGRAM_CHAT_ID: ${{ secrets.TELEGRAM_CHAT_ID }}
+          TG_TEST: ${{ (github.event_name == 'workflow_dispatch' && inputs.test_telegram) && '1' || '0' }}
         run: node fetch-ipo.js
-
-      - name: List files (debug)
-        run: |
-          echo "----- files in this folder -----"
-          ls -la
-          echo "----- looking for bhaav-data.json -----"
-          test -f bhaav-data.json && echo "FOUND bhaav-data.json" || echo "NOT FOUND"
 
       - name: Commit updated data
         run: |
