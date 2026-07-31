@@ -23,7 +23,7 @@
       "day": 0
     },
     "upd": 0,
-    "new": true,
+    "new": false,
     "actualList": null,
     "issueSize": "-",
     "infoUrl": "https://www.investorgain.com/gmp/technocraft-ventures-ipo/1854/",
@@ -54,7 +54,7 @@
       "day": 0
     },
     "upd": 0,
-    "new": true,
+    "new": false,
     "actualList": null,
     "issueSize": "-",
     "infoUrl": "https://www.investorgain.com/gmp/optimystix-entertainment-ipo/2012/",
@@ -92,8 +92,8 @@
     "hasAnchor": true,
     "readings": {
       "investorgain": {
-        "gmp": 7,
-        "pct": 7.5
+        "gmp": 22,
+        "pct": 23.4
       }
     }
   },
@@ -112,7 +112,7 @@
     "openISO": "2026-08-05",
     "closeISO": "2026-08-07",
     "listISO": "2026-08-12",
-    "prevPct": 24.5,
+    "prevPct": 13.2,
     "sub": {
       "qib": 0,
       "hni": 0,
@@ -184,7 +184,7 @@
     "openISO": "2026-08-03",
     "closeISO": "2026-08-05",
     "listISO": "2026-08-10",
-    "prevPct": 24.1,
+    "prevPct": 22.2,
     "sub": {
       "qib": 0,
       "hni": 0,
@@ -364,7 +364,7 @@
     "openISO": "2026-07-30",
     "closeISO": "2026-08-03",
     "listISO": "2026-08-06",
-    "prevPct": 2.4,
+    "prevPct": 2.2,
     "sub": {
       "qib": 0,
       "hni": 0,
@@ -380,8 +380,8 @@
     "hasAnchor": true,
     "readings": {
       "investorgain": {
-        "gmp": 5,
-        "pct": 2.2
+        "gmp": 4,
+        "pct": 1.8
       }
     }
   },
@@ -436,7 +436,7 @@
     "openISO": "2026-07-29",
     "closeISO": "2026-07-31",
     "listISO": "2026-08-05",
-    "prevPct": 1.1,
+    "prevPct": 2.3,
     "sub": {
       "qib": 0,
       "hni": 0,
@@ -472,7 +472,7 @@
     "openISO": "2026-07-29",
     "closeISO": "2026-07-31",
     "listISO": "2026-08-05",
-    "prevPct": 0.6,
+    "prevPct": -2.5,
     "sub": {
       "qib": 0,
       "hni": 0,
@@ -508,7 +508,7 @@
     "openISO": "2026-07-28",
     "closeISO": "2026-07-30",
     "listISO": "2026-08-04",
-    "prevPct": 74.8,
+    "prevPct": 73.8,
     "sub": {
       "qib": 0,
       "hni": 0,
