@@ -1,10 +1,10 @@
 /* ============================================================
-   भाव (Bhaav) — automatic data fetcher
+   भाव (Bhaav) - automatic data fetcher
    Runs on GitHub Actions (free) every 30 minutes. Calls InvestorGain's
    own JSON data endpoint (the same one their website frontend uses),
    transforms it into bhaav.html's format, and writes bhaav-data.json.
 
-   Runs on GitHub's servers, NOT on your Bluehost — so your business
+   Runs on GitHub's servers, NOT on your Bluehost - so your business
    sites carry zero risk. No API key. No HTML scraping.
    Built for CA Anshul Karwa.
    ============================================================ */
@@ -12,7 +12,7 @@
 const fs = require('fs');
 
 /* InvestorGain's data endpoint. The path segment 2026/2026-27 is the
-   financial year — update it each April (e.g. 2027/2027-28). */
+   financial year - update it each April (e.g. 2027/2027-28). */
 const FY_START = 2026;
 const FY_LABEL = '2026-27';
 const BASE = `https://webnodejs.investorgain.com/cloud/v2/report/data-read/331/1/7/${FY_START}/${FY_LABEL}/0/all`;
@@ -24,7 +24,7 @@ const SOURCE_WEIGHTS = { investorgain: 91 };
 function stripTags(s){ return String(s || '').replace(/<[^>]*>/g, '').replace(/&amp;/g,'&').replace(/&#8377;/g,'₹').trim(); }
 function num(s){ if(s==null) return null; const v=String(s).replace(/[^\d.\-]/g,''); return v===''||v==='--'?null:parseFloat(v); }
 function isoDate(s){ if(!s) return null; const d=new Date(s); return isNaN(d)?null:d.toISOString().slice(0,10); }
-function dispDate(iso){ if(!iso) return '—'; const d=new Date(iso+'T00:00:00'); if(isNaN(d)) return '—';
+function dispDate(iso){ if(!iso) return '-'; const d=new Date(iso+'T00:00:00'); if(isNaN(d)) return '-';
   return d.getDate()+' '+d.toLocaleString('en-US',{month:'short'}); }
 
 /* ---------- transform one API row into bhaav's shape ---------- */
@@ -46,7 +46,7 @@ function transform(row){
   const pctM = String(row['GMP']||'').match(/\(([^)]+)\)/);
   let gmpPct = pctM ? num(pctM[1]) : (row['~gmp_percent_calc'] ? num(row['~gmp_percent_calc']) : null);
 
-  // price band from "Price (₹)" — may be "163-172" or single
+  // price band from "Price (₹)" - may be "163-172" or single
   const priceRaw = stripTags(row['Price (₹)']||'');
   let lo=null, hi=null;
   if(priceRaw.includes('-')){ const [a,b]=priceRaw.split('-'); lo=num(a); hi=num(b); }
@@ -162,7 +162,7 @@ function weightedGmp(readings){
 
 /* ---------- main ---------- */
 async function main(){
-  // Try several endpoint variants — investorgain's data path can vary.
+  // Try several endpoint variants - investorgain's data path can vary.
   const now = Date.now();
   // Confirmed working endpoint (note: /cloud/v2/report/ and /1/7/).
   const candidates = [
@@ -272,9 +272,9 @@ async function maybeNotifyTelegram(out){
   const opening = out.filter(r=> r.openISO===today);
   if(!testMode && !closing.length && !opening.length){ console.log('Nothing closing/opening today for Telegram.'); return; }
 
-  let msg = "🔔 *Bhaav IPO reminder* — "+today+"\n\n";
+  let msg = "🔔 *Bhaav IPO reminder* - "+today+"\n\n";
   if(testMode && !closing.length && !opening.length){
-    msg += "_(test message — Telegram alerts are working. Real alerts will list IPOs opening/closing that day.)_\n\n";
+    msg += "_(test message - Telegram alerts are working. Real alerts will list IPOs opening/closing that day.)_\n\n";
   }
   if(closing.length){
     msg += "⏳ *Last day to apply today:*\n";
@@ -294,7 +294,7 @@ async function maybeNotifyTelegram(out){
     });
     msg += "\n";
   }
-  msg += "_GMP is unofficial — verify before applying._\n\n";
+  msg += "_GMP is unofficial - verify before applying._\n\n";
   msg += "Posted automatically by *Bhaav*\n";
   msg += "Made by [CA Anshul Karwa](https://www.linkedin.com/in/anshulkarwa/)";
 
