@@ -1,5 +1,41 @@
 [
   {
+    "name": "LAPL Automotive",
+    "type": "SME",
+    "status": "UPCOMING",
+    "band": [
+      94,
+      94
+    ],
+    "lot": 1200,
+    "open": "6 Aug",
+    "close": "10 Aug",
+    "list": "13 Aug",
+    "openISO": "2026-08-06",
+    "closeISO": "2026-08-10",
+    "listISO": "2026-08-13",
+    "prevPct": 7.45,
+    "sub": {
+      "qib": 0,
+      "hni": 0,
+      "retail": 0,
+      "total": 0,
+      "day": 0
+    },
+    "upd": 0,
+    "new": true,
+    "actualList": null,
+    "issueSize": "₹32.40 Cr",
+    "infoUrl": "https://www.investorgain.com/gmp/lapl-automotive-ipo/1713/",
+    "hasAnchor": true,
+    "readings": {
+      "investorgain": {
+        "gmp": 7,
+        "pct": 7.5
+      }
+    }
+  },
+  {
     "name": "Ardee Industries",
     "type": "MAINBOARD",
     "status": "UPCOMING",
@@ -102,15 +138,15 @@
     "hasAnchor": true,
     "readings": {
       "investorgain": {
-        "gmp": 70,
-        "pct": 25.9
+        "gmp": 65,
+        "pct": 24.1
       }
     }
   },
   {
     "name": "G.V. Electricals",
     "type": "SME",
-    "status": "UPCOMING",
+    "status": "OPEN",
     "band": [
       130,
       130
@@ -127,8 +163,8 @@
       "qib": 0,
       "hni": 0,
       "retail": 0,
-      "total": 0,
-      "day": 0
+      "total": 1.61,
+      "day": 1
     },
     "upd": 0,
     "new": false,
@@ -146,7 +182,7 @@
   {
     "name": "Fusion Klassroom Edutech",
     "type": "SME",
-    "status": "UPCOMING",
+    "status": "OPEN",
     "band": [
       159,
       159
@@ -163,8 +199,8 @@
       "qib": 0,
       "hni": 0,
       "retail": 0,
-      "total": 0,
-      "day": 0
+      "total": 0.44,
+      "day": 1
     },
     "upd": 0,
     "new": false,
@@ -174,8 +210,8 @@
     "hasAnchor": true,
     "readings": {
       "investorgain": {
-        "gmp": 9,
-        "pct": 5.7
+        "gmp": 7,
+        "pct": 4.4
       }
     }
   },
@@ -199,8 +235,8 @@
       "qib": 0,
       "hni": 0,
       "retail": 0,
-      "total": 0.42,
-      "day": 1
+      "total": 0.58,
+      "day": 2
     },
     "upd": 0,
     "new": false,
@@ -212,6 +248,42 @@
       "investorgain": {
         "gmp": 0,
         "pct": 0
+      }
+    }
+  },
+  {
+    "name": "Dhaval Packaging",
+    "type": "SME",
+    "status": "OPEN",
+    "band": [
+      97,
+      97
+    ],
+    "lot": 1200,
+    "open": "30 Jul",
+    "close": "3 Aug",
+    "list": "6 Aug",
+    "openISO": "2026-07-30",
+    "closeISO": "2026-08-03",
+    "listISO": "2026-08-06",
+    "prevPct": 15.5,
+    "sub": {
+      "qib": 0,
+      "hni": 0,
+      "retail": 0,
+      "total": 1.05,
+      "day": 2
+    },
+    "upd": 0,
+    "new": false,
+    "actualList": null,
+    "issueSize": "₹36.36 Cr",
+    "infoUrl": "https://www.investorgain.com/gmp/dhaval-packaging-ipo/2087/",
+    "hasAnchor": true,
+    "readings": {
+      "investorgain": {
+        "gmp": 12,
+        "pct": 12.4
       }
     }
   },
@@ -235,8 +307,8 @@
       "qib": 0,
       "hni": 0,
       "retail": 0,
-      "total": 0.38,
-      "day": 1
+      "total": 0.47,
+      "day": 2
     },
     "upd": 0,
     "new": false,
@@ -246,8 +318,8 @@
     "hasAnchor": true,
     "readings": {
       "investorgain": {
-        "gmp": 8,
-        "pct": 3.6
+        "gmp": 6,
+        "pct": 2.4
       }
     }
   },
@@ -271,8 +343,8 @@
       "qib": 0,
       "hni": 0,
       "retail": 0,
-      "total": 3.87,
-      "day": 1
+      "total": 8.34,
+      "day": 2
     },
     "upd": 0,
     "new": false,
@@ -282,80 +354,8 @@
     "hasAnchor": true,
     "readings": {
       "investorgain": {
-        "gmp": 125,
-        "pct": 29.4
-      }
-    }
-  },
-  {
-    "name": "Dhaval Packaging",
-    "type": "SME",
-    "status": "OPEN",
-    "band": [
-      97,
-      97
-    ],
-    "lot": 1200,
-    "open": "30 Jul",
-    "close": "3 Aug",
-    "list": "6 Aug",
-    "openISO": "2026-07-30",
-    "closeISO": "2026-08-03",
-    "listISO": "2026-08-06",
-    "prevPct": 13.4,
-    "sub": {
-      "qib": 0,
-      "hni": 0,
-      "retail": 0,
-      "total": 0.49,
-      "day": 1
-    },
-    "upd": 0,
-    "new": false,
-    "actualList": null,
-    "issueSize": "₹36.36 Cr",
-    "infoUrl": "https://www.investorgain.com/gmp/dhaval-packaging-ipo/2087/",
-    "hasAnchor": true,
-    "readings": {
-      "investorgain": {
-        "gmp": 15,
-        "pct": 15.5
-      }
-    }
-  },
-  {
-    "name": "H.R. Hygiene Products",
-    "type": "SME",
-    "status": "OPEN",
-    "band": [
-      88,
-      88
-    ],
-    "lot": 1600,
-    "open": "29 Jul",
-    "close": "31 Jul",
-    "list": "5 Aug",
-    "openISO": "2026-07-29",
-    "closeISO": "2026-07-31",
-    "listISO": "2026-08-05",
-    "prevPct": 2.3,
-    "sub": {
-      "qib": 0,
-      "hni": 0,
-      "retail": 0,
-      "total": 1.77,
-      "day": 2
-    },
-    "upd": 0,
-    "new": false,
-    "actualList": null,
-    "issueSize": "₹53.95 Cr",
-    "infoUrl": "https://www.investorgain.com/gmp/hr-hygiene-products-ipo/1972/",
-    "hasAnchor": true,
-    "readings": {
-      "investorgain": {
-        "gmp": 2,
-        "pct": 2.3
+        "gmp": 133,
+        "pct": 31.3
       }
     }
   },
@@ -379,8 +379,8 @@
       "qib": 0,
       "hni": 0,
       "retail": 0,
-      "total": 0.47,
-      "day": 2
+      "total": 1.03,
+      "day": 3
     },
     "upd": 0,
     "new": false,
@@ -390,15 +390,51 @@
     "hasAnchor": true,
     "readings": {
       "investorgain": {
-        "gmp": 6,
-        "pct": 1
+        "gmp": 3,
+        "pct": 0.6
+      }
+    }
+  },
+  {
+    "name": "H.R. Hygiene Products",
+    "type": "SME",
+    "status": "OPEN",
+    "band": [
+      88,
+      88
+    ],
+    "lot": 1600,
+    "open": "29 Jul",
+    "close": "31 Jul",
+    "list": "5 Aug",
+    "openISO": "2026-07-29",
+    "closeISO": "2026-07-31",
+    "listISO": "2026-08-05",
+    "prevPct": 2.3,
+    "sub": {
+      "qib": 0,
+      "hni": 0,
+      "retail": 0,
+      "total": 2.74,
+      "day": 3
+    },
+    "upd": 0,
+    "new": false,
+    "actualList": null,
+    "issueSize": "₹53.95 Cr",
+    "infoUrl": "https://www.investorgain.com/gmp/hr-hygiene-products-ipo/1972/",
+    "hasAnchor": true,
+    "readings": {
+      "investorgain": {
+        "gmp": 1,
+        "pct": 1.1
       }
     }
   },
   {
     "name": "Poojaa Precision Engg.",
     "type": "SME",
-    "status": "OPEN",
+    "status": "CLOSED",
     "band": [
       301,
       301
@@ -428,6 +464,42 @@
       "investorgain": {
         "gmp": 225,
         "pct": 74.8
+      }
+    }
+  },
+  {
+    "name": "Advance Technoforge",
+    "type": "SME",
+    "status": "CLOSED",
+    "band": [
+      95,
+      95
+    ],
+    "lot": 1200,
+    "open": "27 Jul",
+    "close": "29 Jul",
+    "list": "3 Aug",
+    "openISO": "2026-07-27",
+    "closeISO": "2026-07-29",
+    "listISO": "2026-08-03",
+    "prevPct": 5.3,
+    "sub": {
+      "qib": 0,
+      "hni": 0,
+      "retail": 0,
+      "total": 1.55,
+      "day": 3
+    },
+    "upd": 0,
+    "new": false,
+    "actualList": null,
+    "issueSize": "₹24.03 Cr",
+    "infoUrl": "https://www.investorgain.com/gmp/advance-technoforge-ipo/1714/",
+    "hasAnchor": false,
+    "readings": {
+      "investorgain": {
+        "gmp": 5,
+        "pct": 5.3
       }
     }
   },
@@ -468,45 +540,9 @@
     }
   },
   {
-    "name": "Advance Technoforge",
-    "type": "SME",
-    "status": "CLOSED",
-    "band": [
-      95,
-      95
-    ],
-    "lot": 1200,
-    "open": "27 Jul",
-    "close": "29 Jul",
-    "list": "3 Aug",
-    "openISO": "2026-07-27",
-    "closeISO": "2026-07-29",
-    "listISO": "2026-08-03",
-    "prevPct": 18.9,
-    "sub": {
-      "qib": 0,
-      "hni": 0,
-      "retail": 0,
-      "total": 1.55,
-      "day": 3
-    },
-    "upd": 0,
-    "new": false,
-    "actualList": null,
-    "issueSize": "₹24.03 Cr",
-    "infoUrl": "https://www.investorgain.com/gmp/advance-technoforge-ipo/1714/",
-    "hasAnchor": false,
-    "readings": {
-      "investorgain": {
-        "gmp": 5,
-        "pct": 5.3
-      }
-    }
-  },
-  {
     "name": "Silverstorm Parks & Resorts",
     "type": "SME",
-    "status": "CLOSED",
+    "status": "LISTED",
     "band": [
       133,
       133
@@ -518,7 +554,7 @@
     "openISO": "2026-07-24",
     "closeISO": "2026-07-28",
     "listISO": "2026-07-31",
-    "prevPct": 0,
+    "prevPct": 3.8,
     "sub": {
       "qib": 0,
       "hni": 0,
@@ -537,43 +573,45 @@
         "gmp": 5,
         "pct": 3.8
       }
-    }
+    },
+    "lastGmpPct": 3.8
   },
   {
-    "name": "Cube Highways Trust InvIT",
+    "name": "Indo-MIM",
     "type": "MAINBOARD",
-    "status": "CLOSED",
+    "status": "LISTED",
     "band": [
-      152,
-      152
+      485,
+      485
     ],
-    "lot": 95,
-    "open": "22 Jul",
-    "close": "24 Jul",
-    "list": "3 Aug",
-    "openISO": "2026-07-22",
-    "closeISO": "2026-07-24",
-    "listISO": "2026-08-03",
-    "prevPct": 1.1,
+    "lot": 30,
+    "open": "23 Jul",
+    "close": "27 Jul",
+    "list": "30 Jul",
+    "openISO": "2026-07-23",
+    "closeISO": "2026-07-27",
+    "listISO": "2026-07-30",
+    "prevPct": 37.9,
     "sub": {
       "qib": 0,
       "hni": 0,
       "retail": 0,
-      "total": 9.35,
+      "total": 72.37,
       "day": 3
     },
     "upd": 0,
     "new": false,
     "actualList": null,
-    "issueSize": "₹5000.00 Cr",
-    "infoUrl": "https://www.investorgain.com/gmp/cube-highways-trust-invit/2346/",
+    "issueSize": "₹3811.21 Cr",
+    "infoUrl": "https://www.investorgain.com/gmp/indo-mim-ipo/1594/",
     "hasAnchor": true,
     "readings": {
       "investorgain": {
-        "gmp": 2,
-        "pct": 1.1
+        "gmp": 184,
+        "pct": 37.9
       }
-    }
+    },
+    "lastGmpPct": 37.9
   },
   {
     "name": "Xtranet Technologies",
@@ -650,43 +688,6 @@
     "lastGmpPct": 4
   },
   {
-    "name": "Indo-MIM",
-    "type": "MAINBOARD",
-    "status": "LISTED",
-    "band": [
-      485,
-      485
-    ],
-    "lot": 30,
-    "open": "23 Jul",
-    "close": "27 Jul",
-    "list": "30 Jul",
-    "openISO": "2026-07-23",
-    "closeISO": "2026-07-27",
-    "listISO": "2026-07-30",
-    "prevPct": 37.9,
-    "sub": {
-      "qib": 0,
-      "hni": 0,
-      "retail": 0,
-      "total": 72.37,
-      "day": 3
-    },
-    "upd": 0,
-    "new": false,
-    "actualList": null,
-    "issueSize": "₹3811.21 Cr",
-    "infoUrl": "https://www.investorgain.com/gmp/indo-mim-ipo/1594/",
-    "hasAnchor": true,
-    "readings": {
-      "investorgain": {
-        "gmp": 184,
-        "pct": 37.9
-      }
-    },
-    "lastGmpPct": 37.9
-  },
-  {
     "name": "Shree Balaji Mala",
     "type": "SME",
     "status": "LISTED",
@@ -722,6 +723,43 @@
       }
     },
     "lastGmpPct": 80
+  },
+  {
+    "name": "Cube Highways Trust InvIT",
+    "type": "MAINBOARD",
+    "status": "LISTED",
+    "band": [
+      152,
+      152
+    ],
+    "lot": 95,
+    "open": "22 Jul",
+    "close": "24 Jul",
+    "list": "31 Jul",
+    "openISO": "2026-07-22",
+    "closeISO": "2026-07-24",
+    "listISO": "2026-07-31",
+    "prevPct": 1.1,
+    "sub": {
+      "qib": 0,
+      "hni": 0,
+      "retail": 0,
+      "total": 9.35,
+      "day": 3
+    },
+    "upd": 0,
+    "new": false,
+    "actualList": null,
+    "issueSize": "₹5000.00 Cr",
+    "infoUrl": "https://www.investorgain.com/gmp/cube-highways-trust-invit/2346/",
+    "hasAnchor": true,
+    "readings": {
+      "investorgain": {
+        "gmp": 2,
+        "pct": 1.1
+      }
+    },
+    "lastGmpPct": 1.1
   },
   {
     "name": "Metalic Technoforge",
@@ -872,41 +910,41 @@
     "lastGmpPct": 1.3
   },
   {
-    "name": "Alpine Texworld",
-    "type": "MAINBOARD",
+    "name": "Millworks Technologies",
+    "type": "SME",
     "status": "LISTED",
     "band": [
-      105,
-      105
+      331,
+      331
     ],
-    "lot": 142,
+    "lot": 400,
     "open": "14 Jul",
     "close": "16 Jul",
     "list": "21 Jul",
     "openISO": "2026-07-14",
     "closeISO": "2026-07-16",
     "listISO": "2026-07-21",
-    "prevPct": 0.9,
+    "prevPct": 119.3,
     "sub": {
       "qib": 0,
       "hni": 0,
       "retail": 0,
-      "total": 1.4,
+      "total": 219.54,
       "day": 3
     },
     "upd": 0,
     "new": false,
     "actualList": null,
-    "issueSize": "₹126.25 Cr",
-    "infoUrl": "https://www.investorgain.com/gmp/alpine-texworld-ipo/1940/",
-    "hasAnchor": false,
+    "issueSize": "₹160.34 Cr",
+    "infoUrl": "https://www.investorgain.com/gmp/millworks-technologies-ipo/2129/",
+    "hasAnchor": true,
     "readings": {
       "investorgain": {
-        "gmp": 1,
-        "pct": 0.9
+        "gmp": 395,
+        "pct": 119.3
       }
     },
-    "lastGmpPct": 0.9
+    "lastGmpPct": 119.3
   },
   {
     "name": "SBI Funds Management",
@@ -946,115 +984,41 @@
     "lastGmpPct": 11.3
   },
   {
-    "name": "Millworks Technologies",
-    "type": "SME",
+    "name": "Alpine Texworld",
+    "type": "MAINBOARD",
     "status": "LISTED",
     "band": [
-      331,
-      331
+      105,
+      105
     ],
-    "lot": 400,
+    "lot": 142,
     "open": "14 Jul",
     "close": "16 Jul",
     "list": "21 Jul",
     "openISO": "2026-07-14",
     "closeISO": "2026-07-16",
     "listISO": "2026-07-21",
-    "prevPct": 119.3,
+    "prevPct": 0.9,
     "sub": {
       "qib": 0,
       "hni": 0,
       "retail": 0,
-      "total": 219.54,
+      "total": 1.4,
       "day": 3
     },
     "upd": 0,
     "new": false,
     "actualList": null,
-    "issueSize": "₹160.34 Cr",
-    "infoUrl": "https://www.investorgain.com/gmp/millworks-technologies-ipo/2129/",
-    "hasAnchor": true,
+    "issueSize": "₹126.25 Cr",
+    "infoUrl": "https://www.investorgain.com/gmp/alpine-texworld-ipo/1940/",
+    "hasAnchor": false,
     "readings": {
       "investorgain": {
-        "gmp": 395,
-        "pct": 119.3
+        "gmp": 1,
+        "pct": 0.9
       }
     },
-    "lastGmpPct": 119.3
-  },
-  {
-    "name": "Laser Power & Infra",
-    "type": "MAINBOARD",
-    "status": "LISTED",
-    "band": [
-      214,
-      214
-    ],
-    "lot": 70,
-    "open": "9 Jul",
-    "close": "13 Jul",
-    "list": "16 Jul",
-    "openISO": "2026-07-09",
-    "closeISO": "2026-07-13",
-    "listISO": "2026-07-16",
-    "prevPct": 18.2,
-    "sub": {
-      "qib": 0,
-      "hni": 0,
-      "retail": 0,
-      "total": 41.05,
-      "day": 3
-    },
-    "upd": 0,
-    "new": false,
-    "actualList": null,
-    "issueSize": "₹742.00 Cr",
-    "infoUrl": "https://www.investorgain.com/gmp/laser-power-infra-ipo/1923/",
-    "hasAnchor": true,
-    "readings": {
-      "investorgain": {
-        "gmp": 39,
-        "pct": 18.2
-      }
-    },
-    "lastGmpPct": 18.2
-  },
-  {
-    "name": "Devson Catalyst",
-    "type": "SME",
-    "status": "LISTED",
-    "band": [
-      118,
-      118
-    ],
-    "lot": 1200,
-    "open": "9 Jul",
-    "close": "13 Jul",
-    "list": "16 Jul",
-    "openISO": "2026-07-09",
-    "closeISO": "2026-07-13",
-    "listISO": "2026-07-16",
-    "prevPct": 41.5,
-    "sub": {
-      "qib": 0,
-      "hni": 0,
-      "retail": 0,
-      "total": 220.35,
-      "day": 3
-    },
-    "upd": 0,
-    "new": false,
-    "actualList": null,
-    "issueSize": "₹42.34 Cr",
-    "infoUrl": "https://www.investorgain.com/gmp/devson-catalyst-ipo/2204/",
-    "hasAnchor": true,
-    "readings": {
-      "investorgain": {
-        "gmp": 49,
-        "pct": 41.5
-      }
-    },
-    "lastGmpPct": 41.5
+    "lastGmpPct": 0.9
   },
   {
     "name": "Happy Steels",
@@ -1092,5 +1056,42 @@
       }
     },
     "lastGmpPct": 15.2
+  },
+  {
+    "name": "Devson Catalyst",
+    "type": "SME",
+    "status": "LISTED",
+    "band": [
+      118,
+      118
+    ],
+    "lot": 1200,
+    "open": "9 Jul",
+    "close": "13 Jul",
+    "list": "16 Jul",
+    "openISO": "2026-07-09",
+    "closeISO": "2026-07-13",
+    "listISO": "2026-07-16",
+    "prevPct": 41.5,
+    "sub": {
+      "qib": 0,
+      "hni": 0,
+      "retail": 0,
+      "total": 220.35,
+      "day": 3
+    },
+    "upd": 0,
+    "new": false,
+    "actualList": null,
+    "issueSize": "₹42.34 Cr",
+    "infoUrl": "https://www.investorgain.com/gmp/devson-catalyst-ipo/2204/",
+    "hasAnchor": true,
+    "readings": {
+      "investorgain": {
+        "gmp": 49,
+        "pct": 41.5
+      }
+    },
+    "lastGmpPct": 41.5
   }
 ]
