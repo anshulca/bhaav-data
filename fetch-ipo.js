@@ -278,12 +278,20 @@ async function maybeNotifyTelegram(out){
   }
   if(closing.length){
     msg += "⏳ *Last day to apply today:*\n";
-    closing.forEach(r=>{ msg += `• ${r.name} (${r.type})  ${r.readings.investorgain?("GMP "+(r.readings.investorgain.pct>0?"+":"")+r.readings.investorgain.pct+"%"):""}\n`; });
+    closing.forEach(r=>{
+      const g=r.readings.investorgain;
+      const gtxt = g ? `GMP ${g.pct>0?"+":""}${g.pct}% (\u20B9${g.gmp}/share)` : "GMP n/a";
+      msg += `• *${r.name}* (${r.type})\n   ${gtxt}  |  Price \u20B9${r.band[0]}-${r.band[1]}\n`;
+    });
     msg += "\n";
   }
   if(opening.length){
     msg += "🟢 *Opening today:*\n";
-    opening.forEach(r=>{ msg += `• ${r.name} (${r.type})\n`; });
+    opening.forEach(r=>{
+      const g=r.readings.investorgain;
+      const gtxt = g ? `GMP ${g.pct>0?"+":""}${g.pct}% (\u20B9${g.gmp}/share)` : "GMP not out yet";
+      msg += `• *${r.name}* (${r.type})\n   ${gtxt}  |  Price \u20B9${r.band[0]}-${r.band[1]}\n`;
+    });
     msg += "\n";
   }
   msg += "_GMP is unofficial — verify before applying._\n\n";
