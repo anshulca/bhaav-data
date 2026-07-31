@@ -245,6 +245,60 @@ async function main(){
 
   fs.writeFileSync('bhaav-data.json', JSON.stringify(out, null, 2));
   console.log('WROTE bhaav-data.json with '+out.length+' IPOs');
+
+  await maybeNotifyTelegram(out);
+}
+
+/* ---------- Telegram daily reminder ----------
+   Posts "closing today" IPOs to a Telegram channel, once per day.
+   Set TELEGRAM_BOT_TOKEN and TELEGRAM_CHAT_ID as GitHub repo secrets.
+   Only fires between 09:30-10:30 UTC-ish window check handled by the workflow schedule;
+   here we guard so it posts at most once per day using a marker file. */
+async function maybeNotifyTelegram(out){
+  const token = process.env.TELEGRAM_BOT_TOKEN;
+  const chat  = process.env.TELEGRAM_CHAT_ID;
+  if(!token || !chat){ console.log('Telegram not configured (no secrets) - skipping.'); return; }
+
+  const today = new Date().toISOString().slice(0,10);
+  const testMode = process.env.TG_TEST==="1";
+
+  // once-a-day guard (skipped in test mode)
+  if(!testMode){
+    try{ if(fs.existsSync('.tg-last') && fs.readFileSync('.tg-last','utf8').trim()===today){ console.log('Telegram already posted today.'); return; } }catch(e){}
+  }
+
+  // IPOs whose last day is today
+  const closing = out.filter(r=> r.closeISO===today && (r.status==="OPEN"||r.status==="CLOSED"));
+  const opening = out.filter(r=> r.openISO===today);
+  if(!testMode && !closing.length && !opening.length){ console.log('Nothing closing/opening today for Telegram.'); return; }
+
+  let msg = "🔔 *Bhaav IPO reminder* — "+today+"\n\n";
+  if(testMode && !closing.length && !opening.length){
+    msg += "_(test message — Telegram alerts are working. Real alerts will list IPOs opening/closing that day.)_\n\n";
+  }
+  if(closing.length){
+    msg += "⏳ *Last day to apply today:*\n";
+    closing.forEach(r=>{ msg += `• ${r.name} (${r.type})  ${r.readings.investorgain?("GMP "+(r.readings.investorgain.pct>0?"+":"")+r.readings.investorgain.pct+"%"):""}\n`; });
+    msg += "\n";
+  }
+  if(opening.length){
+    msg += "🟢 *Opening today:*\n";
+    opening.forEach(r=>{ msg += `• ${r.name} (${r.type})\n`; });
+    msg += "\n";
+  }
+  msg += "_GMP is unofficial — verify before applying._\n\n";
+  msg += "Posted automatically by *Bhaav*\n";
+  msg += "Made by [CA Anshul Karwa](https://www.linkedin.com/in/anshulkarwa/)";
+
+  try{
+    const res = await fetch(`https://api.telegram.org/bot${token}/sendMessage`, {
+      method:"POST", headers:{"Content-Type":"application/json"},
+      body: JSON.stringify({ chat_id:chat, text:msg, parse_mode:"Markdown", disable_web_page_preview:true })
+    });
+    const j = await res.json();
+    if(j.ok){ console.log('Telegram posted.'); if(!testMode) fs.writeFileSync('.tg-last', today); }
+    else console.log('Telegram error:', JSON.stringify(j).slice(0,300));
+  }catch(e){ console.log('Telegram send failed:', e.message); }
 }
 
 main();
