@@ -36,6 +36,37 @@
     }
   },
   {
+    "name": "LEAP India",
+    "type": "MAINBOARD",
+    "status": "UPCOMING",
+    "band": [
+      0,
+      0
+    ],
+    "lot": 0,
+    "open": "7 Aug",
+    "close": "11 Aug",
+    "list": "14 Aug",
+    "openISO": "2026-08-07",
+    "closeISO": "2026-08-11",
+    "listISO": "2026-08-14",
+    "prevPct": null,
+    "sub": {
+      "qib": 0,
+      "hni": 0,
+      "retail": 0,
+      "total": 0,
+      "day": 0
+    },
+    "upd": 0,
+    "new": true,
+    "actualList": null,
+    "issueSize": "₹2480.00 Cr",
+    "infoUrl": "https://www.investorgain.com/gmp/leap-india-ipo/1868/",
+    "hasAnchor": true,
+    "readings": {}
+  },
+  {
     "name": "Optimystix Entertainment",
     "type": "SME",
     "status": "UPCOMING",
@@ -122,7 +153,7 @@
     "openISO": "2026-08-05",
     "closeISO": "2026-08-07",
     "listISO": "2026-08-12",
-    "prevPct": 13.2,
+    "prevPct": 12.7,
     "sub": {
       "qib": 0,
       "hni": 0,
@@ -288,12 +319,12 @@
     }
   },
   {
-    "name": "Dhaval Packaging",
+    "name": "Oneindig Technologies",
     "type": "SME",
     "status": "OPEN",
     "band": [
-      97,
-      97
+      96,
+      96
     ],
     "lot": 1200,
     "open": "30 Jul",
@@ -302,60 +333,24 @@
     "openISO": "2026-07-30",
     "closeISO": "2026-08-03",
     "listISO": "2026-08-06",
-    "prevPct": 11.3,
+    "prevPct": 0,
     "sub": {
       "qib": 0,
       "hni": 0,
       "retail": 0,
-      "total": 1.4,
+      "total": 0.79,
       "day": 3
     },
     "upd": 0,
     "new": false,
     "actualList": null,
-    "issueSize": "₹36.36 Cr",
-    "infoUrl": "https://www.investorgain.com/gmp/dhaval-packaging-ipo/2087/",
+    "issueSize": "₹27.65 Cr",
+    "infoUrl": "https://www.investorgain.com/gmp/oneindig-technologies-ipo/1916/",
     "hasAnchor": true,
     "readings": {
       "investorgain": {
-        "gmp": 11,
-        "pct": 11.3
-      }
-    }
-  },
-  {
-    "name": "MV Electrosystems",
-    "type": "MAINBOARD",
-    "status": "OPEN",
-    "band": [
-      425,
-      425
-    ],
-    "lot": 34,
-    "open": "30 Jul",
-    "close": "3 Aug",
-    "list": "6 Aug",
-    "openISO": "2026-07-30",
-    "closeISO": "2026-08-03",
-    "listISO": "2026-08-06",
-    "prevPct": 25.9,
-    "sub": {
-      "qib": 0,
-      "hni": 0,
-      "retail": 0,
-      "total": 12.79,
-      "day": 3
-    },
-    "upd": 0,
-    "new": false,
-    "actualList": null,
-    "issueSize": "₹290.00 Cr",
-    "infoUrl": "https://www.investorgain.com/gmp/mv-electrosystems-ipo/2054/",
-    "hasAnchor": true,
-    "readings": {
-      "investorgain": {
-        "gmp": 113,
-        "pct": 26.6
+        "gmp": 0,
+        "pct": 0
       }
     }
   },
@@ -390,18 +385,54 @@
     "hasAnchor": true,
     "readings": {
       "investorgain": {
-        "gmp": 2,
-        "pct": 0.7
+        "gmp": 1,
+        "pct": 0.4
       }
     }
   },
   {
-    "name": "Oneindig Technologies",
+    "name": "MV Electrosystems",
+    "type": "MAINBOARD",
+    "status": "OPEN",
+    "band": [
+      425,
+      425
+    ],
+    "lot": 34,
+    "open": "30 Jul",
+    "close": "3 Aug",
+    "list": "6 Aug",
+    "openISO": "2026-07-30",
+    "closeISO": "2026-08-03",
+    "listISO": "2026-08-06",
+    "prevPct": 26.6,
+    "sub": {
+      "qib": 0,
+      "hni": 0,
+      "retail": 0,
+      "total": 12.79,
+      "day": 3
+    },
+    "upd": 0,
+    "new": false,
+    "actualList": null,
+    "issueSize": "₹290.00 Cr",
+    "infoUrl": "https://www.investorgain.com/gmp/mv-electrosystems-ipo/2054/",
+    "hasAnchor": true,
+    "readings": {
+      "investorgain": {
+        "gmp": 115,
+        "pct": 27.1
+      }
+    }
+  },
+  {
+    "name": "Dhaval Packaging",
     "type": "SME",
     "status": "OPEN",
     "band": [
-      96,
-      96
+      97,
+      97
     ],
     "lot": 1200,
     "open": "30 Jul",
@@ -410,24 +441,24 @@
     "openISO": "2026-07-30",
     "closeISO": "2026-08-03",
     "listISO": "2026-08-06",
-    "prevPct": 0,
+    "prevPct": 11.3,
     "sub": {
       "qib": 0,
       "hni": 0,
       "retail": 0,
-      "total": 0.79,
+      "total": 1.4,
       "day": 3
     },
     "upd": 0,
     "new": false,
     "actualList": null,
-    "issueSize": "₹27.65 Cr",
-    "infoUrl": "https://www.investorgain.com/gmp/oneindig-technologies-ipo/1916/",
+    "issueSize": "₹36.36 Cr",
+    "infoUrl": "https://www.investorgain.com/gmp/dhaval-packaging-ipo/2087/",
     "hasAnchor": true,
     "readings": {
       "investorgain": {
-        "gmp": 0,
-        "pct": 0
+        "gmp": 11,
+        "pct": 11.3
       }
     }
   },
@@ -482,7 +513,7 @@
     "openISO": "2026-07-29",
     "closeISO": "2026-07-31",
     "listISO": "2026-08-05",
-    "prevPct": -1.5,
+    "prevPct": -1.2,
     "sub": {
       "qib": 0,
       "hni": 0,
@@ -498,8 +529,8 @@
     "hasAnchor": true,
     "readings": {
       "investorgain": {
-        "gmp": -7,
-        "pct": -1.2
+        "gmp": -6,
+        "pct": -1
       }
     }
   },
@@ -518,7 +549,7 @@
     "openISO": "2026-07-28",
     "closeISO": "2026-07-30",
     "listISO": "2026-08-04",
-    "prevPct": 73.1,
+    "prevPct": 74.8,
     "sub": {
       "qib": 0,
       "hni": 0,
@@ -534,8 +565,8 @@
     "hasAnchor": true,
     "readings": {
       "investorgain": {
-        "gmp": 225,
-        "pct": 74.8
+        "gmp": 230,
+        "pct": 76.4
       }
     }
   },
@@ -686,41 +717,41 @@
     "lastGmpPct": 3.8
   },
   {
-    "name": "Indo-MIM",
+    "name": "Xtranet Technologies",
     "type": "MAINBOARD",
     "status": "LISTED",
     "band": [
-      485,
-      485
+      127,
+      127
     ],
-    "lot": 30,
+    "lot": 110,
     "open": "23 Jul",
     "close": "27 Jul",
     "list": "30 Jul",
     "openISO": "2026-07-23",
     "closeISO": "2026-07-27",
     "listISO": "2026-07-30",
-    "prevPct": 37.9,
+    "prevPct": 11.4,
     "sub": {
       "qib": 0,
       "hni": 0,
       "retail": 0,
-      "total": 72.37,
+      "total": 12.24,
       "day": 3
     },
     "upd": 0,
     "new": false,
-    "actualList": 700,
-    "issueSize": "₹3811.21 Cr",
-    "infoUrl": "https://www.investorgain.com/gmp/indo-mim-ipo/1594/",
+    "actualList": 136,
+    "issueSize": "₹166.80 Cr",
+    "infoUrl": "https://www.investorgain.com/gmp/xtranet-technologies-ipo/1951/",
     "hasAnchor": true,
     "readings": {
       "investorgain": {
-        "gmp": 184,
-        "pct": 37.9
+        "gmp": 15,
+        "pct": 11.4
       }
     },
-    "lastGmpPct": 37.9
+    "lastGmpPct": 11.4
   },
   {
     "name": "Lohia Corp",
@@ -760,41 +791,41 @@
     "lastGmpPct": 4
   },
   {
-    "name": "Xtranet Technologies",
+    "name": "Indo-MIM",
     "type": "MAINBOARD",
     "status": "LISTED",
     "band": [
-      127,
-      127
+      485,
+      485
     ],
-    "lot": 110,
+    "lot": 30,
     "open": "23 Jul",
     "close": "27 Jul",
     "list": "30 Jul",
     "openISO": "2026-07-23",
     "closeISO": "2026-07-27",
     "listISO": "2026-07-30",
-    "prevPct": 11.4,
+    "prevPct": 37.9,
     "sub": {
       "qib": 0,
       "hni": 0,
       "retail": 0,
-      "total": 12.24,
+      "total": 72.37,
       "day": 3
     },
     "upd": 0,
     "new": false,
-    "actualList": 136,
-    "issueSize": "₹166.80 Cr",
-    "infoUrl": "https://www.investorgain.com/gmp/xtranet-technologies-ipo/1951/",
+    "actualList": 700,
+    "issueSize": "₹3811.21 Cr",
+    "infoUrl": "https://www.investorgain.com/gmp/indo-mim-ipo/1594/",
     "hasAnchor": true,
     "readings": {
       "investorgain": {
-        "gmp": 15,
-        "pct": 11.4
+        "gmp": 184,
+        "pct": 37.9
       }
     },
-    "lastGmpPct": 11.4
+    "lastGmpPct": 37.9
   },
   {
     "name": "Shree Balaji Mala",
@@ -982,43 +1013,6 @@
     "lastGmpPct": 1.3
   },
   {
-    "name": "Millworks Technologies",
-    "type": "SME",
-    "status": "LISTED",
-    "band": [
-      331,
-      331
-    ],
-    "lot": 400,
-    "open": "14 Jul",
-    "close": "16 Jul",
-    "list": "21 Jul",
-    "openISO": "2026-07-14",
-    "closeISO": "2026-07-16",
-    "listISO": "2026-07-21",
-    "prevPct": 119.3,
-    "sub": {
-      "qib": 0,
-      "hni": 0,
-      "retail": 0,
-      "total": 219.54,
-      "day": 3
-    },
-    "upd": 0,
-    "new": false,
-    "actualList": null,
-    "issueSize": "₹160.34 Cr",
-    "infoUrl": "https://www.investorgain.com/gmp/millworks-technologies-ipo/2129/",
-    "hasAnchor": true,
-    "readings": {
-      "investorgain": {
-        "gmp": 395,
-        "pct": 119.3
-      }
-    },
-    "lastGmpPct": 119.3
-  },
-  {
     "name": "SBI Funds Management",
     "type": "MAINBOARD",
     "status": "LISTED",
@@ -1056,40 +1050,40 @@
     "lastGmpPct": 11.3
   },
   {
-    "name": "Alpine Texworld",
-    "type": "MAINBOARD",
+    "name": "Millworks Technologies",
+    "type": "SME",
     "status": "LISTED",
     "band": [
-      105,
-      105
+      331,
+      331
     ],
-    "lot": 142,
+    "lot": 400,
     "open": "14 Jul",
     "close": "16 Jul",
     "list": "21 Jul",
     "openISO": "2026-07-14",
     "closeISO": "2026-07-16",
     "listISO": "2026-07-21",
-    "prevPct": 0.9,
+    "prevPct": 119.3,
     "sub": {
       "qib": 0,
       "hni": 0,
       "retail": 0,
-      "total": 1.4,
+      "total": 219.54,
       "day": 3
     },
     "upd": 0,
     "new": false,
-    "actualList": 105,
-    "issueSize": "₹126.25 Cr",
-    "infoUrl": "https://www.investorgain.com/gmp/alpine-texworld-ipo/1940/",
-    "hasAnchor": false,
+    "actualList": null,
+    "issueSize": "₹160.34 Cr",
+    "infoUrl": "https://www.investorgain.com/gmp/millworks-technologies-ipo/2129/",
+    "hasAnchor": true,
     "readings": {
       "investorgain": {
-        "gmp": 1,
-        "pct": 0.9
+        "gmp": 395,
+        "pct": 119.3
       }
     },
-    "lastGmpPct": 0.9
+    "lastGmpPct": 119.3
   }
 ]
