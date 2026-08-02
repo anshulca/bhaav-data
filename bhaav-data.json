@@ -50,7 +50,7 @@
     "openISO": "2026-08-07",
     "closeISO": "2026-08-11",
     "listISO": "2026-08-14",
-    "prevPct": null,
+    "prevPct": 0,
     "sub": {
       "qib": 0,
       "hni": 0,
@@ -59,12 +59,17 @@
       "day": 0
     },
     "upd": 0,
-    "new": true,
+    "new": false,
     "actualList": null,
     "issueSize": "₹2480.00 Cr",
     "infoUrl": "https://www.investorgain.com/gmp/leap-india-ipo/1868/",
     "hasAnchor": true,
-    "readings": {}
+    "readings": {
+      "investorgain": {
+        "gmp": 8,
+        "pct": 0
+      }
+    }
   },
   {
     "name": "Optimystix Entertainment",
@@ -369,7 +374,7 @@
     "openISO": "2026-07-30",
     "closeISO": "2026-08-03",
     "listISO": "2026-08-06",
-    "prevPct": 0.7,
+    "prevPct": 0.4,
     "sub": {
       "qib": 0,
       "hni": 0,
@@ -385,8 +390,8 @@
     "hasAnchor": true,
     "readings": {
       "investorgain": {
-        "gmp": 1,
-        "pct": 0.4
+        "gmp": 2,
+        "pct": 0.8
       }
     }
   },
@@ -405,7 +410,7 @@
     "openISO": "2026-07-30",
     "closeISO": "2026-08-03",
     "listISO": "2026-08-06",
-    "prevPct": 26.6,
+    "prevPct": 27.1,
     "sub": {
       "qib": 0,
       "hni": 0,
@@ -513,7 +518,7 @@
     "openISO": "2026-07-29",
     "closeISO": "2026-07-31",
     "listISO": "2026-08-05",
-    "prevPct": -1.2,
+    "prevPct": -1,
     "sub": {
       "qib": 0,
       "hni": 0,
@@ -549,7 +554,7 @@
     "openISO": "2026-07-28",
     "closeISO": "2026-07-30",
     "listISO": "2026-08-04",
-    "prevPct": 74.8,
+    "prevPct": 76.4,
     "sub": {
       "qib": 0,
       "hni": 0,
