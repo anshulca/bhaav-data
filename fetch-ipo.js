@@ -259,10 +259,17 @@ async function maybeNotifyTelegram(out){
   const chat  = process.env.TELEGRAM_CHAT_ID;
   if(!token || !chat){ console.log('Telegram not configured (no secrets) - skipping.'); return; }
 
-  // Use IST date (India), not UTC, so "today" matches the IPO calendar.
+  // Use IST date + time (India), not UTC, so "today" and the 10 AM window match the IPO calendar.
   const nowIST = new Date(Date.now() + (5.5*60 - new Date().getTimezoneOffset())*60000);
   const today = nowIST.toISOString().slice(0,10);
+  const istHour = nowIST.getUTCHours();   // nowIST is shifted, so getUTCHours() = IST hour
   const testMode = process.env.TG_TEST==="1";
+
+  // Only send during the 10 AM IST hour (10:00-10:59). Test mode ignores the time window.
+  if(!testMode && istHour!==10){
+    console.log(`Telegram: not the 10 AM IST window (IST hour=${istHour}) - skipping.`);
+    return;
+  }
 
   // once-a-day guard (skipped in test mode)
   if(!testMode){
@@ -272,7 +279,7 @@ async function maybeNotifyTelegram(out){
   // IPOs whose last day is today (any status - date is what matters), and opening today
   const closing = out.filter(r=> r.closeISO===today);
   const opening = out.filter(r=> r.openISO===today);
-  console.log(`Telegram check: today(IST)=${today}, closing=${closing.length}, opening=${opening.length}`);
+  console.log(`Telegram check: today(IST)=${today}, IST hour=${istHour}, closing=${closing.length}, opening=${opening.length}`);
   if(!testMode && !closing.length && !opening.length){ console.log('Nothing closing/opening today for Telegram.'); return; }
 
   let msg = "🔔 *Bhaav IPO reminder* - "+today+"\n\n";
