@@ -2,7 +2,11 @@ name: Update Bhaav IPO data
 
 on:
   schedule:
+    # every 30 min for fresh data
     - cron: '*/30 * * * *'
+    # extra runs to guarantee the 10 AM IST Telegram window (10:00 & 10:15 IST = 04:30 & 04:45 UTC)
+    - cron: '30 4 * * *'
+    - cron: '45 4 * * *'
   workflow_dispatch:
     inputs:
       test_telegram:
