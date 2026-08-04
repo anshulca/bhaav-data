@@ -23,7 +23,7 @@
       "day": 0
     },
     "upd": 0,
-    "new": true,
+    "new": false,
     "actualList": null,
     "issueSize": "-",
     "infoUrl": "https://www.investorgain.com/gmp/pramodini-medicare-ipo/2275/",
@@ -45,7 +45,7 @@
     "openISO": "2026-08-10",
     "closeISO": "2026-08-12",
     "listISO": "2026-08-17",
-    "prevPct": 28.2,
+    "prevPct": 29.1,
     "sub": {
       "qib": 0,
       "hni": 0,
@@ -256,7 +256,7 @@
     "openISO": "2026-08-05",
     "closeISO": "2026-08-07",
     "listISO": "2026-08-12",
-    "prevPct": 14.2,
+    "prevPct": 15.1,
     "sub": {
       "qib": 0,
       "hni": 0,
@@ -436,7 +436,7 @@
     "openISO": "2026-07-30",
     "closeISO": "2026-08-03",
     "listISO": "2026-08-06",
-    "prevPct": 23.1,
+    "prevPct": 24,
     "sub": {
       "qib": 0,
       "hni": 0,
@@ -488,8 +488,8 @@
     "hasAnchor": true,
     "readings": {
       "investorgain": {
-        "gmp": 0,
-        "pct": 0
+        "gmp": 7,
+        "pct": 7.3
       }
     }
   },
@@ -508,7 +508,7 @@
     "openISO": "2026-07-30",
     "closeISO": "2026-08-03",
     "listISO": "2026-08-06",
-    "prevPct": 8.3,
+    "prevPct": 11.3,
     "sub": {
       "qib": 0,
       "hni": 0,
@@ -524,8 +524,8 @@
     "hasAnchor": true,
     "readings": {
       "investorgain": {
-        "gmp": 11,
-        "pct": 11.3
+        "gmp": 10,
+        "pct": 10.3
       }
     }
   },
@@ -544,7 +544,7 @@
     "openISO": "2026-07-30",
     "closeISO": "2026-08-03",
     "listISO": "2026-08-06",
-    "prevPct": 5.3,
+    "prevPct": 5.7,
     "sub": {
       "qib": 0,
       "hni": 0,
@@ -561,7 +561,7 @@
     "readings": {
       "investorgain": {
         "gmp": 13,
-        "pct": 5.7
+        "pct": 5.8
       }
     }
   },
@@ -596,8 +596,8 @@
     "hasAnchor": true,
     "readings": {
       "investorgain": {
-        "gmp": 2,
-        "pct": 2.3
+        "gmp": 1,
+        "pct": 1.1
       }
     }
   },
@@ -616,7 +616,7 @@
     "openISO": "2026-07-29",
     "closeISO": "2026-07-31",
     "listISO": "2026-08-05",
-    "prevPct": 0.4,
+    "prevPct": 0.6,
     "sub": {
       "qib": 0,
       "hni": 0,
@@ -632,8 +632,8 @@
     "hasAnchor": true,
     "readings": {
       "investorgain": {
-        "gmp": 4,
-        "pct": 0.6
+        "gmp": 3,
+        "pct": 0.5
       }
     }
   },
