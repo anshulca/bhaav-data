@@ -265,9 +265,12 @@ async function maybeNotifyTelegram(out){
   const istHour = nowIST.getUTCHours();   // nowIST is shifted, so getUTCHours() = IST hour
   const testMode = process.env.TG_TEST==="1";
 
-  // Only send during the 10 AM IST hour (10:00-10:59). Test mode ignores the time window.
-  if(!testMode && istHour!==10){
-    console.log(`Telegram: not the 10 AM IST window (IST hour=${istHour}) - skipping.`);
+  // Send once per day, on the first run AT OR AFTER this IST hour.
+  // GitHub's free scheduler is often late/skips, so a strict "only 10 AM" window can miss the
+  // whole day. This fires as close to the target as GitHub allows and never stays silent.
+  const SEND_AFTER_IST_HOUR = 10;   // change this to send earlier/later (24h IST)
+  if(!testMode && istHour < SEND_AFTER_IST_HOUR){
+    console.log(`Telegram: before ${SEND_AFTER_IST_HOUR}:00 IST (IST hour=${istHour}) - waiting.`);
     return;
   }
 
