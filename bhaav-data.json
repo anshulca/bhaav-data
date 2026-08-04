@@ -23,7 +23,7 @@
       "day": 0
     },
     "upd": 0,
-    "new": true,
+    "new": false,
     "actualList": null,
     "issueSize": null,
     "infoUrl": "https://www.investorgain.com/gmp/molbio-diagnostics-ipo/1865/",
@@ -45,7 +45,7 @@
     "openISO": "2026-08-10",
     "closeISO": "2026-08-12",
     "listISO": "2026-08-17",
-    "prevPct": 0,
+    "prevPct": 28.7,
     "sub": {
       "qib": 0,
       "hni": 0,
@@ -405,7 +405,7 @@
     "openISO": "2026-07-30",
     "closeISO": "2026-08-03",
     "listISO": "2026-08-06",
-    "prevPct": 23.5,
+    "prevPct": 23.1,
     "sub": {
       "qib": 0,
       "hni": 0,
@@ -441,7 +441,7 @@
     "openISO": "2026-07-30",
     "closeISO": "2026-08-03",
     "listISO": "2026-08-06",
-    "prevPct": 4.2,
+    "prevPct": 5.3,
     "sub": {
       "qib": 0,
       "hni": 0,
@@ -585,7 +585,7 @@
     "openISO": "2026-07-29",
     "closeISO": "2026-07-31",
     "listISO": "2026-08-05",
-    "prevPct": -1,
+    "prevPct": 0.2,
     "sub": {
       "qib": 0,
       "hni": 0,
@@ -658,7 +658,7 @@
     "openISO": "2026-07-28",
     "closeISO": "2026-07-30",
     "listISO": "2026-08-04",
-    "prevPct": 78.1,
+    "prevPct": 66.5,
     "sub": {
       "qib": 0,
       "hni": 0,
