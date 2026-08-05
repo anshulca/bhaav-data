@@ -59,7 +59,7 @@
       "day": 0
     },
     "upd": 0,
-    "new": true,
+    "new": false,
     "actualList": null,
     "issueSize": "₹1553.00 Cr",
     "infoUrl": "https://www.investorgain.com/gmp/milky-mist-dairy-food-ipo/1838/",
@@ -97,8 +97,8 @@
     "hasAnchor": true,
     "readings": {
       "investorgain": {
-        "gmp": 253,
-        "pct": 29.1
+        "gmp": 255,
+        "pct": 29.3
       }
     }
   },
@@ -169,8 +169,8 @@
     "hasAnchor": true,
     "readings": {
       "investorgain": {
-        "gmp": 10,
-        "pct": 4.7
+        "gmp": 12,
+        "pct": 5.7
       }
     }
   },
@@ -277,8 +277,44 @@
     "hasAnchor": true,
     "readings": {
       "investorgain": {
-        "gmp": 27,
-        "pct": 28.7
+        "gmp": 26,
+        "pct": 27.7
+      }
+    }
+  },
+  {
+    "name": "G.V. Electricals",
+    "type": "SME",
+    "status": "OPEN",
+    "band": [
+      130,
+      130
+    ],
+    "lot": 1000,
+    "open": "31 Jul",
+    "close": "7 Aug",
+    "list": "12 Aug",
+    "openISO": "2026-07-31",
+    "closeISO": "2026-08-07",
+    "listISO": "2026-08-12",
+    "prevPct": 18.5,
+    "sub": {
+      "qib": 0,
+      "hni": 0,
+      "retail": 0,
+      "total": 146.76,
+      "day": 3
+    },
+    "upd": 0,
+    "new": false,
+    "actualList": null,
+    "issueSize": "₹42.25 Cr",
+    "infoUrl": "https://www.investorgain.com/gmp/gv-electricals-ipo/2246/",
+    "hasAnchor": true,
+    "readings": {
+      "investorgain": {
+        "gmp": 24,
+        "pct": 18.5
       }
     }
   },
@@ -302,7 +338,7 @@
       "qib": 0,
       "hni": 0,
       "retail": 0,
-      "total": 0.52,
+      "total": 3.2,
       "day": 1
     },
     "upd": 0,
@@ -313,8 +349,8 @@
     "hasAnchor": true,
     "readings": {
       "investorgain": {
-        "gmp": 8,
-        "pct": 15.1
+        "gmp": 14,
+        "pct": 26.4
       }
     }
   },
@@ -338,7 +374,7 @@
       "qib": 0,
       "hni": 0,
       "retail": 0,
-      "total": 0.62,
+      "total": 1.89,
       "day": 2
     },
     "upd": 0,
@@ -374,7 +410,7 @@
       "qib": 0,
       "hni": 0,
       "retail": 0,
-      "total": 25.02,
+      "total": 149.13,
       "day": 3
     },
     "upd": 0,
@@ -427,42 +463,6 @@
     }
   },
   {
-    "name": "G.V. Electricals",
-    "type": "SME",
-    "status": "CLOSED",
-    "band": [
-      130,
-      130
-    ],
-    "lot": 1000,
-    "open": "31 Jul",
-    "close": "4 Aug",
-    "list": "12 Aug",
-    "openISO": "2026-07-31",
-    "closeISO": "2026-08-04",
-    "listISO": "2026-08-12",
-    "prevPct": 18.5,
-    "sub": {
-      "qib": 0,
-      "hni": 0,
-      "retail": 0,
-      "total": 146.76,
-      "day": 3
-    },
-    "upd": 0,
-    "new": false,
-    "actualList": null,
-    "issueSize": "₹42.25 Cr",
-    "infoUrl": "https://www.investorgain.com/gmp/gv-electricals-ipo/2246/",
-    "hasAnchor": true,
-    "readings": {
-      "investorgain": {
-        "gmp": 24,
-        "pct": 18.5
-      }
-    }
-  },
-  {
     "name": "MV Electrosystems",
     "type": "MAINBOARD",
     "status": "CLOSED",
@@ -493,8 +493,8 @@
     "hasAnchor": true,
     "readings": {
       "investorgain": {
-        "gmp": 102,
-        "pct": 24
+        "gmp": 107,
+        "pct": 25.2
       }
     }
   },
@@ -549,7 +549,7 @@
     "openISO": "2026-07-30",
     "closeISO": "2026-08-03",
     "listISO": "2026-08-06",
-    "prevPct": 5.8,
+    "prevPct": 7.1,
     "sub": {
       "qib": 0,
       "hni": 0,
@@ -565,8 +565,8 @@
     "hasAnchor": true,
     "readings": {
       "investorgain": {
-        "gmp": 16,
-        "pct": 7.1
+        "gmp": 18,
+        "pct": 8
       }
     }
   },
@@ -658,7 +658,7 @@
     "openISO": "2026-07-29",
     "closeISO": "2026-07-31",
     "listISO": "2026-08-05",
-    "prevPct": 0.5,
+    "prevPct": 1.2,
     "sub": {
       "qib": 0,
       "hni": 0,
