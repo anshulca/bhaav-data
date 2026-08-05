@@ -133,8 +133,8 @@
     "hasAnchor": true,
     "readings": {
       "investorgain": {
-        "gmp": 0,
-        "pct": 0
+        "gmp": 65,
+        "pct": 8.1
       }
     }
   },
@@ -338,7 +338,7 @@
       "qib": 0,
       "hni": 0,
       "retail": 0,
-      "total": 3.23,
+      "total": 3.25,
       "day": 1
     },
     "upd": 0,
@@ -565,8 +565,8 @@
     "hasAnchor": true,
     "readings": {
       "investorgain": {
-        "gmp": 18,
-        "pct": 8
+        "gmp": 20,
+        "pct": 8.9
       }
     }
   },
@@ -601,8 +601,8 @@
     "hasAnchor": true,
     "readings": {
       "investorgain": {
-        "gmp": 10,
-        "pct": 10.3
+        "gmp": 11,
+        "pct": 10.8
       }
     }
   },
