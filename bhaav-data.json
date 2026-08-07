@@ -50,7 +50,7 @@
     "openISO": "2026-08-12",
     "closeISO": "2026-08-14",
     "listISO": "2026-08-19",
-    "prevPct": 14.4,
+    "prevPct": 20.6,
     "sub": {
       "qib": 0,
       "hni": 0,
@@ -66,8 +66,8 @@
     "hasAnchor": true,
     "readings": {
       "investorgain": {
-        "gmp": 20,
-        "pct": 20.6
+        "gmp": 15,
+        "pct": 15.5
       }
     }
   },
@@ -86,7 +86,7 @@
     "openISO": "2026-08-12",
     "closeISO": "2026-08-14",
     "listISO": "2026-08-19",
-    "prevPct": 0,
+    "prevPct": 3.5,
     "sub": {
       "qib": 0,
       "hni": 0,
@@ -102,8 +102,8 @@
     "hasAnchor": true,
     "readings": {
       "investorgain": {
-        "gmp": 10,
-        "pct": 3.5
+        "gmp": 25,
+        "pct": 8.8
       }
     }
   },
@@ -122,7 +122,7 @@
     "openISO": "2026-08-11",
     "closeISO": "2026-08-13",
     "listISO": "2026-08-18",
-    "prevPct": 18.6,
+    "prevPct": 19.3,
     "sub": {
       "qib": 0,
       "hni": 0,
@@ -138,8 +138,8 @@
     "hasAnchor": true,
     "readings": {
       "investorgain": {
-        "gmp": 27,
-        "pct": 19.3
+        "gmp": 23,
+        "pct": 16.4
       }
     }
   },
@@ -203,7 +203,7 @@
       "day": 0
     },
     "upd": 0,
-    "new": true,
+    "new": false,
     "actualList": null,
     "issueSize": "₹40.48 Cr",
     "infoUrl": "https://www.investorgain.com/gmp/sham-foam-ipo/2131/",
@@ -230,7 +230,7 @@
     "openISO": "2026-08-10",
     "closeISO": "2026-08-12",
     "listISO": "2026-08-17",
-    "prevPct": 27.3,
+    "prevPct": 25.4,
     "sub": {
       "qib": 0,
       "hni": 0,
@@ -266,7 +266,7 @@
     "openISO": "2026-08-10",
     "closeISO": "2026-08-12",
     "listISO": "2026-08-17",
-    "prevPct": 29.7,
+    "prevPct": 29.2,
     "sub": {
       "qib": 0,
       "hni": 0,
@@ -282,8 +282,8 @@
     "hasAnchor": true,
     "readings": {
       "investorgain": {
-        "gmp": 254,
-        "pct": 29.2
+        "gmp": 250,
+        "pct": 28.7
       }
     }
   },
@@ -307,7 +307,7 @@
       "qib": 0,
       "hni": 0,
       "retail": 0,
-      "total": 0.28,
+      "total": 1.71,
       "day": 1
     },
     "upd": 0,
@@ -318,8 +318,8 @@
     "hasAnchor": true,
     "readings": {
       "investorgain": {
-        "gmp": 16,
-        "pct": 7.5
+        "gmp": 17,
+        "pct": 8
       }
     }
   },
@@ -338,12 +338,12 @@
     "openISO": "2026-08-07",
     "closeISO": "2026-08-11",
     "listISO": "2026-08-14",
-    "prevPct": 12.3,
+    "prevPct": 10.7,
     "sub": {
       "qib": 0,
       "hni": 0,
       "retail": 0,
-      "total": 0.03,
+      "total": 0.06,
       "day": 1
     },
     "upd": 0,
@@ -354,8 +354,8 @@
     "hasAnchor": true,
     "readings": {
       "investorgain": {
-        "gmp": 17,
-        "pct": 10.7
+        "gmp": 14,
+        "pct": 8.8
       }
     }
   },
@@ -379,7 +379,7 @@
       "qib": 0,
       "hni": 0,
       "retail": 0,
-      "total": 0.06,
+      "total": 0.34,
       "day": 1
     },
     "upd": 0,
@@ -415,7 +415,7 @@
       "qib": 0,
       "hni": 0,
       "retail": 0,
-      "total": 10.83,
+      "total": 20.31,
       "day": 2
     },
     "upd": 0,
@@ -446,7 +446,7 @@
     "openISO": "2026-07-31",
     "closeISO": "2026-08-07",
     "listISO": "2026-08-12",
-    "prevPct": 20,
+    "prevPct": 16.9,
     "sub": {
       "qib": 0,
       "hni": 0,
@@ -462,8 +462,8 @@
     "hasAnchor": true,
     "readings": {
       "investorgain": {
-        "gmp": 22,
-        "pct": 16.9
+        "gmp": 26,
+        "pct": 20
       }
     }
   },
@@ -482,12 +482,12 @@
     "openISO": "2026-08-05",
     "closeISO": "2026-08-07",
     "listISO": "2026-08-12",
-    "prevPct": 26.4,
+    "prevPct": 22.6,
     "sub": {
       "qib": 0,
       "hni": 0,
       "retail": 0,
-      "total": 30.49,
+      "total": 60.66,
       "day": 3
     },
     "upd": 0,
@@ -498,8 +498,8 @@
     "hasAnchor": true,
     "readings": {
       "investorgain": {
-        "gmp": 12,
-        "pct": 22.6
+        "gmp": 14,
+        "pct": 26.4
       }
     }
   },
@@ -554,7 +554,7 @@
     "openISO": "2026-08-03",
     "closeISO": "2026-08-05",
     "listISO": "2026-08-10",
-    "prevPct": 24.4,
+    "prevPct": 24.8,
     "sub": {
       "qib": 0,
       "hni": 0,
@@ -570,8 +570,8 @@
     "hasAnchor": true,
     "readings": {
       "investorgain": {
-        "gmp": 67,
-        "pct": 24.8
+        "gmp": 65,
+        "pct": 24.1
       }
     }
   },
