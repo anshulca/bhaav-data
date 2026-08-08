@@ -1,5 +1,41 @@
 [
   {
+    "name": "Q&T Foods",
+    "type": "SME",
+    "status": "UPCOMING",
+    "band": [
+      115,
+      115
+    ],
+    "lot": 1200,
+    "open": "12 Aug",
+    "close": "14 Aug",
+    "list": "19 Aug",
+    "openISO": "2026-08-12",
+    "closeISO": "2026-08-14",
+    "listISO": "2026-08-19",
+    "prevPct": 5.22,
+    "sub": {
+      "qib": 0,
+      "hni": 0,
+      "retail": 0,
+      "total": 0,
+      "day": 0
+    },
+    "upd": 0,
+    "new": true,
+    "actualList": null,
+    "issueSize": "₹26.25 Cr",
+    "infoUrl": "https://www.investorgain.com/gmp/qt-foods-ipo/2299/",
+    "hasAnchor": false,
+    "readings": {
+      "investorgain": {
+        "gmp": 6,
+        "pct": 5.2
+      }
+    }
+  },
+  {
     "name": "Pramodini Medicare",
     "type": "SME",
     "status": "UPCOMING",
@@ -246,8 +282,8 @@
     "hasAnchor": true,
     "readings": {
       "investorgain": {
-        "gmp": 180,
-        "pct": 22.3
+        "gmp": 130,
+        "pct": 16.1
       }
     }
   },
@@ -1055,42 +1091,5 @@
       }
     },
     "lastGmpPct": 11.4
-  },
-  {
-    "name": "Lohia Corp",
-    "type": "MAINBOARD",
-    "status": "LISTED",
-    "band": [
-      425,
-      425
-    ],
-    "lot": 35,
-    "open": "23 Jul",
-    "close": "27 Jul",
-    "list": "30 Jul",
-    "openISO": "2026-07-23",
-    "closeISO": "2026-07-27",
-    "listISO": "2026-07-30",
-    "prevPct": 4,
-    "sub": {
-      "qib": 0,
-      "hni": 0,
-      "retail": 0,
-      "total": 7.26,
-      "day": 3
-    },
-    "upd": 0,
-    "new": false,
-    "actualList": 461,
-    "issueSize": "₹1101.28 Cr",
-    "infoUrl": "https://www.investorgain.com/gmp/lohia-corp-ipo/1862/",
-    "hasAnchor": true,
-    "readings": {
-      "investorgain": {
-        "gmp": 17,
-        "pct": 4
-      }
-    },
-    "lastGmpPct": 4
   }
 ]
