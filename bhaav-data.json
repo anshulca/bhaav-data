@@ -174,8 +174,8 @@
     "hasAnchor": true,
     "readings": {
       "investorgain": {
-        "gmp": 24,
-        "pct": 17.1
+        "gmp": 23,
+        "pct": 16.4
       }
     }
   },
@@ -318,8 +318,8 @@
     "hasAnchor": true,
     "readings": {
       "investorgain": {
-        "gmp": 247,
-        "pct": 28.4
+        "gmp": 250,
+        "pct": 28.7
       }
     }
   },
@@ -354,8 +354,8 @@
     "hasAnchor": true,
     "readings": {
       "investorgain": {
-        "gmp": 15,
-        "pct": 7.1
+        "gmp": 19,
+        "pct": 9
       }
     }
   },
