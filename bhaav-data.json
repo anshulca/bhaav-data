@@ -1,5 +1,67 @@
 [
   {
+    "name": "Skytech Infinite Platform",
+    "type": "SME",
+    "status": "UPCOMING",
+    "band": [
+      0,
+      0
+    ],
+    "lot": 0,
+    "open": "14 Aug",
+    "close": "18 Aug",
+    "list": "21 Aug",
+    "openISO": "2026-08-14",
+    "closeISO": "2026-08-18",
+    "listISO": "2026-08-21",
+    "prevPct": null,
+    "sub": {
+      "qib": 0,
+      "hni": 0,
+      "retail": 0,
+      "total": 0,
+      "day": 0
+    },
+    "upd": 0,
+    "new": true,
+    "actualList": null,
+    "issueSize": "-",
+    "infoUrl": "https://www.investorgain.com/gmp/skytech-infinite-platform-ipo/1997/",
+    "hasAnchor": false,
+    "readings": {}
+  },
+  {
+    "name": "Shankesh Jewellers",
+    "type": "MAINBOARD",
+    "status": "UPCOMING",
+    "band": [
+      0,
+      0
+    ],
+    "lot": 0,
+    "open": "18 Aug",
+    "close": "20 Aug",
+    "list": "25 Aug",
+    "openISO": "2026-08-18",
+    "closeISO": "2026-08-20",
+    "listISO": "2026-08-25",
+    "prevPct": null,
+    "sub": {
+      "qib": 0,
+      "hni": 0,
+      "retail": 0,
+      "total": 0,
+      "day": 0
+    },
+    "upd": 0,
+    "new": true,
+    "actualList": null,
+    "issueSize": "-",
+    "infoUrl": "https://www.investorgain.com/gmp/shankesh-jewellers-ipo/1932/",
+    "hasAnchor": true,
+    "readings": {}
+  },
+  {
     "name": "Lalithaa Jewellery Mart",
     "type": "MAINBOARD",
     "status": "UPCOMING",
@@ -153,7 +215,7 @@
     "openISO": "2026-08-12",
     "closeISO": "2026-08-14",
     "listISO": "2026-08-19",
-    "prevPct": 26.8,
+    "prevPct": 27.3,
     "sub": {
       "qib": 0,
       "hni": 0,
@@ -170,7 +232,7 @@
     "readings": {
       "investorgain": {
         "gmp": 27,
-        "pct": 27.3
+        "pct": 27.8
       }
     }
   },
@@ -189,7 +251,7 @@
     "openISO": "2026-08-12",
     "closeISO": "2026-08-14",
     "listISO": "2026-08-19",
-    "prevPct": 15.1,
+    "prevPct": 18.6,
     "sub": {
       "qib": 0,
       "hni": 0,
@@ -225,7 +287,7 @@
     "openISO": "2026-08-11",
     "closeISO": "2026-08-13",
     "listISO": "2026-08-18",
-    "prevPct": 18.9,
+    "prevPct": 17.9,
     "sub": {
       "qib": 0,
       "hni": 0,
@@ -241,8 +303,8 @@
     "hasAnchor": true,
     "readings": {
       "investorgain": {
-        "gmp": 25,
-        "pct": 17.9
+        "gmp": 24,
+        "pct": 16.8
       }
     }
   },
@@ -333,12 +395,12 @@
     "openISO": "2026-08-10",
     "closeISO": "2026-08-12",
     "listISO": "2026-08-17",
-    "prevPct": 30.3,
+    "prevPct": 31,
     "sub": {
       "qib": 0,
       "hni": 0,
       "retail": 0,
-      "total": 0.46,
+      "total": 0.62,
       "day": 1
     },
     "upd": 0,
@@ -349,8 +411,8 @@
     "hasAnchor": true,
     "readings": {
       "investorgain": {
-        "gmp": 270,
-        "pct": 31
+        "gmp": 268,
+        "pct": 30.8
       }
     }
   },
@@ -369,12 +431,12 @@
     "openISO": "2026-08-10",
     "closeISO": "2026-08-12",
     "listISO": "2026-08-17",
-    "prevPct": 14.9,
+    "prevPct": 15.5,
     "sub": {
       "qib": 0,
       "hni": 0,
       "retail": 0,
-      "total": 0.32,
+      "total": 0.83,
       "day": 1
     },
     "upd": 0,
@@ -385,8 +447,8 @@
     "hasAnchor": true,
     "readings": {
       "investorgain": {
-        "gmp": 125,
-        "pct": 15.5
+        "gmp": 135,
+        "pct": 16.7
       }
     }
   },
@@ -405,12 +467,12 @@
     "openISO": "2026-08-07",
     "closeISO": "2026-08-11",
     "listISO": "2026-08-14",
-    "prevPct": 6.9,
+    "prevPct": 8.2,
     "sub": {
       "qib": 0,
       "hni": 0,
       "retail": 0,
-      "total": 0.45,
+      "total": 0.52,
       "day": 3
     },
     "upd": 0,
@@ -422,7 +484,7 @@
     "readings": {
       "investorgain": {
         "gmp": 13,
-        "pct": 8.2
+        "pct": 7.9
       }
     }
   },
@@ -441,12 +503,12 @@
     "openISO": "2026-08-07",
     "closeISO": "2026-08-11",
     "listISO": "2026-08-14",
-    "prevPct": 12.3,
+    "prevPct": 13,
     "sub": {
       "qib": 0,
       "hni": 0,
       "retail": 0,
-      "total": 4.18,
+      "total": 4.74,
       "day": 3
     },
     "upd": 0,
@@ -457,8 +519,8 @@
     "hasAnchor": true,
     "readings": {
       "investorgain": {
-        "gmp": 28,
-        "pct": 13
+        "gmp": 27,
+        "pct": 12.7
       }
     }
   },
@@ -482,7 +544,7 @@
       "qib": 0,
       "hni": 0,
       "retail": 0,
-      "total": 0.73,
+      "total": 0.77,
       "day": 3
     },
     "upd": 0,
@@ -518,7 +580,7 @@
       "qib": 0,
       "hni": 0,
       "retail": 0,
-      "total": 291.66,
+      "total": 344.31,
       "day": 3
     },
     "upd": 0,
@@ -601,8 +663,8 @@
     "hasAnchor": true,
     "readings": {
       "investorgain": {
-        "gmp": 16,
-        "pct": 29.3
+        "gmp": 15,
+        "pct": 28.3
       }
     }
   },
@@ -1011,79 +1073,5 @@
       }
     },
     "lastGmpPct": 66.5
-  },
-  {
-    "name": "Propshop Events & Exhibitions",
-    "type": "SME",
-    "status": "LISTED",
-    "band": [
-      69,
-      69
-    ],
-    "lot": 2000,
-    "open": "27 Jul",
-    "close": "29 Jul",
-    "list": "3 Aug",
-    "openISO": "2026-07-27",
-    "closeISO": "2026-07-29",
-    "listISO": "2026-08-03",
-    "prevPct": 0,
-    "sub": {
-      "qib": 0,
-      "hni": 0,
-      "retail": 0,
-      "total": 1.53,
-      "day": 3
-    },
-    "upd": 0,
-    "new": false,
-    "actualList": null,
-    "issueSize": "₹28.57 Cr",
-    "infoUrl": "https://www.investorgain.com/gmp/propshop-events-exhibitions-ipo/1990/",
-    "hasAnchor": false,
-    "readings": {
-      "investorgain": {
-        "gmp": 0,
-        "pct": 0
-      }
-    },
-    "lastGmpPct": 0
-  },
-  {
-    "name": "Advance Technoforge",
-    "type": "SME",
-    "status": "LISTED",
-    "band": [
-      95,
-      95
-    ],
-    "lot": 1200,
-    "open": "27 Jul",
-    "close": "29 Jul",
-    "list": "3 Aug",
-    "openISO": "2026-07-27",
-    "closeISO": "2026-07-29",
-    "listISO": "2026-08-03",
-    "prevPct": 4.2,
-    "sub": {
-      "qib": 0,
-      "hni": 0,
-      "retail": 0,
-      "total": 1.55,
-      "day": 3
-    },
-    "upd": 0,
-    "new": false,
-    "actualList": null,
-    "issueSize": "₹24.04 Cr",
-    "infoUrl": "https://www.investorgain.com/gmp/advance-technoforge-ipo/1714/",
-    "hasAnchor": false,
-    "readings": {
-      "investorgain": {
-        "gmp": 4,
-        "pct": 4.2
-      }
-    },
-    "lastGmpPct": 4.2
   }
 ]
