@@ -1,36 +1,5 @@
 [
   {
-    "name": "Skytech Infinite Platform",
-    "type": "SME",
-    "status": "UPCOMING",
-    "band": [
-      0,
-      0
-    ],
-    "lot": 0,
-    "open": "14 Aug",
-    "close": "18 Aug",
-    "list": "21 Aug",
-    "openISO": "2026-08-14",
-    "closeISO": "2026-08-18",
-    "listISO": "2026-08-21",
-    "prevPct": null,
-    "sub": {
-      "qib": 0,
-      "hni": 0,
-      "retail": 0,
-      "total": 0,
-      "day": 0
-    },
-    "upd": 0,
-    "new": true,
-    "actualList": null,
-    "issueSize": "-",
-    "infoUrl": "https://www.investorgain.com/gmp/skytech-infinite-platform-ipo/1997/",
-    "hasAnchor": false,
-    "readings": {}
-  },
-  {
     "name": "Shankesh Jewellers",
     "type": "MAINBOARD",
     "status": "UPCOMING",
@@ -54,7 +23,7 @@
       "day": 0
     },
     "upd": 0,
-    "new": true,
+    "new": false,
     "actualList": null,
     "issueSize": "-",
     "infoUrl": "https://www.investorgain.com/gmp/shankesh-jewellers-ipo/1932/",
@@ -90,6 +59,37 @@
     "issueSize": "₹1700.00 Cr",
     "infoUrl": "https://www.investorgain.com/gmp/lalithaa-jewellery-mart-ipo/1799/",
     "hasAnchor": true,
+    "readings": {}
+  },
+  {
+    "name": "Skytech Infinite Platform",
+    "type": "SME",
+    "status": "UPCOMING",
+    "band": [
+      0,
+      0
+    ],
+    "lot": 0,
+    "open": "14 Aug",
+    "close": "18 Aug",
+    "list": "21 Aug",
+    "openISO": "2026-08-14",
+    "closeISO": "2026-08-18",
+    "listISO": "2026-08-21",
+    "prevPct": null,
+    "sub": {
+      "qib": 0,
+      "hni": 0,
+      "retail": 0,
+      "total": 0,
+      "day": 0
+    },
+    "upd": 0,
+    "new": false,
+    "actualList": null,
+    "issueSize": "-",
+    "infoUrl": "https://www.investorgain.com/gmp/skytech-infinite-platform-ipo/1997/",
+    "hasAnchor": false,
     "readings": {}
   },
   {
@@ -201,42 +201,6 @@
     }
   },
   {
-    "name": "Shiprocket",
-    "type": "MAINBOARD",
-    "status": "UPCOMING",
-    "band": [
-      97,
-      97
-    ],
-    "lot": 154,
-    "open": "12 Aug",
-    "close": "14 Aug",
-    "list": "19 Aug",
-    "openISO": "2026-08-12",
-    "closeISO": "2026-08-14",
-    "listISO": "2026-08-19",
-    "prevPct": 27.3,
-    "sub": {
-      "qib": 0,
-      "hni": 0,
-      "retail": 0,
-      "total": 0,
-      "day": 0
-    },
-    "upd": 0,
-    "new": false,
-    "actualList": null,
-    "issueSize": "₹1617.48 Cr",
-    "infoUrl": "https://www.investorgain.com/gmp/shiprocket-ipo/1790/",
-    "hasAnchor": true,
-    "readings": {
-      "investorgain": {
-        "gmp": 27,
-        "pct": 27.8
-      }
-    }
-  },
-  {
     "name": "Behari Lal Engineering",
     "type": "MAINBOARD",
     "status": "UPCOMING",
@@ -273,21 +237,21 @@
     }
   },
   {
-    "name": "Milky Mist Dairy Food",
+    "name": "Shiprocket",
     "type": "MAINBOARD",
     "status": "UPCOMING",
     "band": [
-      140,
-      140
+      97,
+      97
     ],
-    "lot": 107,
-    "open": "11 Aug",
-    "close": "13 Aug",
-    "list": "18 Aug",
-    "openISO": "2026-08-11",
-    "closeISO": "2026-08-13",
-    "listISO": "2026-08-18",
-    "prevPct": 17.9,
+    "lot": 154,
+    "open": "12 Aug",
+    "close": "14 Aug",
+    "list": "19 Aug",
+    "openISO": "2026-08-12",
+    "closeISO": "2026-08-14",
+    "listISO": "2026-08-19",
+    "prevPct": 27.8,
     "sub": {
       "qib": 0,
       "hni": 0,
@@ -298,13 +262,13 @@
     "upd": 0,
     "new": false,
     "actualList": null,
-    "issueSize": "₹1553.00 Cr",
-    "infoUrl": "https://www.investorgain.com/gmp/milky-mist-dairy-food-ipo/1838/",
+    "issueSize": "₹1617.48 Cr",
+    "infoUrl": "https://www.investorgain.com/gmp/shiprocket-ipo/1790/",
     "hasAnchor": true,
     "readings": {
       "investorgain": {
-        "gmp": 24,
-        "pct": 16.8
+        "gmp": 27,
+        "pct": 27.8
       }
     }
   },
@@ -381,6 +345,42 @@
     }
   },
   {
+    "name": "Milky Mist Dairy Food",
+    "type": "MAINBOARD",
+    "status": "UPCOMING",
+    "band": [
+      140,
+      140
+    ],
+    "lot": 107,
+    "open": "11 Aug",
+    "close": "13 Aug",
+    "list": "18 Aug",
+    "openISO": "2026-08-11",
+    "closeISO": "2026-08-13",
+    "listISO": "2026-08-18",
+    "prevPct": 16.8,
+    "sub": {
+      "qib": 0,
+      "hni": 0,
+      "retail": 0,
+      "total": 0,
+      "day": 0
+    },
+    "upd": 0,
+    "new": false,
+    "actualList": null,
+    "issueSize": "₹1553.00 Cr",
+    "infoUrl": "https://www.investorgain.com/gmp/milky-mist-dairy-food-ipo/1838/",
+    "hasAnchor": true,
+    "readings": {
+      "investorgain": {
+        "gmp": 21,
+        "pct": 14.6
+      }
+    }
+  },
+  {
     "name": "Dhoot Transmission",
     "type": "MAINBOARD",
     "status": "OPEN",
@@ -395,7 +395,7 @@
     "openISO": "2026-08-10",
     "closeISO": "2026-08-12",
     "listISO": "2026-08-17",
-    "prevPct": 31,
+    "prevPct": 30.8,
     "sub": {
       "qib": 0,
       "hni": 0,
@@ -411,8 +411,8 @@
     "hasAnchor": true,
     "readings": {
       "investorgain": {
-        "gmp": 268,
-        "pct": 30.8
+        "gmp": 250,
+        "pct": 28.7
       }
     }
   },
@@ -431,7 +431,7 @@
     "openISO": "2026-08-10",
     "closeISO": "2026-08-12",
     "listISO": "2026-08-17",
-    "prevPct": 15.5,
+    "prevPct": 16.7,
     "sub": {
       "qib": 0,
       "hni": 0,
@@ -447,80 +447,8 @@
     "hasAnchor": true,
     "readings": {
       "investorgain": {
-        "gmp": 135,
-        "pct": 16.7
-      }
-    }
-  },
-  {
-    "name": "LEAP India",
-    "type": "MAINBOARD",
-    "status": "OPEN",
-    "band": [
-      159,
-      159
-    ],
-    "lot": 94,
-    "open": "7 Aug",
-    "close": "11 Aug",
-    "list": "14 Aug",
-    "openISO": "2026-08-07",
-    "closeISO": "2026-08-11",
-    "listISO": "2026-08-14",
-    "prevPct": 8.2,
-    "sub": {
-      "qib": 0,
-      "hni": 0,
-      "retail": 0,
-      "total": 0.52,
-      "day": 3
-    },
-    "upd": 0,
-    "new": false,
-    "actualList": null,
-    "issueSize": "₹2480.00 Cr",
-    "infoUrl": "https://www.investorgain.com/gmp/leap-india-ipo/1868/",
-    "hasAnchor": true,
-    "readings": {
-      "investorgain": {
-        "gmp": 13,
-        "pct": 7.9
-      }
-    }
-  },
-  {
-    "name": "Technocraft Ventures",
-    "type": "MAINBOARD",
-    "status": "OPEN",
-    "band": [
-      212,
-      212
-    ],
-    "lot": 70,
-    "open": "7 Aug",
-    "close": "11 Aug",
-    "list": "14 Aug",
-    "openISO": "2026-08-07",
-    "closeISO": "2026-08-11",
-    "listISO": "2026-08-14",
-    "prevPct": 13,
-    "sub": {
-      "qib": 0,
-      "hni": 0,
-      "retail": 0,
-      "total": 4.74,
-      "day": 3
-    },
-    "upd": 0,
-    "new": false,
-    "actualList": null,
-    "issueSize": "₹251.88 Cr",
-    "infoUrl": "https://www.investorgain.com/gmp/technocraft-ventures-ipo/1854/",
-    "hasAnchor": true,
-    "readings": {
-      "investorgain": {
-        "gmp": 27,
-        "pct": 12.7
+        "gmp": 127,
+        "pct": 15.7
       }
     }
   },
@@ -557,6 +485,78 @@
       "investorgain": {
         "gmp": 5,
         "pct": 2.9
+      }
+    }
+  },
+  {
+    "name": "Technocraft Ventures",
+    "type": "MAINBOARD",
+    "status": "OPEN",
+    "band": [
+      212,
+      212
+    ],
+    "lot": 70,
+    "open": "7 Aug",
+    "close": "11 Aug",
+    "list": "14 Aug",
+    "openISO": "2026-08-07",
+    "closeISO": "2026-08-11",
+    "listISO": "2026-08-14",
+    "prevPct": 12.7,
+    "sub": {
+      "qib": 0,
+      "hni": 0,
+      "retail": 0,
+      "total": 4.74,
+      "day": 3
+    },
+    "upd": 0,
+    "new": false,
+    "actualList": null,
+    "issueSize": "₹251.88 Cr",
+    "infoUrl": "https://www.investorgain.com/gmp/technocraft-ventures-ipo/1854/",
+    "hasAnchor": true,
+    "readings": {
+      "investorgain": {
+        "gmp": 29,
+        "pct": 13.7
+      }
+    }
+  },
+  {
+    "name": "LEAP India",
+    "type": "MAINBOARD",
+    "status": "OPEN",
+    "band": [
+      159,
+      159
+    ],
+    "lot": 94,
+    "open": "7 Aug",
+    "close": "11 Aug",
+    "list": "14 Aug",
+    "openISO": "2026-08-07",
+    "closeISO": "2026-08-11",
+    "listISO": "2026-08-14",
+    "prevPct": 7.9,
+    "sub": {
+      "qib": 0,
+      "hni": 0,
+      "retail": 0,
+      "total": 0.52,
+      "day": 3
+    },
+    "upd": 0,
+    "new": false,
+    "actualList": null,
+    "issueSize": "₹2480.00 Cr",
+    "infoUrl": "https://www.investorgain.com/gmp/leap-india-ipo/1868/",
+    "hasAnchor": true,
+    "readings": {
+      "investorgain": {
+        "gmp": 13,
+        "pct": 8.2
       }
     }
   },
@@ -627,8 +627,8 @@
     "hasAnchor": true,
     "readings": {
       "investorgain": {
-        "gmp": 26,
-        "pct": 20
+        "gmp": 25,
+        "pct": 19.2
       }
     }
   },
@@ -647,7 +647,7 @@
     "openISO": "2026-08-05",
     "closeISO": "2026-08-07",
     "listISO": "2026-08-12",
-    "prevPct": 29.3,
+    "prevPct": 28.3,
     "sub": {
       "qib": 0,
       "hni": 0,
@@ -664,7 +664,7 @@
     "readings": {
       "investorgain": {
         "gmp": 15,
-        "pct": 28.3
+        "pct": 27.4
       }
     }
   },
@@ -816,43 +816,6 @@
     "lastGmpPct": 0
   },
   {
-    "name": "Juniper Green Energy",
-    "type": "MAINBOARD",
-    "status": "LISTED",
-    "band": [
-      225,
-      225
-    ],
-    "lot": 66,
-    "open": "30 Jul",
-    "close": "3 Aug",
-    "list": "6 Aug",
-    "openISO": "2026-07-30",
-    "closeISO": "2026-08-03",
-    "listISO": "2026-08-06",
-    "prevPct": 10.2,
-    "sub": {
-      "qib": 0,
-      "hni": 0,
-      "retail": 0,
-      "total": 8.38,
-      "day": 3
-    },
-    "upd": 0,
-    "new": false,
-    "actualList": null,
-    "issueSize": "₹1800.00 Cr",
-    "infoUrl": "https://www.investorgain.com/gmp/juniper-green-energy-ipo/1809/",
-    "hasAnchor": true,
-    "readings": {
-      "investorgain": {
-        "gmp": 23,
-        "pct": 10.2
-      }
-    },
-    "lastGmpPct": 10.2
-  },
-  {
     "name": "Oneindig Technologies",
     "type": "SME",
     "status": "LISTED",
@@ -890,41 +853,41 @@
     "lastGmpPct": 7.3
   },
   {
-    "name": "Dhaval Packaging",
-    "type": "SME",
+    "name": "Juniper Green Energy",
+    "type": "MAINBOARD",
     "status": "LISTED",
     "band": [
-      97,
-      97
+      225,
+      225
     ],
-    "lot": 1200,
+    "lot": 66,
     "open": "30 Jul",
     "close": "3 Aug",
     "list": "6 Aug",
     "openISO": "2026-07-30",
     "closeISO": "2026-08-03",
     "listISO": "2026-08-06",
-    "prevPct": 12.4,
+    "prevPct": 10.2,
     "sub": {
       "qib": 0,
       "hni": 0,
       "retail": 0,
-      "total": 49.99,
+      "total": 8.38,
       "day": 3
     },
     "upd": 0,
     "new": false,
     "actualList": null,
-    "issueSize": "₹36.36 Cr",
-    "infoUrl": "https://www.investorgain.com/gmp/dhaval-packaging-ipo/2087/",
+    "issueSize": "₹1800.00 Cr",
+    "infoUrl": "https://www.investorgain.com/gmp/juniper-green-energy-ipo/1809/",
     "hasAnchor": true,
     "readings": {
       "investorgain": {
-        "gmp": 12,
-        "pct": 12.4
+        "gmp": 23,
+        "pct": 10.2
       }
     },
-    "lastGmpPct": 12.4
+    "lastGmpPct": 10.2
   },
   {
     "name": "MV Electrosystems",
@@ -962,6 +925,43 @@
       }
     },
     "lastGmpPct": 25.6
+  },
+  {
+    "name": "Dhaval Packaging",
+    "type": "SME",
+    "status": "LISTED",
+    "band": [
+      97,
+      97
+    ],
+    "lot": 1200,
+    "open": "30 Jul",
+    "close": "3 Aug",
+    "list": "6 Aug",
+    "openISO": "2026-07-30",
+    "closeISO": "2026-08-03",
+    "listISO": "2026-08-06",
+    "prevPct": 12.4,
+    "sub": {
+      "qib": 0,
+      "hni": 0,
+      "retail": 0,
+      "total": 49.99,
+      "day": 3
+    },
+    "upd": 0,
+    "new": false,
+    "actualList": null,
+    "issueSize": "₹36.36 Cr",
+    "infoUrl": "https://www.investorgain.com/gmp/dhaval-packaging-ipo/2087/",
+    "hasAnchor": true,
+    "readings": {
+      "investorgain": {
+        "gmp": 12,
+        "pct": 12.4
+      }
+    },
+    "lastGmpPct": 12.4
   },
   {
     "name": "H.R. Hygiene Products",
