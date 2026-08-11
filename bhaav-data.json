@@ -275,7 +275,7 @@
   {
     "name": "Sham Foam",
     "type": "SME",
-    "status": "UPCOMING",
+    "status": "OPEN",
     "band": [
       130,
       130
@@ -293,7 +293,7 @@
       "hni": 0,
       "retail": 0,
       "total": 0,
-      "day": 0
+      "day": 1
     },
     "upd": 0,
     "new": false,
@@ -311,7 +311,7 @@
   {
     "name": "Fascinate Textiles",
     "type": "SME",
-    "status": "UPCOMING",
+    "status": "OPEN",
     "band": [
       156,
       156
@@ -329,7 +329,7 @@
       "hni": 0,
       "retail": 0,
       "total": 0,
-      "day": 0
+      "day": 1
     },
     "upd": 0,
     "new": false,
@@ -347,7 +347,7 @@
   {
     "name": "Milky Mist Dairy Food",
     "type": "MAINBOARD",
-    "status": "UPCOMING",
+    "status": "OPEN",
     "band": [
       140,
       140
@@ -365,7 +365,7 @@
       "hni": 0,
       "retail": 0,
       "total": 0,
-      "day": 0
+      "day": 1
     },
     "upd": 0,
     "new": false,
@@ -401,7 +401,7 @@
       "hni": 0,
       "retail": 0,
       "total": 0.62,
-      "day": 1
+      "day": 2
     },
     "upd": 0,
     "new": false,
@@ -437,7 +437,7 @@
       "hni": 0,
       "retail": 0,
       "total": 0.83,
-      "day": 1
+      "day": 2
     },
     "upd": 0,
     "new": false,
@@ -563,7 +563,7 @@
   {
     "name": "LAPL Automotive",
     "type": "SME",
-    "status": "OPEN",
+    "status": "CLOSED",
     "band": [
       94,
       94
@@ -671,7 +671,7 @@
   {
     "name": "Aegeus Technologies",
     "type": "SME",
-    "status": "CLOSED",
+    "status": "LISTED",
     "band": [
       105,
       105
@@ -702,7 +702,8 @@
         "gmp": 12,
         "pct": 11.4
       }
-    }
+    },
+    "lastGmpPct": 11.4
   },
   {
     "name": "Cube Highways Trust InvIT",
