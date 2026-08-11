@@ -86,7 +86,7 @@
     "openISO": "2026-08-17",
     "closeISO": "2026-08-19",
     "listISO": "2026-08-24",
-    "prevPct": 0,
+    "prevPct": 8.5,
     "sub": {
       "qib": 0,
       "hni": 0,
@@ -266,7 +266,7 @@
     "openISO": "2026-08-12",
     "closeISO": "2026-08-14",
     "listISO": "2026-08-19",
-    "prevPct": 13,
+    "prevPct": 18.3,
     "sub": {
       "qib": 0,
       "hni": 0,
@@ -338,7 +338,7 @@
     "openISO": "2026-08-12",
     "closeISO": "2026-08-14",
     "listISO": "2026-08-19",
-    "prevPct": 18.9,
+    "prevPct": 23.5,
     "sub": {
       "qib": 0,
       "hni": 0,
@@ -374,7 +374,7 @@
     "openISO": "2026-08-12",
     "closeISO": "2026-08-14",
     "listISO": "2026-08-19",
-    "prevPct": 28.9,
+    "prevPct": 30.9,
     "sub": {
       "qib": 0,
       "hni": 0,
@@ -626,7 +626,7 @@
     "openISO": "2026-08-07",
     "closeISO": "2026-08-11",
     "listISO": "2026-08-14",
-    "prevPct": 7.5,
+    "prevPct": 8.2,
     "sub": {
       "qib": 0,
       "hni": 0,
@@ -698,7 +698,7 @@
     "openISO": "2026-08-06",
     "closeISO": "2026-08-10",
     "listISO": "2026-08-13",
-    "prevPct": 41.5,
+    "prevPct": 50,
     "sub": {
       "qib": 0,
       "hni": 0,
@@ -770,7 +770,7 @@
     "openISO": "2026-08-05",
     "closeISO": "2026-08-07",
     "listISO": "2026-08-12",
-    "prevPct": 27.4,
+    "prevPct": 32.1,
     "sub": {
       "qib": 0,
       "hni": 0,
