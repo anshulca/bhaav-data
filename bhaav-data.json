@@ -72,6 +72,42 @@
     }
   },
   {
+    "name": "Horizon Industrial Parks",
+    "type": "MAINBOARD",
+    "status": "UPCOMING",
+    "band": [
+      60,
+      60
+    ],
+    "lot": 250,
+    "open": "17 Aug",
+    "close": "19 Aug",
+    "list": "24 Aug",
+    "openISO": "2026-08-17",
+    "closeISO": "2026-08-19",
+    "listISO": "2026-08-24",
+    "prevPct": 0,
+    "sub": {
+      "qib": 0,
+      "hni": 0,
+      "retail": 0,
+      "total": 0,
+      "day": 0
+    },
+    "upd": 0,
+    "new": true,
+    "actualList": null,
+    "issueSize": "₹2600.00 Cr",
+    "infoUrl": "https://www.investorgain.com/gmp/horizon-industrial-parks-ipo/2080/",
+    "hasAnchor": true,
+    "readings": {
+      "investorgain": {
+        "gmp": 0,
+        "pct": 0
+      }
+    }
+  },
+  {
     "name": "Lalithaa Jewellery Mart",
     "type": "MAINBOARD",
     "status": "UPCOMING",
@@ -102,8 +138,8 @@
     "hasAnchor": true,
     "readings": {
       "investorgain": {
-        "gmp": 17,
-        "pct": 8.5
+        "gmp": 21,
+        "pct": 10.4
       }
     }
   },
@@ -210,8 +246,8 @@
     "hasAnchor": true,
     "readings": {
       "investorgain": {
-        "gmp": 29,
-        "pct": 22
+        "gmp": 0,
+        "pct": 0
       }
     }
   },
@@ -254,7 +290,7 @@
   {
     "name": "Q&T Foods",
     "type": "SME",
-    "status": "UPCOMING",
+    "status": "OPEN",
     "band": [
       115,
       115
@@ -271,8 +307,8 @@
       "qib": 0,
       "hni": 0,
       "retail": 0,
-      "total": 0,
-      "day": 0
+      "total": 0.04,
+      "day": 1
     },
     "upd": 0,
     "new": false,
@@ -290,7 +326,7 @@
   {
     "name": "Pramodini Medicare",
     "type": "SME",
-    "status": "UPCOMING",
+    "status": "OPEN",
     "band": [
       118,
       118
@@ -307,8 +343,8 @@
       "qib": 0,
       "hni": 0,
       "retail": 0,
-      "total": 0,
-      "day": 0
+      "total": 0.02,
+      "day": 1
     },
     "upd": 0,
     "new": false,
@@ -326,7 +362,7 @@
   {
     "name": "Behari Lal Engineering",
     "type": "MAINBOARD",
-    "status": "UPCOMING",
+    "status": "OPEN",
     "band": [
       285,
       285
@@ -343,8 +379,8 @@
       "qib": 0,
       "hni": 0,
       "retail": 0,
-      "total": 0,
-      "day": 0
+      "total": 0.16,
+      "day": 1
     },
     "upd": 0,
     "new": false,
@@ -362,7 +398,7 @@
   {
     "name": "Shiprocket",
     "type": "MAINBOARD",
-    "status": "UPCOMING",
+    "status": "OPEN",
     "band": [
       97,
       97
@@ -379,8 +415,8 @@
       "qib": 0,
       "hni": 0,
       "retail": 0,
-      "total": 0,
-      "day": 0
+      "total": 0.08,
+      "day": 1
     },
     "upd": 0,
     "new": false,
@@ -390,8 +426,8 @@
     "hasAnchor": true,
     "readings": {
       "investorgain": {
-        "gmp": 30,
-        "pct": 30.9
+        "gmp": 31,
+        "pct": 32
       }
     }
   },
@@ -415,8 +451,8 @@
       "qib": 0,
       "hni": 0,
       "retail": 0,
-      "total": 0.05,
-      "day": 1
+      "total": 0.07,
+      "day": 2
     },
     "upd": 0,
     "new": false,
@@ -451,8 +487,8 @@
       "qib": 0,
       "hni": 0,
       "retail": 0,
-      "total": 0.84,
-      "day": 1
+      "total": 1.03,
+      "day": 2
     },
     "upd": 0,
     "new": false,
@@ -487,8 +523,8 @@
       "qib": 0,
       "hni": 0,
       "retail": 0,
-      "total": 0.02,
-      "day": 1
+      "total": 0.03,
+      "day": 2
     },
     "upd": 0,
     "new": false,
@@ -523,8 +559,8 @@
       "qib": 0,
       "hni": 0,
       "retail": 0,
-      "total": 2.95,
-      "day": 2
+      "total": 4.19,
+      "day": 3
     },
     "upd": 0,
     "new": false,
@@ -534,8 +570,8 @@
     "hasAnchor": true,
     "readings": {
       "investorgain": {
-        "gmp": 138,
-        "pct": 17.1
+        "gmp": 139,
+        "pct": 17.2
       }
     }
   },
@@ -559,8 +595,8 @@
       "qib": 0,
       "hni": 0,
       "retail": 0,
-      "total": 3.99,
-      "day": 2
+      "total": 5.06,
+      "day": 3
     },
     "upd": 0,
     "new": false,
@@ -570,15 +606,15 @@
     "hasAnchor": true,
     "readings": {
       "investorgain": {
-        "gmp": 255,
-        "pct": 29.3
+        "gmp": 258,
+        "pct": 29.6
       }
     }
   },
   {
     "name": "Optimystix Entertainment",
     "type": "SME",
-    "status": "OPEN",
+    "status": "CLOSED",
     "band": [
       175,
       175
@@ -614,7 +650,7 @@
   {
     "name": "LEAP India",
     "type": "MAINBOARD",
-    "status": "OPEN",
+    "status": "CLOSED",
     "band": [
       159,
       159
@@ -650,7 +686,7 @@
   {
     "name": "Technocraft Ventures",
     "type": "MAINBOARD",
-    "status": "OPEN",
+    "status": "CLOSED",
     "band": [
       212,
       212
@@ -678,8 +714,8 @@
     "hasAnchor": true,
     "readings": {
       "investorgain": {
-        "gmp": 29,
-        "pct": 13.7
+        "gmp": 27,
+        "pct": 12.7
       }
     }
   },
@@ -722,7 +758,7 @@
   {
     "name": "G.V. Electricals",
     "type": "SME",
-    "status": "CLOSED",
+    "status": "LISTED",
     "band": [
       130,
       130
@@ -753,12 +789,13 @@
         "gmp": 25,
         "pct": 19.2
       }
-    }
+    },
+    "lastGmpPct": 19.2
   },
   {
     "name": "Ardee Industries",
     "type": "MAINBOARD",
-    "status": "CLOSED",
+    "status": "LISTED",
     "band": [
       53,
       53
@@ -789,44 +826,8 @@
         "gmp": 17,
         "pct": 32.1
       }
-    }
-  },
-  {
-    "name": "Cube Highways Trust InvIT",
-    "type": "MAINBOARD",
-    "status": "LISTED",
-    "band": [
-      152,
-      152
-    ],
-    "lot": 95,
-    "open": "22 Jul",
-    "close": "24 Jul",
-    "list": "31 Jul",
-    "openISO": "2026-07-22",
-    "closeISO": "2026-07-24",
-    "listISO": "2026-07-31",
-    "prevPct": 1.1,
-    "sub": {
-      "qib": 0,
-      "hni": 0,
-      "retail": 0,
-      "total": 9.35,
-      "day": 3
     },
-    "upd": 0,
-    "new": false,
-    "actualList": null,
-    "issueSize": "₹5000.00 Cr",
-    "infoUrl": "https://www.investorgain.com/gmp/cube-highways-trust-invit/2346/",
-    "hasAnchor": true,
-    "readings": {
-      "investorgain": {
-        "gmp": 2,
-        "pct": 1.1
-      }
-    },
-    "lastGmpPct": 1.1
+    "lastGmpPct": 32.1
   },
   {
     "name": "Aegeus Technologies",
@@ -940,43 +941,6 @@
     "lastGmpPct": 0
   },
   {
-    "name": "Dhaval Packaging",
-    "type": "SME",
-    "status": "LISTED",
-    "band": [
-      97,
-      97
-    ],
-    "lot": 1200,
-    "open": "30 Jul",
-    "close": "3 Aug",
-    "list": "6 Aug",
-    "openISO": "2026-07-30",
-    "closeISO": "2026-08-03",
-    "listISO": "2026-08-06",
-    "prevPct": 12.4,
-    "sub": {
-      "qib": 0,
-      "hni": 0,
-      "retail": 0,
-      "total": 49.99,
-      "day": 3
-    },
-    "upd": 0,
-    "new": false,
-    "actualList": null,
-    "issueSize": "₹36.36 Cr",
-    "infoUrl": "https://www.investorgain.com/gmp/dhaval-packaging-ipo/2087/",
-    "hasAnchor": true,
-    "readings": {
-      "investorgain": {
-        "gmp": 12,
-        "pct": 12.4
-      }
-    },
-    "lastGmpPct": 12.4
-  },
-  {
     "name": "MV Electrosystems",
     "type": "MAINBOARD",
     "status": "LISTED",
@@ -1049,6 +1013,43 @@
       }
     },
     "lastGmpPct": 10.2
+  },
+  {
+    "name": "Dhaval Packaging",
+    "type": "SME",
+    "status": "LISTED",
+    "band": [
+      97,
+      97
+    ],
+    "lot": 1200,
+    "open": "30 Jul",
+    "close": "3 Aug",
+    "list": "6 Aug",
+    "openISO": "2026-07-30",
+    "closeISO": "2026-08-03",
+    "listISO": "2026-08-06",
+    "prevPct": 12.4,
+    "sub": {
+      "qib": 0,
+      "hni": 0,
+      "retail": 0,
+      "total": 49.99,
+      "day": 3
+    },
+    "upd": 0,
+    "new": false,
+    "actualList": null,
+    "issueSize": "₹36.36 Cr",
+    "infoUrl": "https://www.investorgain.com/gmp/dhaval-packaging-ipo/2087/",
+    "hasAnchor": true,
+    "readings": {
+      "investorgain": {
+        "gmp": 12,
+        "pct": 12.4
+      }
+    },
+    "lastGmpPct": 12.4
   },
   {
     "name": "Oneindig Technologies",
