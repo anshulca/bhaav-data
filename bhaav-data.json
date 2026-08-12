@@ -138,8 +138,8 @@
     "hasAnchor": true,
     "readings": {
       "investorgain": {
-        "gmp": 21,
-        "pct": 10.4
+        "gmp": 27,
+        "pct": 13.4
       }
     }
   },
@@ -307,7 +307,7 @@
       "qib": 0,
       "hni": 0,
       "retail": 0,
-      "total": 0.38,
+      "total": 0.43,
       "day": 1
     },
     "upd": 0,
@@ -343,7 +343,7 @@
       "qib": 0,
       "hni": 0,
       "retail": 0,
-      "total": 0.64,
+      "total": 0.66,
       "day": 1
     },
     "upd": 0,
@@ -379,7 +379,7 @@
       "qib": 0,
       "hni": 0,
       "retail": 0,
-      "total": 1.35,
+      "total": 1.49,
       "day": 1
     },
     "upd": 0,
@@ -390,8 +390,8 @@
     "hasAnchor": true,
     "readings": {
       "investorgain": {
-        "gmp": 68,
-        "pct": 23.9
+        "gmp": 70,
+        "pct": 24.6
       }
     }
   },
@@ -415,7 +415,7 @@
       "qib": 0,
       "hni": 0,
       "retail": 0,
-      "total": 0.63,
+      "total": 0.69,
       "day": 1
     },
     "upd": 0,
@@ -451,7 +451,7 @@
       "qib": 0,
       "hni": 0,
       "retail": 0,
-      "total": 0.1,
+      "total": 0.11,
       "day": 2
     },
     "upd": 0,
@@ -487,7 +487,7 @@
       "qib": 0,
       "hni": 0,
       "retail": 0,
-      "total": 1.81,
+      "total": 1.89,
       "day": 2
     },
     "upd": 0,
@@ -523,7 +523,7 @@
       "qib": 0,
       "hni": 0,
       "retail": 0,
-      "total": 0.07,
+      "total": 0.08,
       "day": 2
     },
     "upd": 0,
@@ -559,7 +559,7 @@
       "qib": 0,
       "hni": 0,
       "retail": 0,
-      "total": 19.6,
+      "total": 29.05,
       "day": 3
     },
     "upd": 0,
@@ -570,8 +570,8 @@
     "hasAnchor": true,
     "readings": {
       "investorgain": {
-        "gmp": 135,
-        "pct": 16.7
+        "gmp": 136,
+        "pct": 16.9
       }
     }
   },
@@ -595,7 +595,7 @@
       "qib": 0,
       "hni": 0,
       "retail": 0,
-      "total": 19.61,
+      "total": 25.51,
       "day": 3
     },
     "upd": 0,
@@ -606,8 +606,8 @@
     "hasAnchor": true,
     "readings": {
       "investorgain": {
-        "gmp": 245,
-        "pct": 28.1
+        "gmp": 238,
+        "pct": 27.3
       }
     }
   },
