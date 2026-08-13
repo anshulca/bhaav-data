@@ -1,5 +1,41 @@
 [
   {
+    "name": "Gaja Alternative Asset Management",
+    "type": "MAINBOARD",
+    "status": "UPCOMING",
+    "band": [
+      160,
+      160
+    ],
+    "lot": 93,
+    "open": "19 Aug",
+    "close": "21 Aug",
+    "list": "26 Aug",
+    "openISO": "2026-08-19",
+    "closeISO": "2026-08-21",
+    "listISO": "2026-08-26",
+    "prevPct": 0,
+    "sub": {
+      "qib": 0,
+      "hni": 0,
+      "retail": 0,
+      "total": 0,
+      "day": 0
+    },
+    "upd": 0,
+    "new": true,
+    "actualList": null,
+    "issueSize": "₹550.00 Cr",
+    "infoUrl": "https://www.investorgain.com/gmp/gaja-alternative-asset-management-ipo/1828/",
+    "hasAnchor": true,
+    "readings": {
+      "investorgain": {
+        "gmp": 0,
+        "pct": 0
+      }
+    }
+  },
+  {
     "name": "Shankesh Jewellers",
     "type": "MAINBOARD",
     "status": "UPCOMING",
@@ -66,8 +102,8 @@
     "hasAnchor": true,
     "readings": {
       "investorgain": {
-        "gmp": 17,
-        "pct": 4.7
+        "gmp": 19,
+        "pct": 5.3
       }
     }
   },
@@ -144,42 +180,6 @@
     }
   },
   {
-    "name": "ENS Enterprises",
-    "type": "SME",
-    "status": "UPCOMING",
-    "band": [
-      92,
-      92
-    ],
-    "lot": 1200,
-    "open": "14 Aug",
-    "close": "18 Aug",
-    "list": "21 Aug",
-    "openISO": "2026-08-14",
-    "closeISO": "2026-08-18",
-    "listISO": "2026-08-21",
-    "prevPct": 0,
-    "sub": {
-      "qib": 0,
-      "hni": 0,
-      "retail": 0,
-      "total": 0,
-      "day": 0
-    },
-    "upd": 0,
-    "new": false,
-    "actualList": null,
-    "issueSize": "₹33.14 Cr",
-    "infoUrl": "https://www.investorgain.com/gmp/ens-enterprises-ipo/2046/",
-    "hasAnchor": true,
-    "readings": {
-      "investorgain": {
-        "gmp": 0,
-        "pct": 0
-      }
-    }
-  },
-  {
     "name": "Skytech Infinite Platform",
     "type": "SME",
     "status": "UPCOMING",
@@ -246,15 +246,51 @@
     "hasAnchor": true,
     "readings": {
       "investorgain": {
-        "gmp": 12,
-        "pct": 9.1
+        "gmp": 18,
+        "pct": 13.6
+      }
+    }
+  },
+  {
+    "name": "ENS Enterprises",
+    "type": "SME",
+    "status": "UPCOMING",
+    "band": [
+      92,
+      92
+    ],
+    "lot": 1200,
+    "open": "14 Aug",
+    "close": "18 Aug",
+    "list": "21 Aug",
+    "openISO": "2026-08-14",
+    "closeISO": "2026-08-18",
+    "listISO": "2026-08-21",
+    "prevPct": 0,
+    "sub": {
+      "qib": 0,
+      "hni": 0,
+      "retail": 0,
+      "total": 0,
+      "day": 0
+    },
+    "upd": 0,
+    "new": false,
+    "actualList": null,
+    "issueSize": "₹33.14 Cr",
+    "infoUrl": "https://www.investorgain.com/gmp/ens-enterprises-ipo/2046/",
+    "hasAnchor": true,
+    "readings": {
+      "investorgain": {
+        "gmp": 0,
+        "pct": 0
       }
     }
   },
   {
     "name": "Credent Connect",
     "type": "SME",
-    "status": "UPCOMING",
+    "status": "OPEN",
     "band": [
       189,
       189
@@ -271,8 +307,8 @@
       "qib": 0,
       "hni": 0,
       "retail": 0,
-      "total": 0,
-      "day": 0
+      "total": 0.48,
+      "day": 1
     },
     "upd": 0,
     "new": false,
@@ -284,114 +320,6 @@
       "investorgain": {
         "gmp": 50,
         "pct": 26.5
-      }
-    }
-  },
-  {
-    "name": "Q&T Foods",
-    "type": "SME",
-    "status": "OPEN",
-    "band": [
-      115,
-      115
-    ],
-    "lot": 1200,
-    "open": "12 Aug",
-    "close": "14 Aug",
-    "list": "19 Aug",
-    "openISO": "2026-08-12",
-    "closeISO": "2026-08-14",
-    "listISO": "2026-08-19",
-    "prevPct": 8.7,
-    "sub": {
-      "qib": 0,
-      "hni": 0,
-      "retail": 0,
-      "total": 0.63,
-      "day": 1
-    },
-    "upd": 0,
-    "new": false,
-    "actualList": null,
-    "issueSize": "₹26.25 Cr",
-    "infoUrl": "https://www.investorgain.com/gmp/qt-foods-ipo/2299/",
-    "hasAnchor": false,
-    "readings": {
-      "investorgain": {
-        "gmp": 10,
-        "pct": 8.7
-      }
-    }
-  },
-  {
-    "name": "Pramodini Medicare",
-    "type": "SME",
-    "status": "OPEN",
-    "band": [
-      118,
-      118
-    ],
-    "lot": 1200,
-    "open": "12 Aug",
-    "close": "14 Aug",
-    "list": "19 Aug",
-    "openISO": "2026-08-12",
-    "closeISO": "2026-08-14",
-    "listISO": "2026-08-19",
-    "prevPct": 0,
-    "sub": {
-      "qib": 0,
-      "hni": 0,
-      "retail": 0,
-      "total": 0.75,
-      "day": 1
-    },
-    "upd": 0,
-    "new": false,
-    "actualList": null,
-    "issueSize": "₹69.04 Cr",
-    "infoUrl": "https://www.investorgain.com/gmp/pramodini-medicare-ipo/2275/",
-    "hasAnchor": true,
-    "readings": {
-      "investorgain": {
-        "gmp": 0,
-        "pct": 0
-      }
-    }
-  },
-  {
-    "name": "Behari Lal Engineering",
-    "type": "MAINBOARD",
-    "status": "OPEN",
-    "band": [
-      285,
-      285
-    ],
-    "lot": 52,
-    "open": "12 Aug",
-    "close": "14 Aug",
-    "list": "19 Aug",
-    "openISO": "2026-08-12",
-    "closeISO": "2026-08-14",
-    "listISO": "2026-08-19",
-    "prevPct": 26,
-    "sub": {
-      "qib": 0,
-      "hni": 0,
-      "retail": 0,
-      "total": 2.21,
-      "day": 1
-    },
-    "upd": 0,
-    "new": false,
-    "actualList": null,
-    "issueSize": "₹301.62 Cr",
-    "infoUrl": "https://www.investorgain.com/gmp/behari-lal-engineering-ipo/1928/",
-    "hasAnchor": true,
-    "readings": {
-      "investorgain": {
-        "gmp": 74,
-        "pct": 26
       }
     }
   },
@@ -415,8 +343,8 @@
       "qib": 0,
       "hni": 0,
       "retail": 0,
-      "total": 1,
-      "day": 1
+      "total": 1.45,
+      "day": 2
     },
     "upd": 0,
     "new": false,
@@ -428,6 +356,114 @@
       "investorgain": {
         "gmp": 34,
         "pct": 35
+      }
+    }
+  },
+  {
+    "name": "Q&T Foods",
+    "type": "SME",
+    "status": "OPEN",
+    "band": [
+      115,
+      115
+    ],
+    "lot": 1200,
+    "open": "12 Aug",
+    "close": "14 Aug",
+    "list": "19 Aug",
+    "openISO": "2026-08-12",
+    "closeISO": "2026-08-14",
+    "listISO": "2026-08-19",
+    "prevPct": 8.7,
+    "sub": {
+      "qib": 0,
+      "hni": 0,
+      "retail": 0,
+      "total": 0.72,
+      "day": 2
+    },
+    "upd": 0,
+    "new": false,
+    "actualList": null,
+    "issueSize": "₹26.25 Cr",
+    "infoUrl": "https://www.investorgain.com/gmp/qt-foods-ipo/2299/",
+    "hasAnchor": false,
+    "readings": {
+      "investorgain": {
+        "gmp": 10,
+        "pct": 8.7
+      }
+    }
+  },
+  {
+    "name": "Behari Lal Engineering",
+    "type": "MAINBOARD",
+    "status": "OPEN",
+    "band": [
+      285,
+      285
+    ],
+    "lot": 52,
+    "open": "12 Aug",
+    "close": "14 Aug",
+    "list": "19 Aug",
+    "openISO": "2026-08-12",
+    "closeISO": "2026-08-14",
+    "listISO": "2026-08-19",
+    "prevPct": 26,
+    "sub": {
+      "qib": 0,
+      "hni": 0,
+      "retail": 0,
+      "total": 3.6,
+      "day": 2
+    },
+    "upd": 0,
+    "new": false,
+    "actualList": null,
+    "issueSize": "₹301.62 Cr",
+    "infoUrl": "https://www.investorgain.com/gmp/behari-lal-engineering-ipo/1928/",
+    "hasAnchor": true,
+    "readings": {
+      "investorgain": {
+        "gmp": 74,
+        "pct": 26
+      }
+    }
+  },
+  {
+    "name": "Pramodini Medicare",
+    "type": "SME",
+    "status": "OPEN",
+    "band": [
+      118,
+      118
+    ],
+    "lot": 1200,
+    "open": "12 Aug",
+    "close": "14 Aug",
+    "list": "19 Aug",
+    "openISO": "2026-08-12",
+    "closeISO": "2026-08-14",
+    "listISO": "2026-08-19",
+    "prevPct": 0,
+    "sub": {
+      "qib": 0,
+      "hni": 0,
+      "retail": 0,
+      "total": 0.81,
+      "day": 2
+    },
+    "upd": 0,
+    "new": false,
+    "actualList": null,
+    "issueSize": "₹69.04 Cr",
+    "infoUrl": "https://www.investorgain.com/gmp/pramodini-medicare-ipo/2275/",
+    "hasAnchor": true,
+    "readings": {
+      "investorgain": {
+        "gmp": 0,
+        "pct": 0
       }
     }
   },
@@ -451,8 +487,8 @@
       "qib": 0,
       "hni": 0,
       "retail": 0,
-      "total": 0.12,
-      "day": 2
+      "total": 0.15,
+      "day": 3
     },
     "upd": 0,
     "new": false,
@@ -464,42 +500,6 @@
       "investorgain": {
         "gmp": 0,
         "pct": 0
-      }
-    }
-  },
-  {
-    "name": "Milky Mist Dairy Food",
-    "type": "MAINBOARD",
-    "status": "OPEN",
-    "band": [
-      140,
-      140
-    ],
-    "lot": 107,
-    "open": "11 Aug",
-    "close": "13 Aug",
-    "list": "18 Aug",
-    "openISO": "2026-08-11",
-    "closeISO": "2026-08-13",
-    "listISO": "2026-08-18",
-    "prevPct": 15.4,
-    "sub": {
-      "qib": 0,
-      "hni": 0,
-      "retail": 0,
-      "total": 2.29,
-      "day": 2
-    },
-    "upd": 0,
-    "new": false,
-    "actualList": null,
-    "issueSize": "₹1553.00 Cr",
-    "infoUrl": "https://www.investorgain.com/gmp/milky-mist-dairy-food-ipo/1838/",
-    "hasAnchor": true,
-    "readings": {
-      "investorgain": {
-        "gmp": 22,
-        "pct": 15.4
       }
     }
   },
@@ -523,8 +523,8 @@
       "qib": 0,
       "hni": 0,
       "retail": 0,
-      "total": 0.1,
-      "day": 2
+      "total": 0.27,
+      "day": 3
     },
     "upd": 0,
     "new": false,
@@ -534,15 +534,51 @@
     "hasAnchor": false,
     "readings": {
       "investorgain": {
-        "gmp": 9,
-        "pct": 6.9
+        "gmp": 11,
+        "pct": 8.1
+      }
+    }
+  },
+  {
+    "name": "Milky Mist Dairy Food",
+    "type": "MAINBOARD",
+    "status": "OPEN",
+    "band": [
+      140,
+      140
+    ],
+    "lot": 107,
+    "open": "11 Aug",
+    "close": "13 Aug",
+    "list": "18 Aug",
+    "openISO": "2026-08-11",
+    "closeISO": "2026-08-13",
+    "listISO": "2026-08-18",
+    "prevPct": 15.4,
+    "sub": {
+      "qib": 0,
+      "hni": 0,
+      "retail": 0,
+      "total": 3.32,
+      "day": 3
+    },
+    "upd": 0,
+    "new": false,
+    "actualList": null,
+    "issueSize": "₹1553.00 Cr",
+    "infoUrl": "https://www.investorgain.com/gmp/milky-mist-dairy-food-ipo/1838/",
+    "hasAnchor": true,
+    "readings": {
+      "investorgain": {
+        "gmp": 25,
+        "pct": 17.9
       }
     }
   },
   {
     "name": "Molbio Diagnostics",
     "type": "MAINBOARD",
-    "status": "OPEN",
+    "status": "CLOSED",
     "band": [
       807,
       807
@@ -578,7 +614,7 @@
   {
     "name": "Dhoot Transmission",
     "type": "MAINBOARD",
-    "status": "OPEN",
+    "status": "CLOSED",
     "band": [
       871,
       871
@@ -608,6 +644,42 @@
       "investorgain": {
         "gmp": 276,
         "pct": 31.7
+      }
+    }
+  },
+  {
+    "name": "LEAP India",
+    "type": "MAINBOARD",
+    "status": "CLOSED",
+    "band": [
+      159,
+      159
+    ],
+    "lot": 94,
+    "open": "7 Aug",
+    "close": "11 Aug",
+    "list": "14 Aug",
+    "openISO": "2026-08-07",
+    "closeISO": "2026-08-11",
+    "listISO": "2026-08-14",
+    "prevPct": 7.9,
+    "sub": {
+      "qib": 0,
+      "hni": 0,
+      "retail": 0,
+      "total": 8.82,
+      "day": 3
+    },
+    "upd": 0,
+    "new": false,
+    "actualList": null,
+    "issueSize": "₹2480.00 Cr",
+    "infoUrl": "https://www.investorgain.com/gmp/leap-india-ipo/1868/",
+    "hasAnchor": true,
+    "readings": {
+      "investorgain": {
+        "gmp": 12,
+        "pct": 7.5
       }
     }
   },
@@ -644,42 +716,6 @@
       "investorgain": {
         "gmp": 0,
         "pct": 0
-      }
-    }
-  },
-  {
-    "name": "LEAP India",
-    "type": "MAINBOARD",
-    "status": "CLOSED",
-    "band": [
-      159,
-      159
-    ],
-    "lot": 94,
-    "open": "7 Aug",
-    "close": "11 Aug",
-    "list": "14 Aug",
-    "openISO": "2026-08-07",
-    "closeISO": "2026-08-11",
-    "listISO": "2026-08-14",
-    "prevPct": 7.9,
-    "sub": {
-      "qib": 0,
-      "hni": 0,
-      "retail": 0,
-      "total": 8.82,
-      "day": 3
-    },
-    "upd": 0,
-    "new": false,
-    "actualList": null,
-    "issueSize": "₹2480.00 Cr",
-    "infoUrl": "https://www.investorgain.com/gmp/leap-india-ipo/1868/",
-    "hasAnchor": true,
-    "readings": {
-      "investorgain": {
-        "gmp": 13,
-        "pct": 7.9
       }
     }
   },
@@ -722,7 +758,7 @@
   {
     "name": "LAPL Automotive",
     "type": "SME",
-    "status": "CLOSED",
+    "status": "LISTED",
     "band": [
       94,
       94
@@ -753,7 +789,8 @@
         "gmp": 50,
         "pct": 53.2
       }
-    }
+    },
+    "lastGmpPct": 53.2
   },
   {
     "name": "G.V. Electricals",
@@ -941,41 +978,41 @@
     "lastGmpPct": 0
   },
   {
-    "name": "MV Electrosystems",
-    "type": "MAINBOARD",
+    "name": "Oneindig Technologies",
+    "type": "SME",
     "status": "LISTED",
     "band": [
-      425,
-      425
+      96,
+      96
     ],
-    "lot": 34,
+    "lot": 1200,
     "open": "30 Jul",
     "close": "3 Aug",
     "list": "6 Aug",
     "openISO": "2026-07-30",
     "closeISO": "2026-08-03",
     "listISO": "2026-08-06",
-    "prevPct": 25.6,
+    "prevPct": 7.3,
     "sub": {
       "qib": 0,
       "hni": 0,
       "retail": 0,
-      "total": 200.66,
+      "total": 1.73,
       "day": 3
     },
     "upd": 0,
     "new": false,
     "actualList": null,
-    "issueSize": "₹290.00 Cr",
-    "infoUrl": "https://www.investorgain.com/gmp/mv-electrosystems-ipo/2054/",
+    "issueSize": "₹27.65 Cr",
+    "infoUrl": "https://www.investorgain.com/gmp/oneindig-technologies-ipo/1916/",
     "hasAnchor": true,
     "readings": {
       "investorgain": {
-        "gmp": 109,
-        "pct": 25.6
+        "gmp": 7,
+        "pct": 7.3
       }
     },
-    "lastGmpPct": 25.6
+    "lastGmpPct": 7.3
   },
   {
     "name": "Juniper Green Energy",
@@ -1050,42 +1087,5 @@
       }
     },
     "lastGmpPct": 12.4
-  },
-  {
-    "name": "Oneindig Technologies",
-    "type": "SME",
-    "status": "LISTED",
-    "band": [
-      96,
-      96
-    ],
-    "lot": 1200,
-    "open": "30 Jul",
-    "close": "3 Aug",
-    "list": "6 Aug",
-    "openISO": "2026-07-30",
-    "closeISO": "2026-08-03",
-    "listISO": "2026-08-06",
-    "prevPct": 7.3,
-    "sub": {
-      "qib": 0,
-      "hni": 0,
-      "retail": 0,
-      "total": 1.73,
-      "day": 3
-    },
-    "upd": 0,
-    "new": false,
-    "actualList": null,
-    "issueSize": "₹27.65 Cr",
-    "infoUrl": "https://www.investorgain.com/gmp/oneindig-technologies-ipo/1916/",
-    "hasAnchor": true,
-    "readings": {
-      "investorgain": {
-        "gmp": 7,
-        "pct": 7.3
-      }
-    },
-    "lastGmpPct": 7.3
   }
 ]
