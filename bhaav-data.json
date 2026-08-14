@@ -14,7 +14,7 @@
     "openISO": "2026-08-24",
     "closeISO": "2026-08-27",
     "listISO": "2026-09-01",
-    "prevPct": 0,
+    "prevPct": 13.8,
     "sub": {
       "qib": 0,
       "hni": 0,
@@ -86,7 +86,7 @@
     "openISO": "2026-08-19",
     "closeISO": "2026-08-21",
     "listISO": "2026-08-26",
-    "prevPct": null,
+    "prevPct": 0,
     "sub": {
       "qib": 0,
       "hni": 0,
@@ -95,12 +95,17 @@
       "day": 0
     },
     "upd": 0,
-    "new": true,
+    "new": false,
     "actualList": null,
     "issueSize": "₹26.73 Cr",
     "infoUrl": "https://www.investorgain.com/gmp/dhanwel-hybrid-seeds-ipo/2098/",
     "hasAnchor": false,
-    "readings": {}
+    "readings": {
+      "investorgain": {
+        "gmp": 0,
+        "pct": 0
+      }
+    }
   },
   {
     "name": "Mopshop Distribution",
@@ -126,15 +131,15 @@
       "day": 0
     },
     "upd": 0,
-    "new": true,
+    "new": false,
     "actualList": null,
     "issueSize": "₹27.26 Cr",
     "infoUrl": "https://www.investorgain.com/gmp/mopshop-distribution-ipo/2024/",
     "hasAnchor": false,
     "readings": {
       "investorgain": {
-        "gmp": 0,
-        "pct": 0
+        "gmp": 10,
+        "pct": 7.3
       }
     }
   },
@@ -189,7 +194,7 @@
     "openISO": "2026-08-18",
     "closeISO": "2026-08-20",
     "listISO": "2026-08-25",
-    "prevPct": 8.3,
+    "prevPct": 9.2,
     "sub": {
       "qib": 0,
       "hni": 0,
@@ -205,8 +210,8 @@
     "hasAnchor": true,
     "readings": {
       "investorgain": {
-        "gmp": 33,
-        "pct": 9.2
+        "gmp": 36,
+        "pct": 10
       }
     }
   },
@@ -277,8 +282,8 @@
     "hasAnchor": true,
     "readings": {
       "investorgain": {
-        "gmp": 38,
-        "pct": 18.9
+        "gmp": 35,
+        "pct": 17.4
       }
     }
   },
@@ -302,7 +307,7 @@
       "qib": 0,
       "hni": 0,
       "retail": 0,
-      "total": 0.41,
+      "total": 0.42,
       "day": 3
     },
     "upd": 0,
@@ -338,7 +343,7 @@
       "qib": 0,
       "hni": 0,
       "retail": 0,
-      "total": 0,
+      "total": 0.29,
       "day": 1
     },
     "upd": 0,
@@ -374,7 +379,7 @@
       "qib": 0,
       "hni": 0,
       "retail": 0,
-      "total": 0,
+      "total": 0.25,
       "day": 1
     },
     "upd": 0,
@@ -385,8 +390,8 @@
     "hasAnchor": true,
     "readings": {
       "investorgain": {
-        "gmp": 22,
-        "pct": 16.7
+        "gmp": 24,
+        "pct": 18.2
       }
     }
   },
@@ -410,7 +415,7 @@
       "qib": 0,
       "hni": 0,
       "retail": 0,
-      "total": 0,
+      "total": 0.3,
       "day": 1
     },
     "upd": 0,
@@ -446,7 +451,7 @@
       "qib": 0,
       "hni": 0,
       "retail": 0,
-      "total": 2.61,
+      "total": 7.95,
       "day": 2
     },
     "upd": 0,
@@ -482,7 +487,7 @@
       "qib": 0,
       "hni": 0,
       "retail": 0,
-      "total": 4.19,
+      "total": 35.23,
       "day": 3
     },
     "upd": 0,
@@ -493,8 +498,8 @@
     "hasAnchor": true,
     "readings": {
       "investorgain": {
-        "gmp": 37,
-        "pct": 37.6
+        "gmp": 35,
+        "pct": 36.1
       }
     }
   },
@@ -518,7 +523,7 @@
       "qib": 0,
       "hni": 0,
       "retail": 0,
-      "total": 10.68,
+      "total": 47.61,
       "day": 3
     },
     "upd": 0,
@@ -554,7 +559,7 @@
       "qib": 0,
       "hni": 0,
       "retail": 0,
-      "total": 0.95,
+      "total": 1.4,
       "day": 3
     },
     "upd": 0,
@@ -590,7 +595,7 @@
       "qib": 0,
       "hni": 0,
       "retail": 0,
-      "total": 0.99,
+      "total": 1.16,
       "day": 3
     },
     "upd": 0,
@@ -601,8 +606,8 @@
     "hasAnchor": false,
     "readings": {
       "investorgain": {
-        "gmp": 3,
-        "pct": 2.6
+        "gmp": 1,
+        "pct": 0.9
       }
     }
   },
@@ -637,8 +642,8 @@
     "hasAnchor": true,
     "readings": {
       "investorgain": {
-        "gmp": 26,
-        "pct": 18.6
+        "gmp": 24,
+        "pct": 17.1
       }
     }
   },
@@ -693,7 +698,7 @@
     "openISO": "2026-08-10",
     "closeISO": "2026-08-12",
     "listISO": "2026-08-17",
-    "prevPct": 31.5,
+    "prevPct": 31.6,
     "sub": {
       "qib": 0,
       "hni": 0,
@@ -709,8 +714,8 @@
     "hasAnchor": true,
     "readings": {
       "investorgain": {
-        "gmp": 275,
-        "pct": 31.6
+        "gmp": 266,
+        "pct": 30.5
       }
     }
   },
@@ -745,8 +750,8 @@
     "hasAnchor": true,
     "readings": {
       "investorgain": {
-        "gmp": 156,
-        "pct": 19.3
+        "gmp": 136,
+        "pct": 16.9
       }
     }
   },
