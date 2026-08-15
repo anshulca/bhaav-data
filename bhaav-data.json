@@ -1,5 +1,41 @@
 [
   {
+    "name": "Tempsens Instruments (India)",
+    "type": "MAINBOARD",
+    "status": "UPCOMING",
+    "band": [
+      0,
+      0
+    ],
+    "lot": 0,
+    "open": "20 Aug",
+    "close": "24 Aug",
+    "list": "27 Aug",
+    "openISO": "2026-08-20",
+    "closeISO": "2026-08-24",
+    "listISO": "2026-08-27",
+    "prevPct": 0,
+    "sub": {
+      "qib": 0,
+      "hni": 0,
+      "retail": 0,
+      "total": 0,
+      "day": 0
+    },
+    "upd": 0,
+    "new": true,
+    "actualList": null,
+    "issueSize": null,
+    "infoUrl": "https://www.investorgain.com/gmp/tempsens-instruments-india-ipo/1934/",
+    "hasAnchor": true,
+    "readings": {
+      "investorgain": {
+        "gmp": 40,
+        "pct": 0
+      }
+    }
+  },
+  {
     "name": "Skyways Air",
     "type": "MAINBOARD",
     "status": "UPCOMING",
@@ -390,8 +426,8 @@
     "hasAnchor": true,
     "readings": {
       "investorgain": {
-        "gmp": 30,
-        "pct": 22.7
+        "gmp": 32,
+        "pct": 24.2
       }
     }
   },
@@ -626,7 +662,7 @@
     "openISO": "2026-08-11",
     "closeISO": "2026-08-13",
     "listISO": "2026-08-18",
-    "prevPct": 14.3,
+    "prevPct": 14.6,
     "sub": {
       "qib": 0,
       "hni": 0,
@@ -1050,42 +1086,5 @@
       }
     },
     "lastGmpPct": 21.5
-  },
-  {
-    "name": "Fusion Klassroom Edutech",
-    "type": "SME",
-    "status": "LISTED",
-    "band": [
-      159,
-      159
-    ],
-    "lot": 800,
-    "open": "31 Jul",
-    "close": "4 Aug",
-    "list": "7 Aug",
-    "openISO": "2026-07-31",
-    "closeISO": "2026-08-04",
-    "listISO": "2026-08-07",
-    "prevPct": 0,
-    "sub": {
-      "qib": 0,
-      "hni": 0,
-      "retail": 0,
-      "total": 1.5,
-      "day": 3
-    },
-    "upd": 0,
-    "new": false,
-    "actualList": null,
-    "issueSize": "₹39.04 Cr",
-    "infoUrl": "https://www.investorgain.com/gmp/fusion-klassroom-edutech-ipo/2130/",
-    "hasAnchor": true,
-    "readings": {
-      "investorgain": {
-        "gmp": 0,
-        "pct": 0
-      }
-    },
-    "lastGmpPct": 0
   }
 ]
