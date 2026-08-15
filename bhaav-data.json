@@ -1,41 +1,5 @@
 [
   {
-    "name": "Tempsens Instruments (India)",
-    "type": "MAINBOARD",
-    "status": "UPCOMING",
-    "band": [
-      0,
-      0
-    ],
-    "lot": 0,
-    "open": "20 Aug",
-    "close": "24 Aug",
-    "list": "27 Aug",
-    "openISO": "2026-08-20",
-    "closeISO": "2026-08-24",
-    "listISO": "2026-08-27",
-    "prevPct": 0,
-    "sub": {
-      "qib": 0,
-      "hni": 0,
-      "retail": 0,
-      "total": 0,
-      "day": 0
-    },
-    "upd": 0,
-    "new": true,
-    "actualList": null,
-    "issueSize": null,
-    "infoUrl": "https://www.investorgain.com/gmp/tempsens-instruments-india-ipo/1934/",
-    "hasAnchor": true,
-    "readings": {
-      "investorgain": {
-        "gmp": 40,
-        "pct": 0
-      }
-    }
-  },
-  {
     "name": "Skyways Air",
     "type": "MAINBOARD",
     "status": "UPCOMING",
@@ -68,6 +32,42 @@
       "investorgain": {
         "gmp": 28,
         "pct": 20.3
+      }
+    }
+  },
+  {
+    "name": "Tempsens Instruments (India)",
+    "type": "MAINBOARD",
+    "status": "UPCOMING",
+    "band": [
+      0,
+      0
+    ],
+    "lot": 0,
+    "open": "20 Aug",
+    "close": "24 Aug",
+    "list": "27 Aug",
+    "openISO": "2026-08-20",
+    "closeISO": "2026-08-24",
+    "listISO": "2026-08-27",
+    "prevPct": 0,
+    "sub": {
+      "qib": 0,
+      "hni": 0,
+      "retail": 0,
+      "total": 0,
+      "day": 0
+    },
+    "upd": 0,
+    "new": false,
+    "actualList": null,
+    "issueSize": null,
+    "infoUrl": "https://www.investorgain.com/gmp/tempsens-instruments-india-ipo/1934/",
+    "hasAnchor": true,
+    "readings": {
+      "investorgain": {
+        "gmp": 60,
+        "pct": 0
       }
     }
   },
@@ -180,6 +180,42 @@
     }
   },
   {
+    "name": "Sunshine Pictures",
+    "type": "MAINBOARD",
+    "status": "UPCOMING",
+    "band": [
+      360,
+      360
+    ],
+    "lot": 41,
+    "open": "18 Aug",
+    "close": "20 Aug",
+    "list": "25 Aug",
+    "openISO": "2026-08-18",
+    "closeISO": "2026-08-20",
+    "listISO": "2026-08-25",
+    "prevPct": 13.9,
+    "sub": {
+      "qib": 0,
+      "hni": 0,
+      "retail": 0,
+      "total": 0,
+      "day": 0
+    },
+    "upd": 0,
+    "new": false,
+    "actualList": null,
+    "issueSize": "₹282.14 Cr",
+    "infoUrl": "https://www.investorgain.com/gmp/sunshine-pictures-ipo/1612/",
+    "hasAnchor": true,
+    "readings": {
+      "investorgain": {
+        "gmp": 47,
+        "pct": 13.1
+      }
+    }
+  },
+  {
     "name": "Shankesh Jewellers",
     "type": "MAINBOARD",
     "status": "UPCOMING",
@@ -212,42 +248,6 @@
       "investorgain": {
         "gmp": 6,
         "pct": 6.5
-      }
-    }
-  },
-  {
-    "name": "Sunshine Pictures",
-    "type": "MAINBOARD",
-    "status": "UPCOMING",
-    "band": [
-      360,
-      360
-    ],
-    "lot": 41,
-    "open": "18 Aug",
-    "close": "20 Aug",
-    "list": "25 Aug",
-    "openISO": "2026-08-18",
-    "closeISO": "2026-08-20",
-    "listISO": "2026-08-25",
-    "prevPct": 13.9,
-    "sub": {
-      "qib": 0,
-      "hni": 0,
-      "retail": 0,
-      "total": 0,
-      "day": 0
-    },
-    "upd": 0,
-    "new": false,
-    "actualList": null,
-    "issueSize": "₹282.14 Cr",
-    "infoUrl": "https://www.investorgain.com/gmp/sunshine-pictures-ipo/1612/",
-    "hasAnchor": true,
-    "readings": {
-      "investorgain": {
-        "gmp": 50,
-        "pct": 13.9
       }
     }
   },
@@ -360,6 +360,42 @@
     }
   },
   {
+    "name": "Technocrats Plasma Systems",
+    "type": "SME",
+    "status": "OPEN",
+    "band": [
+      132,
+      132
+    ],
+    "lot": 1000,
+    "open": "14 Aug",
+    "close": "18 Aug",
+    "list": "21 Aug",
+    "openISO": "2026-08-14",
+    "closeISO": "2026-08-18",
+    "listISO": "2026-08-21",
+    "prevPct": 24.2,
+    "sub": {
+      "qib": 0,
+      "hni": 0,
+      "retail": 0,
+      "total": 0.42,
+      "day": 2
+    },
+    "upd": 0,
+    "new": false,
+    "actualList": null,
+    "issueSize": "₹60.98 Cr",
+    "infoUrl": "https://www.investorgain.com/gmp/technocrats-plasma-systems-ipo/2092/",
+    "hasAnchor": true,
+    "readings": {
+      "investorgain": {
+        "gmp": 32,
+        "pct": 24.2
+      }
+    }
+  },
+  {
     "name": "ENS Enterprises",
     "type": "SME",
     "status": "OPEN",
@@ -392,42 +428,6 @@
       "investorgain": {
         "gmp": 0,
         "pct": 0
-      }
-    }
-  },
-  {
-    "name": "Technocrats Plasma Systems",
-    "type": "SME",
-    "status": "OPEN",
-    "band": [
-      132,
-      132
-    ],
-    "lot": 1000,
-    "open": "14 Aug",
-    "close": "18 Aug",
-    "list": "21 Aug",
-    "openISO": "2026-08-14",
-    "closeISO": "2026-08-18",
-    "listISO": "2026-08-21",
-    "prevPct": 22.7,
-    "sub": {
-      "qib": 0,
-      "hni": 0,
-      "retail": 0,
-      "total": 0.42,
-      "day": 2
-    },
-    "upd": 0,
-    "new": false,
-    "actualList": null,
-    "issueSize": "₹60.98 Cr",
-    "infoUrl": "https://www.investorgain.com/gmp/technocrats-plasma-systems-ipo/2092/",
-    "hasAnchor": true,
-    "readings": {
-      "investorgain": {
-        "gmp": 32,
-        "pct": 24.2
       }
     }
   },
@@ -504,42 +504,6 @@
     }
   },
   {
-    "name": "Shiprocket",
-    "type": "MAINBOARD",
-    "status": "CLOSED",
-    "band": [
-      97,
-      97
-    ],
-    "lot": 154,
-    "open": "12 Aug",
-    "close": "14 Aug",
-    "list": "19 Aug",
-    "openISO": "2026-08-12",
-    "closeISO": "2026-08-14",
-    "listISO": "2026-08-19",
-    "prevPct": 35,
-    "sub": {
-      "qib": 0,
-      "hni": 0,
-      "retail": 0,
-      "total": 102.28,
-      "day": 3
-    },
-    "upd": 0,
-    "new": false,
-    "actualList": null,
-    "issueSize": "₹1617.48 Cr",
-    "infoUrl": "https://www.investorgain.com/gmp/shiprocket-ipo/1790/",
-    "hasAnchor": true,
-    "readings": {
-      "investorgain": {
-        "gmp": 34,
-        "pct": 35
-      }
-    }
-  },
-  {
     "name": "Behari Lal Engineering",
     "type": "MAINBOARD",
     "status": "CLOSED",
@@ -576,38 +540,38 @@
     }
   },
   {
-    "name": "Pramodini Medicare",
-    "type": "SME",
+    "name": "Shiprocket",
+    "type": "MAINBOARD",
     "status": "CLOSED",
     "band": [
-      118,
-      118
+      97,
+      97
     ],
-    "lot": 1200,
+    "lot": 154,
     "open": "12 Aug",
     "close": "14 Aug",
     "list": "19 Aug",
     "openISO": "2026-08-12",
     "closeISO": "2026-08-14",
     "listISO": "2026-08-19",
-    "prevPct": 0,
+    "prevPct": 35,
     "sub": {
       "qib": 0,
       "hni": 0,
       "retail": 0,
-      "total": 3.87,
+      "total": 102.28,
       "day": 3
     },
     "upd": 0,
     "new": false,
     "actualList": null,
-    "issueSize": "₹69.04 Cr",
-    "infoUrl": "https://www.investorgain.com/gmp/pramodini-medicare-ipo/2275/",
+    "issueSize": "₹1617.48 Cr",
+    "infoUrl": "https://www.investorgain.com/gmp/shiprocket-ipo/1790/",
     "hasAnchor": true,
     "readings": {
       "investorgain": {
-        "gmp": 0,
-        "pct": 0
+        "gmp": 34,
+        "pct": 35
       }
     }
   },
@@ -648,38 +612,38 @@
     }
   },
   {
-    "name": "Milky Mist Dairy Food",
-    "type": "MAINBOARD",
+    "name": "Pramodini Medicare",
+    "type": "SME",
     "status": "CLOSED",
     "band": [
-      140,
-      140
+      118,
+      118
     ],
-    "lot": 107,
-    "open": "11 Aug",
-    "close": "13 Aug",
-    "list": "18 Aug",
-    "openISO": "2026-08-11",
-    "closeISO": "2026-08-13",
-    "listISO": "2026-08-18",
-    "prevPct": 14.6,
+    "lot": 1200,
+    "open": "12 Aug",
+    "close": "14 Aug",
+    "list": "19 Aug",
+    "openISO": "2026-08-12",
+    "closeISO": "2026-08-14",
+    "listISO": "2026-08-19",
+    "prevPct": 0,
     "sub": {
       "qib": 0,
       "hni": 0,
       "retail": 0,
-      "total": 59.08,
+      "total": 3.87,
       "day": 3
     },
     "upd": 0,
     "new": false,
     "actualList": null,
-    "issueSize": "₹1553.00 Cr",
-    "infoUrl": "https://www.investorgain.com/gmp/milky-mist-dairy-food-ipo/1838/",
+    "issueSize": "₹69.04 Cr",
+    "infoUrl": "https://www.investorgain.com/gmp/pramodini-medicare-ipo/2275/",
     "hasAnchor": true,
     "readings": {
       "investorgain": {
-        "gmp": 21,
-        "pct": 14.6
+        "gmp": 0,
+        "pct": 0
       }
     }
   },
@@ -714,8 +678,44 @@
     "hasAnchor": false,
     "readings": {
       "investorgain": {
-        "gmp": 4,
-        "pct": 3.1
+        "gmp": 5,
+        "pct": 3.9
+      }
+    }
+  },
+  {
+    "name": "Milky Mist Dairy Food",
+    "type": "MAINBOARD",
+    "status": "CLOSED",
+    "band": [
+      140,
+      140
+    ],
+    "lot": 107,
+    "open": "11 Aug",
+    "close": "13 Aug",
+    "list": "18 Aug",
+    "openISO": "2026-08-11",
+    "closeISO": "2026-08-13",
+    "listISO": "2026-08-18",
+    "prevPct": 14.6,
+    "sub": {
+      "qib": 0,
+      "hni": 0,
+      "retail": 0,
+      "total": 59.08,
+      "day": 3
+    },
+    "upd": 0,
+    "new": false,
+    "actualList": null,
+    "issueSize": "₹1553.00 Cr",
+    "infoUrl": "https://www.investorgain.com/gmp/milky-mist-dairy-food-ipo/1838/",
+    "hasAnchor": true,
+    "readings": {
+      "investorgain": {
+        "gmp": 21,
+        "pct": 15
       }
     }
   },
@@ -792,43 +792,6 @@
     }
   },
   {
-    "name": "Technocraft Ventures",
-    "type": "MAINBOARD",
-    "status": "LISTED",
-    "band": [
-      212,
-      212
-    ],
-    "lot": 70,
-    "open": "7 Aug",
-    "close": "11 Aug",
-    "list": "14 Aug",
-    "openISO": "2026-08-07",
-    "closeISO": "2026-08-11",
-    "listISO": "2026-08-14",
-    "prevPct": 19.8,
-    "sub": {
-      "qib": 0,
-      "hni": 0,
-      "retail": 0,
-      "total": 38.69,
-      "day": 3
-    },
-    "upd": 0,
-    "new": false,
-    "actualList": null,
-    "issueSize": "₹251.88 Cr",
-    "infoUrl": "https://www.investorgain.com/gmp/technocraft-ventures-ipo/1854/",
-    "hasAnchor": true,
-    "readings": {
-      "investorgain": {
-        "gmp": 42,
-        "pct": 19.8
-      }
-    },
-    "lastGmpPct": 19.8
-  },
-  {
     "name": "LEAP India",
     "type": "MAINBOARD",
     "status": "LISTED",
@@ -864,6 +827,43 @@
       }
     },
     "lastGmpPct": 8.2
+  },
+  {
+    "name": "Technocraft Ventures",
+    "type": "MAINBOARD",
+    "status": "LISTED",
+    "band": [
+      212,
+      212
+    ],
+    "lot": 70,
+    "open": "7 Aug",
+    "close": "11 Aug",
+    "list": "14 Aug",
+    "openISO": "2026-08-07",
+    "closeISO": "2026-08-11",
+    "listISO": "2026-08-14",
+    "prevPct": 19.8,
+    "sub": {
+      "qib": 0,
+      "hni": 0,
+      "retail": 0,
+      "total": 38.69,
+      "day": 3
+    },
+    "upd": 0,
+    "new": false,
+    "actualList": null,
+    "issueSize": "₹251.88 Cr",
+    "infoUrl": "https://www.investorgain.com/gmp/technocraft-ventures-ipo/1854/",
+    "hasAnchor": true,
+    "readings": {
+      "investorgain": {
+        "gmp": 42,
+        "pct": 19.8
+      }
+    },
+    "lastGmpPct": 19.8
   },
   {
     "name": "Optimystix Entertainment",
@@ -940,43 +940,6 @@
     "lastGmpPct": 53.2
   },
   {
-    "name": "Ardee Industries",
-    "type": "MAINBOARD",
-    "status": "LISTED",
-    "band": [
-      53,
-      53
-    ],
-    "lot": 281,
-    "open": "5 Aug",
-    "close": "7 Aug",
-    "list": "12 Aug",
-    "openISO": "2026-08-05",
-    "closeISO": "2026-08-07",
-    "listISO": "2026-08-12",
-    "prevPct": 32.1,
-    "sub": {
-      "qib": 0,
-      "hni": 0,
-      "retail": 0,
-      "total": 138.83,
-      "day": 3
-    },
-    "upd": 0,
-    "new": false,
-    "actualList": null,
-    "issueSize": "₹425.87 Cr",
-    "infoUrl": "https://www.investorgain.com/gmp/ardee-industries-ipo/2123/",
-    "hasAnchor": true,
-    "readings": {
-      "investorgain": {
-        "gmp": 17,
-        "pct": 32.1
-      }
-    },
-    "lastGmpPct": 32.1
-  },
-  {
     "name": "G.V. Electricals",
     "type": "SME",
     "status": "LISTED",
@@ -1012,6 +975,43 @@
       }
     },
     "lastGmpPct": 19.2
+  },
+  {
+    "name": "Ardee Industries",
+    "type": "MAINBOARD",
+    "status": "LISTED",
+    "band": [
+      53,
+      53
+    ],
+    "lot": 281,
+    "open": "5 Aug",
+    "close": "7 Aug",
+    "list": "12 Aug",
+    "openISO": "2026-08-05",
+    "closeISO": "2026-08-07",
+    "listISO": "2026-08-12",
+    "prevPct": 32.1,
+    "sub": {
+      "qib": 0,
+      "hni": 0,
+      "retail": 0,
+      "total": 138.83,
+      "day": 3
+    },
+    "upd": 0,
+    "new": false,
+    "actualList": null,
+    "issueSize": "₹425.87 Cr",
+    "infoUrl": "https://www.investorgain.com/gmp/ardee-industries-ipo/2123/",
+    "hasAnchor": true,
+    "readings": {
+      "investorgain": {
+        "gmp": 17,
+        "pct": 32.1
+      }
+    },
+    "lastGmpPct": 32.1
   },
   {
     "name": "Aegeus Technologies",
