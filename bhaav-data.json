@@ -344,7 +344,7 @@
       "hni": 0,
       "retail": 0,
       "total": 0.63,
-      "day": 1
+      "day": 2
     },
     "upd": 0,
     "new": false,
@@ -380,7 +380,7 @@
       "hni": 0,
       "retail": 0,
       "total": 0.42,
-      "day": 1
+      "day": 2
     },
     "upd": 0,
     "new": false,
@@ -416,7 +416,7 @@
       "hni": 0,
       "retail": 0,
       "total": 0.46,
-      "day": 1
+      "day": 2
     },
     "upd": 0,
     "new": false,
@@ -452,7 +452,7 @@
       "hni": 0,
       "retail": 0,
       "total": 12.14,
-      "day": 2
+      "day": 3
     },
     "upd": 0,
     "new": false,
@@ -470,7 +470,7 @@
   {
     "name": "Shiprocket",
     "type": "MAINBOARD",
-    "status": "OPEN",
+    "status": "CLOSED",
     "band": [
       97,
       97
@@ -506,7 +506,7 @@
   {
     "name": "Behari Lal Engineering",
     "type": "MAINBOARD",
-    "status": "OPEN",
+    "status": "CLOSED",
     "band": [
       285,
       285
@@ -542,7 +542,7 @@
   {
     "name": "Pramodini Medicare",
     "type": "SME",
-    "status": "OPEN",
+    "status": "CLOSED",
     "band": [
       118,
       118
@@ -578,7 +578,7 @@
   {
     "name": "Q&T Foods",
     "type": "SME",
-    "status": "OPEN",
+    "status": "CLOSED",
     "band": [
       115,
       115
@@ -642,8 +642,8 @@
     "hasAnchor": true,
     "readings": {
       "investorgain": {
-        "gmp": 20,
-        "pct": 14.3
+        "gmp": 21,
+        "pct": 14.6
       }
     }
   },
