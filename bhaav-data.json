@@ -518,7 +518,7 @@
     "openISO": "2026-08-12",
     "closeISO": "2026-08-14",
     "listISO": "2026-08-19",
-    "prevPct": 29.1,
+    "prevPct": 29.5,
     "sub": {
       "qib": 0,
       "hni": 0,
@@ -770,7 +770,7 @@
     "openISO": "2026-08-10",
     "closeISO": "2026-08-12",
     "listISO": "2026-08-17",
-    "prevPct": 16.4,
+    "prevPct": 16.1,
     "sub": {
       "qib": 0,
       "hni": 0,
@@ -786,8 +786,8 @@
     "hasAnchor": true,
     "readings": {
       "investorgain": {
-        "gmp": 130,
-        "pct": 16.1
+        "gmp": 127,
+        "pct": 15.7
       }
     }
   },
