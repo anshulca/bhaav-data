@@ -1,5 +1,37 @@
 [
   {
+    "name": "ABH Healthcare",
+    "type": "SME",
+    "status": "LISTED",
+    "band": [
+      0,
+      0
+    ],
+    "lot": 0,
+    "open": "-",
+    "close": "-",
+    "list": "-",
+    "openISO": null,
+    "closeISO": null,
+    "listISO": null,
+    "prevPct": null,
+    "sub": {
+      "qib": 0,
+      "hni": 0,
+      "retail": 0,
+      "total": 0,
+      "day": 3
+    },
+    "upd": 0,
+    "new": true,
+    "actualList": null,
+    "issueSize": "-",
+    "infoUrl": "https://www.investorgain.com/gmp/abh-healthcare-ipo/1824/",
+    "hasAnchor": true,
+    "readings": {},
+    "lastGmpPct": 0
+  },
+  {
     "name": "Skyways Air",
     "type": "MAINBOARD",
     "status": "UPCOMING",
@@ -40,16 +72,16 @@
     "type": "MAINBOARD",
     "status": "UPCOMING",
     "band": [
-      0,
-      0
+      300,
+      300
     ],
-    "lot": 0,
+    "lot": 50,
     "open": "20 Aug",
     "close": "24 Aug",
-    "list": "27 Aug",
+    "list": "28 Aug",
     "openISO": "2026-08-20",
     "closeISO": "2026-08-24",
-    "listISO": "2026-08-27",
+    "listISO": "2026-08-28",
     "prevPct": 0,
     "sub": {
       "qib": 0,
@@ -61,13 +93,13 @@
     "upd": 0,
     "new": false,
     "actualList": null,
-    "issueSize": null,
+    "issueSize": "₹650.00 Cr",
     "infoUrl": "https://www.investorgain.com/gmp/tempsens-instruments-india-ipo/1934/",
     "hasAnchor": true,
     "readings": {
       "investorgain": {
         "gmp": 65,
-        "pct": 0
+        "pct": 21.7
       }
     }
   },
@@ -254,7 +286,7 @@
   {
     "name": "Horizon Industrial Parks",
     "type": "MAINBOARD",
-    "status": "UPCOMING",
+    "status": "OPEN",
     "band": [
       60,
       60
@@ -272,7 +304,7 @@
       "hni": 0,
       "retail": 0,
       "total": 0,
-      "day": 0
+      "day": 1
     },
     "upd": 0,
     "new": false,
@@ -284,42 +316,6 @@
       "investorgain": {
         "gmp": 4,
         "pct": 5.8
-      }
-    }
-  },
-  {
-    "name": "Lalithaa Jewellery Mart",
-    "type": "MAINBOARD",
-    "status": "UPCOMING",
-    "band": [
-      201,
-      201
-    ],
-    "lot": 74,
-    "open": "17 Aug",
-    "close": "19 Aug",
-    "list": "24 Aug",
-    "openISO": "2026-08-17",
-    "closeISO": "2026-08-19",
-    "listISO": "2026-08-24",
-    "prevPct": 14.7,
-    "sub": {
-      "qib": 0,
-      "hni": 0,
-      "retail": 0,
-      "total": 0,
-      "day": 0
-    },
-    "upd": 0,
-    "new": false,
-    "actualList": null,
-    "issueSize": "₹1700.00 Cr",
-    "infoUrl": "https://www.investorgain.com/gmp/lalithaa-jewellery-mart-ipo/1799/",
-    "hasAnchor": true,
-    "readings": {
-      "investorgain": {
-        "gmp": 30,
-        "pct": 14.7
       }
     }
   },
@@ -356,6 +352,42 @@
       "investorgain": {
         "gmp": 0,
         "pct": 0
+      }
+    }
+  },
+  {
+    "name": "Lalithaa Jewellery Mart",
+    "type": "MAINBOARD",
+    "status": "OPEN",
+    "band": [
+      201,
+      201
+    ],
+    "lot": 74,
+    "open": "17 Aug",
+    "close": "19 Aug",
+    "list": "24 Aug",
+    "openISO": "2026-08-17",
+    "closeISO": "2026-08-19",
+    "listISO": "2026-08-24",
+    "prevPct": 14.7,
+    "sub": {
+      "qib": 0,
+      "hni": 0,
+      "retail": 0,
+      "total": 0,
+      "day": 1
+    },
+    "upd": 0,
+    "new": false,
+    "actualList": null,
+    "issueSize": "₹1700.00 Cr",
+    "infoUrl": "https://www.investorgain.com/gmp/lalithaa-jewellery-mart-ipo/1799/",
+    "hasAnchor": true,
+    "readings": {
+      "investorgain": {
+        "gmp": 30,
+        "pct": 14.7
       }
     }
   },
@@ -722,7 +754,7 @@
   {
     "name": "Dhoot Transmission",
     "type": "MAINBOARD",
-    "status": "CLOSED",
+    "status": "LISTED",
     "band": [
       871,
       871
@@ -750,15 +782,16 @@
     "hasAnchor": true,
     "readings": {
       "investorgain": {
-        "gmp": 262,
-        "pct": 30.1
+        "gmp": 258,
+        "pct": 29.6
       }
-    }
+    },
+    "lastGmpPct": 29.6
   },
   {
     "name": "Molbio Diagnostics",
     "type": "MAINBOARD",
-    "status": "CLOSED",
+    "status": "LISTED",
     "band": [
       807,
       807
@@ -789,7 +822,8 @@
         "gmp": 120,
         "pct": 14.9
       }
-    }
+    },
+    "lastGmpPct": 14.9
   },
   {
     "name": "LEAP India",
@@ -1049,42 +1083,5 @@
       }
     },
     "lastGmpPct": 11.4
-  },
-  {
-    "name": "Anawil Wire & Engineering",
-    "type": "SME",
-    "status": "LISTED",
-    "band": [
-      270,
-      270
-    ],
-    "lot": 400,
-    "open": "3 Aug",
-    "close": "5 Aug",
-    "list": "10 Aug",
-    "openISO": "2026-08-03",
-    "closeISO": "2026-08-05",
-    "listISO": "2026-08-10",
-    "prevPct": 21.5,
-    "sub": {
-      "qib": 0,
-      "hni": 0,
-      "retail": 0,
-      "total": 149.13,
-      "day": 3
-    },
-    "upd": 0,
-    "new": false,
-    "actualList": null,
-    "issueSize": "₹177.81 Cr",
-    "infoUrl": "https://www.investorgain.com/gmp/anawil-wire-engieering-ipo/1895/",
-    "hasAnchor": true,
-    "readings": {
-      "investorgain": {
-        "gmp": 58,
-        "pct": 21.5
-      }
-    },
-    "lastGmpPct": 21.5
   }
 ]
