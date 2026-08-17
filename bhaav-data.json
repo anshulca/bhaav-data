@@ -86,7 +86,7 @@
     "openISO": "2026-08-20",
     "closeISO": "2026-08-24",
     "listISO": "2026-08-28",
-    "prevPct": 49.7,
+    "prevPct": 50.7,
     "sub": {
       "qib": 0,
       "hni": 0,
@@ -266,7 +266,7 @@
     "openISO": "2026-08-18",
     "closeISO": "2026-08-20",
     "listISO": "2026-08-25",
-    "prevPct": 17.2,
+    "prevPct": 18.1,
     "sub": {
       "qib": 0,
       "hni": 0,
@@ -282,8 +282,8 @@
     "hasAnchor": true,
     "readings": {
       "investorgain": {
-        "gmp": 65,
-        "pct": 18.1
+        "gmp": 68,
+        "pct": 18.9
       }
     }
   },
@@ -374,7 +374,7 @@
     "openISO": "2026-08-17",
     "closeISO": "2026-08-19",
     "listISO": "2026-08-24",
-    "prevPct": 12.9,
+    "prevPct": 14.2,
     "sub": {
       "qib": 0,
       "hni": 0,
@@ -391,7 +391,7 @@
     "readings": {
       "investorgain": {
         "gmp": 29,
-        "pct": 14.2
+        "pct": 14.4
       }
     }
   },
@@ -534,8 +534,8 @@
     "hasAnchor": true,
     "readings": {
       "investorgain": {
-        "gmp": 55,
-        "pct": 29.1
+        "gmp": 45,
+        "pct": 23.8
       }
     }
   },
@@ -734,7 +734,7 @@
     "openISO": "2026-08-11",
     "closeISO": "2026-08-13",
     "listISO": "2026-08-18",
-    "prevPct": 11.8,
+    "prevPct": 12.5,
     "sub": {
       "qib": 0,
       "hni": 0,
@@ -751,7 +751,7 @@
     "readings": {
       "investorgain": {
         "gmp": 18,
-        "pct": 12.5
+        "pct": 12.9
       }
     }
   },
