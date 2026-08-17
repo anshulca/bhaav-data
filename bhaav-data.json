@@ -63,7 +63,7 @@
     "actualList": null,
     "issueSize": "₹34.98 Cr",
     "infoUrl": "https://www.investorgain.com/gmp/abh-healthcare-ipo/1824/",
-    "hasAnchor": true,
+    "hasAnchor": false,
     "readings": {
       "investorgain": {
         "gmp": 0,
@@ -86,7 +86,7 @@
     "openISO": "2026-08-20",
     "closeISO": "2026-08-24",
     "listISO": "2026-08-28",
-    "prevPct": 50.7,
+    "prevPct": 51.3,
     "sub": {
       "qib": 0,
       "hni": 0,
@@ -122,7 +122,7 @@
     "openISO": "2026-08-19",
     "closeISO": "2026-08-21",
     "listISO": "2026-08-26",
-    "prevPct": 5.7,
+    "prevPct": 4.4,
     "sub": {
       "qib": 0,
       "hni": 0,
@@ -210,8 +210,8 @@
     "hasAnchor": false,
     "readings": {
       "investorgain": {
-        "gmp": 14,
-        "pct": 10.1
+        "gmp": 18,
+        "pct": 13
       }
     }
   },
@@ -230,7 +230,7 @@
     "openISO": "2026-08-18",
     "closeISO": "2026-08-20",
     "listISO": "2026-08-25",
-    "prevPct": 3.2,
+    "prevPct": 2.1,
     "sub": {
       "qib": 0,
       "hni": 0,
@@ -282,8 +282,8 @@
     "hasAnchor": true,
     "readings": {
       "investorgain": {
-        "gmp": 68,
-        "pct": 18.9
+        "gmp": 73,
+        "pct": 20.3
       }
     }
   },
@@ -374,7 +374,7 @@
     "openISO": "2026-08-17",
     "closeISO": "2026-08-19",
     "listISO": "2026-08-24",
-    "prevPct": 14.4,
+    "prevPct": 14.9,
     "sub": {
       "qib": 0,
       "hni": 0,
@@ -626,7 +626,7 @@
     "openISO": "2026-08-12",
     "closeISO": "2026-08-14",
     "listISO": "2026-08-19",
-    "prevPct": 34,
+    "prevPct": 34.5,
     "sub": {
       "qib": 0,
       "hni": 0,
@@ -678,8 +678,8 @@
     "hasAnchor": true,
     "readings": {
       "investorgain": {
-        "gmp": 97,
-        "pct": 34
+        "gmp": 105,
+        "pct": 36.8
       }
     }
   },
@@ -714,8 +714,8 @@
     "hasAnchor": false,
     "readings": {
       "investorgain": {
-        "gmp": 4,
-        "pct": 3.1
+        "gmp": 2,
+        "pct": 1.1
       }
     }
   },
@@ -750,8 +750,8 @@
     "hasAnchor": true,
     "readings": {
       "investorgain": {
-        "gmp": 18,
-        "pct": 12.9
+        "gmp": 20,
+        "pct": 14.1
       }
     }
   },
