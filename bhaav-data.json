@@ -50,7 +50,7 @@
     "openISO": "2026-08-24",
     "closeISO": "2026-08-26",
     "listISO": "2026-08-31",
-    "prevPct": null,
+    "prevPct": 0,
     "sub": {
       "qib": 0,
       "hni": 0,
@@ -64,7 +64,12 @@
     "issueSize": "₹34.98 Cr",
     "infoUrl": "https://www.investorgain.com/gmp/abh-healthcare-ipo/1824/",
     "hasAnchor": true,
-    "readings": {}
+    "readings": {
+      "investorgain": {
+        "gmp": 0,
+        "pct": 0
+      }
+    }
   },
   {
     "name": "Tempsens Instruments (India)",
@@ -97,8 +102,8 @@
     "hasAnchor": true,
     "readings": {
       "investorgain": {
-        "gmp": 65,
-        "pct": 21.7
+        "gmp": 100,
+        "pct": 33.3
       }
     }
   },
@@ -205,8 +210,8 @@
     "hasAnchor": false,
     "readings": {
       "investorgain": {
-        "gmp": 10,
-        "pct": 7.3
+        "gmp": 12,
+        "pct": 8.7
       }
     }
   },
@@ -277,8 +282,8 @@
     "hasAnchor": true,
     "readings": {
       "investorgain": {
-        "gmp": 54,
-        "pct": 15
+        "gmp": 58,
+        "pct": 16.1
       }
     }
   },
@@ -302,7 +307,7 @@
       "qib": 0,
       "hni": 0,
       "retail": 0,
-      "total": 0.53,
+      "total": 0.54,
       "day": 3
     },
     "upd": 0,
@@ -338,7 +343,7 @@
       "qib": 0,
       "hni": 0,
       "retail": 0,
-      "total": 0.01,
+      "total": 0.02,
       "day": 1
     },
     "upd": 0,
@@ -369,12 +374,12 @@
     "openISO": "2026-08-17",
     "closeISO": "2026-08-19",
     "listISO": "2026-08-24",
-    "prevPct": 14.7,
+    "prevPct": 14.9,
     "sub": {
       "qib": 0,
       "hni": 0,
       "retail": 0,
-      "total": 0.11,
+      "total": 0.16,
       "day": 1
     },
     "upd": 0,
@@ -410,7 +415,7 @@
       "qib": 0,
       "hni": 0,
       "retail": 0,
-      "total": 0.61,
+      "total": 0.65,
       "day": 3
     },
     "upd": 0,
@@ -446,7 +451,7 @@
       "qib": 0,
       "hni": 0,
       "retail": 0,
-      "total": 0.73,
+      "total": 0.75,
       "day": 3
     },
     "upd": 0,
@@ -482,7 +487,7 @@
       "qib": 0,
       "hni": 0,
       "retail": 0,
-      "total": 1.21,
+      "total": 1.59,
       "day": 3
     },
     "upd": 0,
@@ -518,7 +523,7 @@
       "qib": 0,
       "hni": 0,
       "retail": 0,
-      "total": 23.83,
+      "total": 30.11,
       "day": 3
     },
     "upd": 0,
@@ -621,7 +626,7 @@
     "openISO": "2026-08-12",
     "closeISO": "2026-08-14",
     "listISO": "2026-08-19",
-    "prevPct": 33,
+    "prevPct": 34,
     "sub": {
       "qib": 0,
       "hni": 0,
@@ -657,7 +662,7 @@
     "openISO": "2026-08-12",
     "closeISO": "2026-08-14",
     "listISO": "2026-08-19",
-    "prevPct": 29.5,
+    "prevPct": 29.8,
     "sub": {
       "qib": 0,
       "hni": 0,
@@ -729,7 +734,7 @@
     "openISO": "2026-08-11",
     "closeISO": "2026-08-13",
     "listISO": "2026-08-18",
-    "prevPct": 12.9,
+    "prevPct": 13.9,
     "sub": {
       "qib": 0,
       "hni": 0,
@@ -746,7 +751,7 @@
     "readings": {
       "investorgain": {
         "gmp": 20,
-        "pct": 13.9
+        "pct": 14.3
       }
     }
   },
@@ -765,7 +770,7 @@
     "openISO": "2026-08-10",
     "closeISO": "2026-08-12",
     "listISO": "2026-08-17",
-    "prevPct": 14.9,
+    "prevPct": 14.4,
     "sub": {
       "qib": 0,
       "hni": 0,
@@ -802,7 +807,7 @@
     "openISO": "2026-08-10",
     "closeISO": "2026-08-12",
     "listISO": "2026-08-17",
-    "prevPct": 29.6,
+    "prevPct": 30.1,
     "sub": {
       "qib": 0,
       "hni": 0,
