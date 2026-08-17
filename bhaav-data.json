@@ -102,8 +102,8 @@
     "hasAnchor": true,
     "readings": {
       "investorgain": {
-        "gmp": 100,
-        "pct": 33.3
+        "gmp": 110,
+        "pct": 36.7
       }
     }
   },
@@ -246,8 +246,8 @@
     "hasAnchor": true,
     "readings": {
       "investorgain": {
-        "gmp": 5,
-        "pct": 5.4
+        "gmp": 3,
+        "pct": 3.2
       }
     }
   },
@@ -282,8 +282,8 @@
     "hasAnchor": true,
     "readings": {
       "investorgain": {
-        "gmp": 58,
-        "pct": 16.1
+        "gmp": 62,
+        "pct": 17.2
       }
     }
   },
@@ -307,7 +307,7 @@
       "qib": 0,
       "hni": 0,
       "retail": 0,
-      "total": 0.54,
+      "total": 0.7,
       "day": 3
     },
     "upd": 0,
@@ -343,19 +343,19 @@
       "qib": 0,
       "hni": 0,
       "retail": 0,
-      "total": 0.02,
+      "total": 0.06,
       "day": 1
     },
     "upd": 0,
     "new": false,
     "actualList": null,
-    "issueSize": "₹2600.00 Cr",
+    "issueSize": "₹2600.04 Cr",
     "infoUrl": "https://www.investorgain.com/gmp/horizon-industrial-parks-ipo/2080/",
     "hasAnchor": true,
     "readings": {
       "investorgain": {
-        "gmp": 4,
-        "pct": 5.8
+        "gmp": 3,
+        "pct": 4.2
       }
     }
   },
@@ -379,7 +379,7 @@
       "qib": 0,
       "hni": 0,
       "retail": 0,
-      "total": 0.16,
+      "total": 0.32,
       "day": 1
     },
     "upd": 0,
@@ -390,8 +390,8 @@
     "hasAnchor": true,
     "readings": {
       "investorgain": {
-        "gmp": 30,
-        "pct": 14.9
+        "gmp": 34,
+        "pct": 16.9
       }
     }
   },
@@ -415,7 +415,7 @@
       "qib": 0,
       "hni": 0,
       "retail": 0,
-      "total": 0.65,
+      "total": 0.73,
       "day": 3
     },
     "upd": 0,
@@ -426,8 +426,8 @@
     "hasAnchor": false,
     "readings": {
       "investorgain": {
-        "gmp": 7,
-        "pct": 9.1
+        "gmp": 5,
+        "pct": 6.5
       }
     }
   },
@@ -451,7 +451,7 @@
       "qib": 0,
       "hni": 0,
       "retail": 0,
-      "total": 0.75,
+      "total": 0.91,
       "day": 3
     },
     "upd": 0,
@@ -487,7 +487,7 @@
       "qib": 0,
       "hni": 0,
       "retail": 0,
-      "total": 1.59,
+      "total": 2.87,
       "day": 3
     },
     "upd": 0,
@@ -523,7 +523,7 @@
       "qib": 0,
       "hni": 0,
       "retail": 0,
-      "total": 30.11,
+      "total": 67.31,
       "day": 3
     },
     "upd": 0,
@@ -642,8 +642,8 @@
     "hasAnchor": true,
     "readings": {
       "investorgain": {
-        "gmp": 33,
-        "pct": 34
+        "gmp": 35,
+        "pct": 35.6
       }
     }
   },
@@ -678,8 +678,8 @@
     "hasAnchor": true,
     "readings": {
       "investorgain": {
-        "gmp": 85,
-        "pct": 29.8
+        "gmp": 87,
+        "pct": 30.5
       }
     }
   },
