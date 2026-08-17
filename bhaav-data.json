@@ -1,37 +1,5 @@
 [
   {
-    "name": "ABH Healthcare",
-    "type": "SME",
-    "status": "LISTED",
-    "band": [
-      0,
-      0
-    ],
-    "lot": 0,
-    "open": "-",
-    "close": "-",
-    "list": "-",
-    "openISO": null,
-    "closeISO": null,
-    "listISO": null,
-    "prevPct": null,
-    "sub": {
-      "qib": 0,
-      "hni": 0,
-      "retail": 0,
-      "total": 0,
-      "day": 3
-    },
-    "upd": 0,
-    "new": true,
-    "actualList": null,
-    "issueSize": "-",
-    "infoUrl": "https://www.investorgain.com/gmp/abh-healthcare-ipo/1824/",
-    "hasAnchor": true,
-    "readings": {},
-    "lastGmpPct": 0
-  },
-  {
     "name": "Skyways Air",
     "type": "MAINBOARD",
     "status": "UPCOMING",
@@ -68,6 +36,37 @@
     }
   },
   {
+    "name": "ABH Healthcare",
+    "type": "SME",
+    "status": "UPCOMING",
+    "band": [
+      102,
+      102
+    ],
+    "lot": 1200,
+    "open": "24 Aug",
+    "close": "26 Aug",
+    "list": "31 Aug",
+    "openISO": "2026-08-24",
+    "closeISO": "2026-08-26",
+    "listISO": "2026-08-31",
+    "prevPct": null,
+    "sub": {
+      "qib": 0,
+      "hni": 0,
+      "retail": 0,
+      "total": 0,
+      "day": 0
+    },
+    "upd": 0,
+    "new": false,
+    "actualList": null,
+    "issueSize": "₹34.98 Cr",
+    "infoUrl": "https://www.investorgain.com/gmp/abh-healthcare-ipo/1824/",
+    "hasAnchor": true,
+    "readings": {}
+  },
+  {
     "name": "Tempsens Instruments (India)",
     "type": "MAINBOARD",
     "status": "UPCOMING",
@@ -82,7 +81,7 @@
     "openISO": "2026-08-20",
     "closeISO": "2026-08-24",
     "listISO": "2026-08-28",
-    "prevPct": 0,
+    "prevPct": 21.7,
     "sub": {
       "qib": 0,
       "hni": 0,
@@ -212,42 +211,6 @@
     }
   },
   {
-    "name": "Sunshine Pictures",
-    "type": "MAINBOARD",
-    "status": "UPCOMING",
-    "band": [
-      360,
-      360
-    ],
-    "lot": 41,
-    "open": "18 Aug",
-    "close": "20 Aug",
-    "list": "25 Aug",
-    "openISO": "2026-08-18",
-    "closeISO": "2026-08-20",
-    "listISO": "2026-08-25",
-    "prevPct": 15,
-    "sub": {
-      "qib": 0,
-      "hni": 0,
-      "retail": 0,
-      "total": 0,
-      "day": 0
-    },
-    "upd": 0,
-    "new": false,
-    "actualList": null,
-    "issueSize": "₹282.14 Cr",
-    "infoUrl": "https://www.investorgain.com/gmp/sunshine-pictures-ipo/1612/",
-    "hasAnchor": true,
-    "readings": {
-      "investorgain": {
-        "gmp": 54,
-        "pct": 15
-      }
-    }
-  },
-  {
     "name": "Shankesh Jewellers",
     "type": "MAINBOARD",
     "status": "UPCOMING",
@@ -284,38 +247,38 @@
     }
   },
   {
-    "name": "Horizon Industrial Parks",
+    "name": "Sunshine Pictures",
     "type": "MAINBOARD",
-    "status": "OPEN",
+    "status": "UPCOMING",
     "band": [
-      60,
-      60
+      360,
+      360
     ],
-    "lot": 250,
-    "open": "17 Aug",
-    "close": "19 Aug",
-    "list": "24 Aug",
-    "openISO": "2026-08-17",
-    "closeISO": "2026-08-19",
-    "listISO": "2026-08-24",
-    "prevPct": 5.8,
+    "lot": 41,
+    "open": "18 Aug",
+    "close": "20 Aug",
+    "list": "25 Aug",
+    "openISO": "2026-08-18",
+    "closeISO": "2026-08-20",
+    "listISO": "2026-08-25",
+    "prevPct": 15,
     "sub": {
       "qib": 0,
       "hni": 0,
       "retail": 0,
       "total": 0,
-      "day": 1
+      "day": 0
     },
     "upd": 0,
     "new": false,
     "actualList": null,
-    "issueSize": "₹2600.00 Cr",
-    "infoUrl": "https://www.investorgain.com/gmp/horizon-industrial-parks-ipo/2080/",
+    "issueSize": "₹282.14 Cr",
+    "infoUrl": "https://www.investorgain.com/gmp/sunshine-pictures-ipo/1612/",
     "hasAnchor": true,
     "readings": {
       "investorgain": {
-        "gmp": 4,
-        "pct": 5.8
+        "gmp": 54,
+        "pct": 15
       }
     }
   },
@@ -339,7 +302,7 @@
       "qib": 0,
       "hni": 0,
       "retail": 0,
-      "total": 0.51,
+      "total": 0.53,
       "day": 3
     },
     "upd": 0,
@@ -352,6 +315,42 @@
       "investorgain": {
         "gmp": 0,
         "pct": 0
+      }
+    }
+  },
+  {
+    "name": "Horizon Industrial Parks",
+    "type": "MAINBOARD",
+    "status": "OPEN",
+    "band": [
+      60,
+      60
+    ],
+    "lot": 250,
+    "open": "17 Aug",
+    "close": "19 Aug",
+    "list": "24 Aug",
+    "openISO": "2026-08-17",
+    "closeISO": "2026-08-19",
+    "listISO": "2026-08-24",
+    "prevPct": 5.8,
+    "sub": {
+      "qib": 0,
+      "hni": 0,
+      "retail": 0,
+      "total": 0.01,
+      "day": 1
+    },
+    "upd": 0,
+    "new": false,
+    "actualList": null,
+    "issueSize": "₹2600.00 Cr",
+    "infoUrl": "https://www.investorgain.com/gmp/horizon-industrial-parks-ipo/2080/",
+    "hasAnchor": true,
+    "readings": {
+      "investorgain": {
+        "gmp": 4,
+        "pct": 5.8
       }
     }
   },
@@ -375,7 +374,7 @@
       "qib": 0,
       "hni": 0,
       "retail": 0,
-      "total": 0,
+      "total": 0.11,
       "day": 1
     },
     "upd": 0,
@@ -387,79 +386,7 @@
     "readings": {
       "investorgain": {
         "gmp": 30,
-        "pct": 14.7
-      }
-    }
-  },
-  {
-    "name": "Technocrats Plasma Systems",
-    "type": "SME",
-    "status": "OPEN",
-    "band": [
-      132,
-      132
-    ],
-    "lot": 1000,
-    "open": "14 Aug",
-    "close": "18 Aug",
-    "list": "21 Aug",
-    "openISO": "2026-08-14",
-    "closeISO": "2026-08-18",
-    "listISO": "2026-08-21",
-    "prevPct": 24.2,
-    "sub": {
-      "qib": 0,
-      "hni": 0,
-      "retail": 0,
-      "total": 0.42,
-      "day": 3
-    },
-    "upd": 0,
-    "new": false,
-    "actualList": null,
-    "issueSize": "₹60.98 Cr",
-    "infoUrl": "https://www.investorgain.com/gmp/technocrats-plasma-systems-ipo/2092/",
-    "hasAnchor": true,
-    "readings": {
-      "investorgain": {
-        "gmp": 32,
-        "pct": 24.2
-      }
-    }
-  },
-  {
-    "name": "ENS Enterprises",
-    "type": "SME",
-    "status": "OPEN",
-    "band": [
-      92,
-      92
-    ],
-    "lot": 1200,
-    "open": "14 Aug",
-    "close": "18 Aug",
-    "list": "21 Aug",
-    "openISO": "2026-08-14",
-    "closeISO": "2026-08-18",
-    "listISO": "2026-08-21",
-    "prevPct": 0,
-    "sub": {
-      "qib": 0,
-      "hni": 0,
-      "retail": 0,
-      "total": 0.63,
-      "day": 3
-    },
-    "upd": 0,
-    "new": false,
-    "actualList": null,
-    "issueSize": "₹33.14 Cr",
-    "infoUrl": "https://www.investorgain.com/gmp/ens-enterprises-ipo/2046/",
-    "hasAnchor": true,
-    "readings": {
-      "investorgain": {
-        "gmp": 0,
-        "pct": 0
+        "pct": 14.9
       }
     }
   },
@@ -483,7 +410,7 @@
       "qib": 0,
       "hni": 0,
       "retail": 0,
-      "total": 0.46,
+      "total": 0.61,
       "day": 3
     },
     "upd": 0,
@@ -496,6 +423,78 @@
       "investorgain": {
         "gmp": 7,
         "pct": 9.1
+      }
+    }
+  },
+  {
+    "name": "ENS Enterprises",
+    "type": "SME",
+    "status": "OPEN",
+    "band": [
+      92,
+      92
+    ],
+    "lot": 1200,
+    "open": "14 Aug",
+    "close": "18 Aug",
+    "list": "21 Aug",
+    "openISO": "2026-08-14",
+    "closeISO": "2026-08-18",
+    "listISO": "2026-08-21",
+    "prevPct": 0,
+    "sub": {
+      "qib": 0,
+      "hni": 0,
+      "retail": 0,
+      "total": 0.73,
+      "day": 3
+    },
+    "upd": 0,
+    "new": false,
+    "actualList": null,
+    "issueSize": "₹33.14 Cr",
+    "infoUrl": "https://www.investorgain.com/gmp/ens-enterprises-ipo/2046/",
+    "hasAnchor": true,
+    "readings": {
+      "investorgain": {
+        "gmp": 0,
+        "pct": 0
+      }
+    }
+  },
+  {
+    "name": "Technocrats Plasma Systems",
+    "type": "SME",
+    "status": "OPEN",
+    "band": [
+      132,
+      132
+    ],
+    "lot": 1000,
+    "open": "14 Aug",
+    "close": "18 Aug",
+    "list": "21 Aug",
+    "openISO": "2026-08-14",
+    "closeISO": "2026-08-18",
+    "listISO": "2026-08-21",
+    "prevPct": 24.2,
+    "sub": {
+      "qib": 0,
+      "hni": 0,
+      "retail": 0,
+      "total": 1.21,
+      "day": 3
+    },
+    "upd": 0,
+    "new": false,
+    "actualList": null,
+    "issueSize": "₹60.98 Cr",
+    "infoUrl": "https://www.investorgain.com/gmp/technocrats-plasma-systems-ipo/2092/",
+    "hasAnchor": true,
+    "readings": {
+      "investorgain": {
+        "gmp": 32,
+        "pct": 24.2
       }
     }
   },
@@ -519,7 +518,7 @@
       "qib": 0,
       "hni": 0,
       "retail": 0,
-      "total": 12.14,
+      "total": 23.83,
       "day": 3
     },
     "upd": 0,
@@ -532,78 +531,6 @@
       "investorgain": {
         "gmp": 55,
         "pct": 29.1
-      }
-    }
-  },
-  {
-    "name": "Behari Lal Engineering",
-    "type": "MAINBOARD",
-    "status": "CLOSED",
-    "band": [
-      285,
-      285
-    ],
-    "lot": 52,
-    "open": "12 Aug",
-    "close": "14 Aug",
-    "list": "19 Aug",
-    "openISO": "2026-08-12",
-    "closeISO": "2026-08-14",
-    "listISO": "2026-08-19",
-    "prevPct": 29.5,
-    "sub": {
-      "qib": 0,
-      "hni": 0,
-      "retail": 0,
-      "total": 118.07,
-      "day": 3
-    },
-    "upd": 0,
-    "new": false,
-    "actualList": null,
-    "issueSize": "₹301.62 Cr",
-    "infoUrl": "https://www.investorgain.com/gmp/behari-lal-engineering-ipo/1928/",
-    "hasAnchor": true,
-    "readings": {
-      "investorgain": {
-        "gmp": 84,
-        "pct": 29.5
-      }
-    }
-  },
-  {
-    "name": "Shiprocket",
-    "type": "MAINBOARD",
-    "status": "CLOSED",
-    "band": [
-      97,
-      97
-    ],
-    "lot": 154,
-    "open": "12 Aug",
-    "close": "14 Aug",
-    "list": "19 Aug",
-    "openISO": "2026-08-12",
-    "closeISO": "2026-08-14",
-    "listISO": "2026-08-19",
-    "prevPct": 33,
-    "sub": {
-      "qib": 0,
-      "hni": 0,
-      "retail": 0,
-      "total": 102.28,
-      "day": 3
-    },
-    "upd": 0,
-    "new": false,
-    "actualList": null,
-    "issueSize": "₹1617.48 Cr",
-    "infoUrl": "https://www.investorgain.com/gmp/shiprocket-ipo/1790/",
-    "hasAnchor": true,
-    "readings": {
-      "investorgain": {
-        "gmp": 32,
-        "pct": 33
       }
     }
   },
@@ -680,6 +607,78 @@
     }
   },
   {
+    "name": "Shiprocket",
+    "type": "MAINBOARD",
+    "status": "CLOSED",
+    "band": [
+      97,
+      97
+    ],
+    "lot": 154,
+    "open": "12 Aug",
+    "close": "14 Aug",
+    "list": "19 Aug",
+    "openISO": "2026-08-12",
+    "closeISO": "2026-08-14",
+    "listISO": "2026-08-19",
+    "prevPct": 33,
+    "sub": {
+      "qib": 0,
+      "hni": 0,
+      "retail": 0,
+      "total": 102.28,
+      "day": 3
+    },
+    "upd": 0,
+    "new": false,
+    "actualList": null,
+    "issueSize": "₹1617.48 Cr",
+    "infoUrl": "https://www.investorgain.com/gmp/shiprocket-ipo/1790/",
+    "hasAnchor": true,
+    "readings": {
+      "investorgain": {
+        "gmp": 33,
+        "pct": 34
+      }
+    }
+  },
+  {
+    "name": "Behari Lal Engineering",
+    "type": "MAINBOARD",
+    "status": "CLOSED",
+    "band": [
+      285,
+      285
+    ],
+    "lot": 52,
+    "open": "12 Aug",
+    "close": "14 Aug",
+    "list": "19 Aug",
+    "openISO": "2026-08-12",
+    "closeISO": "2026-08-14",
+    "listISO": "2026-08-19",
+    "prevPct": 29.5,
+    "sub": {
+      "qib": 0,
+      "hni": 0,
+      "retail": 0,
+      "total": 118.07,
+      "day": 3
+    },
+    "upd": 0,
+    "new": false,
+    "actualList": null,
+    "issueSize": "₹301.62 Cr",
+    "infoUrl": "https://www.investorgain.com/gmp/behari-lal-engineering-ipo/1928/",
+    "hasAnchor": true,
+    "readings": {
+      "investorgain": {
+        "gmp": 85,
+        "pct": 29.8
+      }
+    }
+  },
+  {
     "name": "Sham Foam",
     "type": "SME",
     "status": "CLOSED",
@@ -746,47 +745,10 @@
     "hasAnchor": true,
     "readings": {
       "investorgain": {
-        "gmp": 18,
-        "pct": 12.9
+        "gmp": 20,
+        "pct": 13.9
       }
     }
-  },
-  {
-    "name": "Dhoot Transmission",
-    "type": "MAINBOARD",
-    "status": "LISTED",
-    "band": [
-      871,
-      871
-    ],
-    "lot": 17,
-    "open": "10 Aug",
-    "close": "12 Aug",
-    "list": "17 Aug",
-    "openISO": "2026-08-10",
-    "closeISO": "2026-08-12",
-    "listISO": "2026-08-17",
-    "prevPct": 30.1,
-    "sub": {
-      "qib": 0,
-      "hni": 0,
-      "retail": 0,
-      "total": 75.06,
-      "day": 3
-    },
-    "upd": 0,
-    "new": false,
-    "actualList": null,
-    "issueSize": "₹3066.89 Cr",
-    "infoUrl": "https://www.investorgain.com/gmp/dhoot-transmission-ipo/2122/",
-    "hasAnchor": true,
-    "readings": {
-      "investorgain": {
-        "gmp": 258,
-        "pct": 29.6
-      }
-    },
-    "lastGmpPct": 29.6
   },
   {
     "name": "Molbio Diagnostics",
@@ -819,48 +781,48 @@
     "hasAnchor": true,
     "readings": {
       "investorgain": {
-        "gmp": 120,
-        "pct": 14.9
+        "gmp": 116,
+        "pct": 14.4
       }
     },
-    "lastGmpPct": 14.9
+    "lastGmpPct": 14.4
   },
   {
-    "name": "LEAP India",
+    "name": "Dhoot Transmission",
     "type": "MAINBOARD",
     "status": "LISTED",
     "band": [
-      159,
-      159
+      871,
+      871
     ],
-    "lot": 94,
-    "open": "7 Aug",
-    "close": "11 Aug",
-    "list": "14 Aug",
-    "openISO": "2026-08-07",
-    "closeISO": "2026-08-11",
-    "listISO": "2026-08-14",
-    "prevPct": 8.2,
+    "lot": 17,
+    "open": "10 Aug",
+    "close": "12 Aug",
+    "list": "17 Aug",
+    "openISO": "2026-08-10",
+    "closeISO": "2026-08-12",
+    "listISO": "2026-08-17",
+    "prevPct": 29.6,
     "sub": {
       "qib": 0,
       "hni": 0,
       "retail": 0,
-      "total": 8.82,
+      "total": 75.06,
       "day": 3
     },
     "upd": 0,
     "new": false,
     "actualList": null,
-    "issueSize": "₹2480.00 Cr",
-    "infoUrl": "https://www.investorgain.com/gmp/leap-india-ipo/1868/",
+    "issueSize": "₹3066.89 Cr",
+    "infoUrl": "https://www.investorgain.com/gmp/dhoot-transmission-ipo/2122/",
     "hasAnchor": true,
     "readings": {
       "investorgain": {
-        "gmp": 13,
-        "pct": 8.2
+        "gmp": 262,
+        "pct": 30.1
       }
     },
-    "lastGmpPct": 8.2
+    "lastGmpPct": 30.1
   },
   {
     "name": "Technocraft Ventures",
@@ -937,6 +899,43 @@
     "lastGmpPct": 0
   },
   {
+    "name": "LEAP India",
+    "type": "MAINBOARD",
+    "status": "LISTED",
+    "band": [
+      159,
+      159
+    ],
+    "lot": 94,
+    "open": "7 Aug",
+    "close": "11 Aug",
+    "list": "14 Aug",
+    "openISO": "2026-08-07",
+    "closeISO": "2026-08-11",
+    "listISO": "2026-08-14",
+    "prevPct": 8.2,
+    "sub": {
+      "qib": 0,
+      "hni": 0,
+      "retail": 0,
+      "total": 8.82,
+      "day": 3
+    },
+    "upd": 0,
+    "new": false,
+    "actualList": null,
+    "issueSize": "₹2480.00 Cr",
+    "infoUrl": "https://www.investorgain.com/gmp/leap-india-ipo/1868/",
+    "hasAnchor": true,
+    "readings": {
+      "investorgain": {
+        "gmp": 13,
+        "pct": 8.2
+      }
+    },
+    "lastGmpPct": 8.2
+  },
+  {
     "name": "LAPL Automotive",
     "type": "SME",
     "status": "LISTED",
@@ -974,43 +973,6 @@
     "lastGmpPct": 53.2
   },
   {
-    "name": "G.V. Electricals",
-    "type": "SME",
-    "status": "LISTED",
-    "band": [
-      130,
-      130
-    ],
-    "lot": 1000,
-    "open": "31 Jul",
-    "close": "7 Aug",
-    "list": "12 Aug",
-    "openISO": "2026-07-31",
-    "closeISO": "2026-08-07",
-    "listISO": "2026-08-12",
-    "prevPct": 19.2,
-    "sub": {
-      "qib": 0,
-      "hni": 0,
-      "retail": 0,
-      "total": 169.26,
-      "day": 3
-    },
-    "upd": 0,
-    "new": false,
-    "actualList": null,
-    "issueSize": "₹42.25 Cr",
-    "infoUrl": "https://www.investorgain.com/gmp/gv-electricals-ipo/2246/",
-    "hasAnchor": true,
-    "readings": {
-      "investorgain": {
-        "gmp": 25,
-        "pct": 19.2
-      }
-    },
-    "lastGmpPct": 19.2
-  },
-  {
     "name": "Ardee Industries",
     "type": "MAINBOARD",
     "status": "LISTED",
@@ -1046,6 +1008,43 @@
       }
     },
     "lastGmpPct": 32.1
+  },
+  {
+    "name": "G.V. Electricals",
+    "type": "SME",
+    "status": "LISTED",
+    "band": [
+      130,
+      130
+    ],
+    "lot": 1000,
+    "open": "31 Jul",
+    "close": "7 Aug",
+    "list": "12 Aug",
+    "openISO": "2026-07-31",
+    "closeISO": "2026-08-07",
+    "listISO": "2026-08-12",
+    "prevPct": 19.2,
+    "sub": {
+      "qib": 0,
+      "hni": 0,
+      "retail": 0,
+      "total": 169.26,
+      "day": 3
+    },
+    "upd": 0,
+    "new": false,
+    "actualList": null,
+    "issueSize": "₹42.25 Cr",
+    "infoUrl": "https://www.investorgain.com/gmp/gv-electricals-ipo/2246/",
+    "hasAnchor": true,
+    "readings": {
+      "investorgain": {
+        "gmp": 25,
+        "pct": 19.2
+      }
+    },
+    "lastGmpPct": 19.2
   },
   {
     "name": "Aegeus Technologies",
