@@ -1,5 +1,72 @@
 [
   {
+    "name": "Sumax Engineering",
+    "type": "SME",
+    "status": "UPCOMING",
+    "band": [
+      101,
+      101
+    ],
+    "lot": 1200,
+    "open": "25 Aug",
+    "close": "28 Aug",
+    "list": "2 Sep",
+    "openISO": "2026-08-25",
+    "closeISO": "2026-08-28",
+    "listISO": "2026-09-02",
+    "prevPct": null,
+    "sub": {
+      "qib": 0,
+      "hni": 0,
+      "retail": 0,
+      "total": 0,
+      "day": 0
+    },
+    "upd": 0,
+    "new": true,
+    "actualList": null,
+    "issueSize": "₹53.40 Cr",
+    "infoUrl": "https://www.investorgain.com/gmp/sumax-engineering-ipo/2238/",
+    "hasAnchor": true,
+    "readings": {}
+  },
+  {
+    "name": "Augmont Enterprises",
+    "type": "MAINBOARD",
+    "status": "UPCOMING",
+    "band": [
+      788,
+      788
+    ],
+    "lot": 19,
+    "open": "21 Aug",
+    "close": "25 Aug",
+    "list": "31 Aug",
+    "openISO": "2026-08-21",
+    "closeISO": "2026-08-25",
+    "listISO": "2026-08-31",
+    "prevPct": 0,
+    "sub": {
+      "qib": 0,
+      "hni": 0,
+      "retail": 0,
+      "total": 0,
+      "day": 0
+    },
+    "upd": 0,
+    "new": true,
+    "actualList": null,
+    "issueSize": "₹825.00 Cr",
+    "infoUrl": "https://www.investorgain.com/gmp/augmont-enterprises-ipo/1938/",
+    "hasAnchor": true,
+    "readings": {
+      "investorgain": {
+        "gmp": 0,
+        "pct": 0
+      }
+    }
+  },
+  {
     "name": "Skyways Air",
     "type": "MAINBOARD",
     "status": "UPCOMING",
@@ -218,7 +285,7 @@
   {
     "name": "Shankesh Jewellers",
     "type": "MAINBOARD",
-    "status": "UPCOMING",
+    "status": "OPEN",
     "band": [
       93,
       93
@@ -236,7 +303,7 @@
       "hni": 0,
       "retail": 0,
       "total": 0,
-      "day": 0
+      "day": 1
     },
     "upd": 0,
     "new": false,
@@ -254,7 +321,7 @@
   {
     "name": "Sunshine Pictures",
     "type": "MAINBOARD",
-    "status": "UPCOMING",
+    "status": "OPEN",
     "band": [
       360,
       360
@@ -272,7 +339,7 @@
       "hni": 0,
       "retail": 0,
       "total": 0,
-      "day": 0
+      "day": 1
     },
     "upd": 0,
     "new": false,
@@ -282,8 +349,8 @@
     "hasAnchor": true,
     "readings": {
       "investorgain": {
-        "gmp": 73,
-        "pct": 20.3
+        "gmp": 75,
+        "pct": 20.8
       }
     }
   },
@@ -344,7 +411,7 @@
       "hni": 0,
       "retail": 0,
       "total": 0.15,
-      "day": 1
+      "day": 2
     },
     "upd": 0,
     "new": false,
@@ -380,7 +447,7 @@
       "hni": 0,
       "retail": 0,
       "total": 0.75,
-      "day": 1
+      "day": 2
     },
     "upd": 0,
     "new": false,
@@ -506,7 +573,7 @@
   {
     "name": "Credent Connect",
     "type": "SME",
-    "status": "OPEN",
+    "status": "CLOSED",
     "band": [
       189,
       189
@@ -686,7 +753,7 @@
   {
     "name": "Sham Foam",
     "type": "SME",
-    "status": "CLOSED",
+    "status": "LISTED",
     "band": [
       130,
       130
@@ -717,12 +784,13 @@
         "gmp": 2,
         "pct": 1.1
       }
-    }
+    },
+    "lastGmpPct": 1.1
   },
   {
     "name": "Milky Mist Dairy Food",
     "type": "MAINBOARD",
-    "status": "CLOSED",
+    "status": "LISTED",
     "band": [
       140,
       140
@@ -753,7 +821,8 @@
         "gmp": 20,
         "pct": 14.1
       }
-    }
+    },
+    "lastGmpPct": 14.1
   },
   {
     "name": "Molbio Diagnostics",
@@ -1013,79 +1082,5 @@
       }
     },
     "lastGmpPct": 32.1
-  },
-  {
-    "name": "G.V. Electricals",
-    "type": "SME",
-    "status": "LISTED",
-    "band": [
-      130,
-      130
-    ],
-    "lot": 1000,
-    "open": "31 Jul",
-    "close": "7 Aug",
-    "list": "12 Aug",
-    "openISO": "2026-07-31",
-    "closeISO": "2026-08-07",
-    "listISO": "2026-08-12",
-    "prevPct": 19.2,
-    "sub": {
-      "qib": 0,
-      "hni": 0,
-      "retail": 0,
-      "total": 169.26,
-      "day": 3
-    },
-    "upd": 0,
-    "new": false,
-    "actualList": null,
-    "issueSize": "₹42.25 Cr",
-    "infoUrl": "https://www.investorgain.com/gmp/gv-electricals-ipo/2246/",
-    "hasAnchor": true,
-    "readings": {
-      "investorgain": {
-        "gmp": 25,
-        "pct": 19.2
-      }
-    },
-    "lastGmpPct": 19.2
-  },
-  {
-    "name": "Aegeus Technologies",
-    "type": "SME",
-    "status": "LISTED",
-    "band": [
-      105,
-      105
-    ],
-    "lot": 1200,
-    "open": "4 Aug",
-    "close": "6 Aug",
-    "list": "11 Aug",
-    "openISO": "2026-08-04",
-    "closeISO": "2026-08-06",
-    "listISO": "2026-08-11",
-    "prevPct": 11.4,
-    "sub": {
-      "qib": 0,
-      "hni": 0,
-      "retail": 0,
-      "total": 29.91,
-      "day": 3
-    },
-    "upd": 0,
-    "new": false,
-    "actualList": null,
-    "issueSize": "₹23.71 Cr",
-    "infoUrl": "https://www.investorgain.com/gmp/aegeus-technologies-ipo/2089/",
-    "hasAnchor": true,
-    "readings": {
-      "investorgain": {
-        "gmp": 12,
-        "pct": 11.4
-      }
-    },
-    "lastGmpPct": 11.4
   }
 ]
