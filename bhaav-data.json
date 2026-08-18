@@ -14,7 +14,7 @@
     "openISO": "2026-08-25",
     "closeISO": "2026-08-28",
     "listISO": "2026-09-02",
-    "prevPct": null,
+    "prevPct": 9.9,
     "sub": {
       "qib": 0,
       "hni": 0,
@@ -28,7 +28,12 @@
     "issueSize": "₹53.40 Cr",
     "infoUrl": "https://www.investorgain.com/gmp/sumax-engineering-ipo/2238/",
     "hasAnchor": true,
-    "readings": {}
+    "readings": {
+      "investorgain": {
+        "gmp": 10,
+        "pct": 9.9
+      }
+    }
   },
   {
     "name": "Madhur Knit",
@@ -169,8 +174,8 @@
     "hasAnchor": true,
     "readings": {
       "investorgain": {
-        "gmp": 160,
-        "pct": 20.3
+        "gmp": 165,
+        "pct": 20.9
       }
     }
   },
@@ -205,8 +210,8 @@
     "hasAnchor": true,
     "readings": {
       "investorgain": {
-        "gmp": 154,
-        "pct": 51.3
+        "gmp": 160,
+        "pct": 53.3
       }
     }
   },
@@ -338,7 +343,7 @@
       "qib": 0,
       "hni": 0,
       "retail": 0,
-      "total": 0.83,
+      "total": 1.73,
       "day": 1
     },
     "upd": 0,
@@ -374,7 +379,7 @@
       "qib": 0,
       "hni": 0,
       "retail": 0,
-      "total": 0.07,
+      "total": 0.16,
       "day": 1
     },
     "upd": 0,
@@ -410,7 +415,7 @@
       "qib": 0,
       "hni": 0,
       "retail": 0,
-      "total": 0.89,
+      "total": 0.91,
       "day": 3
     },
     "upd": 0,
@@ -446,7 +451,7 @@
       "qib": 0,
       "hni": 0,
       "retail": 0,
-      "total": 0.17,
+      "total": 0.18,
       "day": 2
     },
     "upd": 0,
@@ -457,8 +462,8 @@
     "hasAnchor": true,
     "readings": {
       "investorgain": {
-        "gmp": 2,
-        "pct": 2.8
+        "gmp": 1,
+        "pct": 2.1
       }
     }
   },
@@ -482,7 +487,7 @@
       "qib": 0,
       "hni": 0,
       "retail": 0,
-      "total": 1.2,
+      "total": 1.64,
       "day": 2
     },
     "upd": 0,
@@ -518,7 +523,7 @@
       "qib": 0,
       "hni": 0,
       "retail": 0,
-      "total": 1.96,
+      "total": 3.97,
       "day": 3
     },
     "upd": 0,
@@ -554,7 +559,7 @@
       "qib": 0,
       "hni": 0,
       "retail": 0,
-      "total": 20.91,
+      "total": 50.91,
       "day": 3
     },
     "upd": 0,
@@ -565,8 +570,8 @@
     "hasAnchor": true,
     "readings": {
       "investorgain": {
-        "gmp": 30,
-        "pct": 22.7
+        "gmp": 40,
+        "pct": 30.3
       }
     }
   },
@@ -590,7 +595,7 @@
       "qib": 0,
       "hni": 0,
       "retail": 0,
-      "total": 1.23,
+      "total": 1.44,
       "day": 3
     },
     "upd": 0,
@@ -745,8 +750,8 @@
     "hasAnchor": true,
     "readings": {
       "investorgain": {
-        "gmp": 105,
-        "pct": 36.8
+        "gmp": 110,
+        "pct": 38.6
       }
     }
   },
@@ -781,8 +786,8 @@
     "hasAnchor": true,
     "readings": {
       "investorgain": {
-        "gmp": 34,
-        "pct": 34.5
+        "gmp": 33,
+        "pct": 34
       }
     }
   },
