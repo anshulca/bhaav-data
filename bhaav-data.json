@@ -23,7 +23,7 @@
       "day": 0
     },
     "upd": 0,
-    "new": true,
+    "new": false,
     "actualList": null,
     "issueSize": "-",
     "infoUrl": "https://www.investorgain.com/gmp/kwick-forensic-solutions-ipo/2013/",
@@ -133,8 +133,8 @@
     "hasAnchor": true,
     "readings": {
       "investorgain": {
-        "gmp": 31,
-        "pct": 22.5
+        "gmp": 33,
+        "pct": 23.9
       }
     }
   },
@@ -205,8 +205,8 @@
     "hasAnchor": true,
     "readings": {
       "investorgain": {
-        "gmp": 165,
-        "pct": 20.9
+        "gmp": 180,
+        "pct": 22.8
       }
     }
   },
@@ -225,7 +225,7 @@
     "openISO": "2026-08-20",
     "closeISO": "2026-08-24",
     "listISO": "2026-08-28",
-    "prevPct": 53.3,
+    "prevPct": 52.7,
     "sub": {
       "qib": 0,
       "hni": 0,
@@ -241,8 +241,8 @@
     "hasAnchor": true,
     "readings": {
       "investorgain": {
-        "gmp": 158,
-        "pct": 52.7
+        "gmp": 160,
+        "pct": 53.3
       }
     }
   },
@@ -333,7 +333,7 @@
     "openISO": "2026-08-19",
     "closeISO": "2026-08-21",
     "listISO": "2026-08-26",
-    "prevPct": 4.4,
+    "prevPct": 3.1,
     "sub": {
       "qib": 0,
       "hni": 0,
@@ -374,7 +374,7 @@
       "qib": 0,
       "hni": 0,
       "retail": 0,
-      "total": 2.57,
+      "total": 3.78,
       "day": 1
     },
     "upd": 0,
@@ -405,12 +405,12 @@
     "openISO": "2026-08-18",
     "closeISO": "2026-08-20",
     "listISO": "2026-08-25",
-    "prevPct": 2.1,
+    "prevPct": 5.4,
     "sub": {
       "qib": 0,
       "hni": 0,
       "retail": 0,
-      "total": 0.22,
+      "total": 0.34,
       "day": 1
     },
     "upd": 0,
@@ -421,8 +421,8 @@
     "hasAnchor": true,
     "readings": {
       "investorgain": {
-        "gmp": 5,
-        "pct": 5.4
+        "gmp": 4,
+        "pct": 4.3
       }
     }
   },
@@ -446,7 +446,7 @@
       "qib": 0,
       "hni": 0,
       "retail": 0,
-      "total": 0.92,
+      "total": 0.94,
       "day": 3
     },
     "upd": 0,
@@ -477,12 +477,12 @@
     "openISO": "2026-08-17",
     "closeISO": "2026-08-19",
     "listISO": "2026-08-24",
-    "prevPct": 15.9,
+    "prevPct": 16.4,
     "sub": {
       "qib": 0,
       "hni": 0,
       "retail": 0,
-      "total": 2.11,
+      "total": 3.04,
       "day": 2
     },
     "upd": 0,
@@ -518,7 +518,7 @@
       "qib": 0,
       "hni": 0,
       "retail": 0,
-      "total": 0.2,
+      "total": 0.25,
       "day": 2
     },
     "upd": 0,
@@ -549,12 +549,12 @@
     "openISO": "2026-08-14",
     "closeISO": "2026-08-18",
     "listISO": "2026-08-21",
-    "prevPct": 30.3,
+    "prevPct": 32.6,
     "sub": {
       "qib": 0,
       "hni": 0,
       "retail": 0,
-      "total": 102.54,
+      "total": 201.83,
       "day": 3
     },
     "upd": 0,
@@ -590,7 +590,7 @@
       "qib": 0,
       "hni": 0,
       "retail": 0,
-      "total": 1.69,
+      "total": 2.03,
       "day": 3
     },
     "upd": 0,
@@ -626,7 +626,7 @@
       "qib": 0,
       "hni": 0,
       "retail": 0,
-      "total": 5.98,
+      "total": 12.87,
       "day": 3
     },
     "upd": 0,
@@ -729,7 +729,7 @@
     "openISO": "2026-08-12",
     "closeISO": "2026-08-14",
     "listISO": "2026-08-19",
-    "prevPct": 34,
+    "prevPct": 34.5,
     "sub": {
       "qib": 0,
       "hni": 0,
@@ -745,8 +745,8 @@
     "hasAnchor": true,
     "readings": {
       "investorgain": {
-        "gmp": 34,
-        "pct": 34.5
+        "gmp": 37,
+        "pct": 38.1
       }
     }
   },
@@ -765,7 +765,7 @@
     "openISO": "2026-08-12",
     "closeISO": "2026-08-14",
     "listISO": "2026-08-19",
-    "prevPct": 38.6,
+    "prevPct": 42.5,
     "sub": {
       "qib": 0,
       "hni": 0,
@@ -781,8 +781,8 @@
     "hasAnchor": true,
     "readings": {
       "investorgain": {
-        "gmp": 121,
-        "pct": 42.5
+        "gmp": 123,
+        "pct": 43.2
       }
     }
   },
