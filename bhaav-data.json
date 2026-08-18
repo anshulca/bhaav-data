@@ -1,5 +1,36 @@
 [
   {
+    "name": "Kwick Forensic Solutions",
+    "type": "SME",
+    "status": "UPCOMING",
+    "band": [
+      0,
+      0
+    ],
+    "lot": 0,
+    "open": "27 Aug",
+    "close": "31 Aug",
+    "list": "3 Sep",
+    "openISO": "2026-08-27",
+    "closeISO": "2026-08-31",
+    "listISO": "2026-09-03",
+    "prevPct": null,
+    "sub": {
+      "qib": 0,
+      "hni": 0,
+      "retail": 0,
+      "total": 0,
+      "day": 0
+    },
+    "upd": 0,
+    "new": true,
+    "actualList": null,
+    "issueSize": "-",
+    "infoUrl": "https://www.investorgain.com/gmp/kwick-forensic-solutions-ipo/2013/",
+    "hasAnchor": true,
+    "readings": {}
+  },
+  {
     "name": "Sumax Engineering",
     "type": "SME",
     "status": "UPCOMING",
@@ -158,7 +189,7 @@
     "openISO": "2026-08-21",
     "closeISO": "2026-08-25",
     "listISO": "2026-08-31",
-    "prevPct": 20.3,
+    "prevPct": 20.9,
     "sub": {
       "qib": 0,
       "hni": 0,
@@ -194,7 +225,7 @@
     "openISO": "2026-08-20",
     "closeISO": "2026-08-24",
     "listISO": "2026-08-28",
-    "prevPct": 51.3,
+    "prevPct": 53.3,
     "sub": {
       "qib": 0,
       "hni": 0,
@@ -210,8 +241,8 @@
     "hasAnchor": true,
     "readings": {
       "investorgain": {
-        "gmp": 160,
-        "pct": 53.3
+        "gmp": 158,
+        "pct": 52.7
       }
     }
   },
@@ -252,42 +283,6 @@
     }
   },
   {
-    "name": "Gaja Alternative Asset Management",
-    "type": "MAINBOARD",
-    "status": "UPCOMING",
-    "band": [
-      160,
-      160
-    ],
-    "lot": 93,
-    "open": "19 Aug",
-    "close": "21 Aug",
-    "list": "26 Aug",
-    "openISO": "2026-08-19",
-    "closeISO": "2026-08-21",
-    "listISO": "2026-08-26",
-    "prevPct": 4.4,
-    "sub": {
-      "qib": 0,
-      "hni": 0,
-      "retail": 0,
-      "total": 0,
-      "day": 0
-    },
-    "upd": 0,
-    "new": false,
-    "actualList": null,
-    "issueSize": "₹550.00 Cr",
-    "infoUrl": "https://www.investorgain.com/gmp/gaja-alternative-asset-management-ipo/1828/",
-    "hasAnchor": true,
-    "readings": {
-      "investorgain": {
-        "gmp": 7,
-        "pct": 4.4
-      }
-    }
-  },
-  {
     "name": "Dhanwel Hybrid Seeds",
     "type": "SME",
     "status": "UPCOMING",
@@ -324,6 +319,42 @@
     }
   },
   {
+    "name": "Gaja Alternative Asset Management",
+    "type": "MAINBOARD",
+    "status": "UPCOMING",
+    "band": [
+      160,
+      160
+    ],
+    "lot": 93,
+    "open": "19 Aug",
+    "close": "21 Aug",
+    "list": "26 Aug",
+    "openISO": "2026-08-19",
+    "closeISO": "2026-08-21",
+    "listISO": "2026-08-26",
+    "prevPct": 4.4,
+    "sub": {
+      "qib": 0,
+      "hni": 0,
+      "retail": 0,
+      "total": 0,
+      "day": 0
+    },
+    "upd": 0,
+    "new": false,
+    "actualList": null,
+    "issueSize": "₹550.00 Cr",
+    "infoUrl": "https://www.investorgain.com/gmp/gaja-alternative-asset-management-ipo/1828/",
+    "hasAnchor": true,
+    "readings": {
+      "investorgain": {
+        "gmp": 5,
+        "pct": 3.1
+      }
+    }
+  },
+  {
     "name": "Sunshine Pictures",
     "type": "MAINBOARD",
     "status": "OPEN",
@@ -343,7 +374,7 @@
       "qib": 0,
       "hni": 0,
       "retail": 0,
-      "total": 1.73,
+      "total": 2.57,
       "day": 1
     },
     "upd": 0,
@@ -379,7 +410,7 @@
       "qib": 0,
       "hni": 0,
       "retail": 0,
-      "total": 0.16,
+      "total": 0.22,
       "day": 1
     },
     "upd": 0,
@@ -390,8 +421,8 @@
     "hasAnchor": true,
     "readings": {
       "investorgain": {
-        "gmp": 2,
-        "pct": 2.1
+        "gmp": 5,
+        "pct": 5.4
       }
     }
   },
@@ -415,7 +446,7 @@
       "qib": 0,
       "hni": 0,
       "retail": 0,
-      "total": 0.91,
+      "total": 0.92,
       "day": 3
     },
     "upd": 0,
@@ -428,42 +459,6 @@
       "investorgain": {
         "gmp": 0,
         "pct": 0
-      }
-    }
-  },
-  {
-    "name": "Horizon Industrial Parks",
-    "type": "MAINBOARD",
-    "status": "OPEN",
-    "band": [
-      60,
-      60
-    ],
-    "lot": 250,
-    "open": "17 Aug",
-    "close": "19 Aug",
-    "list": "24 Aug",
-    "openISO": "2026-08-17",
-    "closeISO": "2026-08-19",
-    "listISO": "2026-08-24",
-    "prevPct": 2.8,
-    "sub": {
-      "qib": 0,
-      "hni": 0,
-      "retail": 0,
-      "total": 0.18,
-      "day": 2
-    },
-    "upd": 0,
-    "new": false,
-    "actualList": null,
-    "issueSize": "₹2600.04 Cr",
-    "infoUrl": "https://www.investorgain.com/gmp/horizon-industrial-parks-ipo/2080/",
-    "hasAnchor": true,
-    "readings": {
-      "investorgain": {
-        "gmp": 1,
-        "pct": 2.1
       }
     }
   },
@@ -487,7 +482,7 @@
       "qib": 0,
       "hni": 0,
       "retail": 0,
-      "total": 1.64,
+      "total": 2.11,
       "day": 2
     },
     "upd": 0,
@@ -498,44 +493,44 @@
     "hasAnchor": true,
     "readings": {
       "investorgain": {
-        "gmp": 32,
-        "pct": 15.9
+        "gmp": 33,
+        "pct": 16.4
       }
     }
   },
   {
-    "name": "ENS Enterprises",
-    "type": "SME",
+    "name": "Horizon Industrial Parks",
+    "type": "MAINBOARD",
     "status": "OPEN",
     "band": [
-      92,
-      92
+      60,
+      60
     ],
-    "lot": 1200,
-    "open": "14 Aug",
-    "close": "18 Aug",
-    "list": "21 Aug",
-    "openISO": "2026-08-14",
-    "closeISO": "2026-08-18",
-    "listISO": "2026-08-21",
-    "prevPct": 0,
+    "lot": 250,
+    "open": "17 Aug",
+    "close": "19 Aug",
+    "list": "24 Aug",
+    "openISO": "2026-08-17",
+    "closeISO": "2026-08-19",
+    "listISO": "2026-08-24",
+    "prevPct": 2.1,
     "sub": {
       "qib": 0,
       "hni": 0,
       "retail": 0,
-      "total": 3.97,
-      "day": 3
+      "total": 0.2,
+      "day": 2
     },
     "upd": 0,
     "new": false,
     "actualList": null,
-    "issueSize": "₹33.14 Cr",
-    "infoUrl": "https://www.investorgain.com/gmp/ens-enterprises-ipo/2046/",
+    "issueSize": "₹2600.04 Cr",
+    "infoUrl": "https://www.investorgain.com/gmp/horizon-industrial-parks-ipo/2080/",
     "hasAnchor": true,
     "readings": {
       "investorgain": {
-        "gmp": 0,
-        "pct": 0
+        "gmp": 1,
+        "pct": 2.1
       }
     }
   },
@@ -554,12 +549,12 @@
     "openISO": "2026-08-14",
     "closeISO": "2026-08-18",
     "listISO": "2026-08-21",
-    "prevPct": 22.7,
+    "prevPct": 30.3,
     "sub": {
       "qib": 0,
       "hni": 0,
       "retail": 0,
-      "total": 50.91,
+      "total": 102.54,
       "day": 3
     },
     "upd": 0,
@@ -570,8 +565,8 @@
     "hasAnchor": true,
     "readings": {
       "investorgain": {
-        "gmp": 40,
-        "pct": 30.3
+        "gmp": 43,
+        "pct": 32.6
       }
     }
   },
@@ -595,7 +590,7 @@
       "qib": 0,
       "hni": 0,
       "retail": 0,
-      "total": 1.44,
+      "total": 1.69,
       "day": 3
     },
     "upd": 0,
@@ -608,6 +603,42 @@
       "investorgain": {
         "gmp": 1,
         "pct": 1.3
+      }
+    }
+  },
+  {
+    "name": "ENS Enterprises",
+    "type": "SME",
+    "status": "OPEN",
+    "band": [
+      92,
+      92
+    ],
+    "lot": 1200,
+    "open": "14 Aug",
+    "close": "18 Aug",
+    "list": "21 Aug",
+    "openISO": "2026-08-14",
+    "closeISO": "2026-08-18",
+    "listISO": "2026-08-21",
+    "prevPct": 0,
+    "sub": {
+      "qib": 0,
+      "hni": 0,
+      "retail": 0,
+      "total": 5.98,
+      "day": 3
+    },
+    "upd": 0,
+    "new": false,
+    "actualList": null,
+    "issueSize": "₹33.14 Cr",
+    "infoUrl": "https://www.investorgain.com/gmp/ens-enterprises-ipo/2046/",
+    "hasAnchor": true,
+    "readings": {
+      "investorgain": {
+        "gmp": 0,
+        "pct": 0
       }
     }
   },
@@ -648,42 +679,6 @@
     }
   },
   {
-    "name": "Q&T Foods",
-    "type": "SME",
-    "status": "CLOSED",
-    "band": [
-      115,
-      115
-    ],
-    "lot": 1200,
-    "open": "12 Aug",
-    "close": "14 Aug",
-    "list": "19 Aug",
-    "openISO": "2026-08-12",
-    "closeISO": "2026-08-14",
-    "listISO": "2026-08-19",
-    "prevPct": 0.9,
-    "sub": {
-      "qib": 0,
-      "hni": 0,
-      "retail": 0,
-      "total": 1.42,
-      "day": 3
-    },
-    "upd": 0,
-    "new": false,
-    "actualList": null,
-    "issueSize": "₹26.25 Cr",
-    "infoUrl": "https://www.investorgain.com/gmp/qt-foods-ipo/2299/",
-    "hasAnchor": false,
-    "readings": {
-      "investorgain": {
-        "gmp": 1,
-        "pct": 0.9
-      }
-    }
-  },
-  {
     "name": "Pramodini Medicare",
     "type": "SME",
     "status": "CLOSED",
@@ -720,42 +715,6 @@
     }
   },
   {
-    "name": "Behari Lal Engineering",
-    "type": "MAINBOARD",
-    "status": "CLOSED",
-    "band": [
-      285,
-      285
-    ],
-    "lot": 52,
-    "open": "12 Aug",
-    "close": "14 Aug",
-    "list": "19 Aug",
-    "openISO": "2026-08-12",
-    "closeISO": "2026-08-14",
-    "listISO": "2026-08-19",
-    "prevPct": 36.8,
-    "sub": {
-      "qib": 0,
-      "hni": 0,
-      "retail": 0,
-      "total": 118.07,
-      "day": 3
-    },
-    "upd": 0,
-    "new": false,
-    "actualList": null,
-    "issueSize": "₹301.62 Cr",
-    "infoUrl": "https://www.investorgain.com/gmp/behari-lal-engineering-ipo/1928/",
-    "hasAnchor": true,
-    "readings": {
-      "investorgain": {
-        "gmp": 110,
-        "pct": 38.6
-      }
-    }
-  },
-  {
     "name": "Shiprocket",
     "type": "MAINBOARD",
     "status": "CLOSED",
@@ -770,7 +729,7 @@
     "openISO": "2026-08-12",
     "closeISO": "2026-08-14",
     "listISO": "2026-08-19",
-    "prevPct": 34.5,
+    "prevPct": 34,
     "sub": {
       "qib": 0,
       "hni": 0,
@@ -786,47 +745,82 @@
     "hasAnchor": true,
     "readings": {
       "investorgain": {
-        "gmp": 33,
-        "pct": 34
+        "gmp": 34,
+        "pct": 34.5
       }
     }
   },
   {
-    "name": "Sham Foam",
-    "type": "SME",
-    "status": "LISTED",
+    "name": "Behari Lal Engineering",
+    "type": "MAINBOARD",
+    "status": "CLOSED",
     "band": [
-      130,
-      130
+      285,
+      285
     ],
-    "lot": 1000,
-    "open": "11 Aug",
-    "close": "13 Aug",
-    "list": "18 Aug",
-    "openISO": "2026-08-11",
-    "closeISO": "2026-08-13",
-    "listISO": "2026-08-18",
-    "prevPct": 1.1,
+    "lot": 52,
+    "open": "12 Aug",
+    "close": "14 Aug",
+    "list": "19 Aug",
+    "openISO": "2026-08-12",
+    "closeISO": "2026-08-14",
+    "listISO": "2026-08-19",
+    "prevPct": 38.6,
     "sub": {
       "qib": 0,
       "hni": 0,
       "retail": 0,
-      "total": 2.4,
+      "total": 118.07,
       "day": 3
     },
     "upd": 0,
     "new": false,
     "actualList": null,
-    "issueSize": "₹40.48 Cr",
-    "infoUrl": "https://www.investorgain.com/gmp/sham-foam-ipo/2131/",
+    "issueSize": "₹301.62 Cr",
+    "infoUrl": "https://www.investorgain.com/gmp/behari-lal-engineering-ipo/1928/",
+    "hasAnchor": true,
+    "readings": {
+      "investorgain": {
+        "gmp": 121,
+        "pct": 42.5
+      }
+    }
+  },
+  {
+    "name": "Q&T Foods",
+    "type": "SME",
+    "status": "CLOSED",
+    "band": [
+      115,
+      115
+    ],
+    "lot": 1200,
+    "open": "12 Aug",
+    "close": "14 Aug",
+    "list": "19 Aug",
+    "openISO": "2026-08-12",
+    "closeISO": "2026-08-14",
+    "listISO": "2026-08-19",
+    "prevPct": 0.9,
+    "sub": {
+      "qib": 0,
+      "hni": 0,
+      "retail": 0,
+      "total": 1.42,
+      "day": 3
+    },
+    "upd": 0,
+    "new": false,
+    "actualList": null,
+    "issueSize": "₹26.25 Cr",
+    "infoUrl": "https://www.investorgain.com/gmp/qt-foods-ipo/2299/",
     "hasAnchor": false,
     "readings": {
       "investorgain": {
-        "gmp": 2,
-        "pct": 1.1
+        "gmp": 1,
+        "pct": 0.9
       }
-    },
-    "lastGmpPct": 1.1
+    }
   },
   {
     "name": "Milky Mist Dairy Food",
@@ -864,6 +858,43 @@
       }
     },
     "lastGmpPct": 14.1
+  },
+  {
+    "name": "Sham Foam",
+    "type": "SME",
+    "status": "LISTED",
+    "band": [
+      130,
+      130
+    ],
+    "lot": 1000,
+    "open": "11 Aug",
+    "close": "13 Aug",
+    "list": "18 Aug",
+    "openISO": "2026-08-11",
+    "closeISO": "2026-08-13",
+    "listISO": "2026-08-18",
+    "prevPct": 1.1,
+    "sub": {
+      "qib": 0,
+      "hni": 0,
+      "retail": 0,
+      "total": 2.4,
+      "day": 3
+    },
+    "upd": 0,
+    "new": false,
+    "actualList": null,
+    "issueSize": "₹40.48 Cr",
+    "infoUrl": "https://www.investorgain.com/gmp/sham-foam-ipo/2131/",
+    "hasAnchor": false,
+    "readings": {
+      "investorgain": {
+        "gmp": 2,
+        "pct": 1.1
+      }
+    },
+    "lastGmpPct": 1.1
   },
   {
     "name": "Molbio Diagnostics",
@@ -977,43 +1008,6 @@
     "lastGmpPct": 8.2
   },
   {
-    "name": "Technocraft Ventures",
-    "type": "MAINBOARD",
-    "status": "LISTED",
-    "band": [
-      212,
-      212
-    ],
-    "lot": 70,
-    "open": "7 Aug",
-    "close": "11 Aug",
-    "list": "14 Aug",
-    "openISO": "2026-08-07",
-    "closeISO": "2026-08-11",
-    "listISO": "2026-08-14",
-    "prevPct": 19.8,
-    "sub": {
-      "qib": 0,
-      "hni": 0,
-      "retail": 0,
-      "total": 38.69,
-      "day": 3
-    },
-    "upd": 0,
-    "new": false,
-    "actualList": null,
-    "issueSize": "₹251.88 Cr",
-    "infoUrl": "https://www.investorgain.com/gmp/technocraft-ventures-ipo/1854/",
-    "hasAnchor": true,
-    "readings": {
-      "investorgain": {
-        "gmp": 42,
-        "pct": 19.8
-      }
-    },
-    "lastGmpPct": 19.8
-  },
-  {
     "name": "Optimystix Entertainment",
     "type": "SME",
     "status": "LISTED",
@@ -1051,40 +1045,40 @@
     "lastGmpPct": 0
   },
   {
-    "name": "LAPL Automotive",
-    "type": "SME",
+    "name": "Technocraft Ventures",
+    "type": "MAINBOARD",
     "status": "LISTED",
     "band": [
-      94,
-      94
+      212,
+      212
     ],
-    "lot": 1200,
-    "open": "6 Aug",
-    "close": "10 Aug",
-    "list": "13 Aug",
-    "openISO": "2026-08-06",
-    "closeISO": "2026-08-10",
-    "listISO": "2026-08-13",
-    "prevPct": 53.2,
+    "lot": 70,
+    "open": "7 Aug",
+    "close": "11 Aug",
+    "list": "14 Aug",
+    "openISO": "2026-08-07",
+    "closeISO": "2026-08-11",
+    "listISO": "2026-08-14",
+    "prevPct": 19.8,
     "sub": {
       "qib": 0,
       "hni": 0,
       "retail": 0,
-      "total": 344.31,
+      "total": 38.69,
       "day": 3
     },
     "upd": 0,
     "new": false,
     "actualList": null,
-    "issueSize": "₹32.40 Cr",
-    "infoUrl": "https://www.investorgain.com/gmp/lapl-automotive-ipo/1713/",
+    "issueSize": "₹251.88 Cr",
+    "infoUrl": "https://www.investorgain.com/gmp/technocraft-ventures-ipo/1854/",
     "hasAnchor": true,
     "readings": {
       "investorgain": {
-        "gmp": 50,
-        "pct": 53.2
+        "gmp": 42,
+        "pct": 19.8
       }
     },
-    "lastGmpPct": 53.2
+    "lastGmpPct": 19.8
   }
 ]
