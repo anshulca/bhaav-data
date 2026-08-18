@@ -54,7 +54,7 @@
       "day": 0
     },
     "upd": 0,
-    "new": true,
+    "new": false,
     "actualList": null,
     "issueSize": "₹27.00 Cr",
     "infoUrl": "https://www.investorgain.com/gmp/madhur-knit-ipo/2037/",
@@ -153,7 +153,7 @@
     "openISO": "2026-08-21",
     "closeISO": "2026-08-25",
     "listISO": "2026-08-31",
-    "prevPct": 0,
+    "prevPct": 11.6,
     "sub": {
       "qib": 0,
       "hni": 0,
@@ -169,8 +169,8 @@
     "hasAnchor": true,
     "readings": {
       "investorgain": {
-        "gmp": 91,
-        "pct": 11.6
+        "gmp": 160,
+        "pct": 20.3
       }
     }
   },
@@ -338,7 +338,7 @@
       "qib": 0,
       "hni": 0,
       "retail": 0,
-      "total": 0.14,
+      "total": 0.83,
       "day": 1
     },
     "upd": 0,
@@ -374,7 +374,7 @@
       "qib": 0,
       "hni": 0,
       "retail": 0,
-      "total": 0.02,
+      "total": 0.07,
       "day": 1
     },
     "upd": 0,
@@ -410,7 +410,7 @@
       "qib": 0,
       "hni": 0,
       "retail": 0,
-      "total": 0.88,
+      "total": 0.89,
       "day": 3
     },
     "upd": 0,
@@ -446,7 +446,7 @@
       "qib": 0,
       "hni": 0,
       "retail": 0,
-      "total": 0.16,
+      "total": 0.17,
       "day": 2
     },
     "upd": 0,
@@ -482,7 +482,7 @@
       "qib": 0,
       "hni": 0,
       "retail": 0,
-      "total": 0.88,
+      "total": 1.2,
       "day": 2
     },
     "upd": 0,
@@ -493,8 +493,8 @@
     "hasAnchor": true,
     "readings": {
       "investorgain": {
-        "gmp": 30,
-        "pct": 14.9
+        "gmp": 32,
+        "pct": 15.9
       }
     }
   },
@@ -518,7 +518,7 @@
       "qib": 0,
       "hni": 0,
       "retail": 0,
-      "total": 1.58,
+      "total": 1.96,
       "day": 3
     },
     "upd": 0,
@@ -554,7 +554,7 @@
       "qib": 0,
       "hni": 0,
       "retail": 0,
-      "total": 8.27,
+      "total": 20.91,
       "day": 3
     },
     "upd": 0,
@@ -590,7 +590,7 @@
       "qib": 0,
       "hni": 0,
       "retail": 0,
-      "total": 1.07,
+      "total": 1.23,
       "day": 3
     },
     "upd": 0,
