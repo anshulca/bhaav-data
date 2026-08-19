@@ -14,7 +14,7 @@
     "openISO": "2026-08-27",
     "closeISO": "2026-08-31",
     "listISO": "2026-09-03",
-    "prevPct": null,
+    "prevPct": 0,
     "sub": {
       "qib": 0,
       "hni": 0,
@@ -28,7 +28,12 @@
     "issueSize": "-",
     "infoUrl": "https://www.investorgain.com/gmp/kwick-forensic-solutions-ipo/2013/",
     "hasAnchor": true,
-    "readings": {}
+    "readings": {
+      "investorgain": {
+        "gmp": 0,
+        "pct": 0
+      }
+    }
   },
   {
     "name": "Sumax Engineering",
@@ -249,7 +254,7 @@
   {
     "name": "Mopshop Distribution",
     "type": "SME",
-    "status": "UPCOMING",
+    "status": "OPEN",
     "band": [
       138,
       138
@@ -267,7 +272,7 @@
       "hni": 0,
       "retail": 0,
       "total": 0,
-      "day": 0
+      "day": 1
     },
     "upd": 0,
     "new": false,
@@ -285,7 +290,7 @@
   {
     "name": "Dhanwel Hybrid Seeds",
     "type": "SME",
-    "status": "UPCOMING",
+    "status": "OPEN",
     "band": [
       99,
       99
@@ -303,7 +308,7 @@
       "hni": 0,
       "retail": 0,
       "total": 0,
-      "day": 0
+      "day": 1
     },
     "upd": 0,
     "new": false,
@@ -321,7 +326,7 @@
   {
     "name": "Gaja Alternative Asset Management",
     "type": "MAINBOARD",
-    "status": "UPCOMING",
+    "status": "OPEN",
     "band": [
       160,
       160
@@ -339,7 +344,7 @@
       "hni": 0,
       "retail": 0,
       "total": 0,
-      "day": 0
+      "day": 1
     },
     "upd": 0,
     "new": false,
@@ -375,7 +380,7 @@
       "hni": 0,
       "retail": 0,
       "total": 4.34,
-      "day": 1
+      "day": 2
     },
     "upd": 0,
     "new": false,
@@ -411,7 +416,7 @@
       "hni": 0,
       "retail": 0,
       "total": 0.36,
-      "day": 1
+      "day": 2
     },
     "upd": 0,
     "new": false,
@@ -483,7 +488,7 @@
       "hni": 0,
       "retail": 0,
       "total": 3.25,
-      "day": 2
+      "day": 3
     },
     "upd": 0,
     "new": false,
@@ -519,7 +524,7 @@
       "hni": 0,
       "retail": 0,
       "total": 0.25,
-      "day": 2
+      "day": 3
     },
     "upd": 0,
     "new": false,
@@ -537,7 +542,7 @@
   {
     "name": "Technocrats Plasma Systems",
     "type": "SME",
-    "status": "OPEN",
+    "status": "CLOSED",
     "band": [
       132,
       132
@@ -573,7 +578,7 @@
   {
     "name": "Skytech Infinite Platform",
     "type": "SME",
-    "status": "OPEN",
+    "status": "CLOSED",
     "band": [
       77,
       77
@@ -609,7 +614,7 @@
   {
     "name": "ENS Enterprises",
     "type": "SME",
-    "status": "OPEN",
+    "status": "CLOSED",
     "band": [
       92,
       92
@@ -681,7 +686,7 @@
   {
     "name": "Pramodini Medicare",
     "type": "SME",
-    "status": "CLOSED",
+    "status": "LISTED",
     "band": [
       118,
       118
@@ -712,12 +717,13 @@
         "gmp": 0,
         "pct": 0
       }
-    }
+    },
+    "lastGmpPct": 0
   },
   {
     "name": "Shiprocket",
     "type": "MAINBOARD",
-    "status": "CLOSED",
+    "status": "LISTED",
     "band": [
       97,
       97
@@ -748,12 +754,13 @@
         "gmp": 36,
         "pct": 37.1
       }
-    }
+    },
+    "lastGmpPct": 37.1
   },
   {
     "name": "Behari Lal Engineering",
     "type": "MAINBOARD",
-    "status": "CLOSED",
+    "status": "LISTED",
     "band": [
       285,
       285
@@ -784,12 +791,13 @@
         "gmp": 133,
         "pct": 46.7
       }
-    }
+    },
+    "lastGmpPct": 46.7
   },
   {
     "name": "Q&T Foods",
     "type": "SME",
-    "status": "CLOSED",
+    "status": "LISTED",
     "band": [
       115,
       115
@@ -820,7 +828,8 @@
         "gmp": 1,
         "pct": 0.9
       }
-    }
+    },
+    "lastGmpPct": 0.9
   },
   {
     "name": "Milky Mist Dairy Food",
