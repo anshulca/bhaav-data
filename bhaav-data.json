@@ -290,7 +290,7 @@
   {
     "name": "Tempsens Instruments (India)",
     "type": "MAINBOARD",
-    "status": "UPCOMING",
+    "status": "OPEN",
     "band": [
       300,
       300
@@ -308,7 +308,7 @@
       "hni": 0,
       "retail": 0,
       "total": 0,
-      "day": 0
+      "day": 1
     },
     "upd": 0,
     "new": false,
@@ -344,7 +344,7 @@
       "hni": 0,
       "retail": 0,
       "total": 0.78,
-      "day": 1
+      "day": 2
     },
     "upd": 0,
     "new": false,
@@ -380,7 +380,7 @@
       "hni": 0,
       "retail": 0,
       "total": 0.9,
-      "day": 1
+      "day": 2
     },
     "upd": 0,
     "new": false,
@@ -416,7 +416,7 @@
       "hni": 0,
       "retail": 0,
       "total": 0.09,
-      "day": 1
+      "day": 2
     },
     "upd": 0,
     "new": false,
@@ -452,7 +452,7 @@
       "hni": 0,
       "retail": 0,
       "total": 18.47,
-      "day": 2
+      "day": 3
     },
     "upd": 0,
     "new": false,
@@ -488,7 +488,7 @@
       "hni": 0,
       "retail": 0,
       "total": 0.94,
-      "day": 2
+      "day": 3
     },
     "upd": 0,
     "new": false,
@@ -506,7 +506,7 @@
   {
     "name": "Lalithaa Jewellery Mart",
     "type": "MAINBOARD",
-    "status": "OPEN",
+    "status": "CLOSED",
     "band": [
       201,
       201
@@ -542,7 +542,7 @@
   {
     "name": "Horizon Industrial Parks",
     "type": "MAINBOARD",
-    "status": "OPEN",
+    "status": "CLOSED",
     "band": [
       60,
       60
@@ -578,7 +578,7 @@
   {
     "name": "Fascinate Textiles",
     "type": "SME",
-    "status": "OPEN",
+    "status": "CLOSED",
     "band": [
       151,
       151
@@ -722,7 +722,7 @@
   {
     "name": "Credent Connect",
     "type": "SME",
-    "status": "CLOSED",
+    "status": "LISTED",
     "band": [
       189,
       189
@@ -753,7 +753,8 @@
         "gmp": 92,
         "pct": 48.7
       }
-    }
+    },
+    "lastGmpPct": 48.7
   },
   {
     "name": "Q&T Foods",
