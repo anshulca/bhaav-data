@@ -36,6 +36,42 @@
     }
   },
   {
+    "name": "Annu Projects",
+    "type": "MAINBOARD",
+    "status": "UPCOMING",
+    "band": [
+      99,
+      99
+    ],
+    "lot": 151,
+    "open": "25 Aug",
+    "close": "28 Aug",
+    "list": "2 Sep",
+    "openISO": "2026-08-25",
+    "closeISO": "2026-08-28",
+    "listISO": "2026-09-02",
+    "prevPct": 0,
+    "sub": {
+      "qib": 0,
+      "hni": 0,
+      "retail": 0,
+      "total": 0,
+      "day": 0
+    },
+    "upd": 0,
+    "new": true,
+    "actualList": null,
+    "issueSize": "₹175.06 Cr",
+    "infoUrl": "https://www.investorgain.com/gmp/annu-projects-ipo/1815/",
+    "hasAnchor": true,
+    "readings": {
+      "investorgain": {
+        "gmp": 0,
+        "pct": 0
+      }
+    }
+  },
+  {
     "name": "Sumax Engineering",
     "type": "SME",
     "status": "UPCOMING",
@@ -68,78 +104,6 @@
       "investorgain": {
         "gmp": 30,
         "pct": 29.7
-      }
-    }
-  },
-  {
-    "name": "Hy-Tech Engineers",
-    "type": "MAINBOARD",
-    "status": "UPCOMING",
-    "band": [
-      53,
-      53
-    ],
-    "lot": 283,
-    "open": "24 Aug",
-    "close": "27 Aug",
-    "list": "1 Sep",
-    "openISO": "2026-08-24",
-    "closeISO": "2026-08-27",
-    "listISO": "2026-09-01",
-    "prevPct": 9.4,
-    "sub": {
-      "qib": 0,
-      "hni": 0,
-      "retail": 0,
-      "total": 0,
-      "day": 0
-    },
-    "upd": 0,
-    "new": false,
-    "actualList": null,
-    "issueSize": "₹135.73 Cr",
-    "infoUrl": "https://www.investorgain.com/gmp/hy-tech-engineers-ipo/1876/",
-    "hasAnchor": true,
-    "readings": {
-      "investorgain": {
-        "gmp": 5,
-        "pct": 9.4
-      }
-    }
-  },
-  {
-    "name": "Skyways Air",
-    "type": "MAINBOARD",
-    "status": "UPCOMING",
-    "band": [
-      138,
-      138
-    ],
-    "lot": 100,
-    "open": "24 Aug",
-    "close": "27 Aug",
-    "list": "1 Sep",
-    "openISO": "2026-08-24",
-    "closeISO": "2026-08-27",
-    "listISO": "2026-09-01",
-    "prevPct": 30.4,
-    "sub": {
-      "qib": 0,
-      "hni": 0,
-      "retail": 0,
-      "total": 0,
-      "day": 0
-    },
-    "upd": 0,
-    "new": false,
-    "actualList": null,
-    "issueSize": "₹582.80 Cr",
-    "infoUrl": "https://www.investorgain.com/gmp/skyways-air-ipo/1820/",
-    "hasAnchor": true,
-    "readings": {
-      "investorgain": {
-        "gmp": 42,
-        "pct": 30.4
       }
     }
   },
@@ -212,6 +176,78 @@
       "investorgain": {
         "gmp": 0,
         "pct": 0
+      }
+    }
+  },
+  {
+    "name": "Hy-Tech Engineers",
+    "type": "MAINBOARD",
+    "status": "UPCOMING",
+    "band": [
+      53,
+      53
+    ],
+    "lot": 283,
+    "open": "24 Aug",
+    "close": "27 Aug",
+    "list": "1 Sep",
+    "openISO": "2026-08-24",
+    "closeISO": "2026-08-27",
+    "listISO": "2026-09-01",
+    "prevPct": 9.4,
+    "sub": {
+      "qib": 0,
+      "hni": 0,
+      "retail": 0,
+      "total": 0,
+      "day": 0
+    },
+    "upd": 0,
+    "new": false,
+    "actualList": null,
+    "issueSize": "₹135.73 Cr",
+    "infoUrl": "https://www.investorgain.com/gmp/hy-tech-engineers-ipo/1876/",
+    "hasAnchor": true,
+    "readings": {
+      "investorgain": {
+        "gmp": 5,
+        "pct": 9.4
+      }
+    }
+  },
+  {
+    "name": "Skyways Air",
+    "type": "MAINBOARD",
+    "status": "UPCOMING",
+    "band": [
+      138,
+      138
+    ],
+    "lot": 100,
+    "open": "24 Aug",
+    "close": "27 Aug",
+    "list": "1 Sep",
+    "openISO": "2026-08-24",
+    "closeISO": "2026-08-27",
+    "listISO": "2026-09-01",
+    "prevPct": 30.4,
+    "sub": {
+      "qib": 0,
+      "hni": 0,
+      "retail": 0,
+      "total": 0,
+      "day": 0
+    },
+    "upd": 0,
+    "new": false,
+    "actualList": null,
+    "issueSize": "₹582.80 Cr",
+    "infoUrl": "https://www.investorgain.com/gmp/skyways-air-ipo/1820/",
+    "hasAnchor": true,
+    "readings": {
+      "investorgain": {
+        "gmp": 42,
+        "pct": 30.4
       }
     }
   },
@@ -307,7 +343,7 @@
       "qib": 0,
       "hni": 0,
       "retail": 0,
-      "total": 0,
+      "total": 0.28,
       "day": 1
     },
     "upd": 0,
@@ -320,78 +356,6 @@
       "investorgain": {
         "gmp": 220,
         "pct": 73.3
-      }
-    }
-  },
-  {
-    "name": "Mopshop Distribution",
-    "type": "SME",
-    "status": "OPEN",
-    "band": [
-      138,
-      138
-    ],
-    "lot": 1000,
-    "open": "19 Aug",
-    "close": "21 Aug",
-    "list": "26 Aug",
-    "openISO": "2026-08-19",
-    "closeISO": "2026-08-21",
-    "listISO": "2026-08-26",
-    "prevPct": 3.6,
-    "sub": {
-      "qib": 0,
-      "hni": 0,
-      "retail": 0,
-      "total": 0.78,
-      "day": 2
-    },
-    "upd": 0,
-    "new": false,
-    "actualList": null,
-    "issueSize": "₹27.26 Cr",
-    "infoUrl": "https://www.investorgain.com/gmp/mopshop-distribution-ipo/2024/",
-    "hasAnchor": false,
-    "readings": {
-      "investorgain": {
-        "gmp": 5,
-        "pct": 3.6
-      }
-    }
-  },
-  {
-    "name": "Gaja Alternative Asset Management",
-    "type": "MAINBOARD",
-    "status": "OPEN",
-    "band": [
-      160,
-      160
-    ],
-    "lot": 93,
-    "open": "19 Aug",
-    "close": "21 Aug",
-    "list": "26 Aug",
-    "openISO": "2026-08-19",
-    "closeISO": "2026-08-21",
-    "listISO": "2026-08-26",
-    "prevPct": 14.4,
-    "sub": {
-      "qib": 0,
-      "hni": 0,
-      "retail": 0,
-      "total": 0.9,
-      "day": 2
-    },
-    "upd": 0,
-    "new": false,
-    "actualList": null,
-    "issueSize": "₹550.00 Cr",
-    "infoUrl": "https://www.investorgain.com/gmp/gaja-alternative-asset-management-ipo/1828/",
-    "hasAnchor": true,
-    "readings": {
-      "investorgain": {
-        "gmp": 23,
-        "pct": 14.4
       }
     }
   },
@@ -415,7 +379,7 @@
       "qib": 0,
       "hni": 0,
       "retail": 0,
-      "total": 0.09,
+      "total": 0.13,
       "day": 2
     },
     "upd": 0,
@@ -428,6 +392,78 @@
       "investorgain": {
         "gmp": 12,
         "pct": 12.1
+      }
+    }
+  },
+  {
+    "name": "Gaja Alternative Asset Management",
+    "type": "MAINBOARD",
+    "status": "OPEN",
+    "band": [
+      160,
+      160
+    ],
+    "lot": 93,
+    "open": "19 Aug",
+    "close": "21 Aug",
+    "list": "26 Aug",
+    "openISO": "2026-08-19",
+    "closeISO": "2026-08-21",
+    "listISO": "2026-08-26",
+    "prevPct": 14.4,
+    "sub": {
+      "qib": 0,
+      "hni": 0,
+      "retail": 0,
+      "total": 1.02,
+      "day": 2
+    },
+    "upd": 0,
+    "new": false,
+    "actualList": null,
+    "issueSize": "₹550.00 Cr",
+    "infoUrl": "https://www.investorgain.com/gmp/gaja-alternative-asset-management-ipo/1828/",
+    "hasAnchor": true,
+    "readings": {
+      "investorgain": {
+        "gmp": 23,
+        "pct": 14.4
+      }
+    }
+  },
+  {
+    "name": "Mopshop Distribution",
+    "type": "SME",
+    "status": "OPEN",
+    "band": [
+      138,
+      138
+    ],
+    "lot": 1000,
+    "open": "19 Aug",
+    "close": "21 Aug",
+    "list": "26 Aug",
+    "openISO": "2026-08-19",
+    "closeISO": "2026-08-21",
+    "listISO": "2026-08-26",
+    "prevPct": 3.6,
+    "sub": {
+      "qib": 0,
+      "hni": 0,
+      "retail": 0,
+      "total": 0.86,
+      "day": 2
+    },
+    "upd": 0,
+    "new": false,
+    "actualList": null,
+    "issueSize": "₹27.26 Cr",
+    "infoUrl": "https://www.investorgain.com/gmp/mopshop-distribution-ipo/2024/",
+    "hasAnchor": false,
+    "readings": {
+      "investorgain": {
+        "gmp": 5,
+        "pct": 3.6
       }
     }
   },
@@ -451,7 +487,7 @@
       "qib": 0,
       "hni": 0,
       "retail": 0,
-      "total": 18.47,
+      "total": 20.81,
       "day": 3
     },
     "upd": 0,
@@ -487,7 +523,7 @@
       "qib": 0,
       "hni": 0,
       "retail": 0,
-      "total": 0.94,
+      "total": 1,
       "day": 3
     },
     "upd": 0,
@@ -500,42 +536,6 @@
       "investorgain": {
         "gmp": 3,
         "pct": 2.7
-      }
-    }
-  },
-  {
-    "name": "Lalithaa Jewellery Mart",
-    "type": "MAINBOARD",
-    "status": "CLOSED",
-    "band": [
-      201,
-      201
-    ],
-    "lot": 74,
-    "open": "17 Aug",
-    "close": "19 Aug",
-    "list": "24 Aug",
-    "openISO": "2026-08-17",
-    "closeISO": "2026-08-19",
-    "listISO": "2026-08-24",
-    "prevPct": 26.9,
-    "sub": {
-      "qib": 0,
-      "hni": 0,
-      "retail": 0,
-      "total": 66.63,
-      "day": 3
-    },
-    "upd": 0,
-    "new": false,
-    "actualList": null,
-    "issueSize": "₹1700.00 Cr",
-    "infoUrl": "https://www.investorgain.com/gmp/lalithaa-jewellery-mart-ipo/1799/",
-    "hasAnchor": true,
-    "readings": {
-      "investorgain": {
-        "gmp": 54,
-        "pct": 26.9
       }
     }
   },
@@ -576,6 +576,42 @@
     }
   },
   {
+    "name": "Lalithaa Jewellery Mart",
+    "type": "MAINBOARD",
+    "status": "CLOSED",
+    "band": [
+      201,
+      201
+    ],
+    "lot": 74,
+    "open": "17 Aug",
+    "close": "19 Aug",
+    "list": "24 Aug",
+    "openISO": "2026-08-17",
+    "closeISO": "2026-08-19",
+    "listISO": "2026-08-24",
+    "prevPct": 26.9,
+    "sub": {
+      "qib": 0,
+      "hni": 0,
+      "retail": 0,
+      "total": 66.63,
+      "day": 3
+    },
+    "upd": 0,
+    "new": false,
+    "actualList": null,
+    "issueSize": "₹1700.00 Cr",
+    "infoUrl": "https://www.investorgain.com/gmp/lalithaa-jewellery-mart-ipo/1799/",
+    "hasAnchor": true,
+    "readings": {
+      "investorgain": {
+        "gmp": 54,
+        "pct": 26.9
+      }
+    }
+  },
+  {
     "name": "Fascinate Textiles",
     "type": "SME",
     "status": "CLOSED",
@@ -608,42 +644,6 @@
       "investorgain": {
         "gmp": 0,
         "pct": 0
-      }
-    }
-  },
-  {
-    "name": "ENS Enterprises",
-    "type": "SME",
-    "status": "CLOSED",
-    "band": [
-      92,
-      92
-    ],
-    "lot": 1200,
-    "open": "14 Aug",
-    "close": "18 Aug",
-    "list": "21 Aug",
-    "openISO": "2026-08-14",
-    "closeISO": "2026-08-18",
-    "listISO": "2026-08-21",
-    "prevPct": 4.3,
-    "sub": {
-      "qib": 0,
-      "hni": 0,
-      "retail": 0,
-      "total": 13.11,
-      "day": 3
-    },
-    "upd": 0,
-    "new": false,
-    "actualList": null,
-    "issueSize": "₹33.14 Cr",
-    "infoUrl": "https://www.investorgain.com/gmp/ens-enterprises-ipo/2046/",
-    "hasAnchor": true,
-    "readings": {
-      "investorgain": {
-        "gmp": 4,
-        "pct": 4.3
       }
     }
   },
@@ -684,6 +684,42 @@
     }
   },
   {
+    "name": "ENS Enterprises",
+    "type": "SME",
+    "status": "CLOSED",
+    "band": [
+      92,
+      92
+    ],
+    "lot": 1200,
+    "open": "14 Aug",
+    "close": "18 Aug",
+    "list": "21 Aug",
+    "openISO": "2026-08-14",
+    "closeISO": "2026-08-18",
+    "listISO": "2026-08-21",
+    "prevPct": 4.3,
+    "sub": {
+      "qib": 0,
+      "hni": 0,
+      "retail": 0,
+      "total": 13.11,
+      "day": 3
+    },
+    "upd": 0,
+    "new": false,
+    "actualList": null,
+    "issueSize": "₹33.14 Cr",
+    "infoUrl": "https://www.investorgain.com/gmp/ens-enterprises-ipo/2046/",
+    "hasAnchor": true,
+    "readings": {
+      "investorgain": {
+        "gmp": 4,
+        "pct": 4.3
+      }
+    }
+  },
+  {
     "name": "Technocrats Plasma Systems",
     "type": "SME",
     "status": "CLOSED",
@@ -714,8 +750,8 @@
     "hasAnchor": true,
     "readings": {
       "investorgain": {
-        "gmp": 41,
-        "pct": 31.1
+        "gmp": 48,
+        "pct": 36.4
       }
     }
   },
@@ -755,80 +791,6 @@
       }
     },
     "lastGmpPct": 48.7
-  },
-  {
-    "name": "Q&T Foods",
-    "type": "SME",
-    "status": "LISTED",
-    "band": [
-      115,
-      115
-    ],
-    "lot": 1200,
-    "open": "12 Aug",
-    "close": "14 Aug",
-    "list": "19 Aug",
-    "openISO": "2026-08-12",
-    "closeISO": "2026-08-14",
-    "listISO": "2026-08-19",
-    "prevPct": 0.9,
-    "sub": {
-      "qib": 0,
-      "hni": 0,
-      "retail": 0,
-      "total": 1.42,
-      "day": 3
-    },
-    "upd": 0,
-    "new": false,
-    "actualList": null,
-    "issueSize": "₹26.25 Cr",
-    "infoUrl": "https://www.investorgain.com/gmp/qt-foods-ipo/2299/",
-    "hasAnchor": false,
-    "readings": {
-      "investorgain": {
-        "gmp": 1,
-        "pct": 0.9
-      }
-    },
-    "lastGmpPct": 0.9
-  },
-  {
-    "name": "Behari Lal Engineering",
-    "type": "MAINBOARD",
-    "status": "LISTED",
-    "band": [
-      285,
-      285
-    ],
-    "lot": 52,
-    "open": "12 Aug",
-    "close": "14 Aug",
-    "list": "19 Aug",
-    "openISO": "2026-08-12",
-    "closeISO": "2026-08-14",
-    "listISO": "2026-08-19",
-    "prevPct": 46.7,
-    "sub": {
-      "qib": 0,
-      "hni": 0,
-      "retail": 0,
-      "total": 118.07,
-      "day": 3
-    },
-    "upd": 0,
-    "new": false,
-    "actualList": null,
-    "issueSize": "₹301.62 Cr",
-    "infoUrl": "https://www.investorgain.com/gmp/behari-lal-engineering-ipo/1928/",
-    "hasAnchor": true,
-    "readings": {
-      "investorgain": {
-        "gmp": 133,
-        "pct": 46.7
-      }
-    },
-    "lastGmpPct": 46.7
   },
   {
     "name": "Pramodini Medicare",
@@ -905,6 +867,80 @@
     "lastGmpPct": 36.1
   },
   {
+    "name": "Behari Lal Engineering",
+    "type": "MAINBOARD",
+    "status": "LISTED",
+    "band": [
+      285,
+      285
+    ],
+    "lot": 52,
+    "open": "12 Aug",
+    "close": "14 Aug",
+    "list": "19 Aug",
+    "openISO": "2026-08-12",
+    "closeISO": "2026-08-14",
+    "listISO": "2026-08-19",
+    "prevPct": 46.7,
+    "sub": {
+      "qib": 0,
+      "hni": 0,
+      "retail": 0,
+      "total": 118.07,
+      "day": 3
+    },
+    "upd": 0,
+    "new": false,
+    "actualList": null,
+    "issueSize": "₹301.62 Cr",
+    "infoUrl": "https://www.investorgain.com/gmp/behari-lal-engineering-ipo/1928/",
+    "hasAnchor": true,
+    "readings": {
+      "investorgain": {
+        "gmp": 133,
+        "pct": 46.7
+      }
+    },
+    "lastGmpPct": 46.7
+  },
+  {
+    "name": "Q&T Foods",
+    "type": "SME",
+    "status": "LISTED",
+    "band": [
+      115,
+      115
+    ],
+    "lot": 1200,
+    "open": "12 Aug",
+    "close": "14 Aug",
+    "list": "19 Aug",
+    "openISO": "2026-08-12",
+    "closeISO": "2026-08-14",
+    "listISO": "2026-08-19",
+    "prevPct": 0.9,
+    "sub": {
+      "qib": 0,
+      "hni": 0,
+      "retail": 0,
+      "total": 1.42,
+      "day": 3
+    },
+    "upd": 0,
+    "new": false,
+    "actualList": null,
+    "issueSize": "₹26.25 Cr",
+    "infoUrl": "https://www.investorgain.com/gmp/qt-foods-ipo/2299/",
+    "hasAnchor": false,
+    "readings": {
+      "investorgain": {
+        "gmp": 1,
+        "pct": 0.9
+      }
+    },
+    "lastGmpPct": 0.9
+  },
+  {
     "name": "Milky Mist Dairy Food",
     "type": "MAINBOARD",
     "status": "LISTED",
@@ -979,43 +1015,6 @@
     "lastGmpPct": 1.1
   },
   {
-    "name": "Dhoot Transmission",
-    "type": "MAINBOARD",
-    "status": "LISTED",
-    "band": [
-      871,
-      871
-    ],
-    "lot": 17,
-    "open": "10 Aug",
-    "close": "12 Aug",
-    "list": "17 Aug",
-    "openISO": "2026-08-10",
-    "closeISO": "2026-08-12",
-    "listISO": "2026-08-17",
-    "prevPct": 30.1,
-    "sub": {
-      "qib": 0,
-      "hni": 0,
-      "retail": 0,
-      "total": 75.06,
-      "day": 3
-    },
-    "upd": 0,
-    "new": false,
-    "actualList": null,
-    "issueSize": "₹3066.89 Cr",
-    "infoUrl": "https://www.investorgain.com/gmp/dhoot-transmission-ipo/2122/",
-    "hasAnchor": true,
-    "readings": {
-      "investorgain": {
-        "gmp": 262,
-        "pct": 30.1
-      }
-    },
-    "lastGmpPct": 30.1
-  },
-  {
     "name": "Molbio Diagnostics",
     "type": "MAINBOARD",
     "status": "LISTED",
@@ -1053,40 +1052,40 @@
     "lastGmpPct": 14.4
   },
   {
-    "name": "LEAP India",
+    "name": "Dhoot Transmission",
     "type": "MAINBOARD",
     "status": "LISTED",
     "band": [
-      159,
-      159
+      871,
+      871
     ],
-    "lot": 94,
-    "open": "7 Aug",
-    "close": "11 Aug",
-    "list": "14 Aug",
-    "openISO": "2026-08-07",
-    "closeISO": "2026-08-11",
-    "listISO": "2026-08-14",
-    "prevPct": 8.2,
+    "lot": 17,
+    "open": "10 Aug",
+    "close": "12 Aug",
+    "list": "17 Aug",
+    "openISO": "2026-08-10",
+    "closeISO": "2026-08-12",
+    "listISO": "2026-08-17",
+    "prevPct": 30.1,
     "sub": {
       "qib": 0,
       "hni": 0,
       "retail": 0,
-      "total": 8.82,
+      "total": 75.06,
       "day": 3
     },
     "upd": 0,
     "new": false,
     "actualList": null,
-    "issueSize": "₹2480.00 Cr",
-    "infoUrl": "https://www.investorgain.com/gmp/leap-india-ipo/1868/",
+    "issueSize": "₹3066.89 Cr",
+    "infoUrl": "https://www.investorgain.com/gmp/dhoot-transmission-ipo/2122/",
     "hasAnchor": true,
     "readings": {
       "investorgain": {
-        "gmp": 13,
-        "pct": 8.2
+        "gmp": 262,
+        "pct": 30.1
       }
     },
-    "lastGmpPct": 8.2
+    "lastGmpPct": 30.1
   }
 ]
