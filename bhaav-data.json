@@ -23,7 +23,7 @@
       "day": 0
     },
     "upd": 0,
-    "new": true,
+    "new": false,
     "actualList": null,
     "issueSize": "-",
     "infoUrl": "https://www.investorgain.com/gmp/rays-of-belief-ipo/2041/",
@@ -277,8 +277,8 @@
     "hasAnchor": true,
     "readings": {
       "investorgain": {
-        "gmp": 240,
-        "pct": 24.3
+        "gmp": 265,
+        "pct": 26.8
       }
     }
   },
@@ -313,8 +313,8 @@
     "hasAnchor": true,
     "readings": {
       "investorgain": {
-        "gmp": 2,
-        "pct": 3.8
+        "gmp": 1,
+        "pct": 1.9
       }
     }
   },
@@ -374,7 +374,7 @@
       "qib": 0,
       "hni": 0,
       "retail": 0,
-      "total": 4.8,
+      "total": 4.9,
       "day": 1
     },
     "upd": 0,
@@ -385,8 +385,8 @@
     "hasAnchor": true,
     "readings": {
       "investorgain": {
-        "gmp": 232,
-        "pct": 77.3
+        "gmp": 245,
+        "pct": 81.7
       }
     }
   },
@@ -405,12 +405,12 @@
     "openISO": "2026-08-19",
     "closeISO": "2026-08-21",
     "listISO": "2026-08-26",
-    "prevPct": 15,
+    "prevPct": 8.8,
     "sub": {
       "qib": 0,
       "hni": 0,
       "retail": 0,
-      "total": 2.12,
+      "total": 2.38,
       "day": 2
     },
     "upd": 0,
@@ -421,8 +421,8 @@
     "hasAnchor": true,
     "readings": {
       "investorgain": {
-        "gmp": 14,
-        "pct": 8.8
+        "gmp": 19,
+        "pct": 11.6
       }
     }
   },
@@ -446,7 +446,7 @@
       "qib": 0,
       "hni": 0,
       "retail": 0,
-      "total": 0.61,
+      "total": 0.68,
       "day": 2
     },
     "upd": 0,
@@ -457,8 +457,8 @@
     "hasAnchor": false,
     "readings": {
       "investorgain": {
-        "gmp": 12,
-        "pct": 12.1
+        "gmp": 8,
+        "pct": 8.1
       }
     }
   },
@@ -482,7 +482,7 @@
       "qib": 0,
       "hni": 0,
       "retail": 0,
-      "total": 1,
+      "total": 1.04,
       "day": 2
     },
     "upd": 0,
@@ -513,12 +513,12 @@
     "openISO": "2026-08-18",
     "closeISO": "2026-08-20",
     "listISO": "2026-08-25",
-    "prevPct": 21.7,
+    "prevPct": 21.9,
     "sub": {
       "qib": 0,
       "hni": 0,
       "retail": 0,
-      "total": 84.51,
+      "total": 104.87,
       "day": 3
     },
     "upd": 0,
@@ -554,7 +554,7 @@
       "qib": 0,
       "hni": 0,
       "retail": 0,
-      "total": 1.99,
+      "total": 2.73,
       "day": 3
     },
     "upd": 0,
@@ -565,8 +565,8 @@
     "hasAnchor": true,
     "readings": {
       "investorgain": {
-        "gmp": 1,
-        "pct": 1.1
+        "gmp": 3,
+        "pct": 2.7
       }
     }
   },
@@ -585,7 +585,7 @@
     "openISO": "2026-08-17",
     "closeISO": "2026-08-19",
     "listISO": "2026-08-24",
-    "prevPct": 2.7,
+    "prevPct": 3.9,
     "sub": {
       "qib": 0,
       "hni": 0,
@@ -601,8 +601,8 @@
     "hasAnchor": true,
     "readings": {
       "investorgain": {
-        "gmp": 2,
-        "pct": 3.9
+        "gmp": 3,
+        "pct": 4.7
       }
     }
   },
@@ -657,7 +657,7 @@
     "openISO": "2026-08-17",
     "closeISO": "2026-08-19",
     "listISO": "2026-08-24",
-    "prevPct": 28.9,
+    "prevPct": 29.9,
     "sub": {
       "qib": 0,
       "hni": 0,
