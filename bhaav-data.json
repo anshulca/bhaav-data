@@ -14,7 +14,7 @@
     "openISO": "2026-09-01",
     "closeISO": "2026-09-03",
     "listISO": "2026-09-08",
-    "prevPct": null,
+    "prevPct": 0,
     "sub": {
       "qib": 0,
       "hni": 0,
@@ -28,7 +28,12 @@
     "issueSize": "-",
     "infoUrl": "https://www.investorgain.com/gmp/rays-of-belief-ipo/2041/",
     "hasAnchor": true,
-    "readings": {}
+    "readings": {
+      "investorgain": {
+        "gmp": 0,
+        "pct": 0
+      }
+    }
   },
   {
     "name": "Kwick Forensic Solutions",
@@ -205,8 +210,8 @@
     "hasAnchor": true,
     "readings": {
       "investorgain": {
-        "gmp": 50,
-        "pct": 36.2
+        "gmp": 42,
+        "pct": 30.4
       }
     }
   },
@@ -277,8 +282,8 @@
     "hasAnchor": true,
     "readings": {
       "investorgain": {
-        "gmp": 300,
-        "pct": 30.4
+        "gmp": 320,
+        "pct": 32.4
       }
     }
   },
@@ -321,7 +326,7 @@
   {
     "name": "Augmont Enterprises",
     "type": "MAINBOARD",
-    "status": "UPCOMING",
+    "status": "OPEN",
     "band": [
       788,
       788
@@ -339,7 +344,7 @@
       "hni": 0,
       "retail": 0,
       "total": 0,
-      "day": 0
+      "day": 1
     },
     "upd": 0,
     "new": false,
@@ -375,7 +380,7 @@
       "hni": 0,
       "retail": 0,
       "total": 5.95,
-      "day": 1
+      "day": 2
     },
     "upd": 0,
     "new": false,
@@ -411,7 +416,7 @@
       "hni": 0,
       "retail": 0,
       "total": 2.56,
-      "day": 2
+      "day": 3
     },
     "upd": 0,
     "new": false,
@@ -421,8 +426,8 @@
     "hasAnchor": true,
     "readings": {
       "investorgain": {
-        "gmp": 18,
-        "pct": 11.3
+        "gmp": 19,
+        "pct": 11.6
       }
     }
   },
@@ -447,7 +452,7 @@
       "hni": 0,
       "retail": 0,
       "total": 0.75,
-      "day": 2
+      "day": 3
     },
     "upd": 0,
     "new": false,
@@ -483,7 +488,7 @@
       "hni": 0,
       "retail": 0,
       "total": 1.07,
-      "day": 2
+      "day": 3
     },
     "upd": 0,
     "new": false,
@@ -501,7 +506,7 @@
   {
     "name": "Sunshine Pictures",
     "type": "MAINBOARD",
-    "status": "OPEN",
+    "status": "CLOSED",
     "band": [
       360,
       360
@@ -537,7 +542,7 @@
   {
     "name": "Shankesh Jewellers",
     "type": "MAINBOARD",
-    "status": "OPEN",
+    "status": "CLOSED",
     "band": [
       93,
       93
@@ -673,15 +678,15 @@
     "hasAnchor": true,
     "readings": {
       "investorgain": {
-        "gmp": 61,
-        "pct": 30.4
+        "gmp": 60,
+        "pct": 29.9
       }
     }
   },
   {
     "name": "Technocrats Plasma Systems",
     "type": "SME",
-    "status": "CLOSED",
+    "status": "LISTED",
     "band": [
       132,
       132
@@ -712,12 +717,13 @@
         "gmp": 70,
         "pct": 53
       }
-    }
+    },
+    "lastGmpPct": 53
   },
   {
     "name": "ENS Enterprises",
     "type": "SME",
-    "status": "CLOSED",
+    "status": "LISTED",
     "band": [
       92,
       92
@@ -748,12 +754,13 @@
         "gmp": 5,
         "pct": 5.4
       }
-    }
+    },
+    "lastGmpPct": 5.4
   },
   {
     "name": "Skytech Infinite Platform",
     "type": "SME",
-    "status": "CLOSED",
+    "status": "LISTED",
     "band": [
       77,
       77
@@ -784,7 +791,8 @@
         "gmp": 1,
         "pct": 1.3
       }
-    }
+    },
+    "lastGmpPct": 1.3
   },
   {
     "name": "Credent Connect",
