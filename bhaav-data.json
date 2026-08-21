@@ -158,7 +158,7 @@
     "openISO": "2026-08-25",
     "closeISO": "2026-08-28",
     "listISO": "2026-09-02",
-    "prevPct": 0,
+    "prevPct": 4,
     "sub": {
       "qib": 0,
       "hni": 0,
@@ -379,7 +379,7 @@
       "qib": 0,
       "hni": 0,
       "retail": 0,
-      "total": 1.77,
+      "total": 2.82,
       "day": 1
     },
     "upd": 0,
@@ -415,7 +415,7 @@
       "qib": 0,
       "hni": 0,
       "retail": 0,
-      "total": 18.02,
+      "total": 21.04,
       "day": 2
     },
     "upd": 0,
@@ -446,12 +446,12 @@
     "openISO": "2026-08-19",
     "closeISO": "2026-08-21",
     "listISO": "2026-08-26",
-    "prevPct": 10.6,
+    "prevPct": 8.1,
     "sub": {
       "qib": 0,
       "hni": 0,
       "retail": 0,
-      "total": 21.05,
+      "total": 32.83,
       "day": 3
     },
     "upd": 0,
@@ -462,8 +462,8 @@
     "hasAnchor": true,
     "readings": {
       "investorgain": {
-        "gmp": 13,
-        "pct": 8.1
+        "gmp": 17,
+        "pct": 10.3
       }
     }
   },
@@ -487,7 +487,7 @@
       "qib": 0,
       "hni": 0,
       "retail": 0,
-      "total": 1.52,
+      "total": 1.59,
       "day": 3
     },
     "upd": 0,
@@ -523,7 +523,7 @@
       "qib": 0,
       "hni": 0,
       "retail": 0,
-      "total": 1.51,
+      "total": 1.65,
       "day": 3
     },
     "upd": 0,
@@ -554,7 +554,7 @@
     "openISO": "2026-08-18",
     "closeISO": "2026-08-20",
     "listISO": "2026-08-25",
-    "prevPct": 20.8,
+    "prevPct": 20,
     "sub": {
       "qib": 0,
       "hni": 0,
@@ -678,8 +678,8 @@
     "hasAnchor": true,
     "readings": {
       "investorgain": {
-        "gmp": 4,
-        "pct": 6
+        "gmp": 3,
+        "pct": 5
       }
     }
   },
@@ -698,7 +698,7 @@
     "openISO": "2026-08-17",
     "closeISO": "2026-08-19",
     "listISO": "2026-08-24",
-    "prevPct": 28.6,
+    "prevPct": 26.9,
     "sub": {
       "qib": 0,
       "hni": 0,
@@ -714,8 +714,8 @@
     "hasAnchor": true,
     "readings": {
       "investorgain": {
-        "gmp": 54,
-        "pct": 26.9
+        "gmp": 53,
+        "pct": 26.4
       }
     }
   },
