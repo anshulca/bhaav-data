@@ -266,7 +266,7 @@
     "openISO": "2026-08-24",
     "closeISO": "2026-08-27",
     "listISO": "2026-09-01",
-    "prevPct": 34.4,
+    "prevPct": 34.9,
     "sub": {
       "qib": 0,
       "hni": 0,
@@ -426,8 +426,8 @@
     "hasAnchor": true,
     "readings": {
       "investorgain": {
-        "gmp": 287,
-        "pct": 95.7
+        "gmp": 290,
+        "pct": 96.7
       }
     }
   },
@@ -554,7 +554,7 @@
     "openISO": "2026-08-18",
     "closeISO": "2026-08-20",
     "listISO": "2026-08-25",
-    "prevPct": 19.4,
+    "prevPct": 15.3,
     "sub": {
       "qib": 0,
       "hni": 0,
@@ -570,8 +570,8 @@
     "hasAnchor": true,
     "readings": {
       "investorgain": {
-        "gmp": 55,
-        "pct": 15.3
+        "gmp": 62,
+        "pct": 17.2
       }
     }
   },
