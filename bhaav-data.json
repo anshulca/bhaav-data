@@ -117,7 +117,7 @@
     "openISO": "2026-08-27",
     "closeISO": "2026-08-31",
     "listISO": "2026-09-03",
-    "prevPct": 56.1,
+    "prevPct": 62.2,
     "sub": {
       "qib": 0,
       "hni": 0,
@@ -241,8 +241,8 @@
     "hasAnchor": true,
     "readings": {
       "investorgain": {
-        "gmp": 42,
-        "pct": 30.4
+        "gmp": 37,
+        "pct": 26.8
       }
     }
   },
@@ -369,7 +369,7 @@
     "openISO": "2026-08-24",
     "closeISO": "2026-08-27",
     "listISO": "2026-09-01",
-    "prevPct": 36.9,
+    "prevPct": 37.6,
     "sub": {
       "qib": 0,
       "hni": 0,
@@ -385,8 +385,8 @@
     "hasAnchor": true,
     "readings": {
       "investorgain": {
-        "gmp": 372,
-        "pct": 37.6
+        "gmp": 410,
+        "pct": 41.5
       }
     }
   },
@@ -405,7 +405,7 @@
     "openISO": "2026-08-21",
     "closeISO": "2026-08-25",
     "listISO": "2026-08-31",
-    "prevPct": 47,
+    "prevPct": 49.8,
     "sub": {
       "qib": 0,
       "hni": 0,
@@ -421,8 +421,8 @@
     "hasAnchor": true,
     "readings": {
       "investorgain": {
-        "gmp": 392,
-        "pct": 49.8
+        "gmp": 390,
+        "pct": 49.5
       }
     }
   },
@@ -493,8 +493,8 @@
     "hasAnchor": true,
     "readings": {
       "investorgain": {
-        "gmp": 18,
-        "pct": 10.9
+        "gmp": 16,
+        "pct": 10
       }
     }
   },
@@ -601,8 +601,8 @@
     "hasAnchor": true,
     "readings": {
       "investorgain": {
-        "gmp": 2,
-        "pct": 2.1
+        "gmp": 4,
+        "pct": 3.8
       }
     }
   },
@@ -637,8 +637,8 @@
     "hasAnchor": true,
     "readings": {
       "investorgain": {
-        "gmp": 65,
-        "pct": 18.1
+        "gmp": 67,
+        "pct": 18.6
       }
     }
   },
@@ -657,7 +657,7 @@
     "openISO": "2026-08-17",
     "closeISO": "2026-08-19",
     "listISO": "2026-08-24",
-    "prevPct": 34.8,
+    "prevPct": 35.6,
     "sub": {
       "qib": 0,
       "hni": 0,
@@ -673,8 +673,8 @@
     "hasAnchor": true,
     "readings": {
       "investorgain": {
-        "gmp": 72,
-        "pct": 35.6
+        "gmp": 71,
+        "pct": 35.1
       }
     }
   },
@@ -729,7 +729,7 @@
     "openISO": "2026-08-17",
     "closeISO": "2026-08-19",
     "listISO": "2026-08-24",
-    "prevPct": 4.2,
+    "prevPct": 5,
     "sub": {
       "qib": 0,
       "hni": 0,
@@ -1061,7 +1061,7 @@
     "openISO": "2026-08-11",
     "closeISO": "2026-08-13",
     "listISO": "2026-08-18",
-    "prevPct": 1.15,
+    "prevPct": 1.1,
     "sub": {
       "qib": 0,
       "hni": 0,
@@ -1070,7 +1070,7 @@
       "day": 3
     },
     "upd": 0,
-    "new": true,
+    "new": false,
     "actualList": null,
     "issueSize": "₹40.48 Cr",
     "infoUrl": "https://www.investorgain.com/gmp/sham-foam-ipo/2131/",
