@@ -1,36 +1,5 @@
 [
   {
-    "name": "Complete Sports and Management",
-    "type": "SME",
-    "status": "UPCOMING",
-    "band": [
-      0,
-      0
-    ],
-    "lot": 0,
-    "open": "28 Aug",
-    "close": "1 Sep",
-    "list": "4 Sep",
-    "openISO": "2026-08-28",
-    "closeISO": "2026-09-01",
-    "listISO": "2026-09-04",
-    "prevPct": null,
-    "sub": {
-      "qib": 0,
-      "hni": 0,
-      "retail": 0,
-      "total": 0,
-      "day": 0
-    },
-    "upd": 0,
-    "new": true,
-    "actualList": null,
-    "issueSize": "-",
-    "infoUrl": "https://www.investorgain.com/gmp/complete-sports-and-management-ipo/2339/",
-    "hasAnchor": true,
-    "readings": {}
-  },
-  {
     "name": "Rays of Belief",
     "type": "MAINBOARD",
     "status": "UPCOMING",
@@ -65,6 +34,37 @@
         "pct": 0
       }
     }
+  },
+  {
+    "name": "Complete Sports and Management",
+    "type": "SME",
+    "status": "UPCOMING",
+    "band": [
+      0,
+      0
+    ],
+    "lot": 0,
+    "open": "28 Aug",
+    "close": "1 Sep",
+    "list": "4 Sep",
+    "openISO": "2026-08-28",
+    "closeISO": "2026-09-01",
+    "listISO": "2026-09-04",
+    "prevPct": null,
+    "sub": {
+      "qib": 0,
+      "hni": 0,
+      "retail": 0,
+      "total": 0,
+      "day": 0
+    },
+    "upd": 0,
+    "new": false,
+    "actualList": null,
+    "issueSize": "-",
+    "infoUrl": "https://www.investorgain.com/gmp/complete-sports-and-management-ipo/2339/",
+    "hasAnchor": true,
+    "readings": {}
   },
   {
     "name": "Kwick Forensic Solutions",
@@ -133,8 +133,44 @@
     "hasAnchor": true,
     "readings": {
       "investorgain": {
-        "gmp": 46,
-        "pct": 56.1
+        "gmp": 51,
+        "pct": 62.2
+      }
+    }
+  },
+  {
+    "name": "Annu Projects",
+    "type": "MAINBOARD",
+    "status": "UPCOMING",
+    "band": [
+      99,
+      99
+    ],
+    "lot": 151,
+    "open": "25 Aug",
+    "close": "28 Aug",
+    "list": "2 Sep",
+    "openISO": "2026-08-25",
+    "closeISO": "2026-08-28",
+    "listISO": "2026-09-02",
+    "prevPct": 4,
+    "sub": {
+      "qib": 0,
+      "hni": 0,
+      "retail": 0,
+      "total": 0,
+      "day": 0
+    },
+    "upd": 0,
+    "new": false,
+    "actualList": null,
+    "issueSize": "₹175.06 Cr",
+    "infoUrl": "https://www.investorgain.com/gmp/annu-projects-ipo/1815/",
+    "hasAnchor": true,
+    "readings": {
+      "investorgain": {
+        "gmp": 4,
+        "pct": 4
       }
     }
   },
@@ -175,21 +211,21 @@
     }
   },
   {
-    "name": "Annu Projects",
+    "name": "Skyways Air",
     "type": "MAINBOARD",
     "status": "UPCOMING",
     "band": [
-      99,
-      99
+      138,
+      138
     ],
-    "lot": 151,
-    "open": "25 Aug",
-    "close": "28 Aug",
-    "list": "2 Sep",
-    "openISO": "2026-08-25",
-    "closeISO": "2026-08-28",
-    "listISO": "2026-09-02",
-    "prevPct": 4,
+    "lot": 100,
+    "open": "24 Aug",
+    "close": "27 Aug",
+    "list": "1 Sep",
+    "openISO": "2026-08-24",
+    "closeISO": "2026-08-27",
+    "listISO": "2026-09-01",
+    "prevPct": 30.4,
     "sub": {
       "qib": 0,
       "hni": 0,
@@ -200,13 +236,13 @@
     "upd": 0,
     "new": false,
     "actualList": null,
-    "issueSize": "₹175.06 Cr",
-    "infoUrl": "https://www.investorgain.com/gmp/annu-projects-ipo/1815/",
+    "issueSize": "₹582.80 Cr",
+    "infoUrl": "https://www.investorgain.com/gmp/skyways-air-ipo/1820/",
     "hasAnchor": true,
     "readings": {
       "investorgain": {
-        "gmp": 4,
-        "pct": 4
+        "gmp": 42,
+        "pct": 30.4
       }
     }
   },
@@ -283,42 +319,6 @@
     }
   },
   {
-    "name": "Symbiotec Pharmalab",
-    "type": "MAINBOARD",
-    "status": "UPCOMING",
-    "band": [
-      988,
-      988
-    ],
-    "lot": 15,
-    "open": "24 Aug",
-    "close": "27 Aug",
-    "list": "1 Sep",
-    "openISO": "2026-08-24",
-    "closeISO": "2026-08-27",
-    "listISO": "2026-09-01",
-    "prevPct": 36.9,
-    "sub": {
-      "qib": 0,
-      "hni": 0,
-      "retail": 0,
-      "total": 0,
-      "day": 0
-    },
-    "upd": 0,
-    "new": false,
-    "actualList": null,
-    "issueSize": "₹1757.00 Cr",
-    "infoUrl": "https://www.investorgain.com/gmp/symbiotec-pharmalab-ipo/2069/",
-    "hasAnchor": true,
-    "readings": {
-      "investorgain": {
-        "gmp": 365,
-        "pct": 36.9
-      }
-    }
-  },
-  {
     "name": "Hy-Tech Engineers",
     "type": "MAINBOARD",
     "status": "UPCOMING",
@@ -355,21 +355,21 @@
     }
   },
   {
-    "name": "Skyways Air",
+    "name": "Symbiotec Pharmalab",
     "type": "MAINBOARD",
     "status": "UPCOMING",
     "band": [
-      138,
-      138
+      988,
+      988
     ],
-    "lot": 100,
+    "lot": 15,
     "open": "24 Aug",
     "close": "27 Aug",
     "list": "1 Sep",
     "openISO": "2026-08-24",
     "closeISO": "2026-08-27",
     "listISO": "2026-09-01",
-    "prevPct": 30.4,
+    "prevPct": 36.9,
     "sub": {
       "qib": 0,
       "hni": 0,
@@ -380,13 +380,13 @@
     "upd": 0,
     "new": false,
     "actualList": null,
-    "issueSize": "₹582.80 Cr",
-    "infoUrl": "https://www.investorgain.com/gmp/skyways-air-ipo/1820/",
+    "issueSize": "₹1757.00 Cr",
+    "infoUrl": "https://www.investorgain.com/gmp/symbiotec-pharmalab-ipo/2069/",
     "hasAnchor": true,
     "readings": {
       "investorgain": {
-        "gmp": 42,
-        "pct": 30.4
+        "gmp": 372,
+        "pct": 37.6
       }
     }
   },
@@ -421,8 +421,8 @@
     "hasAnchor": true,
     "readings": {
       "investorgain": {
-        "gmp": 370,
-        "pct": 47
+        "gmp": 392,
+        "pct": 49.8
       }
     }
   },
@@ -499,6 +499,42 @@
     }
   },
   {
+    "name": "Dhanwel Hybrid Seeds",
+    "type": "SME",
+    "status": "CLOSED",
+    "band": [
+      99,
+      99
+    ],
+    "lot": 1200,
+    "open": "19 Aug",
+    "close": "21 Aug",
+    "list": "26 Aug",
+    "openISO": "2026-08-19",
+    "closeISO": "2026-08-21",
+    "listISO": "2026-08-26",
+    "prevPct": 1,
+    "sub": {
+      "qib": 0,
+      "hni": 0,
+      "retail": 0,
+      "total": 1.65,
+      "day": 3
+    },
+    "upd": 0,
+    "new": false,
+    "actualList": null,
+    "issueSize": "₹26.73 Cr",
+    "infoUrl": "https://www.investorgain.com/gmp/dhanwel-hybrid-seeds-ipo/2098/",
+    "hasAnchor": false,
+    "readings": {
+      "investorgain": {
+        "gmp": 1,
+        "pct": 1
+      }
+    }
+  },
+  {
     "name": "Mopshop Distribution",
     "type": "SME",
     "status": "CLOSED",
@@ -535,38 +571,38 @@
     }
   },
   {
-    "name": "Dhanwel Hybrid Seeds",
-    "type": "SME",
+    "name": "Shankesh Jewellers",
+    "type": "MAINBOARD",
     "status": "CLOSED",
     "band": [
-      99,
-      99
+      93,
+      93
     ],
-    "lot": 1200,
-    "open": "19 Aug",
-    "close": "21 Aug",
-    "list": "26 Aug",
-    "openISO": "2026-08-19",
-    "closeISO": "2026-08-21",
-    "listISO": "2026-08-26",
-    "prevPct": 1,
+    "lot": 160,
+    "open": "18 Aug",
+    "close": "20 Aug",
+    "list": "25 Aug",
+    "openISO": "2026-08-18",
+    "closeISO": "2026-08-20",
+    "listISO": "2026-08-25",
+    "prevPct": 2.1,
     "sub": {
       "qib": 0,
       "hni": 0,
       "retail": 0,
-      "total": 1.65,
+      "total": 2.8,
       "day": 3
     },
     "upd": 0,
     "new": false,
     "actualList": null,
-    "issueSize": "₹26.73 Cr",
-    "infoUrl": "https://www.investorgain.com/gmp/dhanwel-hybrid-seeds-ipo/2098/",
-    "hasAnchor": false,
+    "issueSize": "₹367.18 Cr",
+    "infoUrl": "https://www.investorgain.com/gmp/shankesh-jewellers-ipo/1932/",
+    "hasAnchor": true,
     "readings": {
       "investorgain": {
-        "gmp": 1,
-        "pct": 1
+        "gmp": 2,
+        "pct": 2.1
       }
     }
   },
@@ -607,38 +643,38 @@
     }
   },
   {
-    "name": "Shankesh Jewellers",
+    "name": "Lalithaa Jewellery Mart",
     "type": "MAINBOARD",
     "status": "CLOSED",
     "band": [
-      93,
-      93
+      201,
+      201
     ],
-    "lot": 160,
-    "open": "18 Aug",
-    "close": "20 Aug",
-    "list": "25 Aug",
-    "openISO": "2026-08-18",
-    "closeISO": "2026-08-20",
-    "listISO": "2026-08-25",
-    "prevPct": 2.1,
+    "lot": 74,
+    "open": "17 Aug",
+    "close": "19 Aug",
+    "list": "24 Aug",
+    "openISO": "2026-08-17",
+    "closeISO": "2026-08-19",
+    "listISO": "2026-08-24",
+    "prevPct": 34.8,
     "sub": {
       "qib": 0,
       "hni": 0,
       "retail": 0,
-      "total": 2.8,
+      "total": 66.63,
       "day": 3
     },
     "upd": 0,
     "new": false,
     "actualList": null,
-    "issueSize": "₹367.18 Cr",
-    "infoUrl": "https://www.investorgain.com/gmp/shankesh-jewellers-ipo/1932/",
+    "issueSize": "₹1700.00 Cr",
+    "infoUrl": "https://www.investorgain.com/gmp/lalithaa-jewellery-mart-ipo/1799/",
     "hasAnchor": true,
     "readings": {
       "investorgain": {
-        "gmp": 2,
-        "pct": 2.1
+        "gmp": 72,
+        "pct": 35.6
       }
     }
   },
@@ -710,43 +746,7 @@
     "readings": {
       "investorgain": {
         "gmp": 3,
-        "pct": 4.2
-      }
-    }
-  },
-  {
-    "name": "Lalithaa Jewellery Mart",
-    "type": "MAINBOARD",
-    "status": "CLOSED",
-    "band": [
-      201,
-      201
-    ],
-    "lot": 74,
-    "open": "17 Aug",
-    "close": "19 Aug",
-    "list": "24 Aug",
-    "openISO": "2026-08-17",
-    "closeISO": "2026-08-19",
-    "listISO": "2026-08-24",
-    "prevPct": 34.8,
-    "sub": {
-      "qib": 0,
-      "hni": 0,
-      "retail": 0,
-      "total": 66.63,
-      "day": 3
-    },
-    "upd": 0,
-    "new": false,
-    "actualList": null,
-    "issueSize": "₹1700.00 Cr",
-    "infoUrl": "https://www.investorgain.com/gmp/lalithaa-jewellery-mart-ipo/1799/",
-    "hasAnchor": true,
-    "readings": {
-      "investorgain": {
-        "gmp": 70,
-        "pct": 34.8
+        "pct": 5
       }
     }
   },
@@ -936,41 +936,41 @@
     "lastGmpPct": 36.1
   },
   {
-    "name": "Behari Lal Engineering",
-    "type": "MAINBOARD",
+    "name": "Pramodini Medicare",
+    "type": "SME",
     "status": "LISTED",
     "band": [
-      285,
-      285
+      118,
+      118
     ],
-    "lot": 52,
+    "lot": 1200,
     "open": "12 Aug",
     "close": "14 Aug",
     "list": "19 Aug",
     "openISO": "2026-08-12",
     "closeISO": "2026-08-14",
     "listISO": "2026-08-19",
-    "prevPct": 46.7,
+    "prevPct": 0,
     "sub": {
       "qib": 0,
       "hni": 0,
       "retail": 0,
-      "total": 118.07,
+      "total": 3.87,
       "day": 3
     },
     "upd": 0,
     "new": false,
     "actualList": null,
-    "issueSize": "₹301.62 Cr",
-    "infoUrl": "https://www.investorgain.com/gmp/behari-lal-engineering-ipo/1928/",
+    "issueSize": "₹69.04 Cr",
+    "infoUrl": "https://www.investorgain.com/gmp/pramodini-medicare-ipo/2275/",
     "hasAnchor": true,
     "readings": {
       "investorgain": {
-        "gmp": 133,
-        "pct": 46.7
+        "gmp": 0,
+        "pct": 0
       }
     },
-    "lastGmpPct": 46.7
+    "lastGmpPct": 0
   },
   {
     "name": "Q&T Foods",
@@ -1010,77 +1010,77 @@
     "lastGmpPct": 0.9
   },
   {
-    "name": "Pramodini Medicare",
-    "type": "SME",
+    "name": "Behari Lal Engineering",
+    "type": "MAINBOARD",
     "status": "LISTED",
     "band": [
-      118,
-      118
+      285,
+      285
     ],
-    "lot": 1200,
+    "lot": 52,
     "open": "12 Aug",
     "close": "14 Aug",
     "list": "19 Aug",
     "openISO": "2026-08-12",
     "closeISO": "2026-08-14",
     "listISO": "2026-08-19",
-    "prevPct": 0,
+    "prevPct": 46.7,
     "sub": {
       "qib": 0,
       "hni": 0,
       "retail": 0,
-      "total": 3.87,
+      "total": 118.07,
       "day": 3
     },
     "upd": 0,
     "new": false,
     "actualList": null,
-    "issueSize": "₹69.04 Cr",
-    "infoUrl": "https://www.investorgain.com/gmp/pramodini-medicare-ipo/2275/",
+    "issueSize": "₹301.62 Cr",
+    "infoUrl": "https://www.investorgain.com/gmp/behari-lal-engineering-ipo/1928/",
     "hasAnchor": true,
     "readings": {
       "investorgain": {
-        "gmp": 0,
-        "pct": 0
+        "gmp": 133,
+        "pct": 46.7
       }
     },
-    "lastGmpPct": 0
+    "lastGmpPct": 46.7
   },
   {
-    "name": "Milky Mist Dairy Food",
-    "type": "MAINBOARD",
+    "name": "Sham Foam",
+    "type": "SME",
     "status": "LISTED",
     "band": [
-      140,
-      140
+      130,
+      130
     ],
-    "lot": 107,
+    "lot": 1000,
     "open": "11 Aug",
     "close": "13 Aug",
     "list": "18 Aug",
     "openISO": "2026-08-11",
     "closeISO": "2026-08-13",
     "listISO": "2026-08-18",
-    "prevPct": 14.1,
+    "prevPct": 1.15,
     "sub": {
       "qib": 0,
       "hni": 0,
       "retail": 0,
-      "total": 59.08,
+      "total": 2.4,
       "day": 3
     },
     "upd": 0,
-    "new": false,
+    "new": true,
     "actualList": null,
-    "issueSize": "₹1553.00 Cr",
-    "infoUrl": "https://www.investorgain.com/gmp/milky-mist-dairy-food-ipo/1838/",
-    "hasAnchor": true,
+    "issueSize": "₹40.48 Cr",
+    "infoUrl": "https://www.investorgain.com/gmp/sham-foam-ipo/2131/",
+    "hasAnchor": false,
     "readings": {
       "investorgain": {
-        "gmp": 20,
-        "pct": 14.1
+        "gmp": 2,
+        "pct": 1.1
       }
     },
-    "lastGmpPct": 14.1
+    "lastGmpPct": 1.1
   }
 ]
