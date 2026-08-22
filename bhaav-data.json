@@ -266,7 +266,7 @@
     "openISO": "2026-08-24",
     "closeISO": "2026-08-27",
     "listISO": "2026-09-01",
-    "prevPct": 35.4,
+    "prevPct": 35.9,
     "sub": {
       "qib": 0,
       "hni": 0,
@@ -282,8 +282,8 @@
     "hasAnchor": true,
     "readings": {
       "investorgain": {
-        "gmp": 355,
-        "pct": 35.9
+        "gmp": 365,
+        "pct": 36.9
       }
     }
   },
@@ -318,8 +318,8 @@
     "hasAnchor": true,
     "readings": {
       "investorgain": {
-        "gmp": 22,
-        "pct": 41.5
+        "gmp": 25,
+        "pct": 47.2
       }
     }
   },
@@ -338,7 +338,7 @@
     "openISO": "2026-08-24",
     "closeISO": "2026-08-27",
     "listISO": "2026-09-01",
-    "prevPct": 32.6,
+    "prevPct": 30.4,
     "sub": {
       "qib": 0,
       "hni": 0,
@@ -374,7 +374,7 @@
     "openISO": "2026-08-21",
     "closeISO": "2026-08-25",
     "listISO": "2026-08-31",
-    "prevPct": 40.6,
+    "prevPct": 47,
     "sub": {
       "qib": 0,
       "hni": 0,
@@ -410,7 +410,7 @@
     "openISO": "2026-08-20",
     "closeISO": "2026-08-24",
     "listISO": "2026-08-28",
-    "prevPct": 98.3,
+    "prevPct": 101.7,
     "sub": {
       "qib": 0,
       "hni": 0,
@@ -426,8 +426,8 @@
     "hasAnchor": true,
     "readings": {
       "investorgain": {
-        "gmp": 305,
-        "pct": 101.7
+        "gmp": 310,
+        "pct": 103.3
       }
     }
   },
@@ -446,7 +446,7 @@
     "openISO": "2026-08-19",
     "closeISO": "2026-08-21",
     "listISO": "2026-08-26",
-    "prevPct": 11.9,
+    "prevPct": 10.9,
     "sub": {
       "qib": 0,
       "hni": 0,
@@ -570,8 +570,8 @@
     "hasAnchor": true,
     "readings": {
       "investorgain": {
-        "gmp": 62,
-        "pct": 17.2
+        "gmp": 65,
+        "pct": 18.1
       }
     }
   },
@@ -698,7 +698,7 @@
     "openISO": "2026-08-17",
     "closeISO": "2026-08-19",
     "listISO": "2026-08-24",
-    "prevPct": 32.8,
+    "prevPct": 32.3,
     "sub": {
       "qib": 0,
       "hni": 0,
@@ -714,8 +714,8 @@
     "hasAnchor": true,
     "readings": {
       "investorgain": {
-        "gmp": 65,
-        "pct": 32.3
+        "gmp": 68,
+        "pct": 33.8
       }
     }
   },
