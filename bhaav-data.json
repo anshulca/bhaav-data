@@ -2,25 +2,25 @@
   {
     "name": "Priority Jewels",
     "type": "MAINBOARD",
-    "status": "LISTED",
+    "status": "UPCOMING",
     "band": [
       0,
       0
     ],
     "lot": 0,
-    "open": "-",
-    "close": "-",
-    "list": "-",
-    "openISO": null,
-    "closeISO": null,
-    "listISO": null,
+    "open": "28 Aug",
+    "close": "1 Sep",
+    "list": "4 Sep",
+    "openISO": "2026-08-28",
+    "closeISO": "2026-09-01",
+    "listISO": "2026-09-04",
     "prevPct": null,
     "sub": {
       "qib": 0,
       "hni": 0,
       "retail": 0,
       "total": 0,
-      "day": 3
+      "day": 0
     },
     "upd": 0,
     "new": false,
@@ -28,8 +28,7 @@
     "issueSize": "-",
     "infoUrl": "https://www.investorgain.com/gmp/priority-jewels-ipo/1783/",
     "hasAnchor": true,
-    "readings": {},
-    "lastGmpPct": 0
+    "readings": {}
   },
   {
     "name": "Rays of Belief",
@@ -170,8 +169,8 @@
     "hasAnchor": true,
     "readings": {
       "investorgain": {
-        "gmp": 49,
-        "pct": 59.8
+        "gmp": 48,
+        "pct": 58.5
       }
     }
   },
@@ -658,7 +657,7 @@
     "openISO": "2026-08-18",
     "closeISO": "2026-08-20",
     "listISO": "2026-08-25",
-    "prevPct": 18.9,
+    "prevPct": 18.1,
     "sub": {
       "qib": 0,
       "hni": 0,
@@ -766,7 +765,7 @@
     "openISO": "2026-08-17",
     "closeISO": "2026-08-19",
     "listISO": "2026-08-24",
-    "prevPct": 36.3,
+    "prevPct": 36.1,
     "sub": {
       "qib": 0,
       "hni": 0,
@@ -782,8 +781,8 @@
     "hasAnchor": true,
     "readings": {
       "investorgain": {
-        "gmp": 73,
-        "pct": 36.1
+        "gmp": 74,
+        "pct": 36.6
       }
     }
   },
