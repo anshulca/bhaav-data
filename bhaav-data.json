@@ -23,7 +23,7 @@
       "day": 3
     },
     "upd": 0,
-    "new": true,
+    "new": false,
     "actualList": null,
     "issueSize": "-",
     "infoUrl": "https://www.investorgain.com/gmp/priority-jewels-ipo/1783/",
@@ -248,42 +248,6 @@
     }
   },
   {
-    "name": "Skyways Air",
-    "type": "MAINBOARD",
-    "status": "UPCOMING",
-    "band": [
-      138,
-      138
-    ],
-    "lot": 100,
-    "open": "24 Aug",
-    "close": "27 Aug",
-    "list": "1 Sep",
-    "openISO": "2026-08-24",
-    "closeISO": "2026-08-27",
-    "listISO": "2026-09-01",
-    "prevPct": 26.8,
-    "sub": {
-      "qib": 0,
-      "hni": 0,
-      "retail": 0,
-      "total": 0,
-      "day": 0
-    },
-    "upd": 0,
-    "new": false,
-    "actualList": null,
-    "issueSize": "₹582.80 Cr",
-    "infoUrl": "https://www.investorgain.com/gmp/skyways-air-ipo/1820/",
-    "hasAnchor": true,
-    "readings": {
-      "investorgain": {
-        "gmp": 37,
-        "pct": 26.8
-      }
-    }
-  },
-  {
     "name": "ABH Healthcare",
     "type": "SME",
     "status": "UPCOMING",
@@ -316,6 +280,42 @@
       "investorgain": {
         "gmp": 0,
         "pct": 0
+      }
+    }
+  },
+  {
+    "name": "Skyways Air",
+    "type": "MAINBOARD",
+    "status": "UPCOMING",
+    "band": [
+      138,
+      138
+    ],
+    "lot": 100,
+    "open": "24 Aug",
+    "close": "27 Aug",
+    "list": "1 Sep",
+    "openISO": "2026-08-24",
+    "closeISO": "2026-08-27",
+    "listISO": "2026-09-01",
+    "prevPct": 26.8,
+    "sub": {
+      "qib": 0,
+      "hni": 0,
+      "retail": 0,
+      "total": 0,
+      "day": 0
+    },
+    "upd": 0,
+    "new": false,
+    "actualList": null,
+    "issueSize": "₹582.80 Cr",
+    "infoUrl": "https://www.investorgain.com/gmp/skyways-air-ipo/1820/",
+    "hasAnchor": true,
+    "readings": {
+      "investorgain": {
+        "gmp": 34,
+        "pct": 24.6
       }
     }
   },
@@ -386,8 +386,8 @@
     "hasAnchor": true,
     "readings": {
       "investorgain": {
-        "gmp": 27,
-        "pct": 50.9
+        "gmp": 29,
+        "pct": 54.7
       }
     }
   },
@@ -406,7 +406,7 @@
     "openISO": "2026-08-24",
     "closeISO": "2026-08-27",
     "listISO": "2026-09-01",
-    "prevPct": 41.7,
+    "prevPct": 41.4,
     "sub": {
       "qib": 0,
       "hni": 0,
@@ -442,7 +442,7 @@
     "openISO": "2026-08-21",
     "closeISO": "2026-08-25",
     "listISO": "2026-08-31",
-    "prevPct": 50.1,
+    "prevPct": 48.2,
     "sub": {
       "qib": 0,
       "hni": 0,
@@ -622,7 +622,7 @@
     "openISO": "2026-08-18",
     "closeISO": "2026-08-20",
     "listISO": "2026-08-25",
-    "prevPct": 1.6,
+    "prevPct": 2.1,
     "sub": {
       "qib": 0,
       "hni": 0,
@@ -680,38 +680,38 @@
     }
   },
   {
-    "name": "Lalithaa Jewellery Mart",
+    "name": "Horizon Industrial Parks",
     "type": "MAINBOARD",
     "status": "CLOSED",
     "band": [
-      201,
-      201
+      60,
+      60
     ],
-    "lot": 74,
+    "lot": 250,
     "open": "17 Aug",
     "close": "19 Aug",
     "list": "24 Aug",
     "openISO": "2026-08-17",
     "closeISO": "2026-08-19",
     "listISO": "2026-08-24",
-    "prevPct": 37.8,
+    "prevPct": 2.5,
     "sub": {
       "qib": 0,
       "hni": 0,
       "retail": 0,
-      "total": 66.63,
+      "total": 1.52,
       "day": 3
     },
     "upd": 0,
     "new": false,
     "actualList": null,
-    "issueSize": "₹1700.00 Cr",
-    "infoUrl": "https://www.investorgain.com/gmp/lalithaa-jewellery-mart-ipo/1799/",
+    "issueSize": "₹2600.04 Cr",
+    "infoUrl": "https://www.investorgain.com/gmp/horizon-industrial-parks-ipo/2080/",
     "hasAnchor": true,
     "readings": {
       "investorgain": {
-        "gmp": 72,
-        "pct": 35.8
+        "gmp": 2,
+        "pct": 2.5
       }
     }
   },
@@ -752,77 +752,40 @@
     }
   },
   {
-    "name": "Horizon Industrial Parks",
+    "name": "Lalithaa Jewellery Mart",
     "type": "MAINBOARD",
     "status": "CLOSED",
     "band": [
-      60,
-      60
+      201,
+      201
     ],
-    "lot": 250,
+    "lot": 74,
     "open": "17 Aug",
     "close": "19 Aug",
     "list": "24 Aug",
     "openISO": "2026-08-17",
     "closeISO": "2026-08-19",
     "listISO": "2026-08-24",
-    "prevPct": 2.5,
+    "prevPct": 35.8,
     "sub": {
       "qib": 0,
       "hni": 0,
       "retail": 0,
-      "total": 1.52,
+      "total": 66.63,
       "day": 3
     },
     "upd": 0,
     "new": false,
     "actualList": null,
-    "issueSize": "₹2600.04 Cr",
-    "infoUrl": "https://www.investorgain.com/gmp/horizon-industrial-parks-ipo/2080/",
+    "issueSize": "₹1700.00 Cr",
+    "infoUrl": "https://www.investorgain.com/gmp/lalithaa-jewellery-mart-ipo/1799/",
     "hasAnchor": true,
     "readings": {
       "investorgain": {
-        "gmp": 2,
-        "pct": 2.5
+        "gmp": 74,
+        "pct": 36.8
       }
     }
-  },
-  {
-    "name": "Skytech Infinite Platform",
-    "type": "SME",
-    "status": "LISTED",
-    "band": [
-      77,
-      77
-    ],
-    "lot": 1600,
-    "open": "14 Aug",
-    "close": "18 Aug",
-    "list": "21 Aug",
-    "openISO": "2026-08-14",
-    "closeISO": "2026-08-18",
-    "listISO": "2026-08-21",
-    "prevPct": 1.3,
-    "sub": {
-      "qib": 0,
-      "hni": 0,
-      "retail": 0,
-      "total": 2.04,
-      "day": 3
-    },
-    "upd": 0,
-    "new": false,
-    "actualList": null,
-    "issueSize": "₹22.68 Cr",
-    "infoUrl": "https://www.investorgain.com/gmp/skytech-infinite-platform-ipo/1997/",
-    "hasAnchor": false,
-    "readings": {
-      "investorgain": {
-        "gmp": 1,
-        "pct": 1.3
-      }
-    },
-    "lastGmpPct": 1.3
   },
   {
     "name": "ENS Enterprises",
@@ -899,6 +862,43 @@
     "lastGmpPct": 53
   },
   {
+    "name": "Skytech Infinite Platform",
+    "type": "SME",
+    "status": "LISTED",
+    "band": [
+      77,
+      77
+    ],
+    "lot": 1600,
+    "open": "14 Aug",
+    "close": "18 Aug",
+    "list": "21 Aug",
+    "openISO": "2026-08-14",
+    "closeISO": "2026-08-18",
+    "listISO": "2026-08-21",
+    "prevPct": 1.3,
+    "sub": {
+      "qib": 0,
+      "hni": 0,
+      "retail": 0,
+      "total": 2.04,
+      "day": 3
+    },
+    "upd": 0,
+    "new": false,
+    "actualList": null,
+    "issueSize": "₹22.68 Cr",
+    "infoUrl": "https://www.investorgain.com/gmp/skytech-infinite-platform-ipo/1997/",
+    "hasAnchor": false,
+    "readings": {
+      "investorgain": {
+        "gmp": 1,
+        "pct": 1.3
+      }
+    },
+    "lastGmpPct": 1.3
+  },
+  {
     "name": "Credent Connect",
     "type": "SME",
     "status": "LISTED",
@@ -936,78 +936,41 @@
     "lastGmpPct": 48.7
   },
   {
-    "name": "Shiprocket",
+    "name": "Behari Lal Engineering",
     "type": "MAINBOARD",
     "status": "LISTED",
     "band": [
-      97,
-      97
+      285,
+      285
     ],
-    "lot": 154,
+    "lot": 52,
     "open": "12 Aug",
     "close": "14 Aug",
     "list": "19 Aug",
     "openISO": "2026-08-12",
     "closeISO": "2026-08-14",
     "listISO": "2026-08-19",
-    "prevPct": 36.1,
+    "prevPct": 46.7,
     "sub": {
       "qib": 0,
       "hni": 0,
       "retail": 0,
-      "total": 102.28,
+      "total": 118.07,
       "day": 3
     },
     "upd": 0,
     "new": false,
     "actualList": null,
-    "issueSize": "₹1617.48 Cr",
-    "infoUrl": "https://www.investorgain.com/gmp/shiprocket-ipo/1790/",
+    "issueSize": "₹301.62 Cr",
+    "infoUrl": "https://www.investorgain.com/gmp/behari-lal-engineering-ipo/1928/",
     "hasAnchor": true,
     "readings": {
       "investorgain": {
-        "gmp": 35,
-        "pct": 36.1
+        "gmp": 133,
+        "pct": 46.7
       }
     },
-    "lastGmpPct": 36.1
-  },
-  {
-    "name": "Pramodini Medicare",
-    "type": "SME",
-    "status": "LISTED",
-    "band": [
-      118,
-      118
-    ],
-    "lot": 1200,
-    "open": "12 Aug",
-    "close": "14 Aug",
-    "list": "19 Aug",
-    "openISO": "2026-08-12",
-    "closeISO": "2026-08-14",
-    "listISO": "2026-08-19",
-    "prevPct": 0,
-    "sub": {
-      "qib": 0,
-      "hni": 0,
-      "retail": 0,
-      "total": 3.87,
-      "day": 3
-    },
-    "upd": 0,
-    "new": false,
-    "actualList": null,
-    "issueSize": "₹69.04 Cr",
-    "infoUrl": "https://www.investorgain.com/gmp/pramodini-medicare-ipo/2275/",
-    "hasAnchor": true,
-    "readings": {
-      "investorgain": {
-        "gmp": 0,
-        "pct": 0
-      }
-    },
-    "lastGmpPct": 0
+    "lastGmpPct": 46.7
   },
   {
     "name": "Q&T Foods",
@@ -1047,40 +1010,77 @@
     "lastGmpPct": 0.9
   },
   {
-    "name": "Behari Lal Engineering",
-    "type": "MAINBOARD",
+    "name": "Pramodini Medicare",
+    "type": "SME",
     "status": "LISTED",
     "band": [
-      285,
-      285
+      118,
+      118
     ],
-    "lot": 52,
+    "lot": 1200,
     "open": "12 Aug",
     "close": "14 Aug",
     "list": "19 Aug",
     "openISO": "2026-08-12",
     "closeISO": "2026-08-14",
     "listISO": "2026-08-19",
-    "prevPct": 46.7,
+    "prevPct": 0,
     "sub": {
       "qib": 0,
       "hni": 0,
       "retail": 0,
-      "total": 118.07,
+      "total": 3.87,
       "day": 3
     },
     "upd": 0,
     "new": false,
     "actualList": null,
-    "issueSize": "₹301.62 Cr",
-    "infoUrl": "https://www.investorgain.com/gmp/behari-lal-engineering-ipo/1928/",
+    "issueSize": "₹69.04 Cr",
+    "infoUrl": "https://www.investorgain.com/gmp/pramodini-medicare-ipo/2275/",
     "hasAnchor": true,
     "readings": {
       "investorgain": {
-        "gmp": 133,
-        "pct": 46.7
+        "gmp": 0,
+        "pct": 0
       }
     },
-    "lastGmpPct": 46.7
+    "lastGmpPct": 0
+  },
+  {
+    "name": "Shiprocket",
+    "type": "MAINBOARD",
+    "status": "LISTED",
+    "band": [
+      97,
+      97
+    ],
+    "lot": 154,
+    "open": "12 Aug",
+    "close": "14 Aug",
+    "list": "19 Aug",
+    "openISO": "2026-08-12",
+    "closeISO": "2026-08-14",
+    "listISO": "2026-08-19",
+    "prevPct": 36.1,
+    "sub": {
+      "qib": 0,
+      "hni": 0,
+      "retail": 0,
+      "total": 102.28,
+      "day": 3
+    },
+    "upd": 0,
+    "new": false,
+    "actualList": null,
+    "issueSize": "₹1617.48 Cr",
+    "infoUrl": "https://www.investorgain.com/gmp/shiprocket-ipo/1790/",
+    "hasAnchor": true,
+    "readings": {
+      "investorgain": {
+        "gmp": 35,
+        "pct": 36.1
+      }
+    },
+    "lastGmpPct": 36.1
   }
 ]
