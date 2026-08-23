@@ -50,7 +50,7 @@
     "openISO": "2026-08-28",
     "closeISO": "2026-09-01",
     "listISO": "2026-09-04",
-    "prevPct": null,
+    "prevPct": 0,
     "sub": {
       "qib": 0,
       "hni": 0,
@@ -64,7 +64,12 @@
     "issueSize": "-",
     "infoUrl": "https://www.investorgain.com/gmp/complete-sports-and-management-ipo/2339/",
     "hasAnchor": true,
-    "readings": {}
+    "readings": {
+      "investorgain": {
+        "gmp": 0,
+        "pct": 0
+      }
+    }
   },
   {
     "name": "Kwick Forensic Solutions",
@@ -411,7 +416,7 @@
       "hni": 0,
       "retail": 0,
       "total": 2.88,
-      "day": 2
+      "day": 3
     },
     "upd": 0,
     "new": false,
