@@ -390,8 +390,8 @@
     "hasAnchor": true,
     "readings": {
       "investorgain": {
-        "gmp": 410,
-        "pct": 41.5
+        "gmp": 412,
+        "pct": 41.7
       }
     }
   },
@@ -499,7 +499,7 @@
     "readings": {
       "investorgain": {
         "gmp": 17,
-        "pct": 10.6
+        "pct": 10.8
       }
     }
   },
@@ -607,7 +607,7 @@
     "readings": {
       "investorgain": {
         "gmp": 2,
-        "pct": 2.1
+        "pct": 1.6
       }
     }
   },
@@ -678,8 +678,8 @@
     "hasAnchor": true,
     "readings": {
       "investorgain": {
-        "gmp": 77,
-        "pct": 38.3
+        "gmp": 76,
+        "pct": 37.8
       }
     }
   },
@@ -750,8 +750,8 @@
     "hasAnchor": true,
     "readings": {
       "investorgain": {
-        "gmp": 3,
-        "pct": 5
+        "gmp": 2,
+        "pct": 2.5
       }
     }
   },
