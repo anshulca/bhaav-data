@@ -220,7 +220,7 @@
     "openISO": "2026-08-27",
     "closeISO": "2026-08-31",
     "listISO": "2026-09-03",
-    "prevPct": 59.8,
+    "prevPct": 57.3,
     "sub": {
       "qib": 0,
       "hni": 0,
@@ -328,7 +328,7 @@
     "openISO": "2026-08-24",
     "closeISO": "2026-08-27",
     "listISO": "2026-09-01",
-    "prevPct": 9,
+    "prevPct": 16,
     "sub": {
       "qib": 0,
       "hni": 0,
@@ -400,7 +400,7 @@
     "openISO": "2026-08-24",
     "closeISO": "2026-08-27",
     "listISO": "2026-09-01",
-    "prevPct": 23.2,
+    "prevPct": 20.3,
     "sub": {
       "qib": 0,
       "hni": 0,
@@ -472,7 +472,7 @@
     "openISO": "2026-08-24",
     "closeISO": "2026-08-27",
     "listISO": "2026-09-01",
-    "prevPct": 41.4,
+    "prevPct": 40,
     "sub": {
       "qib": 0,
       "hni": 0,
@@ -508,7 +508,7 @@
     "openISO": "2026-08-21",
     "closeISO": "2026-08-25",
     "listISO": "2026-08-31",
-    "prevPct": 48.2,
+    "prevPct": 49.5,
     "sub": {
       "qib": 0,
       "hni": 0,
@@ -544,7 +544,7 @@
     "openISO": "2026-08-20",
     "closeISO": "2026-08-24",
     "listISO": "2026-08-28",
-    "prevPct": 104.3,
+    "prevPct": 103.3,
     "sub": {
       "qib": 0,
       "hni": 0,
@@ -580,7 +580,7 @@
     "openISO": "2026-08-19",
     "closeISO": "2026-08-21",
     "listISO": "2026-08-26",
-    "prevPct": 10.6,
+    "prevPct": 10.2,
     "sub": {
       "qib": 0,
       "hni": 0,
@@ -834,7 +834,7 @@
     "openISO": "2026-08-17",
     "closeISO": "2026-08-19",
     "listISO": "2026-08-24",
-    "prevPct": 37.3,
+    "prevPct": 36.8,
     "sub": {
       "qib": 0,
       "hni": 0,
@@ -1019,7 +1019,7 @@
     "openISO": "2026-08-12",
     "closeISO": "2026-08-14",
     "listISO": "2026-08-19",
-    "prevPct": 46.67,
+    "prevPct": 46.7,
     "sub": {
       "qib": 0,
       "hni": 0,
@@ -1028,7 +1028,7 @@
       "day": 3
     },
     "upd": 0,
-    "new": true,
+    "new": false,
     "actualList": null,
     "issueSize": "₹301.62 Cr",
     "infoUrl": "https://www.investorgain.com/gmp/behari-lal-engineering-ipo/1928/",
