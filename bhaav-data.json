@@ -50,7 +50,7 @@
     "openISO": "2026-08-31",
     "closeISO": "2026-09-02",
     "listISO": "2026-09-07",
-    "prevPct": null,
+    "prevPct": 0,
     "sub": {
       "qib": 0,
       "hni": 0,
@@ -64,7 +64,12 @@
     "issueSize": "₹47.24 Cr",
     "infoUrl": "https://www.investorgain.com/gmp/shanti-inorganics-ipo/1994/",
     "hasAnchor": true,
-    "readings": {}
+    "readings": {
+      "investorgain": {
+        "gmp": 0,
+        "pct": 0
+      }
+    }
   },
   {
     "name": "Complete Sports and Management",
@@ -133,8 +138,8 @@
     "hasAnchor": true,
     "readings": {
       "investorgain": {
-        "gmp": 0,
-        "pct": 0
+        "gmp": 10,
+        "pct": 20.8
       }
     }
   },
@@ -153,7 +158,7 @@
     "openISO": "2026-08-28",
     "closeISO": "2026-09-01",
     "listISO": "2026-09-04",
-    "prevPct": 9,
+    "prevPct": 7.5,
     "sub": {
       "qib": 0,
       "hni": 0,
@@ -169,8 +174,8 @@
     "hasAnchor": true,
     "readings": {
       "investorgain": {
-        "gmp": 15,
-        "pct": 7.5
+        "gmp": 28,
+        "pct": 14
       }
     }
   },
@@ -205,8 +210,8 @@
     "hasAnchor": true,
     "readings": {
       "investorgain": {
-        "gmp": 61,
-        "pct": 67.8
+        "gmp": 64,
+        "pct": 71.1
       }
     }
   },
@@ -225,7 +230,7 @@
     "openISO": "2026-08-27",
     "closeISO": "2026-08-31",
     "listISO": "2026-09-03",
-    "prevPct": 56.1,
+    "prevPct": 58.5,
     "sub": {
       "qib": 0,
       "hni": 0,
@@ -338,7 +343,7 @@
       "qib": 0,
       "hni": 0,
       "retail": 0,
-      "total": 0.31,
+      "total": 0.32,
       "day": 1
     },
     "upd": 0,
@@ -374,7 +379,7 @@
       "qib": 0,
       "hni": 0,
       "retail": 0,
-      "total": 0.35,
+      "total": 0.36,
       "day": 1
     },
     "upd": 0,
@@ -421,8 +426,8 @@
     "hasAnchor": true,
     "readings": {
       "investorgain": {
-        "gmp": 33,
-        "pct": 23.9
+        "gmp": 32,
+        "pct": 23.2
       }
     }
   },
@@ -441,7 +446,7 @@
     "openISO": "2026-08-24",
     "closeISO": "2026-08-27",
     "listISO": "2026-09-01",
-    "prevPct": 66,
+    "prevPct": 56.6,
     "sub": {
       "qib": 0,
       "hni": 0,
@@ -549,12 +554,12 @@
     "openISO": "2026-08-20",
     "closeISO": "2026-08-24",
     "listISO": "2026-08-28",
-    "prevPct": 108.3,
+    "prevPct": 105,
     "sub": {
       "qib": 0,
       "hni": 0,
       "retail": 0,
-      "total": 184.21,
+      "total": 184.22,
       "day": 3
     },
     "upd": 0,
@@ -565,8 +570,8 @@
     "hasAnchor": true,
     "readings": {
       "investorgain": {
-        "gmp": 315,
-        "pct": 105
+        "gmp": 305,
+        "pct": 101.7
       }
     }
   },
@@ -585,7 +590,7 @@
     "openISO": "2026-08-19",
     "closeISO": "2026-08-21",
     "listISO": "2026-08-26",
-    "prevPct": 10.2,
+    "prevPct": 8.8,
     "sub": {
       "qib": 0,
       "hni": 0,
@@ -693,7 +698,7 @@
     "openISO": "2026-08-18",
     "closeISO": "2026-08-20",
     "listISO": "2026-08-25",
-    "prevPct": 0,
+    "prevPct": -1.1,
     "sub": {
       "qib": 0,
       "hni": 0,
@@ -729,7 +734,7 @@
     "openISO": "2026-08-18",
     "closeISO": "2026-08-20",
     "listISO": "2026-08-25",
-    "prevPct": 16.4,
+    "prevPct": 15.6,
     "sub": {
       "qib": 0,
       "hni": 0,
