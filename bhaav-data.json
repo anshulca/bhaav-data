@@ -1,67 +1,5 @@
 [
   {
-    "name": "Paluck Technologies",
-    "type": "SME",
-    "status": "UPCOMING",
-    "band": [
-      48,
-      48
-    ],
-    "lot": 3000,
-    "open": "28 Aug",
-    "close": "1 Sep",
-    "list": "4 Sep",
-    "openISO": "2026-08-28",
-    "closeISO": "2026-09-01",
-    "listISO": "2026-09-04",
-    "prevPct": null,
-    "sub": {
-      "qib": 0,
-      "hni": 0,
-      "retail": 0,
-      "total": 0,
-      "day": 0
-    },
-    "upd": 0,
-    "new": true,
-    "actualList": null,
-    "issueSize": "₹33.00 Cr",
-    "infoUrl": "https://www.investorgain.com/gmp/paluck-technologies-ipo/1963/",
-    "hasAnchor": true,
-    "readings": {}
-  },
-  {
-    "name": "Shanti Inorganics",
-    "type": "SME",
-    "status": "UPCOMING",
-    "band": [
-      83,
-      83
-    ],
-    "lot": 1600,
-    "open": "31 Aug",
-    "close": "2 Sep",
-    "list": "7 Sep",
-    "openISO": "2026-08-31",
-    "closeISO": "2026-09-02",
-    "listISO": "2026-09-07",
-    "prevPct": null,
-    "sub": {
-      "qib": 0,
-      "hni": 0,
-      "retail": 0,
-      "total": 0,
-      "day": 0
-    },
-    "upd": 0,
-    "new": true,
-    "actualList": null,
-    "issueSize": "₹41.50 Cr",
-    "infoUrl": "https://www.investorgain.com/gmp/shanti-inorganics-ipo/1994/",
-    "hasAnchor": true,
-    "readings": {}
-  },
-  {
     "name": "Rays of Belief",
     "type": "MAINBOARD",
     "status": "UPCOMING",
@@ -96,6 +34,37 @@
         "pct": 0
       }
     }
+  },
+  {
+    "name": "Shanti Inorganics",
+    "type": "SME",
+    "status": "UPCOMING",
+    "band": [
+      83,
+      83
+    ],
+    "lot": 1600,
+    "open": "31 Aug",
+    "close": "2 Sep",
+    "list": "7 Sep",
+    "openISO": "2026-08-31",
+    "closeISO": "2026-09-02",
+    "listISO": "2026-09-07",
+    "prevPct": null,
+    "sub": {
+      "qib": 0,
+      "hni": 0,
+      "retail": 0,
+      "total": 0,
+      "day": 0
+    },
+    "upd": 0,
+    "new": false,
+    "actualList": null,
+    "issueSize": "₹41.50 Cr",
+    "infoUrl": "https://www.investorgain.com/gmp/shanti-inorganics-ipo/1994/",
+    "hasAnchor": true,
+    "readings": {}
   },
   {
     "name": "Complete Sports and Management",
@@ -134,6 +103,37 @@
     }
   },
   {
+    "name": "Paluck Technologies",
+    "type": "SME",
+    "status": "UPCOMING",
+    "band": [
+      48,
+      48
+    ],
+    "lot": 3000,
+    "open": "28 Aug",
+    "close": "1 Sep",
+    "list": "4 Sep",
+    "openISO": "2026-08-28",
+    "closeISO": "2026-09-01",
+    "listISO": "2026-09-04",
+    "prevPct": null,
+    "sub": {
+      "qib": 0,
+      "hni": 0,
+      "retail": 0,
+      "total": 0,
+      "day": 0
+    },
+    "upd": 0,
+    "new": false,
+    "actualList": null,
+    "issueSize": "₹33.00 Cr",
+    "infoUrl": "https://www.investorgain.com/gmp/paluck-technologies-ipo/1963/",
+    "hasAnchor": true,
+    "readings": {}
+  },
+  {
     "name": "Priority Jewels",
     "type": "MAINBOARD",
     "status": "UPCOMING",
@@ -166,42 +166,6 @@
       "investorgain": {
         "gmp": 0,
         "pct": 0
-      }
-    }
-  },
-  {
-    "name": "Lumino Industries",
-    "type": "MAINBOARD",
-    "status": "UPCOMING",
-    "band": [
-      82,
-      82
-    ],
-    "lot": 182,
-    "open": "27 Aug",
-    "close": "31 Aug",
-    "list": "3 Sep",
-    "openISO": "2026-08-27",
-    "closeISO": "2026-08-31",
-    "listISO": "2026-09-03",
-    "prevPct": 59.8,
-    "sub": {
-      "qib": 0,
-      "hni": 0,
-      "retail": 0,
-      "total": 0,
-      "day": 0
-    },
-    "upd": 0,
-    "new": false,
-    "actualList": null,
-    "issueSize": "₹700.00 Cr",
-    "infoUrl": "https://www.investorgain.com/gmp/lumino-industries-ipo/1619/",
-    "hasAnchor": true,
-    "readings": {
-      "investorgain": {
-        "gmp": 49,
-        "pct": 59.8
       }
     }
   },
@@ -242,21 +206,21 @@
     }
   },
   {
-    "name": "Sumax Engineering",
-    "type": "SME",
+    "name": "Lumino Industries",
+    "type": "MAINBOARD",
     "status": "UPCOMING",
     "band": [
-      101,
-      101
+      82,
+      82
     ],
-    "lot": 1200,
-    "open": "25 Aug",
-    "close": "28 Aug",
-    "list": "2 Sep",
-    "openISO": "2026-08-25",
-    "closeISO": "2026-08-28",
-    "listISO": "2026-09-02",
-    "prevPct": 31.7,
+    "lot": 182,
+    "open": "27 Aug",
+    "close": "31 Aug",
+    "list": "3 Sep",
+    "openISO": "2026-08-27",
+    "closeISO": "2026-08-31",
+    "listISO": "2026-09-03",
+    "prevPct": 59.8,
     "sub": {
       "qib": 0,
       "hni": 0,
@@ -267,13 +231,13 @@
     "upd": 0,
     "new": false,
     "actualList": null,
-    "issueSize": "₹53.40 Cr",
-    "infoUrl": "https://www.investorgain.com/gmp/sumax-engineering-ipo/2238/",
+    "issueSize": "₹700.00 Cr",
+    "infoUrl": "https://www.investorgain.com/gmp/lumino-industries-ipo/1619/",
     "hasAnchor": true,
     "readings": {
       "investorgain": {
-        "gmp": 32,
-        "pct": 31.7
+        "gmp": 47,
+        "pct": 57.3
       }
     }
   },
@@ -314,110 +278,38 @@
     }
   },
   {
-    "name": "Skyways Air",
-    "type": "MAINBOARD",
-    "status": "OPEN",
+    "name": "Sumax Engineering",
+    "type": "SME",
+    "status": "UPCOMING",
     "band": [
-      138,
-      138
+      101,
+      101
     ],
-    "lot": 100,
-    "open": "24 Aug",
-    "close": "27 Aug",
-    "list": "1 Sep",
-    "openISO": "2026-08-24",
-    "closeISO": "2026-08-27",
-    "listISO": "2026-09-01",
-    "prevPct": 23.2,
+    "lot": 1200,
+    "open": "25 Aug",
+    "close": "28 Aug",
+    "list": "2 Sep",
+    "openISO": "2026-08-25",
+    "closeISO": "2026-08-28",
+    "listISO": "2026-09-02",
+    "prevPct": 31.7,
     "sub": {
       "qib": 0,
       "hni": 0,
       "retail": 0,
       "total": 0,
-      "day": 1
+      "day": 0
     },
     "upd": 0,
     "new": false,
     "actualList": null,
-    "issueSize": "₹582.80 Cr",
-    "infoUrl": "https://www.investorgain.com/gmp/skyways-air-ipo/1820/",
+    "issueSize": "₹53.40 Cr",
+    "infoUrl": "https://www.investorgain.com/gmp/sumax-engineering-ipo/2238/",
     "hasAnchor": true,
     "readings": {
       "investorgain": {
         "gmp": 32,
-        "pct": 23.2
-      }
-    }
-  },
-  {
-    "name": "ABH Healthcare",
-    "type": "SME",
-    "status": "OPEN",
-    "band": [
-      102,
-      102
-    ],
-    "lot": 1200,
-    "open": "24 Aug",
-    "close": "27 Aug",
-    "list": "1 Sep",
-    "openISO": "2026-08-24",
-    "closeISO": "2026-08-27",
-    "listISO": "2026-09-01",
-    "prevPct": 0,
-    "sub": {
-      "qib": 0,
-      "hni": 0,
-      "retail": 0,
-      "total": 0,
-      "day": 1
-    },
-    "upd": 0,
-    "new": false,
-    "actualList": null,
-    "issueSize": "₹34.98 Cr",
-    "infoUrl": "https://www.investorgain.com/gmp/abh-healthcare-ipo/1824/",
-    "hasAnchor": false,
-    "readings": {
-      "investorgain": {
-        "gmp": 0,
-        "pct": 0
-      }
-    }
-  },
-  {
-    "name": "Symbiotec Pharmalab",
-    "type": "MAINBOARD",
-    "status": "OPEN",
-    "band": [
-      988,
-      988
-    ],
-    "lot": 15,
-    "open": "24 Aug",
-    "close": "27 Aug",
-    "list": "1 Sep",
-    "openISO": "2026-08-24",
-    "closeISO": "2026-08-27",
-    "listISO": "2026-09-01",
-    "prevPct": 41.4,
-    "sub": {
-      "qib": 0,
-      "hni": 0,
-      "retail": 0,
-      "total": 0,
-      "day": 1
-    },
-    "upd": 0,
-    "new": false,
-    "actualList": null,
-    "issueSize": "₹1757.00 Cr",
-    "infoUrl": "https://www.investorgain.com/gmp/symbiotec-pharmalab-ipo/2069/",
-    "hasAnchor": true,
-    "readings": {
-      "investorgain": {
-        "gmp": 409,
-        "pct": 41.4
+        "pct": 31.7
       }
     }
   },
@@ -441,7 +333,7 @@
       "qib": 0,
       "hni": 0,
       "retail": 0,
-      "total": 0,
+      "total": 0.03,
       "day": 1
     },
     "upd": 0,
@@ -452,8 +344,80 @@
     "hasAnchor": true,
     "readings": {
       "investorgain": {
-        "gmp": 9,
-        "pct": 9
+        "gmp": 16,
+        "pct": 16
+      }
+    }
+  },
+  {
+    "name": "ABH Healthcare",
+    "type": "SME",
+    "status": "OPEN",
+    "band": [
+      102,
+      102
+    ],
+    "lot": 1200,
+    "open": "24 Aug",
+    "close": "27 Aug",
+    "list": "1 Sep",
+    "openISO": "2026-08-24",
+    "closeISO": "2026-08-27",
+    "listISO": "2026-09-01",
+    "prevPct": 0,
+    "sub": {
+      "qib": 0,
+      "hni": 0,
+      "retail": 0,
+      "total": 0.05,
+      "day": 1
+    },
+    "upd": 0,
+    "new": false,
+    "actualList": null,
+    "issueSize": "₹34.98 Cr",
+    "infoUrl": "https://www.investorgain.com/gmp/abh-healthcare-ipo/1824/",
+    "hasAnchor": false,
+    "readings": {
+      "investorgain": {
+        "gmp": 0,
+        "pct": 0
+      }
+    }
+  },
+  {
+    "name": "Skyways Air",
+    "type": "MAINBOARD",
+    "status": "OPEN",
+    "band": [
+      138,
+      138
+    ],
+    "lot": 100,
+    "open": "24 Aug",
+    "close": "27 Aug",
+    "list": "1 Sep",
+    "openISO": "2026-08-24",
+    "closeISO": "2026-08-27",
+    "listISO": "2026-09-01",
+    "prevPct": 23.2,
+    "sub": {
+      "qib": 0,
+      "hni": 0,
+      "retail": 0,
+      "total": 0.26,
+      "day": 1
+    },
+    "upd": 0,
+    "new": false,
+    "actualList": null,
+    "issueSize": "₹582.80 Cr",
+    "infoUrl": "https://www.investorgain.com/gmp/skyways-air-ipo/1820/",
+    "hasAnchor": true,
+    "readings": {
+      "investorgain": {
+        "gmp": 28,
+        "pct": 20.3
       }
     }
   },
@@ -477,7 +441,7 @@
       "qib": 0,
       "hni": 0,
       "retail": 0,
-      "total": 0,
+      "total": 1.59,
       "day": 1
     },
     "upd": 0,
@@ -490,6 +454,42 @@
       "investorgain": {
         "gmp": 25,
         "pct": 47.2
+      }
+    }
+  },
+  {
+    "name": "Symbiotec Pharmalab",
+    "type": "MAINBOARD",
+    "status": "OPEN",
+    "band": [
+      988,
+      988
+    ],
+    "lot": 15,
+    "open": "24 Aug",
+    "close": "27 Aug",
+    "list": "1 Sep",
+    "openISO": "2026-08-24",
+    "closeISO": "2026-08-27",
+    "listISO": "2026-09-01",
+    "prevPct": 41.4,
+    "sub": {
+      "qib": 0,
+      "hni": 0,
+      "retail": 0,
+      "total": 0.16,
+      "day": 1
+    },
+    "upd": 0,
+    "new": false,
+    "actualList": null,
+    "issueSize": "₹1757.00 Cr",
+    "infoUrl": "https://www.investorgain.com/gmp/symbiotec-pharmalab-ipo/2069/",
+    "hasAnchor": true,
+    "readings": {
+      "investorgain": {
+        "gmp": 395,
+        "pct": 40
       }
     }
   },
@@ -513,7 +513,7 @@
       "qib": 0,
       "hni": 0,
       "retail": 0,
-      "total": 2.88,
+      "total": 6.27,
       "day": 3
     },
     "upd": 0,
@@ -524,8 +524,8 @@
     "hasAnchor": true,
     "readings": {
       "investorgain": {
-        "gmp": 380,
-        "pct": 48.2
+        "gmp": 390,
+        "pct": 49.5
       }
     }
   },
@@ -549,7 +549,7 @@
       "qib": 0,
       "hni": 0,
       "retail": 0,
-      "total": 21.69,
+      "total": 44.99,
       "day": 3
     },
     "upd": 0,
@@ -560,8 +560,8 @@
     "hasAnchor": true,
     "readings": {
       "investorgain": {
-        "gmp": 313,
-        "pct": 104.3
+        "gmp": 310,
+        "pct": 103.3
       }
     }
   },
@@ -596,44 +596,8 @@
     "hasAnchor": true,
     "readings": {
       "investorgain": {
-        "gmp": 17,
-        "pct": 10.6
-      }
-    }
-  },
-  {
-    "name": "Mopshop Distribution",
-    "type": "SME",
-    "status": "CLOSED",
-    "band": [
-      138,
-      138
-    ],
-    "lot": 1000,
-    "open": "19 Aug",
-    "close": "21 Aug",
-    "list": "26 Aug",
-    "openISO": "2026-08-19",
-    "closeISO": "2026-08-21",
-    "listISO": "2026-08-26",
-    "prevPct": 0.7,
-    "sub": {
-      "qib": 0,
-      "hni": 0,
-      "retail": 0,
-      "total": 1.59,
-      "day": 3
-    },
-    "upd": 0,
-    "new": false,
-    "actualList": null,
-    "issueSize": "₹27.26 Cr",
-    "infoUrl": "https://www.investorgain.com/gmp/mopshop-distribution-ipo/2024/",
-    "hasAnchor": false,
-    "readings": {
-      "investorgain": {
-        "gmp": 1,
-        "pct": 0.7
+        "gmp": 16,
+        "pct": 10.2
       }
     }
   },
@@ -670,6 +634,42 @@
       "investorgain": {
         "gmp": 1,
         "pct": 1
+      }
+    }
+  },
+  {
+    "name": "Mopshop Distribution",
+    "type": "SME",
+    "status": "CLOSED",
+    "band": [
+      138,
+      138
+    ],
+    "lot": 1000,
+    "open": "19 Aug",
+    "close": "21 Aug",
+    "list": "26 Aug",
+    "openISO": "2026-08-19",
+    "closeISO": "2026-08-21",
+    "listISO": "2026-08-26",
+    "prevPct": 0.7,
+    "sub": {
+      "qib": 0,
+      "hni": 0,
+      "retail": 0,
+      "total": 1.59,
+      "day": 3
+    },
+    "upd": 0,
+    "new": false,
+    "actualList": null,
+    "issueSize": "₹27.26 Cr",
+    "infoUrl": "https://www.investorgain.com/gmp/mopshop-distribution-ipo/2024/",
+    "hasAnchor": false,
+    "readings": {
+      "investorgain": {
+        "gmp": 1,
+        "pct": 0.7
       }
     }
   },
@@ -746,41 +746,41 @@
     }
   },
   {
-    "name": "Lalithaa Jewellery Mart",
+    "name": "Horizon Industrial Parks",
     "type": "MAINBOARD",
     "status": "LISTED",
     "band": [
-      201,
-      201
+      60,
+      60
     ],
-    "lot": 74,
+    "lot": 250,
     "open": "17 Aug",
     "close": "19 Aug",
     "list": "24 Aug",
     "openISO": "2026-08-17",
     "closeISO": "2026-08-19",
     "listISO": "2026-08-24",
-    "prevPct": 37.3,
+    "prevPct": 2.5,
     "sub": {
       "qib": 0,
       "hni": 0,
       "retail": 0,
-      "total": 66.63,
+      "total": 1.52,
       "day": 3
     },
     "upd": 0,
     "new": false,
     "actualList": null,
-    "issueSize": "₹1700.00 Cr",
-    "infoUrl": "https://www.investorgain.com/gmp/lalithaa-jewellery-mart-ipo/1799/",
+    "issueSize": "₹2600.04 Cr",
+    "infoUrl": "https://www.investorgain.com/gmp/horizon-industrial-parks-ipo/2080/",
     "hasAnchor": true,
     "readings": {
       "investorgain": {
-        "gmp": 75,
-        "pct": 37.3
+        "gmp": 2,
+        "pct": 2.5
       }
     },
-    "lastGmpPct": 37.3
+    "lastGmpPct": 2.5
   },
   {
     "name": "Fascinate Textiles",
@@ -820,41 +820,41 @@
     "lastGmpPct": 0
   },
   {
-    "name": "Horizon Industrial Parks",
+    "name": "Lalithaa Jewellery Mart",
     "type": "MAINBOARD",
     "status": "LISTED",
     "band": [
-      60,
-      60
+      201,
+      201
     ],
-    "lot": 250,
+    "lot": 74,
     "open": "17 Aug",
     "close": "19 Aug",
     "list": "24 Aug",
     "openISO": "2026-08-17",
     "closeISO": "2026-08-19",
     "listISO": "2026-08-24",
-    "prevPct": 2.5,
+    "prevPct": 37.3,
     "sub": {
       "qib": 0,
       "hni": 0,
       "retail": 0,
-      "total": 1.52,
+      "total": 66.63,
       "day": 3
     },
     "upd": 0,
     "new": false,
     "actualList": null,
-    "issueSize": "₹2600.04 Cr",
-    "infoUrl": "https://www.investorgain.com/gmp/horizon-industrial-parks-ipo/2080/",
+    "issueSize": "₹1700.00 Cr",
+    "infoUrl": "https://www.investorgain.com/gmp/lalithaa-jewellery-mart-ipo/1799/",
     "hasAnchor": true,
     "readings": {
       "investorgain": {
-        "gmp": 2,
-        "pct": 2.5
+        "gmp": 74,
+        "pct": 36.8
       }
     },
-    "lastGmpPct": 2.5
+    "lastGmpPct": 36.8
   },
   {
     "name": "Skytech Infinite Platform",
@@ -894,43 +894,6 @@
     "lastGmpPct": 1.3
   },
   {
-    "name": "ENS Enterprises",
-    "type": "SME",
-    "status": "LISTED",
-    "band": [
-      92,
-      92
-    ],
-    "lot": 1200,
-    "open": "14 Aug",
-    "close": "18 Aug",
-    "list": "21 Aug",
-    "openISO": "2026-08-14",
-    "closeISO": "2026-08-18",
-    "listISO": "2026-08-21",
-    "prevPct": 5.4,
-    "sub": {
-      "qib": 0,
-      "hni": 0,
-      "retail": 0,
-      "total": 13.11,
-      "day": 3
-    },
-    "upd": 0,
-    "new": false,
-    "actualList": null,
-    "issueSize": "₹33.14 Cr",
-    "infoUrl": "https://www.investorgain.com/gmp/ens-enterprises-ipo/2046/",
-    "hasAnchor": true,
-    "readings": {
-      "investorgain": {
-        "gmp": 5,
-        "pct": 5.4
-      }
-    },
-    "lastGmpPct": 5.4
-  },
-  {
     "name": "Technocrats Plasma Systems",
     "type": "SME",
     "status": "LISTED",
@@ -966,6 +929,43 @@
       }
     },
     "lastGmpPct": 53
+  },
+  {
+    "name": "ENS Enterprises",
+    "type": "SME",
+    "status": "LISTED",
+    "band": [
+      92,
+      92
+    ],
+    "lot": 1200,
+    "open": "14 Aug",
+    "close": "18 Aug",
+    "list": "21 Aug",
+    "openISO": "2026-08-14",
+    "closeISO": "2026-08-18",
+    "listISO": "2026-08-21",
+    "prevPct": 5.4,
+    "sub": {
+      "qib": 0,
+      "hni": 0,
+      "retail": 0,
+      "total": 13.11,
+      "day": 3
+    },
+    "upd": 0,
+    "new": false,
+    "actualList": null,
+    "issueSize": "₹33.14 Cr",
+    "infoUrl": "https://www.investorgain.com/gmp/ens-enterprises-ipo/2046/",
+    "hasAnchor": true,
+    "readings": {
+      "investorgain": {
+        "gmp": 5,
+        "pct": 5.4
+      }
+    },
+    "lastGmpPct": 5.4
   },
   {
     "name": "Credent Connect",
@@ -1005,6 +1005,43 @@
     "lastGmpPct": 48.7
   },
   {
+    "name": "Behari Lal Engineering",
+    "type": "MAINBOARD",
+    "status": "LISTED",
+    "band": [
+      285,
+      285
+    ],
+    "lot": 52,
+    "open": "12 Aug",
+    "close": "14 Aug",
+    "list": "19 Aug",
+    "openISO": "2026-08-12",
+    "closeISO": "2026-08-14",
+    "listISO": "2026-08-19",
+    "prevPct": 46.67,
+    "sub": {
+      "qib": 0,
+      "hni": 0,
+      "retail": 0,
+      "total": 118.07,
+      "day": 3
+    },
+    "upd": 0,
+    "new": true,
+    "actualList": null,
+    "issueSize": "₹301.62 Cr",
+    "infoUrl": "https://www.investorgain.com/gmp/behari-lal-engineering-ipo/1928/",
+    "hasAnchor": true,
+    "readings": {
+      "investorgain": {
+        "gmp": 133,
+        "pct": 46.7
+      }
+    },
+    "lastGmpPct": 46.7
+  },
+  {
     "name": "Q&T Foods",
     "type": "SME",
     "status": "LISTED",
@@ -1040,42 +1077,5 @@
       }
     },
     "lastGmpPct": 0.9
-  },
-  {
-    "name": "Shiprocket",
-    "type": "MAINBOARD",
-    "status": "LISTED",
-    "band": [
-      97,
-      97
-    ],
-    "lot": 154,
-    "open": "12 Aug",
-    "close": "14 Aug",
-    "list": "19 Aug",
-    "openISO": "2026-08-12",
-    "closeISO": "2026-08-14",
-    "listISO": "2026-08-19",
-    "prevPct": 36.1,
-    "sub": {
-      "qib": 0,
-      "hni": 0,
-      "retail": 0,
-      "total": 102.28,
-      "day": 3
-    },
-    "upd": 0,
-    "new": false,
-    "actualList": null,
-    "issueSize": "₹1617.48 Cr",
-    "infoUrl": "https://www.investorgain.com/gmp/shiprocket-ipo/1790/",
-    "hasAnchor": true,
-    "readings": {
-      "investorgain": {
-        "gmp": 35,
-        "pct": 36.1
-      }
-    },
-    "lastGmpPct": 36.1
   }
 ]
