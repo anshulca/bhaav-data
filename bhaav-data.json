@@ -61,7 +61,7 @@
     "upd": 0,
     "new": false,
     "actualList": null,
-    "issueSize": "₹41.50 Cr",
+    "issueSize": "₹47.24 Cr",
     "infoUrl": "https://www.investorgain.com/gmp/shanti-inorganics-ipo/1994/",
     "hasAnchor": true,
     "readings": {}
@@ -164,8 +164,8 @@
     "hasAnchor": true,
     "readings": {
       "investorgain": {
-        "gmp": 0,
-        "pct": 0
+        "gmp": 18,
+        "pct": 9
       }
     }
   },
@@ -333,7 +333,7 @@
       "qib": 0,
       "hni": 0,
       "retail": 0,
-      "total": 0.03,
+      "total": 0.18,
       "day": 1
     },
     "upd": 0,
@@ -369,7 +369,7 @@
       "qib": 0,
       "hni": 0,
       "retail": 0,
-      "total": 0.05,
+      "total": 0.29,
       "day": 1
     },
     "upd": 0,
@@ -405,7 +405,7 @@
       "qib": 0,
       "hni": 0,
       "retail": 0,
-      "total": 0.26,
+      "total": 0.61,
       "day": 1
     },
     "upd": 0,
@@ -416,8 +416,8 @@
     "hasAnchor": true,
     "readings": {
       "investorgain": {
-        "gmp": 28,
-        "pct": 20.3
+        "gmp": 29,
+        "pct": 20.6
       }
     }
   },
@@ -441,7 +441,7 @@
       "qib": 0,
       "hni": 0,
       "retail": 0,
-      "total": 1.59,
+      "total": 4.27,
       "day": 1
     },
     "upd": 0,
@@ -452,8 +452,8 @@
     "hasAnchor": true,
     "readings": {
       "investorgain": {
-        "gmp": 25,
-        "pct": 47.2
+        "gmp": 30,
+        "pct": 56.6
       }
     }
   },
@@ -477,7 +477,7 @@
       "qib": 0,
       "hni": 0,
       "retail": 0,
-      "total": 0.16,
+      "total": 0.41,
       "day": 1
     },
     "upd": 0,
@@ -488,8 +488,8 @@
     "hasAnchor": true,
     "readings": {
       "investorgain": {
-        "gmp": 395,
-        "pct": 40
+        "gmp": 403,
+        "pct": 40.8
       }
     }
   },
@@ -513,7 +513,7 @@
       "qib": 0,
       "hni": 0,
       "retail": 0,
-      "total": 6.27,
+      "total": 10.64,
       "day": 3
     },
     "upd": 0,
@@ -549,7 +549,7 @@
       "qib": 0,
       "hni": 0,
       "retail": 0,
-      "total": 44.99,
+      "total": 82.07,
       "day": 3
     },
     "upd": 0,
@@ -560,8 +560,8 @@
     "hasAnchor": true,
     "readings": {
       "investorgain": {
-        "gmp": 310,
-        "pct": 103.3
+        "gmp": 327,
+        "pct": 109
       }
     }
   },
@@ -740,8 +740,8 @@
     "hasAnchor": true,
     "readings": {
       "investorgain": {
-        "gmp": 65,
-        "pct": 18.1
+        "gmp": 57,
+        "pct": 15.8
       }
     }
   },
