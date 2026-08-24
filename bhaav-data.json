@@ -117,7 +117,7 @@
     "openISO": "2026-08-28",
     "closeISO": "2026-09-01",
     "listISO": "2026-09-04",
-    "prevPct": null,
+    "prevPct": 0,
     "sub": {
       "qib": 0,
       "hni": 0,
@@ -131,7 +131,12 @@
     "issueSize": "₹33.00 Cr",
     "infoUrl": "https://www.investorgain.com/gmp/paluck-technologies-ipo/1963/",
     "hasAnchor": true,
-    "readings": {}
+    "readings": {
+      "investorgain": {
+        "gmp": 0,
+        "pct": 0
+      }
+    }
   },
   {
     "name": "Priority Jewels",
@@ -220,7 +225,7 @@
     "openISO": "2026-08-27",
     "closeISO": "2026-08-31",
     "listISO": "2026-09-03",
-    "prevPct": 57.3,
+    "prevPct": 56.1,
     "sub": {
       "qib": 0,
       "hni": 0,
@@ -272,8 +277,8 @@
     "hasAnchor": true,
     "readings": {
       "investorgain": {
-        "gmp": 4,
-        "pct": 4
+        "gmp": 0,
+        "pct": 0
       }
     }
   },
@@ -333,7 +338,7 @@
       "qib": 0,
       "hni": 0,
       "retail": 0,
-      "total": 0.19,
+      "total": 0.25,
       "day": 1
     },
     "upd": 0,
@@ -369,7 +374,7 @@
       "qib": 0,
       "hni": 0,
       "retail": 0,
-      "total": 0.31,
+      "total": 0.34,
       "day": 1
     },
     "upd": 0,
@@ -400,12 +405,12 @@
     "openISO": "2026-08-24",
     "closeISO": "2026-08-27",
     "listISO": "2026-09-01",
-    "prevPct": 20.6,
+    "prevPct": 21.7,
     "sub": {
       "qib": 0,
       "hni": 0,
       "retail": 0,
-      "total": 0.66,
+      "total": 0.97,
       "day": 1
     },
     "upd": 0,
@@ -416,8 +421,8 @@
     "hasAnchor": true,
     "readings": {
       "investorgain": {
-        "gmp": 30,
-        "pct": 21.7
+        "gmp": 33,
+        "pct": 23.9
       }
     }
   },
@@ -436,12 +441,12 @@
     "openISO": "2026-08-24",
     "closeISO": "2026-08-27",
     "listISO": "2026-09-01",
-    "prevPct": 56.6,
+    "prevPct": 66,
     "sub": {
       "qib": 0,
       "hni": 0,
       "retail": 0,
-      "total": 4.77,
+      "total": 6.46,
       "day": 1
     },
     "upd": 0,
@@ -472,12 +477,12 @@
     "openISO": "2026-08-24",
     "closeISO": "2026-08-27",
     "listISO": "2026-09-01",
-    "prevPct": 40.8,
+    "prevPct": 40,
     "sub": {
       "qib": 0,
       "hni": 0,
       "retail": 0,
-      "total": 0.46,
+      "total": 0.75,
       "day": 1
     },
     "upd": 0,
@@ -488,8 +493,8 @@
     "hasAnchor": true,
     "readings": {
       "investorgain": {
-        "gmp": 395,
-        "pct": 40
+        "gmp": 388,
+        "pct": 39.3
       }
     }
   },
@@ -508,12 +513,12 @@
     "openISO": "2026-08-21",
     "closeISO": "2026-08-25",
     "listISO": "2026-08-31",
-    "prevPct": 49.5,
+    "prevPct": 48.2,
     "sub": {
       "qib": 0,
       "hni": 0,
       "retail": 0,
-      "total": 11.25,
+      "total": 13.46,
       "day": 3
     },
     "upd": 0,
@@ -524,8 +529,8 @@
     "hasAnchor": true,
     "readings": {
       "investorgain": {
-        "gmp": 380,
-        "pct": 48.2
+        "gmp": 372,
+        "pct": 47.2
       }
     }
   },
@@ -544,12 +549,12 @@
     "openISO": "2026-08-20",
     "closeISO": "2026-08-24",
     "listISO": "2026-08-28",
-    "prevPct": 109,
+    "prevPct": 107.3,
     "sub": {
       "qib": 0,
       "hni": 0,
       "retail": 0,
-      "total": 92.85,
+      "total": 179.71,
       "day": 3
     },
     "upd": 0,
@@ -560,8 +565,8 @@
     "hasAnchor": true,
     "readings": {
       "investorgain": {
-        "gmp": 322,
-        "pct": 107.3
+        "gmp": 325,
+        "pct": 108.3
       }
     }
   },
@@ -688,7 +693,7 @@
     "openISO": "2026-08-18",
     "closeISO": "2026-08-20",
     "listISO": "2026-08-25",
-    "prevPct": 2.1,
+    "prevPct": 0,
     "sub": {
       "qib": 0,
       "hni": 0,
@@ -740,8 +745,8 @@
     "hasAnchor": true,
     "readings": {
       "investorgain": {
-        "gmp": 57,
-        "pct": 15.8
+        "gmp": 59,
+        "pct": 16.4
       }
     }
   },
