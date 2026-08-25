@@ -1,5 +1,41 @@
 [
   {
+    "name": "Phychem Technologies",
+    "type": "SME",
+    "status": "UPCOMING",
+    "band": [
+      54,
+      54
+    ],
+    "lot": 2000,
+    "open": "31 Aug",
+    "close": "2 Sep",
+    "list": "7 Sep",
+    "openISO": "2026-08-31",
+    "closeISO": "2026-09-02",
+    "listISO": "2026-09-07",
+    "prevPct": 0,
+    "sub": {
+      "qib": 0,
+      "hni": 0,
+      "retail": 0,
+      "total": 0,
+      "day": 0
+    },
+    "upd": 0,
+    "new": true,
+    "actualList": null,
+    "issueSize": "₹14.58 Cr",
+    "infoUrl": "https://www.investorgain.com/gmp/phychem-technologies-ipo/1988/",
+    "hasAnchor": true,
+    "readings": {
+      "investorgain": {
+        "gmp": 0,
+        "pct": 0
+      }
+    }
+  },
+  {
     "name": "Rays of Belief",
     "type": "MAINBOARD",
     "status": "UPCOMING",
@@ -95,7 +131,7 @@
       "day": 0
     },
     "upd": 0,
-    "new": true,
+    "new": false,
     "actualList": null,
     "issueSize": "₹56.35 Cr",
     "infoUrl": "https://www.investorgain.com/gmp/ashutosh-fibre-ipo/2009/",
@@ -189,7 +225,7 @@
     "openISO": "2026-08-28",
     "closeISO": "2026-09-01",
     "listISO": "2026-09-04",
-    "prevPct": 20.8,
+    "prevPct": 31.3,
     "sub": {
       "qib": 0,
       "hni": 0,
@@ -205,8 +241,8 @@
     "hasAnchor": true,
     "readings": {
       "investorgain": {
-        "gmp": 15,
-        "pct": 31.3
+        "gmp": 10,
+        "pct": 20.8
       }
     }
   },
@@ -225,7 +261,7 @@
     "openISO": "2026-08-28",
     "closeISO": "2026-09-01",
     "listISO": "2026-09-04",
-    "prevPct": 30.3,
+    "prevPct": 62.9,
     "sub": {
       "qib": 0,
       "hni": 0,
@@ -241,8 +277,8 @@
     "hasAnchor": true,
     "readings": {
       "investorgain": {
-        "gmp": 270,
-        "pct": 62.9
+        "gmp": 290,
+        "pct": 67.6
       }
     }
   },
@@ -338,7 +374,7 @@
       "qib": 0,
       "hni": 0,
       "retail": 0,
-      "total": 0.01,
+      "total": 0.05,
       "day": 1
     },
     "upd": 0,
@@ -374,7 +410,7 @@
       "qib": 0,
       "hni": 0,
       "retail": 0,
-      "total": 0.07,
+      "total": 0.83,
       "day": 1
     },
     "upd": 0,
@@ -385,8 +421,8 @@
     "hasAnchor": true,
     "readings": {
       "investorgain": {
-        "gmp": 32,
-        "pct": 31.7
+        "gmp": 35,
+        "pct": 34.6
       }
     }
   },
@@ -410,7 +446,7 @@
       "qib": 0,
       "hni": 0,
       "retail": 0,
-      "total": 9.12,
+      "total": 11.91,
       "day": 2
     },
     "upd": 0,
@@ -446,7 +482,7 @@
       "qib": 0,
       "hni": 0,
       "retail": 0,
-      "total": 0.99,
+      "total": 1.23,
       "day": 2
     },
     "upd": 0,
@@ -457,8 +493,8 @@
     "hasAnchor": true,
     "readings": {
       "investorgain": {
-        "gmp": 340,
-        "pct": 34.4
+        "gmp": 345,
+        "pct": 34.9
       }
     }
   },
@@ -482,7 +518,7 @@
       "qib": 0,
       "hni": 0,
       "retail": 0,
-      "total": 0.39,
+      "total": 0.43,
       "day": 2
     },
     "upd": 0,
@@ -513,12 +549,12 @@
     "openISO": "2026-08-24",
     "closeISO": "2026-08-27",
     "listISO": "2026-09-01",
-    "prevPct": 23.2,
+    "prevPct": 21.7,
     "sub": {
       "qib": 0,
       "hni": 0,
       "retail": 0,
-      "total": 1.3,
+      "total": 1.59,
       "day": 2
     },
     "upd": 0,
@@ -590,7 +626,7 @@
       "qib": 0,
       "hni": 0,
       "retail": 0,
-      "total": 16.7,
+      "total": 23.18,
       "day": 3
     },
     "upd": 0,
@@ -745,8 +781,8 @@
     "hasAnchor": true,
     "readings": {
       "investorgain": {
-        "gmp": 16,
-        "pct": 9.7
+        "gmp": 18,
+        "pct": 10.9
       }
     }
   },
@@ -1045,42 +1081,5 @@
       }
     },
     "lastGmpPct": 1.3
-  },
-  {
-    "name": "Credent Connect",
-    "type": "SME",
-    "status": "LISTED",
-    "band": [
-      189,
-      189
-    ],
-    "lot": 600,
-    "open": "13 Aug",
-    "close": "17 Aug",
-    "list": "20 Aug",
-    "openISO": "2026-08-13",
-    "closeISO": "2026-08-17",
-    "listISO": "2026-08-20",
-    "prevPct": 48.7,
-    "sub": {
-      "qib": 0,
-      "hni": 0,
-      "retail": 0,
-      "total": 153.13,
-      "day": 3
-    },
-    "upd": 0,
-    "new": false,
-    "actualList": null,
-    "issueSize": "₹93.90 Cr",
-    "infoUrl": "https://www.investorgain.com/gmp/credent-connect-ipo/2252/",
-    "hasAnchor": true,
-    "readings": {
-      "investorgain": {
-        "gmp": 92,
-        "pct": 48.7
-      }
-    },
-    "lastGmpPct": 48.7
   }
 ]
