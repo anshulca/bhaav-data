@@ -1,36 +1,5 @@
 [
   {
-    "name": "Pernia's Pop-up Studio",
-    "type": "MAINBOARD",
-    "status": "UPCOMING",
-    "band": [
-      0,
-      0
-    ],
-    "lot": 0,
-    "open": "31 Aug",
-    "close": "2 Sep",
-    "list": "7 Sep",
-    "openISO": "2026-08-31",
-    "closeISO": "2026-09-02",
-    "listISO": "2026-09-07",
-    "prevPct": null,
-    "sub": {
-      "qib": 0,
-      "hni": 0,
-      "retail": 0,
-      "total": 0,
-      "day": 0
-    },
-    "upd": 0,
-    "new": true,
-    "actualList": null,
-    "issueSize": "₹680.00 Cr",
-    "infoUrl": "https://www.investorgain.com/gmp/pernias-pop-up-studio-ipo/1897/",
-    "hasAnchor": true,
-    "readings": {}
-  },
-  {
     "name": "Rays of Belief",
     "type": "MAINBOARD",
     "status": "UPCOMING",
@@ -63,6 +32,73 @@
       "investorgain": {
         "gmp": 0,
         "pct": 0
+      }
+    }
+  },
+  {
+    "name": "Ashutosh Fibre",
+    "type": "SME",
+    "status": "UPCOMING",
+    "band": [
+      92,
+      92
+    ],
+    "lot": 1200,
+    "open": "31 Aug",
+    "close": "2 Sep",
+    "list": "7 Sep",
+    "openISO": "2026-08-31",
+    "closeISO": "2026-09-02",
+    "listISO": "2026-09-07",
+    "prevPct": null,
+    "sub": {
+      "qib": 0,
+      "hni": 0,
+      "retail": 0,
+      "total": 0,
+      "day": 0
+    },
+    "upd": 0,
+    "new": false,
+    "actualList": null,
+    "issueSize": "₹56.35 Cr",
+    "infoUrl": "https://www.investorgain.com/gmp/ashutosh-fibre-ipo/2009/",
+    "hasAnchor": true,
+    "readings": {}
+  },
+  {
+    "name": "Shanti Inorganics",
+    "type": "SME",
+    "status": "UPCOMING",
+    "band": [
+      83,
+      83
+    ],
+    "lot": 1600,
+    "open": "31 Aug",
+    "close": "2 Sep",
+    "list": "7 Sep",
+    "openISO": "2026-08-31",
+    "closeISO": "2026-09-02",
+    "listISO": "2026-09-07",
+    "prevPct": 30.1,
+    "sub": {
+      "qib": 0,
+      "hni": 0,
+      "retail": 0,
+      "total": 0,
+      "day": 0
+    },
+    "upd": 0,
+    "new": false,
+    "actualList": null,
+    "issueSize": "₹47.24 Cr",
+    "infoUrl": "https://www.investorgain.com/gmp/shanti-inorganics-ipo/1994/",
+    "hasAnchor": true,
+    "readings": {
+      "investorgain": {
+        "gmp": 25,
+        "pct": 30.1
       }
     }
   },
@@ -103,50 +139,14 @@
     }
   },
   {
-    "name": "Shanti Inorganics",
-    "type": "SME",
+    "name": "Pernia's Pop-up Studio",
+    "type": "MAINBOARD",
     "status": "UPCOMING",
     "band": [
-      83,
-      83
+      0,
+      0
     ],
-    "lot": 1600,
-    "open": "31 Aug",
-    "close": "2 Sep",
-    "list": "7 Sep",
-    "openISO": "2026-08-31",
-    "closeISO": "2026-09-02",
-    "listISO": "2026-09-07",
-    "prevPct": 30.1,
-    "sub": {
-      "qib": 0,
-      "hni": 0,
-      "retail": 0,
-      "total": 0,
-      "day": 0
-    },
-    "upd": 0,
-    "new": false,
-    "actualList": null,
-    "issueSize": "₹47.24 Cr",
-    "infoUrl": "https://www.investorgain.com/gmp/shanti-inorganics-ipo/1994/",
-    "hasAnchor": true,
-    "readings": {
-      "investorgain": {
-        "gmp": 25,
-        "pct": 30.1
-      }
-    }
-  },
-  {
-    "name": "Ashutosh Fibre",
-    "type": "SME",
-    "status": "UPCOMING",
-    "band": [
-      92,
-      92
-    ],
-    "lot": 1200,
+    "lot": 0,
     "open": "31 Aug",
     "close": "2 Sep",
     "list": "7 Sep",
@@ -164,8 +164,8 @@
     "upd": 0,
     "new": false,
     "actualList": null,
-    "issueSize": "₹56.35 Cr",
-    "infoUrl": "https://www.investorgain.com/gmp/ashutosh-fibre-ipo/2009/",
+    "issueSize": "₹680.00 Cr",
+    "infoUrl": "https://www.investorgain.com/gmp/pernias-pop-up-studio-ipo/1897/",
     "hasAnchor": true,
     "readings": {}
   },
@@ -206,21 +206,21 @@
     }
   },
   {
-    "name": "Priority Jewels",
+    "name": "ESDS Software Solution",
     "type": "MAINBOARD",
     "status": "UPCOMING",
     "band": [
-      200,
-      200
+      429,
+      429
     ],
-    "lot": 75,
+    "lot": 34,
     "open": "28 Aug",
     "close": "1 Sep",
     "list": "4 Sep",
     "openISO": "2026-08-28",
     "closeISO": "2026-09-01",
     "listISO": "2026-09-04",
-    "prevPct": 14,
+    "prevPct": 59.4,
     "sub": {
       "qib": 0,
       "hni": 0,
@@ -231,13 +231,13 @@
     "upd": 0,
     "new": false,
     "actualList": null,
-    "issueSize": "₹91.50 Cr",
-    "infoUrl": "https://www.investorgain.com/gmp/priority-jewels-ipo/1783/",
+    "issueSize": "₹720.00 Cr",
+    "infoUrl": "https://www.investorgain.com/gmp/esds-software-ipo/1607/",
     "hasAnchor": true,
     "readings": {
       "investorgain": {
-        "gmp": 28,
-        "pct": 14
+        "gmp": 245,
+        "pct": 57.1
       }
     }
   },
@@ -278,21 +278,21 @@
     }
   },
   {
-    "name": "ESDS Software Solution",
+    "name": "Priority Jewels",
     "type": "MAINBOARD",
     "status": "UPCOMING",
     "band": [
-      429,
-      429
+      200,
+      200
     ],
-    "lot": 34,
+    "lot": 75,
     "open": "28 Aug",
     "close": "1 Sep",
     "list": "4 Sep",
     "openISO": "2026-08-28",
     "closeISO": "2026-09-01",
     "listISO": "2026-09-04",
-    "prevPct": 58.3,
+    "prevPct": 14,
     "sub": {
       "qib": 0,
       "hni": 0,
@@ -303,49 +303,13 @@
     "upd": 0,
     "new": false,
     "actualList": null,
-    "issueSize": "₹720.00 Cr",
-    "infoUrl": "https://www.investorgain.com/gmp/esds-software-ipo/1607/",
+    "issueSize": "₹91.50 Cr",
+    "infoUrl": "https://www.investorgain.com/gmp/priority-jewels-ipo/1783/",
     "hasAnchor": true,
     "readings": {
       "investorgain": {
-        "gmp": 255,
-        "pct": 59.4
-      }
-    }
-  },
-  {
-    "name": "Lumino Industries",
-    "type": "MAINBOARD",
-    "status": "UPCOMING",
-    "band": [
-      82,
-      82
-    ],
-    "lot": 182,
-    "open": "27 Aug",
-    "close": "31 Aug",
-    "list": "3 Sep",
-    "openISO": "2026-08-27",
-    "closeISO": "2026-08-31",
-    "listISO": "2026-09-03",
-    "prevPct": 59.8,
-    "sub": {
-      "qib": 0,
-      "hni": 0,
-      "retail": 0,
-      "total": 0,
-      "day": 0
-    },
-    "upd": 0,
-    "new": false,
-    "actualList": null,
-    "issueSize": "₹700.00 Cr",
-    "infoUrl": "https://www.investorgain.com/gmp/lumino-industries-ipo/1619/",
-    "hasAnchor": true,
-    "readings": {
-      "investorgain": {
-        "gmp": 49,
-        "pct": 59.8
+        "gmp": 30,
+        "pct": 15
       }
     }
   },
@@ -386,6 +350,42 @@
     }
   },
   {
+    "name": "Lumino Industries",
+    "type": "MAINBOARD",
+    "status": "UPCOMING",
+    "band": [
+      82,
+      82
+    ],
+    "lot": 182,
+    "open": "27 Aug",
+    "close": "31 Aug",
+    "list": "3 Sep",
+    "openISO": "2026-08-27",
+    "closeISO": "2026-08-31",
+    "listISO": "2026-09-03",
+    "prevPct": 59.8,
+    "sub": {
+      "qib": 0,
+      "hni": 0,
+      "retail": 0,
+      "total": 0,
+      "day": 0
+    },
+    "upd": 0,
+    "new": false,
+    "actualList": null,
+    "issueSize": "₹700.00 Cr",
+    "infoUrl": "https://www.investorgain.com/gmp/lumino-industries-ipo/1619/",
+    "hasAnchor": true,
+    "readings": {
+      "investorgain": {
+        "gmp": 49,
+        "pct": 59.8
+      }
+    }
+  },
+  {
     "name": "Annu Projects",
     "type": "MAINBOARD",
     "status": "OPEN",
@@ -405,7 +405,7 @@
       "qib": 0,
       "hni": 0,
       "retail": 0,
-      "total": 0.2,
+      "total": 0.32,
       "day": 1
     },
     "upd": 0,
@@ -441,7 +441,7 @@
       "qib": 0,
       "hni": 0,
       "retail": 0,
-      "total": 2.39,
+      "total": 2.76,
       "day": 1
     },
     "upd": 0,
@@ -477,7 +477,7 @@
       "qib": 0,
       "hni": 0,
       "retail": 0,
-      "total": 0.77,
+      "total": 0.78,
       "day": 2
     },
     "upd": 0,
@@ -490,114 +490,6 @@
       "investorgain": {
         "gmp": 0,
         "pct": 0
-      }
-    }
-  },
-  {
-    "name": "Madhur Knit",
-    "type": "SME",
-    "status": "OPEN",
-    "band": [
-      100,
-      100
-    ],
-    "lot": 1200,
-    "open": "24 Aug",
-    "close": "27 Aug",
-    "list": "1 Sep",
-    "openISO": "2026-08-24",
-    "closeISO": "2026-08-27",
-    "listISO": "2026-09-01",
-    "prevPct": 16,
-    "sub": {
-      "qib": 0,
-      "hni": 0,
-      "retail": 0,
-      "total": 0.39,
-      "day": 2
-    },
-    "upd": 0,
-    "new": false,
-    "actualList": null,
-    "issueSize": "₹53.27 Cr",
-    "infoUrl": "https://www.investorgain.com/gmp/madhur-knit-ipo/2037/",
-    "hasAnchor": true,
-    "readings": {
-      "investorgain": {
-        "gmp": 16,
-        "pct": 16
-      }
-    }
-  },
-  {
-    "name": "Hy-Tech Engineers",
-    "type": "MAINBOARD",
-    "status": "OPEN",
-    "band": [
-      53,
-      53
-    ],
-    "lot": 283,
-    "open": "24 Aug",
-    "close": "27 Aug",
-    "list": "1 Sep",
-    "openISO": "2026-08-24",
-    "closeISO": "2026-08-27",
-    "listISO": "2026-09-01",
-    "prevPct": 56.6,
-    "sub": {
-      "qib": 0,
-      "hni": 0,
-      "retail": 0,
-      "total": 17.23,
-      "day": 2
-    },
-    "upd": 0,
-    "new": false,
-    "actualList": null,
-    "issueSize": "₹135.73 Cr",
-    "infoUrl": "https://www.investorgain.com/gmp/hy-tech-engineers-ipo/1876/",
-    "hasAnchor": true,
-    "readings": {
-      "investorgain": {
-        "gmp": 30,
-        "pct": 56.6
-      }
-    }
-  },
-  {
-    "name": "Skyways Air",
-    "type": "MAINBOARD",
-    "status": "OPEN",
-    "band": [
-      138,
-      138
-    ],
-    "lot": 100,
-    "open": "24 Aug",
-    "close": "27 Aug",
-    "list": "1 Sep",
-    "openISO": "2026-08-24",
-    "closeISO": "2026-08-27",
-    "listISO": "2026-09-01",
-    "prevPct": 21,
-    "sub": {
-      "qib": 0,
-      "hni": 0,
-      "retail": 0,
-      "total": 2.19,
-      "day": 2
-    },
-    "upd": 0,
-    "new": false,
-    "actualList": null,
-    "issueSize": "₹582.80 Cr",
-    "infoUrl": "https://www.investorgain.com/gmp/skyways-air-ipo/1820/",
-    "hasAnchor": true,
-    "readings": {
-      "investorgain": {
-        "gmp": 29,
-        "pct": 21
       }
     }
   },
@@ -621,7 +513,7 @@
       "qib": 0,
       "hni": 0,
       "retail": 0,
-      "total": 1.71,
+      "total": 1.78,
       "day": 2
     },
     "upd": 0,
@@ -634,6 +526,114 @@
       "investorgain": {
         "gmp": 350,
         "pct": 35.4
+      }
+    }
+  },
+  {
+    "name": "Madhur Knit",
+    "type": "SME",
+    "status": "OPEN",
+    "band": [
+      100,
+      100
+    ],
+    "lot": 1200,
+    "open": "24 Aug",
+    "close": "27 Aug",
+    "list": "1 Sep",
+    "openISO": "2026-08-24",
+    "closeISO": "2026-08-27",
+    "listISO": "2026-09-01",
+    "prevPct": 16,
+    "sub": {
+      "qib": 0,
+      "hni": 0,
+      "retail": 0,
+      "total": 0.4,
+      "day": 2
+    },
+    "upd": 0,
+    "new": false,
+    "actualList": null,
+    "issueSize": "₹53.27 Cr",
+    "infoUrl": "https://www.investorgain.com/gmp/madhur-knit-ipo/2037/",
+    "hasAnchor": true,
+    "readings": {
+      "investorgain": {
+        "gmp": 16,
+        "pct": 16
+      }
+    }
+  },
+  {
+    "name": "Skyways Air",
+    "type": "MAINBOARD",
+    "status": "OPEN",
+    "band": [
+      138,
+      138
+    ],
+    "lot": 100,
+    "open": "24 Aug",
+    "close": "27 Aug",
+    "list": "1 Sep",
+    "openISO": "2026-08-24",
+    "closeISO": "2026-08-27",
+    "listISO": "2026-09-01",
+    "prevPct": 21,
+    "sub": {
+      "qib": 0,
+      "hni": 0,
+      "retail": 0,
+      "total": 2.34,
+      "day": 2
+    },
+    "upd": 0,
+    "new": false,
+    "actualList": null,
+    "issueSize": "₹582.80 Cr",
+    "infoUrl": "https://www.investorgain.com/gmp/skyways-air-ipo/1820/",
+    "hasAnchor": true,
+    "readings": {
+      "investorgain": {
+        "gmp": 29,
+        "pct": 21
+      }
+    }
+  },
+  {
+    "name": "Hy-Tech Engineers",
+    "type": "MAINBOARD",
+    "status": "OPEN",
+    "band": [
+      53,
+      53
+    ],
+    "lot": 283,
+    "open": "24 Aug",
+    "close": "27 Aug",
+    "list": "1 Sep",
+    "openISO": "2026-08-24",
+    "closeISO": "2026-08-27",
+    "listISO": "2026-09-01",
+    "prevPct": 56.6,
+    "sub": {
+      "qib": 0,
+      "hni": 0,
+      "retail": 0,
+      "total": 18.58,
+      "day": 2
+    },
+    "upd": 0,
+    "new": false,
+    "actualList": null,
+    "issueSize": "₹135.73 Cr",
+    "infoUrl": "https://www.investorgain.com/gmp/hy-tech-engineers-ipo/1876/",
+    "hasAnchor": true,
+    "readings": {
+      "investorgain": {
+        "gmp": 30,
+        "pct": 56.6
       }
     }
   },
@@ -657,7 +657,7 @@
       "qib": 0,
       "hni": 0,
       "retail": 0,
-      "total": 105.08,
+      "total": 110.74,
       "day": 3
     },
     "upd": 0,
@@ -668,8 +668,8 @@
     "hasAnchor": true,
     "readings": {
       "investorgain": {
-        "gmp": 320,
-        "pct": 40.6
+        "gmp": 330,
+        "pct": 41.9
       }
     }
   },
@@ -710,38 +710,38 @@
     }
   },
   {
-    "name": "Mopshop Distribution",
-    "type": "SME",
+    "name": "Gaja Alternative Asset Management",
+    "type": "MAINBOARD",
     "status": "CLOSED",
     "band": [
-      138,
-      138
+      160,
+      160
     ],
-    "lot": 1000,
+    "lot": 93,
     "open": "19 Aug",
     "close": "21 Aug",
     "list": "26 Aug",
     "openISO": "2026-08-19",
     "closeISO": "2026-08-21",
     "listISO": "2026-08-26",
-    "prevPct": 0.7,
+    "prevPct": 11.9,
     "sub": {
       "qib": 0,
       "hni": 0,
       "retail": 0,
-      "total": 1.59,
+      "total": 32.98,
       "day": 3
     },
     "upd": 0,
     "new": false,
     "actualList": null,
-    "issueSize": "₹27.26 Cr",
-    "infoUrl": "https://www.investorgain.com/gmp/mopshop-distribution-ipo/2024/",
-    "hasAnchor": false,
+    "issueSize": "₹550.00 Cr",
+    "infoUrl": "https://www.investorgain.com/gmp/gaja-alternative-asset-management-ipo/1828/",
+    "hasAnchor": true,
     "readings": {
       "investorgain": {
-        "gmp": 1,
-        "pct": 0.7
+        "gmp": 19,
+        "pct": 11.9
       }
     }
   },
@@ -782,38 +782,38 @@
     }
   },
   {
-    "name": "Gaja Alternative Asset Management",
-    "type": "MAINBOARD",
+    "name": "Mopshop Distribution",
+    "type": "SME",
     "status": "CLOSED",
     "band": [
-      160,
-      160
+      138,
+      138
     ],
-    "lot": 93,
+    "lot": 1000,
     "open": "19 Aug",
     "close": "21 Aug",
     "list": "26 Aug",
     "openISO": "2026-08-19",
     "closeISO": "2026-08-21",
     "listISO": "2026-08-26",
-    "prevPct": 11.6,
+    "prevPct": 0.7,
     "sub": {
       "qib": 0,
       "hni": 0,
       "retail": 0,
-      "total": 32.98,
+      "total": 1.59,
       "day": 3
     },
     "upd": 0,
     "new": false,
     "actualList": null,
-    "issueSize": "₹550.00 Cr",
-    "infoUrl": "https://www.investorgain.com/gmp/gaja-alternative-asset-management-ipo/1828/",
-    "hasAnchor": true,
+    "issueSize": "₹27.26 Cr",
+    "infoUrl": "https://www.investorgain.com/gmp/mopshop-distribution-ipo/2024/",
+    "hasAnchor": false,
     "readings": {
       "investorgain": {
-        "gmp": 19,
-        "pct": 11.9
+        "gmp": 1,
+        "pct": 0.7
       }
     }
   },
@@ -855,43 +855,6 @@
     "lastGmpPct": 0
   },
   {
-    "name": "Sunshine Pictures",
-    "type": "MAINBOARD",
-    "status": "LISTED",
-    "band": [
-      360,
-      360
-    ],
-    "lot": 41,
-    "open": "18 Aug",
-    "close": "20 Aug",
-    "list": "25 Aug",
-    "openISO": "2026-08-18",
-    "closeISO": "2026-08-20",
-    "listISO": "2026-08-25",
-    "prevPct": 13.9,
-    "sub": {
-      "qib": 0,
-      "hni": 0,
-      "retail": 0,
-      "total": 105.81,
-      "day": 3
-    },
-    "upd": 0,
-    "new": false,
-    "actualList": null,
-    "issueSize": "₹282.14 Cr",
-    "infoUrl": "https://www.investorgain.com/gmp/sunshine-pictures-ipo/1612/",
-    "hasAnchor": true,
-    "readings": {
-      "investorgain": {
-        "gmp": 50,
-        "pct": 13.9
-      }
-    },
-    "lastGmpPct": 13.9
-  },
-  {
     "name": "Shankesh Jewellers",
     "type": "MAINBOARD",
     "status": "LISTED",
@@ -929,41 +892,41 @@
     "lastGmpPct": 3
   },
   {
-    "name": "Horizon Industrial Parks",
+    "name": "Sunshine Pictures",
     "type": "MAINBOARD",
     "status": "LISTED",
     "band": [
-      60,
-      60
+      360,
+      360
     ],
-    "lot": 250,
-    "open": "17 Aug",
-    "close": "19 Aug",
-    "list": "24 Aug",
-    "openISO": "2026-08-17",
-    "closeISO": "2026-08-19",
-    "listISO": "2026-08-24",
-    "prevPct": 2.5,
+    "lot": 41,
+    "open": "18 Aug",
+    "close": "20 Aug",
+    "list": "25 Aug",
+    "openISO": "2026-08-18",
+    "closeISO": "2026-08-20",
+    "listISO": "2026-08-25",
+    "prevPct": 13.9,
     "sub": {
       "qib": 0,
       "hni": 0,
       "retail": 0,
-      "total": 1.52,
+      "total": 105.81,
       "day": 3
     },
     "upd": 0,
     "new": false,
     "actualList": null,
-    "issueSize": "₹2600.04 Cr",
-    "infoUrl": "https://www.investorgain.com/gmp/horizon-industrial-parks-ipo/2080/",
+    "issueSize": "₹282.14 Cr",
+    "infoUrl": "https://www.investorgain.com/gmp/sunshine-pictures-ipo/1612/",
     "hasAnchor": true,
     "readings": {
       "investorgain": {
-        "gmp": 2,
-        "pct": 2.5
+        "gmp": 50,
+        "pct": 13.9
       }
     },
-    "lastGmpPct": 2.5
+    "lastGmpPct": 13.9
   },
   {
     "name": "Lalithaa Jewellery Mart",
@@ -1001,6 +964,43 @@
       }
     },
     "lastGmpPct": 36.8
+  },
+  {
+    "name": "Horizon Industrial Parks",
+    "type": "MAINBOARD",
+    "status": "LISTED",
+    "band": [
+      60,
+      60
+    ],
+    "lot": 250,
+    "open": "17 Aug",
+    "close": "19 Aug",
+    "list": "24 Aug",
+    "openISO": "2026-08-17",
+    "closeISO": "2026-08-19",
+    "listISO": "2026-08-24",
+    "prevPct": 2.5,
+    "sub": {
+      "qib": 0,
+      "hni": 0,
+      "retail": 0,
+      "total": 1.52,
+      "day": 3
+    },
+    "upd": 0,
+    "new": false,
+    "actualList": null,
+    "issueSize": "₹2600.04 Cr",
+    "infoUrl": "https://www.investorgain.com/gmp/horizon-industrial-parks-ipo/2080/",
+    "hasAnchor": true,
+    "readings": {
+      "investorgain": {
+        "gmp": 2,
+        "pct": 2.5
+      }
+    },
+    "lastGmpPct": 2.5
   },
   {
     "name": "ENS Enterprises",
