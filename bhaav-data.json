@@ -1,5 +1,41 @@
 [
   {
+    "name": "ESDS Software Solution",
+    "type": "MAINBOARD",
+    "status": "UPCOMING",
+    "band": [
+      429,
+      429
+    ],
+    "lot": 34,
+    "open": "28 Aug",
+    "close": "1 Sep",
+    "list": "4 Sep",
+    "openISO": "2026-08-28",
+    "closeISO": "2026-09-01",
+    "listISO": "2026-09-04",
+    "prevPct": 30.3,
+    "sub": {
+      "qib": 0,
+      "hni": 0,
+      "retail": 0,
+      "total": 0,
+      "day": 0
+    },
+    "upd": 0,
+    "new": true,
+    "actualList": null,
+    "issueSize": "₹720.00 Cr",
+    "infoUrl": "https://www.investorgain.com/gmp/esds-software-ipo/1607/",
+    "hasAnchor": true,
+    "readings": {
+      "investorgain": {
+        "gmp": 130,
+        "pct": 30.3
+      }
+    }
+  },
+  {
     "name": "Rays of Belief",
     "type": "MAINBOARD",
     "status": "UPCOMING",
@@ -1052,42 +1088,5 @@
       }
     },
     "lastGmpPct": 46.7
-  },
-  {
-    "name": "Q&T Foods",
-    "type": "SME",
-    "status": "LISTED",
-    "band": [
-      115,
-      115
-    ],
-    "lot": 1200,
-    "open": "12 Aug",
-    "close": "14 Aug",
-    "list": "19 Aug",
-    "openISO": "2026-08-12",
-    "closeISO": "2026-08-14",
-    "listISO": "2026-08-19",
-    "prevPct": 0.9,
-    "sub": {
-      "qib": 0,
-      "hni": 0,
-      "retail": 0,
-      "total": 1.42,
-      "day": 3
-    },
-    "upd": 0,
-    "new": false,
-    "actualList": null,
-    "issueSize": "₹26.25 Cr",
-    "infoUrl": "https://www.investorgain.com/gmp/qt-foods-ipo/2299/",
-    "hasAnchor": false,
-    "readings": {
-      "investorgain": {
-        "gmp": 1,
-        "pct": 0.9
-      }
-    },
-    "lastGmpPct": 0.9
   }
 ]
