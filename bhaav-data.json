@@ -254,7 +254,7 @@
   {
     "name": "Annu Projects",
     "type": "MAINBOARD",
-    "status": "UPCOMING",
+    "status": "OPEN",
     "band": [
       99,
       99
@@ -272,7 +272,7 @@
       "hni": 0,
       "retail": 0,
       "total": 0,
-      "day": 0
+      "day": 1
     },
     "upd": 0,
     "new": false,
@@ -290,7 +290,7 @@
   {
     "name": "Sumax Engineering",
     "type": "SME",
-    "status": "UPCOMING",
+    "status": "OPEN",
     "band": [
       101,
       101
@@ -308,7 +308,7 @@
       "hni": 0,
       "retail": 0,
       "total": 0,
-      "day": 0
+      "day": 1
     },
     "upd": 0,
     "new": false,
@@ -344,7 +344,7 @@
       "hni": 0,
       "retail": 0,
       "total": 0.32,
-      "day": 1
+      "day": 2
     },
     "upd": 0,
     "new": false,
@@ -380,7 +380,7 @@
       "hni": 0,
       "retail": 0,
       "total": 0.36,
-      "day": 1
+      "day": 2
     },
     "upd": 0,
     "new": false,
@@ -416,7 +416,7 @@
       "hni": 0,
       "retail": 0,
       "total": 1.16,
-      "day": 1
+      "day": 2
     },
     "upd": 0,
     "new": false,
@@ -452,7 +452,7 @@
       "hni": 0,
       "retail": 0,
       "total": 7.84,
-      "day": 1
+      "day": 2
     },
     "upd": 0,
     "new": false,
@@ -488,7 +488,7 @@
       "hni": 0,
       "retail": 0,
       "total": 0.85,
-      "day": 1
+      "day": 2
     },
     "upd": 0,
     "new": false,
@@ -498,8 +498,8 @@
     "hasAnchor": true,
     "readings": {
       "investorgain": {
-        "gmp": 335,
-        "pct": 33.9
+        "gmp": 340,
+        "pct": 34.4
       }
     }
   },
@@ -542,7 +542,7 @@
   {
     "name": "Tempsens Instruments (India)",
     "type": "MAINBOARD",
-    "status": "OPEN",
+    "status": "CLOSED",
     "band": [
       300,
       300
@@ -570,8 +570,8 @@
     "hasAnchor": true,
     "readings": {
       "investorgain": {
-        "gmp": 313,
-        "pct": 104.3
+        "gmp": 317,
+        "pct": 105.7
       }
     }
   },
@@ -684,9 +684,46 @@
     }
   },
   {
+    "name": "Fascinate Textiles",
+    "type": "SME",
+    "status": "LISTED",
+    "band": [
+      151,
+      151
+    ],
+    "lot": 800,
+    "open": "11 Aug",
+    "close": "19 Aug",
+    "list": "24 Aug",
+    "openISO": "2026-08-11",
+    "closeISO": "2026-08-19",
+    "listISO": "2026-08-24",
+    "prevPct": 0,
+    "sub": {
+      "qib": 0,
+      "hni": 0,
+      "retail": 0,
+      "total": 1.48,
+      "day": 3
+    },
+    "upd": 0,
+    "new": false,
+    "actualList": null,
+    "issueSize": "₹64.83 Cr",
+    "infoUrl": "https://www.investorgain.com/gmp/fascinate-textiles-ipo/1992/",
+    "hasAnchor": false,
+    "readings": {
+      "investorgain": {
+        "gmp": 0,
+        "pct": 0
+      }
+    },
+    "lastGmpPct": 0
+  },
+  {
     "name": "Shankesh Jewellers",
     "type": "MAINBOARD",
-    "status": "CLOSED",
+    "status": "LISTED",
     "band": [
       93,
       93
@@ -717,12 +754,13 @@
         "gmp": 3,
         "pct": 3
       }
-    }
+    },
+    "lastGmpPct": 3
   },
   {
     "name": "Sunshine Pictures",
     "type": "MAINBOARD",
-    "status": "CLOSED",
+    "status": "LISTED",
     "band": [
       360,
       360
@@ -753,7 +791,8 @@
         "gmp": 50,
         "pct": 13.9
       }
-    }
+    },
+    "lastGmpPct": 13.9
   },
   {
     "name": "Horizon Industrial Parks",
@@ -791,43 +830,6 @@
       }
     },
     "lastGmpPct": 2.5
-  },
-  {
-    "name": "Fascinate Textiles",
-    "type": "SME",
-    "status": "LISTED",
-    "band": [
-      151,
-      151
-    ],
-    "lot": 800,
-    "open": "11 Aug",
-    "close": "19 Aug",
-    "list": "24 Aug",
-    "openISO": "2026-08-11",
-    "closeISO": "2026-08-19",
-    "listISO": "2026-08-24",
-    "prevPct": 0,
-    "sub": {
-      "qib": 0,
-      "hni": 0,
-      "retail": 0,
-      "total": 1.48,
-      "day": 3
-    },
-    "upd": 0,
-    "new": false,
-    "actualList": null,
-    "issueSize": "₹64.83 Cr",
-    "infoUrl": "https://www.investorgain.com/gmp/fascinate-textiles-ipo/1992/",
-    "hasAnchor": false,
-    "readings": {
-      "investorgain": {
-        "gmp": 0,
-        "pct": 0
-      }
-    },
-    "lastGmpPct": 0
   },
   {
     "name": "Lalithaa Jewellery Mart",
