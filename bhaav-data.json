@@ -1,41 +1,5 @@
 [
   {
-    "name": "Phychem Technologies",
-    "type": "SME",
-    "status": "UPCOMING",
-    "band": [
-      54,
-      54
-    ],
-    "lot": 2000,
-    "open": "31 Aug",
-    "close": "2 Sep",
-    "list": "7 Sep",
-    "openISO": "2026-08-31",
-    "closeISO": "2026-09-02",
-    "listISO": "2026-09-07",
-    "prevPct": 0,
-    "sub": {
-      "qib": 0,
-      "hni": 0,
-      "retail": 0,
-      "total": 0,
-      "day": 0
-    },
-    "upd": 0,
-    "new": false,
-    "actualList": null,
-    "issueSize": "₹14.58 Cr",
-    "infoUrl": "https://www.investorgain.com/gmp/phychem-technologies-ipo/1988/",
-    "hasAnchor": true,
-    "readings": {
-      "investorgain": {
-        "gmp": 0,
-        "pct": 0
-      }
-    }
-  },
-  {
     "name": "Rays of Belief",
     "type": "MAINBOARD",
     "status": "UPCOMING",
@@ -63,6 +27,42 @@
     "actualList": null,
     "issueSize": "₹125.00 Cr",
     "infoUrl": "https://www.investorgain.com/gmp/rays-of-belief-ipo/2041/",
+    "hasAnchor": true,
+    "readings": {
+      "investorgain": {
+        "gmp": 0,
+        "pct": 0
+      }
+    }
+  },
+  {
+    "name": "Phychem Technologies",
+    "type": "SME",
+    "status": "UPCOMING",
+    "band": [
+      54,
+      54
+    ],
+    "lot": 2000,
+    "open": "31 Aug",
+    "close": "2 Sep",
+    "list": "7 Sep",
+    "openISO": "2026-08-31",
+    "closeISO": "2026-09-02",
+    "listISO": "2026-09-07",
+    "prevPct": 0,
+    "sub": {
+      "qib": 0,
+      "hni": 0,
+      "retail": 0,
+      "total": 0,
+      "day": 0
+    },
+    "upd": 0,
+    "new": false,
+    "actualList": null,
+    "issueSize": "₹14.58 Cr",
+    "infoUrl": "https://www.investorgain.com/gmp/phychem-technologies-ipo/1988/",
     "hasAnchor": true,
     "readings": {
       "investorgain": {
@@ -374,7 +374,7 @@
       "qib": 0,
       "hni": 0,
       "retail": 0,
-      "total": 0.05,
+      "total": 0.09,
       "day": 1
     },
     "upd": 0,
@@ -410,7 +410,7 @@
       "qib": 0,
       "hni": 0,
       "retail": 0,
-      "total": 0.83,
+      "total": 1.23,
       "day": 1
     },
     "upd": 0,
@@ -423,78 +423,6 @@
       "investorgain": {
         "gmp": 35,
         "pct": 34.6
-      }
-    }
-  },
-  {
-    "name": "Hy-Tech Engineers",
-    "type": "MAINBOARD",
-    "status": "OPEN",
-    "band": [
-      53,
-      53
-    ],
-    "lot": 283,
-    "open": "24 Aug",
-    "close": "27 Aug",
-    "list": "1 Sep",
-    "openISO": "2026-08-24",
-    "closeISO": "2026-08-27",
-    "listISO": "2026-09-01",
-    "prevPct": 56.6,
-    "sub": {
-      "qib": 0,
-      "hni": 0,
-      "retail": 0,
-      "total": 11.91,
-      "day": 2
-    },
-    "upd": 0,
-    "new": false,
-    "actualList": null,
-    "issueSize": "₹135.73 Cr",
-    "infoUrl": "https://www.investorgain.com/gmp/hy-tech-engineers-ipo/1876/",
-    "hasAnchor": true,
-    "readings": {
-      "investorgain": {
-        "gmp": 30,
-        "pct": 56.6
-      }
-    }
-  },
-  {
-    "name": "Symbiotec Pharmalab",
-    "type": "MAINBOARD",
-    "status": "OPEN",
-    "band": [
-      988,
-      988
-    ],
-    "lot": 15,
-    "open": "24 Aug",
-    "close": "27 Aug",
-    "list": "1 Sep",
-    "openISO": "2026-08-24",
-    "closeISO": "2026-08-27",
-    "listISO": "2026-09-01",
-    "prevPct": 34.9,
-    "sub": {
-      "qib": 0,
-      "hni": 0,
-      "retail": 0,
-      "total": 1.23,
-      "day": 2
-    },
-    "upd": 0,
-    "new": false,
-    "actualList": null,
-    "issueSize": "₹1757.00 Cr",
-    "infoUrl": "https://www.investorgain.com/gmp/symbiotec-pharmalab-ipo/2069/",
-    "hasAnchor": true,
-    "readings": {
-      "investorgain": {
-        "gmp": 345,
-        "pct": 34.9
       }
     }
   },
@@ -518,7 +446,7 @@
       "qib": 0,
       "hni": 0,
       "retail": 0,
-      "total": 0.43,
+      "total": 0.73,
       "day": 2
     },
     "upd": 0,
@@ -531,42 +459,6 @@
       "investorgain": {
         "gmp": 0,
         "pct": 0
-      }
-    }
-  },
-  {
-    "name": "Skyways Air",
-    "type": "MAINBOARD",
-    "status": "OPEN",
-    "band": [
-      138,
-      138
-    ],
-    "lot": 100,
-    "open": "24 Aug",
-    "close": "27 Aug",
-    "list": "1 Sep",
-    "openISO": "2026-08-24",
-    "closeISO": "2026-08-27",
-    "listISO": "2026-09-01",
-    "prevPct": 21.7,
-    "sub": {
-      "qib": 0,
-      "hni": 0,
-      "retail": 0,
-      "total": 1.59,
-      "day": 2
-    },
-    "upd": 0,
-    "new": false,
-    "actualList": null,
-    "issueSize": "₹582.80 Cr",
-    "infoUrl": "https://www.investorgain.com/gmp/skyways-air-ipo/1820/",
-    "hasAnchor": true,
-    "readings": {
-      "investorgain": {
-        "gmp": 30,
-        "pct": 21.7
       }
     }
   },
@@ -590,7 +482,7 @@
       "qib": 0,
       "hni": 0,
       "retail": 0,
-      "total": 0.32,
+      "total": 0.35,
       "day": 2
     },
     "upd": 0,
@@ -603,6 +495,114 @@
       "investorgain": {
         "gmp": 16,
         "pct": 16
+      }
+    }
+  },
+  {
+    "name": "Hy-Tech Engineers",
+    "type": "MAINBOARD",
+    "status": "OPEN",
+    "band": [
+      53,
+      53
+    ],
+    "lot": 283,
+    "open": "24 Aug",
+    "close": "27 Aug",
+    "list": "1 Sep",
+    "openISO": "2026-08-24",
+    "closeISO": "2026-08-27",
+    "listISO": "2026-09-01",
+    "prevPct": 56.6,
+    "sub": {
+      "qib": 0,
+      "hni": 0,
+      "retail": 0,
+      "total": 13.55,
+      "day": 2
+    },
+    "upd": 0,
+    "new": false,
+    "actualList": null,
+    "issueSize": "₹135.73 Cr",
+    "infoUrl": "https://www.investorgain.com/gmp/hy-tech-engineers-ipo/1876/",
+    "hasAnchor": true,
+    "readings": {
+      "investorgain": {
+        "gmp": 30,
+        "pct": 56.6
+      }
+    }
+  },
+  {
+    "name": "Skyways Air",
+    "type": "MAINBOARD",
+    "status": "OPEN",
+    "band": [
+      138,
+      138
+    ],
+    "lot": 100,
+    "open": "24 Aug",
+    "close": "27 Aug",
+    "list": "1 Sep",
+    "openISO": "2026-08-24",
+    "closeISO": "2026-08-27",
+    "listISO": "2026-09-01",
+    "prevPct": 21.7,
+    "sub": {
+      "qib": 0,
+      "hni": 0,
+      "retail": 0,
+      "total": 1.75,
+      "day": 2
+    },
+    "upd": 0,
+    "new": false,
+    "actualList": null,
+    "issueSize": "₹582.80 Cr",
+    "infoUrl": "https://www.investorgain.com/gmp/skyways-air-ipo/1820/",
+    "hasAnchor": true,
+    "readings": {
+      "investorgain": {
+        "gmp": 29,
+        "pct": 21
+      }
+    }
+  },
+  {
+    "name": "Symbiotec Pharmalab",
+    "type": "MAINBOARD",
+    "status": "OPEN",
+    "band": [
+      988,
+      988
+    ],
+    "lot": 15,
+    "open": "24 Aug",
+    "close": "27 Aug",
+    "list": "1 Sep",
+    "openISO": "2026-08-24",
+    "closeISO": "2026-08-27",
+    "listISO": "2026-09-01",
+    "prevPct": 34.9,
+    "sub": {
+      "qib": 0,
+      "hni": 0,
+      "retail": 0,
+      "total": 1.37,
+      "day": 2
+    },
+    "upd": 0,
+    "new": false,
+    "actualList": null,
+    "issueSize": "₹1757.00 Cr",
+    "infoUrl": "https://www.investorgain.com/gmp/symbiotec-pharmalab-ipo/2069/",
+    "hasAnchor": true,
+    "readings": {
+      "investorgain": {
+        "gmp": 355,
+        "pct": 35.9
       }
     }
   },
@@ -626,7 +626,7 @@
       "qib": 0,
       "hni": 0,
       "retail": 0,
-      "total": 23.18,
+      "total": 28.62,
       "day": 3
     },
     "upd": 0,
@@ -679,42 +679,6 @@
     }
   },
   {
-    "name": "Dhanwel Hybrid Seeds",
-    "type": "SME",
-    "status": "CLOSED",
-    "band": [
-      99,
-      99
-    ],
-    "lot": 1200,
-    "open": "19 Aug",
-    "close": "21 Aug",
-    "list": "26 Aug",
-    "openISO": "2026-08-19",
-    "closeISO": "2026-08-21",
-    "listISO": "2026-08-26",
-    "prevPct": 1,
-    "sub": {
-      "qib": 0,
-      "hni": 0,
-      "retail": 0,
-      "total": 1.65,
-      "day": 3
-    },
-    "upd": 0,
-    "new": false,
-    "actualList": null,
-    "issueSize": "₹26.73 Cr",
-    "infoUrl": "https://www.investorgain.com/gmp/dhanwel-hybrid-seeds-ipo/2098/",
-    "hasAnchor": false,
-    "readings": {
-      "investorgain": {
-        "gmp": 1,
-        "pct": 1
-      }
-    }
-  },
-  {
     "name": "Mopshop Distribution",
     "type": "SME",
     "status": "CLOSED",
@@ -747,6 +711,42 @@
       "investorgain": {
         "gmp": 1,
         "pct": 0.7
+      }
+    }
+  },
+  {
+    "name": "Dhanwel Hybrid Seeds",
+    "type": "SME",
+    "status": "CLOSED",
+    "band": [
+      99,
+      99
+    ],
+    "lot": 1200,
+    "open": "19 Aug",
+    "close": "21 Aug",
+    "list": "26 Aug",
+    "openISO": "2026-08-19",
+    "closeISO": "2026-08-21",
+    "listISO": "2026-08-26",
+    "prevPct": 1,
+    "sub": {
+      "qib": 0,
+      "hni": 0,
+      "retail": 0,
+      "total": 1.65,
+      "day": 3
+    },
+    "upd": 0,
+    "new": false,
+    "actualList": null,
+    "issueSize": "₹26.73 Cr",
+    "infoUrl": "https://www.investorgain.com/gmp/dhanwel-hybrid-seeds-ipo/2098/",
+    "hasAnchor": false,
+    "readings": {
+      "investorgain": {
+        "gmp": 1,
+        "pct": 1
       }
     }
   },
@@ -972,43 +972,6 @@
     "lastGmpPct": 36.8
   },
   {
-    "name": "Technocrats Plasma Systems",
-    "type": "SME",
-    "status": "LISTED",
-    "band": [
-      132,
-      132
-    ],
-    "lot": 1000,
-    "open": "14 Aug",
-    "close": "18 Aug",
-    "list": "21 Aug",
-    "openISO": "2026-08-14",
-    "closeISO": "2026-08-18",
-    "listISO": "2026-08-21",
-    "prevPct": 53,
-    "sub": {
-      "qib": 0,
-      "hni": 0,
-      "retail": 0,
-      "total": 203.36,
-      "day": 3
-    },
-    "upd": 0,
-    "new": false,
-    "actualList": null,
-    "issueSize": "₹60.98 Cr",
-    "infoUrl": "https://www.investorgain.com/gmp/technocrats-plasma-systems-ipo/2092/",
-    "hasAnchor": true,
-    "readings": {
-      "investorgain": {
-        "gmp": 70,
-        "pct": 53
-      }
-    },
-    "lastGmpPct": 53
-  },
-  {
     "name": "ENS Enterprises",
     "type": "SME",
     "status": "LISTED",
@@ -1081,5 +1044,42 @@
       }
     },
     "lastGmpPct": 1.3
+  },
+  {
+    "name": "Technocrats Plasma Systems",
+    "type": "SME",
+    "status": "LISTED",
+    "band": [
+      132,
+      132
+    ],
+    "lot": 1000,
+    "open": "14 Aug",
+    "close": "18 Aug",
+    "list": "21 Aug",
+    "openISO": "2026-08-14",
+    "closeISO": "2026-08-18",
+    "listISO": "2026-08-21",
+    "prevPct": 53,
+    "sub": {
+      "qib": 0,
+      "hni": 0,
+      "retail": 0,
+      "total": 203.36,
+      "day": 3
+    },
+    "upd": 0,
+    "new": false,
+    "actualList": null,
+    "issueSize": "₹60.98 Cr",
+    "infoUrl": "https://www.investorgain.com/gmp/technocrats-plasma-systems-ipo/2092/",
+    "hasAnchor": true,
+    "readings": {
+      "investorgain": {
+        "gmp": 70,
+        "pct": 53
+      }
+    },
+    "lastGmpPct": 53
   }
 ]
