@@ -1,5 +1,36 @@
 [
   {
+    "name": "Pernia's Pop-up Studio",
+    "type": "MAINBOARD",
+    "status": "UPCOMING",
+    "band": [
+      0,
+      0
+    ],
+    "lot": 0,
+    "open": "31 Aug",
+    "close": "2 Sep",
+    "list": "7 Sep",
+    "openISO": "2026-08-31",
+    "closeISO": "2026-09-02",
+    "listISO": "2026-09-07",
+    "prevPct": null,
+    "sub": {
+      "qib": 0,
+      "hni": 0,
+      "retail": 0,
+      "total": 0,
+      "day": 0
+    },
+    "upd": 0,
+    "new": true,
+    "actualList": null,
+    "issueSize": "₹680.00 Cr",
+    "infoUrl": "https://www.investorgain.com/gmp/pernias-pop-up-studio-ipo/1897/",
+    "hasAnchor": true,
+    "readings": {}
+  },
+  {
     "name": "Rays of Belief",
     "type": "MAINBOARD",
     "status": "UPCOMING",
@@ -261,7 +292,7 @@
     "openISO": "2026-08-28",
     "closeISO": "2026-09-01",
     "listISO": "2026-09-04",
-    "prevPct": 68.3,
+    "prevPct": 58.3,
     "sub": {
       "qib": 0,
       "hni": 0,
@@ -277,8 +308,8 @@
     "hasAnchor": true,
     "readings": {
       "investorgain": {
-        "gmp": 250,
-        "pct": 58.3
+        "gmp": 255,
+        "pct": 59.4
       }
     }
   },
@@ -297,7 +328,7 @@
     "openISO": "2026-08-27",
     "closeISO": "2026-08-31",
     "listISO": "2026-09-03",
-    "prevPct": 57.3,
+    "prevPct": 59.8,
     "sub": {
       "qib": 0,
       "hni": 0,
@@ -374,7 +405,7 @@
       "qib": 0,
       "hni": 0,
       "retail": 0,
-      "total": 0.18,
+      "total": 0.2,
       "day": 1
     },
     "upd": 0,
@@ -410,7 +441,7 @@
       "qib": 0,
       "hni": 0,
       "retail": 0,
-      "total": 2.05,
+      "total": 2.39,
       "day": 1
     },
     "upd": 0,
@@ -446,7 +477,7 @@
       "qib": 0,
       "hni": 0,
       "retail": 0,
-      "total": 0.75,
+      "total": 0.77,
       "day": 2
     },
     "upd": 0,
@@ -482,7 +513,7 @@
       "qib": 0,
       "hni": 0,
       "retail": 0,
-      "total": 0.38,
+      "total": 0.39,
       "day": 2
     },
     "upd": 0,
@@ -518,7 +549,7 @@
       "qib": 0,
       "hni": 0,
       "retail": 0,
-      "total": 16.3,
+      "total": 17.23,
       "day": 2
     },
     "upd": 0,
@@ -554,7 +585,7 @@
       "qib": 0,
       "hni": 0,
       "retail": 0,
-      "total": 2.09,
+      "total": 2.19,
       "day": 2
     },
     "upd": 0,
@@ -590,7 +621,7 @@
       "qib": 0,
       "hni": 0,
       "retail": 0,
-      "total": 1.62,
+      "total": 1.71,
       "day": 2
     },
     "upd": 0,
@@ -621,12 +652,12 @@
     "openISO": "2026-08-21",
     "closeISO": "2026-08-25",
     "listISO": "2026-08-31",
-    "prevPct": 41.9,
+    "prevPct": 40.6,
     "sub": {
       "qib": 0,
       "hni": 0,
       "retail": 0,
-      "total": 60.99,
+      "total": 105.08,
       "day": 3
     },
     "upd": 0,
@@ -657,7 +688,7 @@
     "openISO": "2026-08-20",
     "closeISO": "2026-08-24",
     "listISO": "2026-08-28",
-    "prevPct": 104,
+    "prevPct": 102.3,
     "sub": {
       "qib": 0,
       "hni": 0,
@@ -765,7 +796,7 @@
     "openISO": "2026-08-19",
     "closeISO": "2026-08-21",
     "listISO": "2026-08-26",
-    "prevPct": 10.9,
+    "prevPct": 11.6,
     "sub": {
       "qib": 0,
       "hni": 0,
@@ -782,7 +813,7 @@
     "readings": {
       "investorgain": {
         "gmp": 19,
-        "pct": 11.6
+        "pct": 11.9
       }
     }
   },
@@ -1044,42 +1075,5 @@
       }
     },
     "lastGmpPct": 1.3
-  },
-  {
-    "name": "Technocrats Plasma Systems",
-    "type": "SME",
-    "status": "LISTED",
-    "band": [
-      132,
-      132
-    ],
-    "lot": 1000,
-    "open": "14 Aug",
-    "close": "18 Aug",
-    "list": "21 Aug",
-    "openISO": "2026-08-14",
-    "closeISO": "2026-08-18",
-    "listISO": "2026-08-21",
-    "prevPct": 53,
-    "sub": {
-      "qib": 0,
-      "hni": 0,
-      "retail": 0,
-      "total": 203.36,
-      "day": 3
-    },
-    "upd": 0,
-    "new": false,
-    "actualList": null,
-    "issueSize": "₹60.98 Cr",
-    "infoUrl": "https://www.investorgain.com/gmp/technocrats-plasma-systems-ipo/2092/",
-    "hasAnchor": true,
-    "readings": {
-      "investorgain": {
-        "gmp": 70,
-        "pct": 53
-      }
-    },
-    "lastGmpPct": 53
   }
 ]
