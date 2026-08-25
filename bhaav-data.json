@@ -277,8 +277,8 @@
     "hasAnchor": true,
     "readings": {
       "investorgain": {
-        "gmp": 290,
-        "pct": 67.6
+        "gmp": 293,
+        "pct": 68.3
       }
     }
   },
@@ -374,7 +374,7 @@
       "qib": 0,
       "hni": 0,
       "retail": 0,
-      "total": 0.09,
+      "total": 0.11,
       "day": 1
     },
     "upd": 0,
@@ -410,7 +410,7 @@
       "qib": 0,
       "hni": 0,
       "retail": 0,
-      "total": 1.23,
+      "total": 1.62,
       "day": 1
     },
     "upd": 0,
@@ -446,7 +446,7 @@
       "qib": 0,
       "hni": 0,
       "retail": 0,
-      "total": 0.73,
+      "total": 0.74,
       "day": 2
     },
     "upd": 0,
@@ -482,7 +482,7 @@
       "qib": 0,
       "hni": 0,
       "retail": 0,
-      "total": 0.35,
+      "total": 0.36,
       "day": 2
     },
     "upd": 0,
@@ -518,7 +518,7 @@
       "qib": 0,
       "hni": 0,
       "retail": 0,
-      "total": 13.55,
+      "total": 14.87,
       "day": 2
     },
     "upd": 0,
@@ -549,12 +549,12 @@
     "openISO": "2026-08-24",
     "closeISO": "2026-08-27",
     "listISO": "2026-09-01",
-    "prevPct": 21.7,
+    "prevPct": 21,
     "sub": {
       "qib": 0,
       "hni": 0,
       "retail": 0,
-      "total": 1.75,
+      "total": 1.9,
       "day": 2
     },
     "upd": 0,
@@ -585,12 +585,12 @@
     "openISO": "2026-08-24",
     "closeISO": "2026-08-27",
     "listISO": "2026-09-01",
-    "prevPct": 34.9,
+    "prevPct": 35.9,
     "sub": {
       "qib": 0,
       "hni": 0,
       "retail": 0,
-      "total": 1.37,
+      "total": 1.48,
       "day": 2
     },
     "upd": 0,
@@ -601,8 +601,8 @@
     "hasAnchor": true,
     "readings": {
       "investorgain": {
-        "gmp": 355,
-        "pct": 35.9
+        "gmp": 350,
+        "pct": 35.4
       }
     }
   },
@@ -626,7 +626,7 @@
       "qib": 0,
       "hni": 0,
       "retail": 0,
-      "total": 28.62,
+      "total": 38.96,
       "day": 3
     },
     "upd": 0,
@@ -637,8 +637,8 @@
     "hasAnchor": true,
     "readings": {
       "investorgain": {
-        "gmp": 325,
-        "pct": 41.2
+        "gmp": 330,
+        "pct": 41.9
       }
     }
   },
@@ -673,8 +673,8 @@
     "hasAnchor": true,
     "readings": {
       "investorgain": {
-        "gmp": 317,
-        "pct": 105.7
+        "gmp": 312,
+        "pct": 104
       }
     }
   },
