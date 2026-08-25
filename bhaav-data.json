@@ -50,7 +50,7 @@
     "openISO": "2026-08-31",
     "closeISO": "2026-09-02",
     "listISO": "2026-09-07",
-    "prevPct": null,
+    "prevPct": 0,
     "sub": {
       "qib": 0,
       "hni": 0,
@@ -64,7 +64,12 @@
     "issueSize": "₹56.35 Cr",
     "infoUrl": "https://www.investorgain.com/gmp/ashutosh-fibre-ipo/2009/",
     "hasAnchor": true,
-    "readings": {}
+    "readings": {
+      "investorgain": {
+        "gmp": 0,
+        "pct": 0
+      }
+    }
   },
   {
     "name": "Shanti Inorganics",
@@ -220,7 +225,7 @@
     "openISO": "2026-08-28",
     "closeISO": "2026-09-01",
     "listISO": "2026-09-04",
-    "prevPct": 57.1,
+    "prevPct": 58.3,
     "sub": {
       "qib": 0,
       "hni": 0,
@@ -236,8 +241,8 @@
     "hasAnchor": true,
     "readings": {
       "investorgain": {
-        "gmp": 250,
-        "pct": 58.3
+        "gmp": 268,
+        "pct": 62.5
       }
     }
   },
@@ -441,7 +446,7 @@
       "qib": 0,
       "hni": 0,
       "retail": 0,
-      "total": 3.21,
+      "total": 3.24,
       "day": 1
     },
     "upd": 0,
@@ -508,7 +513,7 @@
     "openISO": "2026-08-24",
     "closeISO": "2026-08-27",
     "listISO": "2026-09-01",
-    "prevPct": 35.4,
+    "prevPct": 35.6,
     "sub": {
       "qib": 0,
       "hni": 0,
@@ -580,7 +585,7 @@
     "openISO": "2026-08-24",
     "closeISO": "2026-08-27",
     "listISO": "2026-09-01",
-    "prevPct": 21,
+    "prevPct": 21.3,
     "sub": {
       "qib": 0,
       "hni": 0,
@@ -597,7 +602,7 @@
     "readings": {
       "investorgain": {
         "gmp": 29,
-        "pct": 21.3
+        "pct": 21
       }
     }
   },
@@ -668,8 +673,8 @@
     "hasAnchor": true,
     "readings": {
       "investorgain": {
-        "gmp": 330,
-        "pct": 41.9
+        "gmp": 315,
+        "pct": 40
       }
     }
   },
@@ -704,8 +709,8 @@
     "hasAnchor": true,
     "readings": {
       "investorgain": {
-        "gmp": 307,
-        "pct": 102.3
+        "gmp": 305,
+        "pct": 101.7
       }
     }
   },
@@ -724,7 +729,7 @@
     "openISO": "2026-08-19",
     "closeISO": "2026-08-21",
     "listISO": "2026-08-26",
-    "prevPct": 11.6,
+    "prevPct": 11.3,
     "sub": {
       "qib": 0,
       "hni": 0,
@@ -740,8 +745,8 @@
     "hasAnchor": true,
     "readings": {
       "investorgain": {
-        "gmp": 18,
-        "pct": 11.3
+        "gmp": 19,
+        "pct": 11.9
       }
     }
   },
