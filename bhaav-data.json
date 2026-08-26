@@ -158,7 +158,7 @@
     "openISO": "2026-08-31",
     "closeISO": "2026-09-02",
     "listISO": "2026-09-07",
-    "prevPct": null,
+    "prevPct": 0,
     "sub": {
       "qib": 0,
       "hni": 0,
@@ -172,7 +172,12 @@
     "issueSize": "₹680.00 Cr",
     "infoUrl": "https://www.investorgain.com/gmp/pernias-pop-up-studio-ipo/1897/",
     "hasAnchor": true,
-    "readings": {}
+    "readings": {
+      "investorgain": {
+        "gmp": 0,
+        "pct": 0
+      }
+    }
   },
   {
     "name": "Complete Sports and Management",
@@ -241,8 +246,8 @@
     "hasAnchor": true,
     "readings": {
       "investorgain": {
-        "gmp": 275,
-        "pct": 64.1
+        "gmp": 280,
+        "pct": 65.3
       }
     }
   },
@@ -411,7 +416,7 @@
       "hni": 0,
       "retail": 0,
       "total": 0.34,
-      "day": 1
+      "day": 2
     },
     "upd": 0,
     "new": false,
@@ -447,7 +452,7 @@
       "hni": 0,
       "retail": 0,
       "total": 3.24,
-      "day": 1
+      "day": 2
     },
     "upd": 0,
     "new": false,
@@ -483,7 +488,7 @@
       "hni": 0,
       "retail": 0,
       "total": 0.79,
-      "day": 2
+      "day": 3
     },
     "upd": 0,
     "new": false,
@@ -519,7 +524,7 @@
       "hni": 0,
       "retail": 0,
       "total": 1.95,
-      "day": 2
+      "day": 3
     },
     "upd": 0,
     "new": false,
@@ -555,7 +560,7 @@
       "hni": 0,
       "retail": 0,
       "total": 0.42,
-      "day": 2
+      "day": 3
     },
     "upd": 0,
     "new": false,
@@ -591,7 +596,7 @@
       "hni": 0,
       "retail": 0,
       "total": 2.46,
-      "day": 2
+      "day": 3
     },
     "upd": 0,
     "new": false,
@@ -627,7 +632,7 @@
       "hni": 0,
       "retail": 0,
       "total": 19.57,
-      "day": 2
+      "day": 3
     },
     "upd": 0,
     "new": false,
@@ -645,7 +650,7 @@
   {
     "name": "Augmont Enterprises",
     "type": "MAINBOARD",
-    "status": "OPEN",
+    "status": "CLOSED",
     "band": [
       788,
       788
@@ -715,114 +720,6 @@
     }
   },
   {
-    "name": "Gaja Alternative Asset Management",
-    "type": "MAINBOARD",
-    "status": "CLOSED",
-    "band": [
-      160,
-      160
-    ],
-    "lot": 93,
-    "open": "19 Aug",
-    "close": "21 Aug",
-    "list": "26 Aug",
-    "openISO": "2026-08-19",
-    "closeISO": "2026-08-21",
-    "listISO": "2026-08-26",
-    "prevPct": 11.6,
-    "sub": {
-      "qib": 0,
-      "hni": 0,
-      "retail": 0,
-      "total": 32.98,
-      "day": 3
-    },
-    "upd": 0,
-    "new": false,
-    "actualList": null,
-    "issueSize": "₹550.00 Cr",
-    "infoUrl": "https://www.investorgain.com/gmp/gaja-alternative-asset-management-ipo/1828/",
-    "hasAnchor": true,
-    "readings": {
-      "investorgain": {
-        "gmp": 19,
-        "pct": 11.6
-      }
-    }
-  },
-  {
-    "name": "Dhanwel Hybrid Seeds",
-    "type": "SME",
-    "status": "CLOSED",
-    "band": [
-      99,
-      99
-    ],
-    "lot": 1200,
-    "open": "19 Aug",
-    "close": "21 Aug",
-    "list": "26 Aug",
-    "openISO": "2026-08-19",
-    "closeISO": "2026-08-21",
-    "listISO": "2026-08-26",
-    "prevPct": 1,
-    "sub": {
-      "qib": 0,
-      "hni": 0,
-      "retail": 0,
-      "total": 1.65,
-      "day": 3
-    },
-    "upd": 0,
-    "new": false,
-    "actualList": null,
-    "issueSize": "₹26.73 Cr",
-    "infoUrl": "https://www.investorgain.com/gmp/dhanwel-hybrid-seeds-ipo/2098/",
-    "hasAnchor": false,
-    "readings": {
-      "investorgain": {
-        "gmp": 1,
-        "pct": 1
-      }
-    }
-  },
-  {
-    "name": "Mopshop Distribution",
-    "type": "SME",
-    "status": "CLOSED",
-    "band": [
-      138,
-      138
-    ],
-    "lot": 1000,
-    "open": "19 Aug",
-    "close": "21 Aug",
-    "list": "26 Aug",
-    "openISO": "2026-08-19",
-    "closeISO": "2026-08-21",
-    "listISO": "2026-08-26",
-    "prevPct": 0.7,
-    "sub": {
-      "qib": 0,
-      "hni": 0,
-      "retail": 0,
-      "total": 1.59,
-      "day": 3
-    },
-    "upd": 0,
-    "new": false,
-    "actualList": null,
-    "issueSize": "₹27.26 Cr",
-    "infoUrl": "https://www.investorgain.com/gmp/mopshop-distribution-ipo/2024/",
-    "hasAnchor": false,
-    "readings": {
-      "investorgain": {
-        "gmp": 1,
-        "pct": 0.7
-      }
-    }
-  },
-  {
     "name": "Fascinate Textiles",
     "type": "SME",
     "status": "LISTED",
@@ -858,6 +755,117 @@
       }
     },
     "lastGmpPct": 0
+  },
+  {
+    "name": "Gaja Alternative Asset Management",
+    "type": "MAINBOARD",
+    "status": "LISTED",
+    "band": [
+      160,
+      160
+    ],
+    "lot": 93,
+    "open": "19 Aug",
+    "close": "21 Aug",
+    "list": "26 Aug",
+    "openISO": "2026-08-19",
+    "closeISO": "2026-08-21",
+    "listISO": "2026-08-26",
+    "prevPct": 11.6,
+    "sub": {
+      "qib": 0,
+      "hni": 0,
+      "retail": 0,
+      "total": 32.98,
+      "day": 3
+    },
+    "upd": 0,
+    "new": false,
+    "actualList": null,
+    "issueSize": "₹550.00 Cr",
+    "infoUrl": "https://www.investorgain.com/gmp/gaja-alternative-asset-management-ipo/1828/",
+    "hasAnchor": true,
+    "readings": {
+      "investorgain": {
+        "gmp": 19,
+        "pct": 11.6
+      }
+    },
+    "lastGmpPct": 11.6
+  },
+  {
+    "name": "Dhanwel Hybrid Seeds",
+    "type": "SME",
+    "status": "LISTED",
+    "band": [
+      99,
+      99
+    ],
+    "lot": 1200,
+    "open": "19 Aug",
+    "close": "21 Aug",
+    "list": "26 Aug",
+    "openISO": "2026-08-19",
+    "closeISO": "2026-08-21",
+    "listISO": "2026-08-26",
+    "prevPct": 1,
+    "sub": {
+      "qib": 0,
+      "hni": 0,
+      "retail": 0,
+      "total": 1.65,
+      "day": 3
+    },
+    "upd": 0,
+    "new": false,
+    "actualList": null,
+    "issueSize": "₹26.73 Cr",
+    "infoUrl": "https://www.investorgain.com/gmp/dhanwel-hybrid-seeds-ipo/2098/",
+    "hasAnchor": false,
+    "readings": {
+      "investorgain": {
+        "gmp": 1,
+        "pct": 1
+      }
+    },
+    "lastGmpPct": 1
+  },
+  {
+    "name": "Mopshop Distribution",
+    "type": "SME",
+    "status": "LISTED",
+    "band": [
+      138,
+      138
+    ],
+    "lot": 1000,
+    "open": "19 Aug",
+    "close": "21 Aug",
+    "list": "26 Aug",
+    "openISO": "2026-08-19",
+    "closeISO": "2026-08-21",
+    "listISO": "2026-08-26",
+    "prevPct": 0.7,
+    "sub": {
+      "qib": 0,
+      "hni": 0,
+      "retail": 0,
+      "total": 1.59,
+      "day": 3
+    },
+    "upd": 0,
+    "new": false,
+    "actualList": null,
+    "issueSize": "₹27.26 Cr",
+    "infoUrl": "https://www.investorgain.com/gmp/mopshop-distribution-ipo/2024/",
+    "hasAnchor": false,
+    "readings": {
+      "investorgain": {
+        "gmp": 1,
+        "pct": 0.7
+      }
+    },
+    "lastGmpPct": 0.7
   },
   {
     "name": "Shankesh Jewellers",
