@@ -148,10 +148,10 @@
     "type": "MAINBOARD",
     "status": "UPCOMING",
     "band": [
-      0,
-      0
+      575,
+      575
     ],
-    "lot": 0,
+    "lot": 26,
     "open": "31 Aug",
     "close": "2 Sep",
     "list": "7 Sep",
