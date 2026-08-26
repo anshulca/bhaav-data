@@ -261,7 +261,7 @@
     "openISO": "2026-08-28",
     "closeISO": "2026-09-01",
     "listISO": "2026-09-04",
-    "prevPct": 75.8,
+    "prevPct": 76.9,
     "sub": {
       "qib": 0,
       "hni": 0,
@@ -277,8 +277,8 @@
     "hasAnchor": true,
     "readings": {
       "investorgain": {
-        "gmp": 330,
-        "pct": 76.9
+        "gmp": 338,
+        "pct": 78.8
       }
     }
   },
@@ -446,7 +446,7 @@
       "qib": 0,
       "hni": 0,
       "retail": 0,
-      "total": 0.44,
+      "total": 0.45,
       "day": 2
     },
     "upd": 0,
@@ -482,7 +482,7 @@
       "qib": 0,
       "hni": 0,
       "retail": 0,
-      "total": 8.15,
+      "total": 8.56,
       "day": 2
     },
     "upd": 0,
@@ -518,7 +518,7 @@
       "qib": 0,
       "hni": 0,
       "retail": 0,
-      "total": 0.91,
+      "total": 0.92,
       "day": 3
     },
     "upd": 0,
@@ -554,7 +554,7 @@
       "qib": 0,
       "hni": 0,
       "retail": 0,
-      "total": 4.69,
+      "total": 4.98,
       "day": 3
     },
     "upd": 0,
@@ -590,7 +590,7 @@
       "qib": 0,
       "hni": 0,
       "retail": 0,
-      "total": 0.63,
+      "total": 0.65,
       "day": 3
     },
     "upd": 0,
@@ -626,7 +626,7 @@
       "qib": 0,
       "hni": 0,
       "retail": 0,
-      "total": 4.46,
+      "total": 4.65,
       "day": 3
     },
     "upd": 0,
@@ -662,7 +662,7 @@
       "qib": 0,
       "hni": 0,
       "retail": 0,
-      "total": 44.31,
+      "total": 46.85,
       "day": 3
     },
     "upd": 0,
