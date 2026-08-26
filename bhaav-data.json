@@ -169,8 +169,8 @@
     "hasAnchor": true,
     "readings": {
       "investorgain": {
-        "gmp": 0,
-        "pct": 0
+        "gmp": 3,
+        "pct": 5.6
       }
     }
   },
@@ -261,7 +261,7 @@
     "openISO": "2026-08-28",
     "closeISO": "2026-09-01",
     "listISO": "2026-09-04",
-    "prevPct": 79.3,
+    "prevPct": 81.6,
     "sub": {
       "qib": 0,
       "hni": 0,
@@ -277,8 +277,8 @@
     "hasAnchor": true,
     "readings": {
       "investorgain": {
-        "gmp": 350,
-        "pct": 81.6
+        "gmp": 365,
+        "pct": 85.1
       }
     }
   },
@@ -349,8 +349,8 @@
     "hasAnchor": true,
     "readings": {
       "investorgain": {
-        "gmp": 30,
-        "pct": 15
+        "gmp": 20,
+        "pct": 10
       }
     }
   },
@@ -421,8 +421,8 @@
     "hasAnchor": true,
     "readings": {
       "investorgain": {
-        "gmp": 48,
-        "pct": 58.5
+        "gmp": 50,
+        "pct": 61
       }
     }
   },
@@ -477,7 +477,7 @@
     "openISO": "2026-08-25",
     "closeISO": "2026-08-28",
     "listISO": "2026-09-02",
-    "prevPct": 29.7,
+    "prevPct": 24.8,
     "sub": {
       "qib": 0,
       "hni": 0,
@@ -565,8 +565,8 @@
     "hasAnchor": true,
     "readings": {
       "investorgain": {
-        "gmp": 315,
-        "pct": 31.9
+        "gmp": 305,
+        "pct": 30.9
       }
     }
   },
@@ -621,7 +621,7 @@
     "openISO": "2026-08-24",
     "closeISO": "2026-08-27",
     "listISO": "2026-09-01",
-    "prevPct": 29,
+    "prevPct": 29.7,
     "sub": {
       "qib": 0,
       "hni": 0,
@@ -637,8 +637,8 @@
     "hasAnchor": true,
     "readings": {
       "investorgain": {
-        "gmp": 41,
-        "pct": 29.7
+        "gmp": 42,
+        "pct": 30.4
       }
     }
   },
@@ -657,7 +657,7 @@
     "openISO": "2026-08-24",
     "closeISO": "2026-08-27",
     "listISO": "2026-09-01",
-    "prevPct": 75.5,
+    "prevPct": 83,
     "sub": {
       "qib": 0,
       "hni": 0,
@@ -745,8 +745,8 @@
     "hasAnchor": true,
     "readings": {
       "investorgain": {
-        "gmp": 310,
-        "pct": 103.3
+        "gmp": 303,
+        "pct": 101
       }
     }
   },
