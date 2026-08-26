@@ -23,7 +23,7 @@
       "day": 0
     },
     "upd": 0,
-    "new": true,
+    "new": false,
     "actualList": null,
     "issueSize": null,
     "infoUrl": "https://www.investorgain.com/gmp/deepa-jewellers-ipo/2081/",
@@ -81,7 +81,7 @@
     "openISO": "2026-08-31",
     "closeISO": "2026-09-02",
     "listISO": "2026-09-07",
-    "prevPct": 14.1,
+    "prevPct": 16.3,
     "sub": {
       "qib": 0,
       "hni": 0,
@@ -261,7 +261,7 @@
     "openISO": "2026-08-28",
     "closeISO": "2026-09-01",
     "listISO": "2026-09-04",
-    "prevPct": 73.7,
+    "prevPct": 75.8,
     "sub": {
       "qib": 0,
       "hni": 0,
@@ -277,8 +277,8 @@
     "hasAnchor": true,
     "readings": {
       "investorgain": {
-        "gmp": 325,
-        "pct": 75.8
+        "gmp": 330,
+        "pct": 76.9
       }
     }
   },
@@ -446,7 +446,7 @@
       "qib": 0,
       "hni": 0,
       "retail": 0,
-      "total": 0.42,
+      "total": 0.44,
       "day": 2
     },
     "upd": 0,
@@ -482,7 +482,7 @@
       "qib": 0,
       "hni": 0,
       "retail": 0,
-      "total": 7.24,
+      "total": 8.15,
       "day": 2
     },
     "upd": 0,
@@ -518,7 +518,7 @@
       "qib": 0,
       "hni": 0,
       "retail": 0,
-      "total": 0.89,
+      "total": 0.91,
       "day": 3
     },
     "upd": 0,
@@ -554,7 +554,7 @@
       "qib": 0,
       "hni": 0,
       "retail": 0,
-      "total": 3.93,
+      "total": 4.69,
       "day": 3
     },
     "upd": 0,
@@ -590,7 +590,7 @@
       "qib": 0,
       "hni": 0,
       "retail": 0,
-      "total": 0.58,
+      "total": 0.63,
       "day": 3
     },
     "upd": 0,
@@ -626,7 +626,7 @@
       "qib": 0,
       "hni": 0,
       "retail": 0,
-      "total": 3.97,
+      "total": 4.46,
       "day": 3
     },
     "upd": 0,
@@ -662,7 +662,7 @@
       "qib": 0,
       "hni": 0,
       "retail": 0,
-      "total": 38.26,
+      "total": 44.31,
       "day": 3
     },
     "upd": 0,
@@ -788,43 +788,6 @@
     "lastGmpPct": 0
   },
   {
-    "name": "Gaja Alternative Asset Management",
-    "type": "MAINBOARD",
-    "status": "LISTED",
-    "band": [
-      160,
-      160
-    ],
-    "lot": 93,
-    "open": "19 Aug",
-    "close": "21 Aug",
-    "list": "26 Aug",
-    "openISO": "2026-08-19",
-    "closeISO": "2026-08-21",
-    "listISO": "2026-08-26",
-    "prevPct": 11.6,
-    "sub": {
-      "qib": 0,
-      "hni": 0,
-      "retail": 0,
-      "total": 32.98,
-      "day": 3
-    },
-    "upd": 0,
-    "new": false,
-    "actualList": null,
-    "issueSize": "₹550.00 Cr",
-    "infoUrl": "https://www.investorgain.com/gmp/gaja-alternative-asset-management-ipo/1828/",
-    "hasAnchor": true,
-    "readings": {
-      "investorgain": {
-        "gmp": 19,
-        "pct": 11.6
-      }
-    },
-    "lastGmpPct": 11.6
-  },
-  {
     "name": "Dhanwel Hybrid Seeds",
     "type": "SME",
     "status": "LISTED",
@@ -897,6 +860,43 @@
       }
     },
     "lastGmpPct": 0.7
+  },
+  {
+    "name": "Gaja Alternative Asset Management",
+    "type": "MAINBOARD",
+    "status": "LISTED",
+    "band": [
+      160,
+      160
+    ],
+    "lot": 93,
+    "open": "19 Aug",
+    "close": "21 Aug",
+    "list": "26 Aug",
+    "openISO": "2026-08-19",
+    "closeISO": "2026-08-21",
+    "listISO": "2026-08-26",
+    "prevPct": 11.6,
+    "sub": {
+      "qib": 0,
+      "hni": 0,
+      "retail": 0,
+      "total": 32.98,
+      "day": 3
+    },
+    "upd": 0,
+    "new": false,
+    "actualList": null,
+    "issueSize": "₹550.00 Cr",
+    "infoUrl": "https://www.investorgain.com/gmp/gaja-alternative-asset-management-ipo/1828/",
+    "hasAnchor": true,
+    "readings": {
+      "investorgain": {
+        "gmp": 19,
+        "pct": 11.6
+      }
+    },
+    "lastGmpPct": 11.6
   },
   {
     "name": "Shankesh Jewellers",
