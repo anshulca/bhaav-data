@@ -272,7 +272,7 @@
       "hni": 0,
       "retail": 0,
       "total": 0.13,
-      "day": 1
+      "day": 2
     },
     "upd": 0,
     "new": false,
@@ -302,13 +302,13 @@
     "openISO": "2026-08-28",
     "closeISO": "2026-09-01",
     "listISO": "2026-09-04",
-    "prevPct": 87.4,
+    "prevPct": 83.9,
     "sub": {
       "qib": 0,
       "hni": 0,
       "retail": 0,
       "total": 2.21,
-      "day": 1
+      "day": 2
     },
     "upd": 0,
     "new": false,
@@ -344,7 +344,7 @@
       "hni": 0,
       "retail": 0,
       "total": 1.93,
-      "day": 1
+      "day": 2
     },
     "upd": 0,
     "new": false,
@@ -380,7 +380,7 @@
       "hni": 0,
       "retail": 0,
       "total": 18.18,
-      "day": 1
+      "day": 2
     },
     "upd": 0,
     "new": false,
@@ -416,7 +416,7 @@
       "hni": 0,
       "retail": 0,
       "total": 5.14,
-      "day": 2
+      "day": 3
     },
     "upd": 0,
     "new": false,
@@ -452,7 +452,7 @@
       "hni": 0,
       "retail": 0,
       "total": 20.67,
-      "day": 2
+      "day": 3
     },
     "upd": 0,
     "new": false,
@@ -470,7 +470,7 @@
   {
     "name": "Sumax Engineering",
     "type": "SME",
-    "status": "OPEN",
+    "status": "CLOSED",
     "band": [
       101,
       101
@@ -506,7 +506,7 @@
   {
     "name": "Annu Projects",
     "type": "MAINBOARD",
-    "status": "OPEN",
+    "status": "CLOSED",
     "band": [
       99,
       99
@@ -606,8 +606,8 @@
     "hasAnchor": true,
     "readings": {
       "investorgain": {
-        "gmp": 265,
-        "pct": 26.8
+        "gmp": 260,
+        "pct": 26.3
       }
     }
   },
@@ -662,7 +662,7 @@
     "openISO": "2026-08-24",
     "closeISO": "2026-08-27",
     "listISO": "2026-09-01",
-    "prevPct": 28.3,
+    "prevPct": 26.8,
     "sub": {
       "qib": 0,
       "hni": 0,
