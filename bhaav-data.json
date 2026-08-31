@@ -110,7 +110,7 @@
   {
     "name": "Shanti Inorganics",
     "type": "SME",
-    "status": "UPCOMING",
+    "status": "OPEN",
     "band": [
       83,
       83
@@ -128,7 +128,7 @@
       "hni": 0,
       "retail": 0,
       "total": 0,
-      "day": 0
+      "day": 1
     },
     "upd": 0,
     "new": false,
@@ -146,7 +146,7 @@
   {
     "name": "Purple Style Labs",
     "type": "MAINBOARD",
-    "status": "UPCOMING",
+    "status": "OPEN",
     "band": [
       575,
       575
@@ -164,7 +164,7 @@
       "hni": 0,
       "retail": 0,
       "total": 0,
-      "day": 0
+      "day": 1
     },
     "upd": 0,
     "new": false,
@@ -182,7 +182,7 @@
   {
     "name": "Ashutosh Fibre",
     "type": "SME",
-    "status": "UPCOMING",
+    "status": "OPEN",
     "band": [
       92,
       92
@@ -199,8 +199,8 @@
       "qib": 0,
       "hni": 0,
       "retail": 0,
-      "total": 0,
-      "day": 0
+      "total": 0.01,
+      "day": 1
     },
     "upd": 0,
     "new": false,
@@ -218,7 +218,7 @@
   {
     "name": "Phychem Technologies",
     "type": "SME",
-    "status": "UPCOMING",
+    "status": "OPEN",
     "band": [
       54,
       54
@@ -236,7 +236,7 @@
       "hni": 0,
       "retail": 0,
       "total": 0,
-      "day": 0
+      "day": 1
     },
     "upd": 0,
     "new": false,
@@ -606,8 +606,8 @@
     "hasAnchor": true,
     "readings": {
       "investorgain": {
-        "gmp": 240,
-        "pct": 24.3
+        "gmp": 210,
+        "pct": 21.3
       }
     }
   },
@@ -720,42 +720,6 @@
     }
   },
   {
-    "name": "Augmont Enterprises",
-    "type": "MAINBOARD",
-    "status": "CLOSED",
-    "band": [
-      788,
-      788
-    ],
-    "lot": 19,
-    "open": "21 Aug",
-    "close": "25 Aug",
-    "list": "31 Aug",
-    "openISO": "2026-08-21",
-    "closeISO": "2026-08-25",
-    "listISO": "2026-08-31",
-    "prevPct": 36.8,
-    "sub": {
-      "qib": 0,
-      "hni": 0,
-      "retail": 0,
-      "total": 111.18,
-      "day": 3
-    },
-    "upd": 0,
-    "new": false,
-    "actualList": null,
-    "issueSize": "₹825.00 Cr",
-    "infoUrl": "https://www.investorgain.com/gmp/augmont-enterprises-ipo/1938/",
-    "hasAnchor": true,
-    "readings": {
-      "investorgain": {
-        "gmp": 290,
-        "pct": 36.8
-      }
-    }
-  },
-  {
     "name": "Fascinate Textiles",
     "type": "SME",
     "status": "LISTED",
@@ -791,6 +755,43 @@
       }
     },
     "lastGmpPct": 0
+  },
+  {
+    "name": "Augmont Enterprises",
+    "type": "MAINBOARD",
+    "status": "LISTED",
+    "band": [
+      788,
+      788
+    ],
+    "lot": 19,
+    "open": "21 Aug",
+    "close": "25 Aug",
+    "list": "31 Aug",
+    "openISO": "2026-08-21",
+    "closeISO": "2026-08-25",
+    "listISO": "2026-08-31",
+    "prevPct": 36.8,
+    "sub": {
+      "qib": 0,
+      "hni": 0,
+      "retail": 0,
+      "total": 111.18,
+      "day": 3
+    },
+    "upd": 0,
+    "new": false,
+    "actualList": null,
+    "issueSize": "₹825.00 Cr",
+    "infoUrl": "https://www.investorgain.com/gmp/augmont-enterprises-ipo/1938/",
+    "hasAnchor": true,
+    "readings": {
+      "investorgain": {
+        "gmp": 290,
+        "pct": 36.8
+      }
+    },
+    "lastGmpPct": 36.8
   },
   {
     "name": "Tempsens Instruments (India)",
