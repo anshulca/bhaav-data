@@ -1,5 +1,37 @@
 [
   {
+    "name": "Kanohar Electricals",
+    "type": "MAINBOARD",
+    "status": "LISTED",
+    "band": [
+      0,
+      0
+    ],
+    "lot": 0,
+    "open": "-",
+    "close": "-",
+    "list": "-",
+    "openISO": null,
+    "closeISO": null,
+    "listISO": null,
+    "prevPct": null,
+    "sub": {
+      "qib": 0,
+      "hni": 0,
+      "retail": 0,
+      "total": 0,
+      "day": 3
+    },
+    "upd": 0,
+    "new": true,
+    "actualList": null,
+    "issueSize": null,
+    "infoUrl": "https://www.investorgain.com/gmp/kanohar-electricals-ipo/2119/",
+    "hasAnchor": true,
+    "readings": {},
+    "lastGmpPct": 0
+  },
+  {
     "name": "Fly-Hi Maritime",
     "type": "SME",
     "status": "UPCOMING",
@@ -66,8 +98,8 @@
     "hasAnchor": true,
     "readings": {
       "investorgain": {
-        "gmp": 39,
-        "pct": 22
+        "gmp": 37,
+        "pct": 20.9
       }
     }
   },
@@ -163,7 +195,7 @@
       "qib": 0,
       "hni": 0,
       "retail": 0,
-      "total": 0.1,
+      "total": 0.12,
       "day": 1
     },
     "upd": 0,
@@ -199,7 +231,7 @@
       "qib": 0,
       "hni": 0,
       "retail": 0,
-      "total": 1.31,
+      "total": 1.55,
       "day": 1
     },
     "upd": 0,
@@ -271,7 +303,7 @@
       "qib": 0,
       "hni": 0,
       "retail": 0,
-      "total": 0.98,
+      "total": 1.13,
       "day": 1
     },
     "upd": 0,
@@ -343,7 +375,7 @@
       "qib": 0,
       "hni": 0,
       "retail": 0,
-      "total": 21.97,
+      "total": 24.36,
       "day": 3
     },
     "upd": 0,
@@ -354,8 +386,8 @@
     "hasAnchor": true,
     "readings": {
       "investorgain": {
-        "gmp": 324,
-        "pct": 75.5
+        "gmp": 319,
+        "pct": 74.4
       }
     }
   },
@@ -415,7 +447,7 @@
       "qib": 0,
       "hni": 0,
       "retail": 0,
-      "total": 23.81,
+      "total": 27.13,
       "day": 3
     },
     "upd": 0,
@@ -487,7 +519,7 @@
       "qib": 0,
       "hni": 0,
       "retail": 0,
-      "total": 113.01,
+      "total": 118.3,
       "day": 3
     },
     "upd": 0,
@@ -498,8 +530,8 @@
     "hasAnchor": true,
     "readings": {
       "investorgain": {
-        "gmp": 52,
-        "pct": 63.4
+        "gmp": 50,
+        "pct": 61
       }
     }
   },
@@ -1050,42 +1082,5 @@
       }
     },
     "lastGmpPct": 13.9
-  },
-  {
-    "name": "Lalithaa Jewellery Mart",
-    "type": "MAINBOARD",
-    "status": "LISTED",
-    "band": [
-      201,
-      201
-    ],
-    "lot": 74,
-    "open": "17 Aug",
-    "close": "19 Aug",
-    "list": "24 Aug",
-    "openISO": "2026-08-17",
-    "closeISO": "2026-08-19",
-    "listISO": "2026-08-24",
-    "prevPct": 36.8,
-    "sub": {
-      "qib": 0,
-      "hni": 0,
-      "retail": 0,
-      "total": 66.63,
-      "day": 3
-    },
-    "upd": 0,
-    "new": false,
-    "actualList": null,
-    "issueSize": "₹1700.00 Cr",
-    "infoUrl": "https://www.investorgain.com/gmp/lalithaa-jewellery-mart-ipo/1799/",
-    "hasAnchor": true,
-    "readings": {
-      "investorgain": {
-        "gmp": 74,
-        "pct": 36.8
-      }
-    },
-    "lastGmpPct": 36.8
   }
 ]
