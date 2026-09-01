@@ -60,7 +60,7 @@
       "day": 0
     },
     "upd": 0,
-    "new": true,
+    "new": false,
     "actualList": null,
     "issueSize": "₹210.00 Cr",
     "infoUrl": "https://www.investorgain.com/gmp/veegaland-developers-ipo/1601/",
@@ -96,7 +96,7 @@
       "day": 0
     },
     "upd": 0,
-    "new": true,
+    "new": false,
     "actualList": null,
     "issueSize": "₹45.11 Cr",
     "infoUrl": "https://www.investorgain.com/gmp/qualiance-international-ipo/2240/",
@@ -164,7 +164,7 @@
       "qib": 0,
       "hni": 0,
       "retail": 0,
-      "total": 0.64,
+      "total": 0.91,
       "day": 1
     },
     "upd": 0,
@@ -195,12 +195,12 @@
     "openISO": "2026-09-01",
     "closeISO": "2026-09-03",
     "listISO": "2026-09-08",
-    "prevPct": 4.9,
+    "prevPct": 8.8,
     "sub": {
       "qib": 0,
       "hni": 0,
       "retail": 0,
-      "total": 0,
+      "total": 0.01,
       "day": 1
     },
     "upd": 0,
@@ -231,12 +231,12 @@
     "openISO": "2026-09-01",
     "closeISO": "2026-09-03",
     "listISO": "2026-09-08",
-    "prevPct": 31.1,
+    "prevPct": 24.9,
     "sub": {
       "qib": 0,
       "hni": 0,
       "retail": 0,
-      "total": 0.47,
+      "total": 0.66,
       "day": 1
     },
     "upd": 0,
@@ -267,12 +267,12 @@
     "openISO": "2026-08-31",
     "closeISO": "2026-09-02",
     "listISO": "2026-09-07",
-    "prevPct": 1.2,
+    "prevPct": 0.7,
     "sub": {
       "qib": 0,
       "hni": 0,
       "retail": 0,
-      "total": 0.18,
+      "total": 0.22,
       "day": 2
     },
     "upd": 0,
@@ -283,8 +283,8 @@
     "hasAnchor": true,
     "readings": {
       "investorgain": {
-        "gmp": 4,
-        "pct": 0.7
+        "gmp": 2,
+        "pct": 0.3
       }
     }
   },
@@ -308,7 +308,7 @@
       "qib": 0,
       "hni": 0,
       "retail": 0,
-      "total": 1.54,
+      "total": 1.65,
       "day": 2
     },
     "upd": 0,
@@ -339,12 +339,12 @@
     "openISO": "2026-08-31",
     "closeISO": "2026-09-02",
     "listISO": "2026-09-07",
-    "prevPct": 37.4,
+    "prevPct": 12.1,
     "sub": {
       "qib": 0,
       "hni": 0,
       "retail": 0,
-      "total": 2.97,
+      "total": 3.3,
       "day": 2
     },
     "upd": 0,
@@ -355,8 +355,8 @@
     "hasAnchor": true,
     "readings": {
       "investorgain": {
-        "gmp": 10,
-        "pct": 12.1
+        "gmp": 14,
+        "pct": 16.9
       }
     }
   },
@@ -375,12 +375,12 @@
     "openISO": "2026-08-31",
     "closeISO": "2026-09-02",
     "listISO": "2026-09-07",
-    "prevPct": 48.9,
+    "prevPct": 16.3,
     "sub": {
       "qib": 0,
       "hni": 0,
       "retail": 0,
-      "total": 3.7,
+      "total": 4.42,
       "day": 2
     },
     "upd": 0,
@@ -391,8 +391,8 @@
     "hasAnchor": true,
     "readings": {
       "investorgain": {
-        "gmp": 15,
-        "pct": 16.3
+        "gmp": 27,
+        "pct": 29.4
       }
     }
   },
@@ -411,12 +411,12 @@
     "openISO": "2026-08-28",
     "closeISO": "2026-09-01",
     "listISO": "2026-09-04",
-    "prevPct": 73.7,
+    "prevPct": 60.1,
     "sub": {
       "qib": 0,
       "hni": 0,
       "retail": 0,
-      "total": 46.88,
+      "total": 95.1,
       "day": 3
     },
     "upd": 0,
@@ -427,8 +427,8 @@
     "hasAnchor": true,
     "readings": {
       "investorgain": {
-        "gmp": 258,
-        "pct": 60.1
+        "gmp": 250,
+        "pct": 58.3
       }
     }
   },
@@ -452,7 +452,7 @@
       "qib": 0,
       "hni": 0,
       "retail": 0,
-      "total": 0.56,
+      "total": 0.78,
       "day": 3
     },
     "upd": 0,
@@ -483,12 +483,12 @@
     "openISO": "2026-08-28",
     "closeISO": "2026-09-01",
     "listISO": "2026-09-04",
-    "prevPct": 22.5,
+    "prevPct": 17,
     "sub": {
       "qib": 0,
       "hni": 0,
       "retail": 0,
-      "total": 57.68,
+      "total": 81.2,
       "day": 3
     },
     "upd": 0,
@@ -499,8 +499,8 @@
     "hasAnchor": true,
     "readings": {
       "investorgain": {
-        "gmp": 34,
-        "pct": 17
+        "gmp": 40,
+        "pct": 20
       }
     }
   },
@@ -524,7 +524,7 @@
       "qib": 0,
       "hni": 0,
       "retail": 0,
-      "total": 374.22,
+      "total": 590.46,
       "day": 3
     },
     "upd": 0,
@@ -555,7 +555,7 @@
     "openISO": "2026-08-27",
     "closeISO": "2026-08-31",
     "listISO": "2026-09-03",
-    "prevPct": 58.5,
+    "prevPct": 53.7,
     "sub": {
       "qib": 0,
       "hni": 0,
@@ -571,8 +571,8 @@
     "hasAnchor": true,
     "readings": {
       "investorgain": {
-        "gmp": 44,
-        "pct": 53.7
+        "gmp": 38,
+        "pct": 46.3
       }
     }
   },
@@ -627,7 +627,7 @@
     "openISO": "2026-08-25",
     "closeISO": "2026-08-28",
     "listISO": "2026-09-02",
-    "prevPct": -2,
+    "prevPct": -3,
     "sub": {
       "qib": 0,
       "hni": 0,
@@ -663,7 +663,7 @@
     "openISO": "2026-08-25",
     "closeISO": "2026-08-28",
     "listISO": "2026-09-02",
-    "prevPct": 35.6,
+    "prevPct": 31.7,
     "sub": {
       "qib": 0,
       "hni": 0,
@@ -679,8 +679,8 @@
     "hasAnchor": true,
     "readings": {
       "investorgain": {
-        "gmp": 32,
-        "pct": 31.7
+        "gmp": 30,
+        "pct": 29.7
       }
     }
   },
@@ -810,7 +810,7 @@
     "openISO": "2026-08-24",
     "closeISO": "2026-08-27",
     "listISO": "2026-09-01",
-    "prevPct": 23.2,
+    "prevPct": 23.9,
     "sub": {
       "qib": 0,
       "hni": 0,
@@ -884,7 +884,7 @@
     "openISO": "2026-08-24",
     "closeISO": "2026-08-27",
     "listISO": "2026-09-01",
-    "prevPct": 66,
+    "prevPct": 73.6,
     "sub": {
       "qib": 0,
       "hni": 0,
