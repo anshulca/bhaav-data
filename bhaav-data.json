@@ -37,6 +37,114 @@
     "lastGmpPct": 0
   },
   {
+    "name": "Veegaland Developers",
+    "type": "MAINBOARD",
+    "status": "UPCOMING",
+    "band": [
+      140,
+      140
+    ],
+    "lot": 107,
+    "open": "10 Sep",
+    "close": "15 Sep",
+    "list": "18 Sep",
+    "openISO": "2026-09-10",
+    "closeISO": "2026-09-15",
+    "listISO": "2026-09-18",
+    "prevPct": 10,
+    "sub": {
+      "qib": 0,
+      "hni": 0,
+      "retail": 0,
+      "total": 0,
+      "day": 0
+    },
+    "upd": 0,
+    "new": true,
+    "actualList": null,
+    "issueSize": "₹210.00 Cr",
+    "infoUrl": "https://www.investorgain.com/gmp/veegaland-developers-ipo/1601/",
+    "hasAnchor": true,
+    "readings": {
+      "investorgain": {
+        "gmp": 14,
+        "pct": 10
+      }
+    }
+  },
+  {
+    "name": "Qualiance International",
+    "type": "SME",
+    "status": "UPCOMING",
+    "band": [
+      127,
+      127
+    ],
+    "lot": 1000,
+    "open": "4 Sep",
+    "close": "8 Sep",
+    "list": "11 Sep",
+    "openISO": "2026-09-04",
+    "closeISO": "2026-09-08",
+    "listISO": "2026-09-11",
+    "prevPct": 0,
+    "sub": {
+      "qib": 0,
+      "hni": 0,
+      "retail": 0,
+      "total": 0,
+      "day": 0
+    },
+    "upd": 0,
+    "new": true,
+    "actualList": null,
+    "issueSize": "₹45.11 Cr",
+    "infoUrl": "https://www.investorgain.com/gmp/qualiance-international-ipo/2240/",
+    "hasAnchor": true,
+    "readings": {
+      "investorgain": {
+        "gmp": 0,
+        "pct": 0
+      }
+    }
+  },
+  {
+    "name": "Farm Peace",
+    "type": "SME",
+    "status": "OPEN",
+    "band": [
+      59,
+      59
+    ],
+    "lot": 2000,
+    "open": "1 Sep",
+    "close": "3 Sep",
+    "list": "8 Sep",
+    "openISO": "2026-09-01",
+    "closeISO": "2026-09-03",
+    "listISO": "2026-09-08",
+    "prevPct": 0,
+    "sub": {
+      "qib": 0,
+      "hni": 0,
+      "retail": 0,
+      "total": 0.01,
+      "day": 1
+    },
+    "upd": 0,
+    "new": false,
+    "actualList": null,
+    "issueSize": "₹32.00 Cr",
+    "infoUrl": "https://www.investorgain.com/gmp/farm-peace-ipo/1905/",
+    "hasAnchor": false,
+    "readings": {
+      "investorgain": {
+        "gmp": 0,
+        "pct": 0
+      }
+    }
+  },
+  {
     "name": "Rays of Belief",
     "type": "MAINBOARD",
     "status": "OPEN",
@@ -56,7 +164,7 @@
       "qib": 0,
       "hni": 0,
       "retail": 0,
-      "total": 0,
+      "total": 0.64,
       "day": 1
     },
     "upd": 0,
@@ -69,42 +177,6 @@
       "investorgain": {
         "gmp": 48,
         "pct": 20.1
-      }
-    }
-  },
-  {
-    "name": "Deepa Jewellers",
-    "type": "MAINBOARD",
-    "status": "OPEN",
-    "band": [
-      177,
-      177
-    ],
-    "lot": 84,
-    "open": "1 Sep",
-    "close": "3 Sep",
-    "list": "8 Sep",
-    "openISO": "2026-09-01",
-    "closeISO": "2026-09-03",
-    "listISO": "2026-09-08",
-    "prevPct": 31.1,
-    "sub": {
-      "qib": 0,
-      "hni": 0,
-      "retail": 0,
-      "total": 0,
-      "day": 1
-    },
-    "upd": 0,
-    "new": false,
-    "actualList": null,
-    "issueSize": "₹459.72 Cr",
-    "infoUrl": "https://www.investorgain.com/gmp/deepa-jewellers-ipo/2081/",
-    "hasAnchor": true,
-    "readings": {
-      "investorgain": {
-        "gmp": 55,
-        "pct": 31.1
       }
     }
   },
@@ -139,44 +211,44 @@
     "hasAnchor": false,
     "readings": {
       "investorgain": {
-        "gmp": 5,
-        "pct": 4.9
+        "gmp": 9,
+        "pct": 8.8
       }
     }
   },
   {
-    "name": "Farm Peace",
-    "type": "SME",
+    "name": "Deepa Jewellers",
+    "type": "MAINBOARD",
     "status": "OPEN",
     "band": [
-      59,
-      59
+      177,
+      177
     ],
-    "lot": 2000,
+    "lot": 84,
     "open": "1 Sep",
     "close": "3 Sep",
     "list": "8 Sep",
     "openISO": "2026-09-01",
     "closeISO": "2026-09-03",
     "listISO": "2026-09-08",
-    "prevPct": 0,
+    "prevPct": 31.1,
     "sub": {
       "qib": 0,
       "hni": 0,
       "retail": 0,
-      "total": 0,
+      "total": 0.47,
       "day": 1
     },
     "upd": 0,
     "new": false,
     "actualList": null,
-    "issueSize": "₹32.00 Cr",
-    "infoUrl": "https://www.investorgain.com/gmp/farm-peace-ipo/1905/",
-    "hasAnchor": false,
+    "issueSize": "₹459.72 Cr",
+    "infoUrl": "https://www.investorgain.com/gmp/deepa-jewellers-ipo/2081/",
+    "hasAnchor": true,
     "readings": {
       "investorgain": {
-        "gmp": 0,
-        "pct": 0
+        "gmp": 44,
+        "pct": 24.9
       }
     }
   },
@@ -200,7 +272,7 @@
       "qib": 0,
       "hni": 0,
       "retail": 0,
-      "total": 0.12,
+      "total": 0.18,
       "day": 2
     },
     "upd": 0,
@@ -211,44 +283,8 @@
     "hasAnchor": true,
     "readings": {
       "investorgain": {
-        "gmp": 7,
-        "pct": 1.2
-      }
-    }
-  },
-  {
-    "name": "Shanti Inorganics",
-    "type": "SME",
-    "status": "OPEN",
-    "band": [
-      83,
-      83
-    ],
-    "lot": 1600,
-    "open": "31 Aug",
-    "close": "2 Sep",
-    "list": "7 Sep",
-    "openISO": "2026-08-31",
-    "closeISO": "2026-09-02",
-    "listISO": "2026-09-07",
-    "prevPct": 37.4,
-    "sub": {
-      "qib": 0,
-      "hni": 0,
-      "retail": 0,
-      "total": 1.26,
-      "day": 2
-    },
-    "upd": 0,
-    "new": false,
-    "actualList": null,
-    "issueSize": "₹47.24 Cr",
-    "infoUrl": "https://www.investorgain.com/gmp/shanti-inorganics-ipo/1994/",
-    "hasAnchor": true,
-    "readings": {
-      "investorgain": {
-        "gmp": 31,
-        "pct": 37.4
+        "gmp": 4,
+        "pct": 0.7
       }
     }
   },
@@ -272,7 +308,7 @@
       "qib": 0,
       "hni": 0,
       "retail": 0,
-      "total": 1.26,
+      "total": 1.54,
       "day": 2
     },
     "upd": 0,
@@ -285,6 +321,42 @@
       "investorgain": {
         "gmp": 1,
         "pct": 1.9
+      }
+    }
+  },
+  {
+    "name": "Shanti Inorganics",
+    "type": "SME",
+    "status": "OPEN",
+    "band": [
+      83,
+      83
+    ],
+    "lot": 1600,
+    "open": "31 Aug",
+    "close": "2 Sep",
+    "list": "7 Sep",
+    "openISO": "2026-08-31",
+    "closeISO": "2026-09-02",
+    "listISO": "2026-09-07",
+    "prevPct": 37.4,
+    "sub": {
+      "qib": 0,
+      "hni": 0,
+      "retail": 0,
+      "total": 2.97,
+      "day": 2
+    },
+    "upd": 0,
+    "new": false,
+    "actualList": null,
+    "issueSize": "₹47.24 Cr",
+    "infoUrl": "https://www.investorgain.com/gmp/shanti-inorganics-ipo/1994/",
+    "hasAnchor": true,
+    "readings": {
+      "investorgain": {
+        "gmp": 10,
+        "pct": 12.1
       }
     }
   },
@@ -308,7 +380,7 @@
       "qib": 0,
       "hni": 0,
       "retail": 0,
-      "total": 1.61,
+      "total": 3.7,
       "day": 2
     },
     "upd": 0,
@@ -319,8 +391,8 @@
     "hasAnchor": true,
     "readings": {
       "investorgain": {
-        "gmp": 45,
-        "pct": 48.9
+        "gmp": 15,
+        "pct": 16.3
       }
     }
   },
@@ -344,7 +416,7 @@
       "qib": 0,
       "hni": 0,
       "retail": 0,
-      "total": 25.77,
+      "total": 46.88,
       "day": 3
     },
     "upd": 0,
@@ -355,80 +427,8 @@
     "hasAnchor": true,
     "readings": {
       "investorgain": {
-        "gmp": 316,
-        "pct": 73.7
-      }
-    }
-  },
-  {
-    "name": "Paluck Technologies",
-    "type": "SME",
-    "status": "OPEN",
-    "band": [
-      48,
-      48
-    ],
-    "lot": 3000,
-    "open": "28 Aug",
-    "close": "1 Sep",
-    "list": "4 Sep",
-    "openISO": "2026-08-28",
-    "closeISO": "2026-09-01",
-    "listISO": "2026-09-04",
-    "prevPct": 62.5,
-    "sub": {
-      "qib": 0,
-      "hni": 0,
-      "retail": 0,
-      "total": 99.42,
-      "day": 3
-    },
-    "upd": 0,
-    "new": false,
-    "actualList": null,
-    "issueSize": "₹33.00 Cr",
-    "infoUrl": "https://www.investorgain.com/gmp/paluck-technologies-ipo/1963/",
-    "hasAnchor": true,
-    "readings": {
-      "investorgain": {
-        "gmp": 30,
-        "pct": 62.5
-      }
-    }
-  },
-  {
-    "name": "Priority Jewels",
-    "type": "MAINBOARD",
-    "status": "OPEN",
-    "band": [
-      200,
-      200
-    ],
-    "lot": 75,
-    "open": "28 Aug",
-    "close": "1 Sep",
-    "list": "4 Sep",
-    "openISO": "2026-08-28",
-    "closeISO": "2026-09-01",
-    "listISO": "2026-09-04",
-    "prevPct": 22.5,
-    "sub": {
-      "qib": 0,
-      "hni": 0,
-      "retail": 0,
-      "total": 29.06,
-      "day": 3
-    },
-    "upd": 0,
-    "new": false,
-    "actualList": null,
-    "issueSize": "₹91.50 Cr",
-    "infoUrl": "https://www.investorgain.com/gmp/priority-jewels-ipo/1783/",
-    "hasAnchor": true,
-    "readings": {
-      "investorgain": {
-        "gmp": 45,
-        "pct": 22.5
+        "gmp": 258,
+        "pct": 60.1
       }
     }
   },
@@ -452,7 +452,7 @@
       "qib": 0,
       "hni": 0,
       "retail": 0,
-      "total": 0.28,
+      "total": 0.56,
       "day": 3
     },
     "upd": 0,
@@ -465,6 +465,78 @@
       "investorgain": {
         "gmp": 0,
         "pct": 0
+      }
+    }
+  },
+  {
+    "name": "Priority Jewels",
+    "type": "MAINBOARD",
+    "status": "OPEN",
+    "band": [
+      200,
+      200
+    ],
+    "lot": 75,
+    "open": "28 Aug",
+    "close": "1 Sep",
+    "list": "4 Sep",
+    "openISO": "2026-08-28",
+    "closeISO": "2026-09-01",
+    "listISO": "2026-09-04",
+    "prevPct": 22.5,
+    "sub": {
+      "qib": 0,
+      "hni": 0,
+      "retail": 0,
+      "total": 57.68,
+      "day": 3
+    },
+    "upd": 0,
+    "new": false,
+    "actualList": null,
+    "issueSize": "₹91.50 Cr",
+    "infoUrl": "https://www.investorgain.com/gmp/priority-jewels-ipo/1783/",
+    "hasAnchor": true,
+    "readings": {
+      "investorgain": {
+        "gmp": 34,
+        "pct": 17
+      }
+    }
+  },
+  {
+    "name": "Paluck Technologies",
+    "type": "SME",
+    "status": "OPEN",
+    "band": [
+      48,
+      48
+    ],
+    "lot": 3000,
+    "open": "28 Aug",
+    "close": "1 Sep",
+    "list": "4 Sep",
+    "openISO": "2026-08-28",
+    "closeISO": "2026-09-01",
+    "listISO": "2026-09-04",
+    "prevPct": 62.5,
+    "sub": {
+      "qib": 0,
+      "hni": 0,
+      "retail": 0,
+      "total": 374.22,
+      "day": 3
+    },
+    "upd": 0,
+    "new": false,
+    "actualList": null,
+    "issueSize": "₹33.00 Cr",
+    "infoUrl": "https://www.investorgain.com/gmp/paluck-technologies-ipo/1963/",
+    "hasAnchor": true,
+    "readings": {
+      "investorgain": {
+        "gmp": 30,
+        "pct": 62.5
       }
     }
   },
@@ -499,8 +571,8 @@
     "hasAnchor": true,
     "readings": {
       "investorgain": {
-        "gmp": 48,
-        "pct": 58.5
+        "gmp": 44,
+        "pct": 53.7
       }
     }
   },
@@ -571,8 +643,8 @@
     "hasAnchor": false,
     "readings": {
       "investorgain": {
-        "gmp": -2,
-        "pct": -2
+        "gmp": -3,
+        "pct": -3
       }
     }
   },
@@ -607,8 +679,8 @@
     "hasAnchor": true,
     "readings": {
       "investorgain": {
-        "gmp": 36,
-        "pct": 35.6
+        "gmp": 32,
+        "pct": 31.7
       }
     }
   },
@@ -687,80 +759,6 @@
     "lastGmpPct": 2
   },
   {
-    "name": "ABH Healthcare",
-    "type": "SME",
-    "status": "LISTED",
-    "band": [
-      102,
-      102
-    ],
-    "lot": 1200,
-    "open": "24 Aug",
-    "close": "27 Aug",
-    "list": "1 Sep",
-    "openISO": "2026-08-24",
-    "closeISO": "2026-08-27",
-    "listISO": "2026-09-01",
-    "prevPct": 0,
-    "sub": {
-      "qib": 0,
-      "hni": 0,
-      "retail": 0,
-      "total": 1.44,
-      "day": 3
-    },
-    "upd": 0,
-    "new": false,
-    "actualList": null,
-    "issueSize": "₹34.98 Cr",
-    "infoUrl": "https://www.investorgain.com/gmp/abh-healthcare-ipo/1824/",
-    "hasAnchor": false,
-    "readings": {
-      "investorgain": {
-        "gmp": 0,
-        "pct": 0
-      }
-    },
-    "lastGmpPct": 0
-  },
-  {
-    "name": "Skyways Air",
-    "type": "MAINBOARD",
-    "status": "LISTED",
-    "band": [
-      138,
-      138
-    ],
-    "lot": 100,
-    "open": "24 Aug",
-    "close": "27 Aug",
-    "list": "1 Sep",
-    "openISO": "2026-08-24",
-    "closeISO": "2026-08-27",
-    "listISO": "2026-09-01",
-    "prevPct": 23.2,
-    "sub": {
-      "qib": 0,
-      "hni": 0,
-      "retail": 0,
-      "total": 71.25,
-      "day": 3
-    },
-    "upd": 0,
-    "new": false,
-    "actualList": null,
-    "issueSize": "₹582.80 Cr",
-    "infoUrl": "https://www.investorgain.com/gmp/skyways-air-ipo/1820/",
-    "hasAnchor": true,
-    "readings": {
-      "investorgain": {
-        "gmp": 32,
-        "pct": 23.2
-      }
-    },
-    "lastGmpPct": 23.2
-  },
-  {
     "name": "Symbiotec Pharmalab",
     "type": "MAINBOARD",
     "status": "LISTED",
@@ -798,6 +796,80 @@
     "lastGmpPct": 18.7
   },
   {
+    "name": "Skyways Air",
+    "type": "MAINBOARD",
+    "status": "LISTED",
+    "band": [
+      138,
+      138
+    ],
+    "lot": 100,
+    "open": "24 Aug",
+    "close": "27 Aug",
+    "list": "1 Sep",
+    "openISO": "2026-08-24",
+    "closeISO": "2026-08-27",
+    "listISO": "2026-09-01",
+    "prevPct": 23.2,
+    "sub": {
+      "qib": 0,
+      "hni": 0,
+      "retail": 0,
+      "total": 71.25,
+      "day": 3
+    },
+    "upd": 0,
+    "new": false,
+    "actualList": null,
+    "issueSize": "₹582.80 Cr",
+    "infoUrl": "https://www.investorgain.com/gmp/skyways-air-ipo/1820/",
+    "hasAnchor": true,
+    "readings": {
+      "investorgain": {
+        "gmp": 33,
+        "pct": 23.9
+      }
+    },
+    "lastGmpPct": 23.9
+  },
+  {
+    "name": "ABH Healthcare",
+    "type": "SME",
+    "status": "LISTED",
+    "band": [
+      102,
+      102
+    ],
+    "lot": 1200,
+    "open": "24 Aug",
+    "close": "27 Aug",
+    "list": "1 Sep",
+    "openISO": "2026-08-24",
+    "closeISO": "2026-08-27",
+    "listISO": "2026-09-01",
+    "prevPct": 0,
+    "sub": {
+      "qib": 0,
+      "hni": 0,
+      "retail": 0,
+      "total": 1.44,
+      "day": 3
+    },
+    "upd": 0,
+    "new": false,
+    "actualList": null,
+    "issueSize": "₹34.98 Cr",
+    "infoUrl": "https://www.investorgain.com/gmp/abh-healthcare-ipo/1824/",
+    "hasAnchor": false,
+    "readings": {
+      "investorgain": {
+        "gmp": 0,
+        "pct": 0
+      }
+    },
+    "lastGmpPct": 0
+  },
+  {
     "name": "Hy-Tech Engineers",
     "type": "MAINBOARD",
     "status": "LISTED",
@@ -828,11 +900,11 @@
     "hasAnchor": true,
     "readings": {
       "investorgain": {
-        "gmp": 35,
-        "pct": 66
+        "gmp": 39,
+        "pct": 73.6
       }
     },
-    "lastGmpPct": 66
+    "lastGmpPct": 73.6
   },
   {
     "name": "Augmont Enterprises",
@@ -909,6 +981,43 @@
     "lastGmpPct": 110
   },
   {
+    "name": "Dhanwel Hybrid Seeds",
+    "type": "SME",
+    "status": "LISTED",
+    "band": [
+      99,
+      99
+    ],
+    "lot": 1200,
+    "open": "19 Aug",
+    "close": "21 Aug",
+    "list": "26 Aug",
+    "openISO": "2026-08-19",
+    "closeISO": "2026-08-21",
+    "listISO": "2026-08-26",
+    "prevPct": 1,
+    "sub": {
+      "qib": 0,
+      "hni": 0,
+      "retail": 0,
+      "total": 1.65,
+      "day": 3
+    },
+    "upd": 0,
+    "new": false,
+    "actualList": null,
+    "issueSize": "₹26.73 Cr",
+    "infoUrl": "https://www.investorgain.com/gmp/dhanwel-hybrid-seeds-ipo/2098/",
+    "hasAnchor": false,
+    "readings": {
+      "investorgain": {
+        "gmp": 1,
+        "pct": 1
+      }
+    },
+    "lastGmpPct": 1
+  },
+  {
     "name": "Gaja Alternative Asset Management",
     "type": "MAINBOARD",
     "status": "LISTED",
@@ -981,116 +1090,5 @@
       }
     },
     "lastGmpPct": 0.7
-  },
-  {
-    "name": "Dhanwel Hybrid Seeds",
-    "type": "SME",
-    "status": "LISTED",
-    "band": [
-      99,
-      99
-    ],
-    "lot": 1200,
-    "open": "19 Aug",
-    "close": "21 Aug",
-    "list": "26 Aug",
-    "openISO": "2026-08-19",
-    "closeISO": "2026-08-21",
-    "listISO": "2026-08-26",
-    "prevPct": 1,
-    "sub": {
-      "qib": 0,
-      "hni": 0,
-      "retail": 0,
-      "total": 1.65,
-      "day": 3
-    },
-    "upd": 0,
-    "new": false,
-    "actualList": null,
-    "issueSize": "₹26.73 Cr",
-    "infoUrl": "https://www.investorgain.com/gmp/dhanwel-hybrid-seeds-ipo/2098/",
-    "hasAnchor": false,
-    "readings": {
-      "investorgain": {
-        "gmp": 1,
-        "pct": 1
-      }
-    },
-    "lastGmpPct": 1
-  },
-  {
-    "name": "Sunshine Pictures",
-    "type": "MAINBOARD",
-    "status": "LISTED",
-    "band": [
-      360,
-      360
-    ],
-    "lot": 41,
-    "open": "18 Aug",
-    "close": "20 Aug",
-    "list": "25 Aug",
-    "openISO": "2026-08-18",
-    "closeISO": "2026-08-20",
-    "listISO": "2026-08-25",
-    "prevPct": 13.9,
-    "sub": {
-      "qib": 0,
-      "hni": 0,
-      "retail": 0,
-      "total": 105.81,
-      "day": 3
-    },
-    "upd": 0,
-    "new": false,
-    "actualList": null,
-    "issueSize": "₹282.14 Cr",
-    "infoUrl": "https://www.investorgain.com/gmp/sunshine-pictures-ipo/1612/",
-    "hasAnchor": true,
-    "readings": {
-      "investorgain": {
-        "gmp": 50,
-        "pct": 13.9
-      }
-    },
-    "lastGmpPct": 13.9
-  },
-  {
-    "name": "Shankesh Jewellers",
-    "type": "MAINBOARD",
-    "status": "LISTED",
-    "band": [
-      93,
-      93
-    ],
-    "lot": 160,
-    "open": "18 Aug",
-    "close": "20 Aug",
-    "list": "25 Aug",
-    "openISO": "2026-08-18",
-    "closeISO": "2026-08-20",
-    "listISO": "2026-08-25",
-    "prevPct": 3,
-    "sub": {
-      "qib": 0,
-      "hni": 0,
-      "retail": 0,
-      "total": 2.8,
-      "day": 3
-    },
-    "upd": 0,
-    "new": false,
-    "actualList": null,
-    "issueSize": "₹367.18 Cr",
-    "infoUrl": "https://www.investorgain.com/gmp/shankesh-jewellers-ipo/1932/",
-    "hasAnchor": true,
-    "readings": {
-      "investorgain": {
-        "gmp": 3,
-        "pct": 3
-      }
-    },
-    "lastGmpPct": 3
   }
 ]
