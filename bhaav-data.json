@@ -165,7 +165,7 @@
       "hni": 0,
       "retail": 0,
       "total": 0.01,
-      "day": 1
+      "day": 2
     },
     "upd": 0,
     "new": false,
@@ -201,7 +201,7 @@
       "hni": 0,
       "retail": 0,
       "total": 0.88,
-      "day": 1
+      "day": 2
     },
     "upd": 0,
     "new": false,
@@ -237,7 +237,7 @@
       "hni": 0,
       "retail": 0,
       "total": 0.01,
-      "day": 1
+      "day": 2
     },
     "upd": 0,
     "new": false,
@@ -273,7 +273,7 @@
       "hni": 0,
       "retail": 0,
       "total": 1.18,
-      "day": 1
+      "day": 2
     },
     "upd": 0,
     "new": false,
@@ -309,7 +309,7 @@
       "hni": 0,
       "retail": 0,
       "total": 5.59,
-      "day": 2
+      "day": 3
     },
     "upd": 0,
     "new": false,
@@ -345,7 +345,7 @@
       "hni": 0,
       "retail": 0,
       "total": 1.97,
-      "day": 2
+      "day": 3
     },
     "upd": 0,
     "new": false,
@@ -381,7 +381,7 @@
       "hni": 0,
       "retail": 0,
       "total": 0.25,
-      "day": 2
+      "day": 3
     },
     "upd": 0,
     "new": false,
@@ -417,7 +417,7 @@
       "hni": 0,
       "retail": 0,
       "total": 3.89,
-      "day": 2
+      "day": 3
     },
     "upd": 0,
     "new": false,
@@ -435,7 +435,7 @@
   {
     "name": "ESDS Software Solution",
     "type": "MAINBOARD",
-    "status": "OPEN",
+    "status": "CLOSED",
     "band": [
       429,
       429
@@ -471,7 +471,7 @@
   {
     "name": "Paluck Technologies",
     "type": "SME",
-    "status": "OPEN",
+    "status": "CLOSED",
     "band": [
       48,
       48
@@ -507,7 +507,7 @@
   {
     "name": "Complete Sports and Management",
     "type": "SME",
-    "status": "OPEN",
+    "status": "CLOSED",
     "band": [
       135,
       135
@@ -543,7 +543,7 @@
   {
     "name": "Priority Jewels",
     "type": "MAINBOARD",
-    "status": "OPEN",
+    "status": "CLOSED",
     "band": [
       200,
       200
@@ -643,15 +643,15 @@
     "hasAnchor": true,
     "readings": {
       "investorgain": {
-        "gmp": 38,
-        "pct": 46.3
+        "gmp": 37,
+        "pct": 45.1
       }
     }
   },
   {
     "name": "Annu Projects",
     "type": "MAINBOARD",
-    "status": "CLOSED",
+    "status": "LISTED",
     "band": [
       99,
       99
@@ -682,12 +682,13 @@
         "gmp": -7,
         "pct": -7.1
       }
-    }
+    },
+    "lastGmpPct": -7.1
   },
   {
     "name": "Sumax Engineering",
     "type": "SME",
-    "status": "CLOSED",
+    "status": "LISTED",
     "band": [
       101,
       101
@@ -718,7 +719,8 @@
         "gmp": 22,
         "pct": 21.8
       }
-    }
+    },
+    "lastGmpPct": 21.8
   },
   {
     "name": "Fascinate Textiles",
