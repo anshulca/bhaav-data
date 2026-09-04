@@ -1,6 +1,6 @@
 [
   {
-    "name": "National Stock Exchange of India",
+    "name": "NSE",
     "type": "MAINBOARD",
     "status": "LISTED",
     "band": [
@@ -14,7 +14,7 @@
     "openISO": null,
     "closeISO": null,
     "listISO": null,
-    "prevPct": 0,
+    "prevPct": null,
     "sub": {
       "qib": 0,
       "hni": 0,
@@ -26,15 +26,15 @@
     "new": true,
     "actualList": null,
     "issueSize": "-",
-    "infoUrl": "https://www.investorgain.com/gmp/national-stock-exchange-of-india-ipo/2305/",
+    "infoUrl": "https://www.investorgain.com/gmp/nse-ipo/2305/",
     "hasAnchor": true,
     "readings": {
       "investorgain": {
         "gmp": 285,
-        "pct": 0
+        "pct": null
       }
     },
-    "lastGmpPct": 0
+    "lastGmpPct": null
   },
   {
     "name": "Veegaland Developers",
@@ -103,8 +103,8 @@
     "hasAnchor": true,
     "readings": {
       "investorgain": {
-        "gmp": 20,
-        "pct": 7.9
+        "gmp": 40,
+        "pct": 15.8
       }
     }
   },
@@ -159,7 +159,7 @@
     "openISO": "2026-09-09",
     "closeISO": "2026-09-11",
     "listISO": "2026-09-17",
-    "prevPct": 13.6,
+    "prevPct": 17.6,
     "sub": {
       "qib": 0,
       "hni": 0,
@@ -175,8 +175,8 @@
     "hasAnchor": true,
     "readings": {
       "investorgain": {
-        "gmp": 71,
-        "pct": 17.6
+        "gmp": 79,
+        "pct": 19.6
       }
     }
   },
@@ -195,7 +195,7 @@
     "openISO": "2026-09-09",
     "closeISO": "2026-09-11",
     "listISO": "2026-09-17",
-    "prevPct": 0,
+    "prevPct": 11.6,
     "sub": {
       "qib": 0,
       "hni": 0,
@@ -231,7 +231,7 @@
     "openISO": "2026-09-09",
     "closeISO": "2026-09-11",
     "listISO": "2026-09-17",
-    "prevPct": 0,
+    "prevPct": 8,
     "sub": {
       "qib": 0,
       "hni": 0,
@@ -247,8 +247,8 @@
     "hasAnchor": true,
     "readings": {
       "investorgain": {
-        "gmp": 27,
-        "pct": 8
+        "gmp": 29,
+        "pct": 8.6
       }
     }
   },
@@ -353,7 +353,12 @@
     "issueSize": "₹414.00 Cr",
     "infoUrl": "https://www.investorgain.com/gmp/steamhouse-india-ipo/1823/",
     "hasAnchor": true,
-    "readings": {}
+    "readings": {
+      "investorgain": {
+        "gmp": 0,
+        "pct": null
+      }
+    }
   },
   {
     "name": "Amtech Esters",
@@ -442,7 +447,7 @@
     "openISO": "2026-09-08",
     "closeISO": "2026-09-10",
     "listISO": "2026-09-16",
-    "prevPct": 25.1,
+    "prevPct": 24.4,
     "sub": {
       "qib": 0,
       "hni": 0,
@@ -478,7 +483,7 @@
     "openISO": "2026-09-08",
     "closeISO": "2026-09-10",
     "listISO": "2026-09-16",
-    "prevPct": 33.5,
+    "prevPct": 35.7,
     "sub": {
       "qib": 0,
       "hni": 0,
@@ -550,7 +555,7 @@
     "openISO": "2026-09-07",
     "closeISO": "2026-09-09",
     "listISO": "2026-09-15",
-    "prevPct": 27.4,
+    "prevPct": 29.8,
     "sub": {
       "qib": 0,
       "hni": 0,
@@ -674,8 +679,8 @@
     "hasAnchor": true,
     "readings": {
       "investorgain": {
-        "gmp": 22,
-        "pct": 12.4
+        "gmp": 19,
+        "pct": 10.7
       }
     }
   },
@@ -694,7 +699,7 @@
     "openISO": "2026-09-01",
     "closeISO": "2026-09-03",
     "listISO": "2026-09-08",
-    "prevPct": 7.1,
+    "prevPct": 4.6,
     "sub": {
       "qib": 0,
       "hni": 0,
@@ -710,8 +715,8 @@
     "hasAnchor": true,
     "readings": {
       "investorgain": {
-        "gmp": 11,
-        "pct": 4.6
+        "gmp": 12,
+        "pct": 5
       }
     }
   },
@@ -746,8 +751,8 @@
     "hasAnchor": false,
     "readings": {
       "investorgain": {
-        "gmp": 5,
-        "pct": 8.5
+        "gmp": 20,
+        "pct": 33.9
       }
     }
   },
@@ -802,7 +807,7 @@
     "openISO": "2026-08-31",
     "closeISO": "2026-09-02",
     "listISO": "2026-09-07",
-    "prevPct": 45.6,
+    "prevPct": 47.8,
     "sub": {
       "qib": 0,
       "hni": 0,
@@ -890,8 +895,8 @@
     "hasAnchor": true,
     "readings": {
       "investorgain": {
-        "gmp": 41,
-        "pct": 49.4
+        "gmp": 43,
+        "pct": 51.8
       }
     }
   },
