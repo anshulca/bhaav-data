@@ -14,7 +14,7 @@
     "openISO": "2026-09-10",
     "closeISO": "2026-09-15",
     "listISO": "2026-09-18",
-    "prevPct": 12.9,
+    "prevPct": 15.7,
     "sub": {
       "qib": 0,
       "hni": 0,
@@ -194,7 +194,7 @@
     "openISO": "2026-09-09",
     "closeISO": "2026-09-11",
     "listISO": "2026-09-17",
-    "prevPct": 8.2,
+    "prevPct": 13.6,
     "sub": {
       "qib": 0,
       "hni": 0,
@@ -359,7 +359,7 @@
     "openISO": "2026-09-08",
     "closeISO": "2026-09-10",
     "listISO": "2026-09-16",
-    "prevPct": 12.1,
+    "prevPct": 24.7,
     "sub": {
       "qib": 0,
       "hni": 0,
@@ -395,7 +395,7 @@
     "openISO": "2026-09-08",
     "closeISO": "2026-09-10",
     "listISO": "2026-09-16",
-    "prevPct": 2.1,
+    "prevPct": 14.8,
     "sub": {
       "qib": 0,
       "hni": 0,
@@ -467,7 +467,7 @@
     "openISO": "2026-09-07",
     "closeISO": "2026-09-09",
     "listISO": "2026-09-15",
-    "prevPct": 25,
+    "prevPct": 26.6,
     "sub": {
       "qib": 0,
       "hni": 0,
@@ -611,7 +611,7 @@
     "openISO": "2026-09-01",
     "closeISO": "2026-09-03",
     "listISO": "2026-09-08",
-    "prevPct": 11.9,
+    "prevPct": 12.4,
     "sub": {
       "qib": 0,
       "hni": 0,
@@ -683,7 +683,7 @@
     "openISO": "2026-09-01",
     "closeISO": "2026-09-03",
     "listISO": "2026-09-08",
-    "prevPct": 5,
+    "prevPct": 7.1,
     "sub": {
       "qib": 0,
       "hni": 0,
@@ -719,7 +719,7 @@
     "openISO": "2026-08-31",
     "closeISO": "2026-09-02",
     "listISO": "2026-09-07",
-    "prevPct": 41,
+    "prevPct": 45.8,
     "sub": {
       "qib": 0,
       "hni": 0,
@@ -1085,7 +1085,7 @@
     "openISO": "2026-08-27",
     "closeISO": "2026-08-31",
     "listISO": "2026-09-03",
-    "prevPct": 86.67,
+    "prevPct": 86.7,
     "sub": {
       "qib": 0,
       "hni": 0,
@@ -1094,7 +1094,7 @@
       "day": 3
     },
     "upd": 0,
-    "new": true,
+    "new": false,
     "actualList": null,
     "issueSize": "₹50.77 Cr",
     "infoUrl": "https://www.investorgain.com/gmp/kwick-forensic-solutions-ipo/2013/",
@@ -1122,7 +1122,7 @@
     "openISO": "2026-08-25",
     "closeISO": "2026-08-28",
     "listISO": "2026-09-02",
-    "prevPct": -7.07,
+    "prevPct": -7.1,
     "sub": {
       "qib": 0,
       "hni": 0,
@@ -1131,7 +1131,7 @@
       "day": 3
     },
     "upd": 0,
-    "new": true,
+    "new": false,
     "actualList": null,
     "issueSize": "₹175.06 Cr",
     "infoUrl": "https://www.investorgain.com/gmp/annu-projects-ipo/1815/",
@@ -1159,7 +1159,7 @@
     "openISO": "2026-08-25",
     "closeISO": "2026-08-28",
     "listISO": "2026-09-02",
-    "prevPct": 21.78,
+    "prevPct": 21.8,
     "sub": {
       "qib": 0,
       "hni": 0,
@@ -1168,7 +1168,7 @@
       "day": 3
     },
     "upd": 0,
-    "new": true,
+    "new": false,
     "actualList": null,
     "issueSize": "₹53.40 Cr",
     "infoUrl": "https://www.investorgain.com/gmp/sumax-engineering-ipo/2238/",
@@ -1196,7 +1196,7 @@
     "openISO": "2026-08-24",
     "closeISO": "2026-08-27",
     "listISO": "2026-09-01",
-    "prevPct": 73.58,
+    "prevPct": 73.6,
     "sub": {
       "qib": 0,
       "hni": 0,
@@ -1205,7 +1205,7 @@
       "day": 3
     },
     "upd": 0,
-    "new": true,
+    "new": false,
     "actualList": null,
     "issueSize": "₹135.73 Cr",
     "infoUrl": "https://www.investorgain.com/gmp/hy-tech-engineers-ipo/1876/",
@@ -1242,7 +1242,7 @@
       "day": 3
     },
     "upd": 0,
-    "new": true,
+    "new": false,
     "actualList": null,
     "issueSize": "₹53.27 Cr",
     "infoUrl": "https://www.investorgain.com/gmp/madhur-knit-ipo/2037/",
@@ -1279,7 +1279,7 @@
       "day": 3
     },
     "upd": 0,
-    "new": true,
+    "new": false,
     "actualList": null,
     "issueSize": "₹34.98 Cr",
     "infoUrl": "https://www.investorgain.com/gmp/abh-healthcare-ipo/1824/",
@@ -1307,7 +1307,7 @@
     "openISO": "2026-08-24",
     "closeISO": "2026-08-27",
     "listISO": "2026-09-01",
-    "prevPct": 18.72,
+    "prevPct": 18.7,
     "sub": {
       "qib": 0,
       "hni": 0,
@@ -1316,7 +1316,7 @@
       "day": 3
     },
     "upd": 0,
-    "new": true,
+    "new": false,
     "actualList": null,
     "issueSize": "₹1757.00 Cr",
     "infoUrl": "https://www.investorgain.com/gmp/symbiotec-pharmalab-ipo/2069/",
@@ -1344,7 +1344,7 @@
     "openISO": "2026-08-24",
     "closeISO": "2026-08-27",
     "listISO": "2026-09-01",
-    "prevPct": 23.91,
+    "prevPct": 23.9,
     "sub": {
       "qib": 0,
       "hni": 0,
@@ -1353,7 +1353,7 @@
       "day": 3
     },
     "upd": 0,
-    "new": true,
+    "new": false,
     "actualList": null,
     "issueSize": "₹582.80 Cr",
     "infoUrl": "https://www.investorgain.com/gmp/skyways-air-ipo/1820/",
@@ -1390,7 +1390,7 @@
       "day": 3
     },
     "upd": 0,
-    "new": true,
+    "new": false,
     "actualList": null,
     "issueSize": "₹825.00 Cr",
     "infoUrl": "https://www.investorgain.com/gmp/augmont-enterprises-ipo/1938/",
@@ -1427,7 +1427,7 @@
       "day": 3
     },
     "upd": 0,
-    "new": true,
+    "new": false,
     "actualList": null,
     "issueSize": "₹650.00 Cr",
     "infoUrl": "https://www.investorgain.com/gmp/tempsens-instruments-india-ipo/1934/",
