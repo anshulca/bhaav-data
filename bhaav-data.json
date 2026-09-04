@@ -290,7 +290,7 @@
   {
     "name": "Qualiance International",
     "type": "SME",
-    "status": "UPCOMING",
+    "status": "OPEN",
     "band": [
       127,
       127
@@ -308,7 +308,7 @@
       "hni": 0,
       "retail": 0,
       "total": 0,
-      "day": 0
+      "day": 1
     },
     "upd": 0,
     "new": false,
@@ -326,7 +326,7 @@
   {
     "name": "Deepa Jewellers",
     "type": "MAINBOARD",
-    "status": "OPEN",
+    "status": "CLOSED",
     "band": [
       177,
       177
@@ -362,7 +362,7 @@
   {
     "name": "Farm Peace",
     "type": "SME",
-    "status": "OPEN",
+    "status": "CLOSED",
     "band": [
       59,
       59
@@ -398,7 +398,7 @@
   {
     "name": "Fly-Hi Maritime",
     "type": "SME",
-    "status": "OPEN",
+    "status": "CLOSED",
     "band": [
       102,
       102
@@ -434,7 +434,7 @@
   {
     "name": "Rays of Belief",
     "type": "MAINBOARD",
-    "status": "OPEN",
+    "status": "CLOSED",
     "band": [
       239,
       239
@@ -614,7 +614,7 @@
   {
     "name": "Priority Jewels",
     "type": "MAINBOARD",
-    "status": "CLOSED",
+    "status": "LISTED",
     "band": [
       200,
       200
@@ -645,12 +645,13 @@
         "gmp": 28,
         "pct": 14
       }
-    }
+    },
+    "lastGmpPct": 14
   },
   {
     "name": "Paluck Technologies",
     "type": "SME",
-    "status": "CLOSED",
+    "status": "LISTED",
     "band": [
       48,
       48
@@ -681,12 +682,13 @@
         "gmp": 9,
         "pct": 18.8
       }
-    }
+    },
+    "lastGmpPct": 18.8
   },
   {
     "name": "Complete Sports and Management",
     "type": "SME",
-    "status": "CLOSED",
+    "status": "LISTED",
     "band": [
       135,
       135
@@ -717,12 +719,13 @@
         "gmp": 0,
         "pct": 0
       }
-    }
+    },
+    "lastGmpPct": 0
   },
   {
     "name": "ESDS Software Solution",
     "type": "MAINBOARD",
-    "status": "CLOSED",
+    "status": "LISTED",
     "band": [
       429,
       429
@@ -753,7 +756,8 @@
         "gmp": 247,
         "pct": 57.6
       }
-    }
+    },
+    "lastGmpPct": 57.6
   },
   {
     "name": "Fascinate Textiles",
