@@ -174,8 +174,8 @@
     "hasAnchor": true,
     "readings": {
       "investorgain": {
-        "gmp": 0,
-        "pct": 0
+        "gmp": 5,
+        "pct": 6.7
       }
     }
   },
@@ -230,7 +230,7 @@
     "openISO": "2026-09-09",
     "closeISO": "2026-09-11",
     "listISO": "2026-09-17",
-    "prevPct": null,
+    "prevPct": 0,
     "sub": {
       "qib": 0,
       "hni": 0,
@@ -244,7 +244,12 @@
     "issueSize": "₹42.83 Cr",
     "infoUrl": "https://www.investorgain.com/gmp/vinod-texworld-ipo/1977/",
     "hasAnchor": false,
-    "readings": {}
+    "readings": {
+      "investorgain": {
+        "gmp": 0,
+        "pct": 0
+      }
+    }
   },
   {
     "name": "Infrax Renewable",
@@ -375,8 +380,8 @@
     "hasAnchor": true,
     "readings": {
       "investorgain": {
-        "gmp": 45,
-        "pct": 24.7
+        "gmp": 61,
+        "pct": 33.5
       }
     }
   },
@@ -411,8 +416,8 @@
     "hasAnchor": true,
     "readings": {
       "investorgain": {
-        "gmp": 100,
-        "pct": 14.8
+        "gmp": 170,
+        "pct": 25.1
       }
     }
   },
@@ -483,8 +488,8 @@
     "hasAnchor": true,
     "readings": {
       "investorgain": {
-        "gmp": 33,
-        "pct": 26.6
+        "gmp": 34,
+        "pct": 27.4
       }
     }
   },
@@ -544,7 +549,7 @@
       "qib": 0,
       "hni": 0,
       "retail": 0,
-      "total": 8.09,
+      "total": 13.23,
       "day": 1
     },
     "upd": 0,
@@ -735,8 +740,8 @@
     "hasAnchor": true,
     "readings": {
       "investorgain": {
-        "gmp": 38,
-        "pct": 45.8
+        "gmp": 41,
+        "pct": 49.4
       }
     }
   },
@@ -771,8 +776,8 @@
     "hasAnchor": true,
     "readings": {
       "investorgain": {
-        "gmp": 38,
-        "pct": 41.3
+        "gmp": 42,
+        "pct": 45.6
       }
     }
   },
