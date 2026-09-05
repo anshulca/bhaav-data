@@ -30,7 +30,7 @@
     "hasAnchor": true,
     "readings": {
       "investorgain": {
-        "gmp": 307,
+        "gmp": 327,
         "pct": null
       }
     },
@@ -103,8 +103,8 @@
     "hasAnchor": true,
     "readings": {
       "investorgain": {
-        "gmp": 40,
-        "pct": 15.8
+        "gmp": 41,
+        "pct": 16.1
       }
     }
   },
@@ -175,8 +175,8 @@
     "hasAnchor": true,
     "readings": {
       "investorgain": {
-        "gmp": 170,
-        "pct": 42.1
+        "gmp": 140,
+        "pct": 34.6
       }
     }
   },
@@ -427,8 +427,8 @@
     "hasAnchor": true,
     "readings": {
       "investorgain": {
-        "gmp": 205,
-        "pct": 32.4
+        "gmp": 185,
+        "pct": 29.3
       }
     }
   },
@@ -679,8 +679,8 @@
     "hasAnchor": true,
     "readings": {
       "investorgain": {
-        "gmp": 19,
-        "pct": 10.7
+        "gmp": 20,
+        "pct": 11
       }
     }
   },
@@ -715,8 +715,8 @@
     "hasAnchor": true,
     "readings": {
       "investorgain": {
-        "gmp": 9,
-        "pct": 3.8
+        "gmp": 7,
+        "pct": 2.9
       }
     }
   },
@@ -751,8 +751,8 @@
     "hasAnchor": false,
     "readings": {
       "investorgain": {
-        "gmp": 40,
-        "pct": 67.8
+        "gmp": 48,
+        "pct": 81.4
       }
     }
   },
@@ -787,8 +787,8 @@
     "hasAnchor": true,
     "readings": {
       "investorgain": {
-        "gmp": 0,
-        "pct": 0
+        "gmp": -5,
+        "pct": -0.9
       }
     }
   },
@@ -957,7 +957,7 @@
       "qib": 0,
       "hni": 0,
       "retail": 0,
-      "total": 789.16,
+      "total": 271.68,
       "day": 3
     },
     "upd": 0,
