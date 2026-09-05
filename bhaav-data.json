@@ -175,8 +175,8 @@
     "hasAnchor": true,
     "readings": {
       "investorgain": {
-        "gmp": 79,
-        "pct": 19.6
+        "gmp": 99,
+        "pct": 24.5
       }
     }
   },
@@ -314,7 +314,7 @@
     "upd": 0,
     "new": false,
     "actualList": null,
-    "issueSize": "₹40.88 Cr",
+    "issueSize": "₹47.96 Cr",
     "infoUrl": "https://www.investorgain.com/gmp/infrax-renewable-ipo/2318/",
     "hasAnchor": false,
     "readings": {
@@ -499,8 +499,8 @@
     "hasAnchor": true,
     "readings": {
       "investorgain": {
-        "gmp": 65,
-        "pct": 35.7
+        "gmp": 67,
+        "pct": 36.8
       }
     }
   },
@@ -597,7 +597,7 @@
       "hni": 0,
       "retail": 0,
       "total": 13.78,
-      "day": 1
+      "day": 2
     },
     "upd": 0,
     "new": false,
@@ -751,8 +751,8 @@
     "hasAnchor": false,
     "readings": {
       "investorgain": {
-        "gmp": 20,
-        "pct": 33.9
+        "gmp": 45,
+        "pct": 76.3
       }
     }
   },
@@ -787,8 +787,8 @@
     "hasAnchor": true,
     "readings": {
       "investorgain": {
-        "gmp": 2,
-        "pct": 0.3
+        "gmp": 0,
+        "pct": 0
       }
     }
   },
