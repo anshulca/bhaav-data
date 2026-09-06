@@ -30,7 +30,7 @@
     "hasAnchor": true,
     "readings": {
       "investorgain": {
-        "gmp": 290,
+        "gmp": 265,
         "pct": null
       }
     },
@@ -175,8 +175,8 @@
     "hasAnchor": true,
     "readings": {
       "investorgain": {
-        "gmp": 25,
-        "pct": 7.4
+        "gmp": 30,
+        "pct": 8.8
       }
     }
   },
@@ -339,7 +339,7 @@
     "openISO": "2026-09-09",
     "closeISO": "2026-09-11",
     "listISO": "2026-09-17",
-    "prevPct": 35.9,
+    "prevPct": 33.9,
     "sub": {
       "qib": 0,
       "hni": 0,
@@ -355,8 +355,8 @@
     "hasAnchor": true,
     "readings": {
       "investorgain": {
-        "gmp": 137,
-        "pct": 33.9
+        "gmp": 149,
+        "pct": 36.9
       }
     }
   },
@@ -447,7 +447,7 @@
     "openISO": "2026-09-08",
     "closeISO": "2026-09-10",
     "listISO": "2026-09-16",
-    "prevPct": 18.5,
+    "prevPct": 17,
     "sub": {
       "qib": 0,
       "hni": 0,
@@ -519,7 +519,7 @@
     "openISO": "2026-09-08",
     "closeISO": "2026-09-10",
     "listISO": "2026-09-16",
-    "prevPct": 22.5,
+    "prevPct": 17.6,
     "sub": {
       "qib": 0,
       "hni": 0,
@@ -555,7 +555,7 @@
     "openISO": "2026-09-07",
     "closeISO": "2026-09-09",
     "listISO": "2026-09-15",
-    "prevPct": 28.2,
+    "prevPct": 34.7,
     "sub": {
       "qib": 0,
       "hni": 0,
@@ -571,8 +571,8 @@
     "hasAnchor": true,
     "readings": {
       "investorgain": {
-        "gmp": 43,
-        "pct": 34.7
+        "gmp": 44,
+        "pct": 35.5
       }
     }
   },
@@ -699,7 +699,7 @@
     "openISO": "2026-09-01",
     "closeISO": "2026-09-03",
     "listISO": "2026-09-08",
-    "prevPct": 10.7,
+    "prevPct": 11.6,
     "sub": {
       "qib": 0,
       "hni": 0,
@@ -715,8 +715,8 @@
     "hasAnchor": true,
     "readings": {
       "investorgain": {
-        "gmp": 21,
-        "pct": 11.6
+        "gmp": 22,
+        "pct": 12.2
       }
     }
   },
@@ -735,7 +735,7 @@
     "openISO": "2026-09-01",
     "closeISO": "2026-09-03",
     "listISO": "2026-09-08",
-    "prevPct": 5.9,
+    "prevPct": 6.3,
     "sub": {
       "qib": 0,
       "hni": 0,
@@ -751,8 +751,8 @@
     "hasAnchor": true,
     "readings": {
       "investorgain": {
-        "gmp": 15,
-        "pct": 6.3
+        "gmp": 20,
+        "pct": 8.4
       }
     }
   },
@@ -823,8 +823,8 @@
     "hasAnchor": true,
     "readings": {
       "investorgain": {
-        "gmp": 45,
-        "pct": 54.2
+        "gmp": 54,
+        "pct": 65.1
       }
     }
   },
@@ -931,8 +931,8 @@
     "hasAnchor": true,
     "readings": {
       "investorgain": {
-        "gmp": 53,
-        "pct": 57.1
+        "gmp": 56,
+        "pct": 60.9
       }
     }
   },
