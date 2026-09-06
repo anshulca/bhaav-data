@@ -30,11 +30,47 @@
     "hasAnchor": true,
     "readings": {
       "investorgain": {
-        "gmp": 310,
+        "gmp": 286,
         "pct": null
       }
     },
     "lastGmpPct": null
+  },
+  {
+    "name": "Manika Plastech",
+    "type": "MAINBOARD",
+    "status": "UPCOMING",
+    "band": [
+      0,
+      0
+    ],
+    "lot": 0,
+    "open": "11 Sep",
+    "close": "16 Sep",
+    "list": "21 Sep",
+    "openISO": "2026-09-11",
+    "closeISO": "2026-09-16",
+    "listISO": "2026-09-21",
+    "prevPct": null,
+    "sub": {
+      "qib": 0,
+      "hni": 0,
+      "retail": 0,
+      "total": 0,
+      "day": 0
+    },
+    "upd": 0,
+    "new": true,
+    "actualList": null,
+    "issueSize": null,
+    "infoUrl": "https://www.investorgain.com/gmp/manika-plastech-ipo/1806/",
+    "hasAnchor": true,
+    "readings": {
+      "investorgain": {
+        "gmp": 0,
+        "pct": null
+      }
+    }
   },
   {
     "name": "Veegaland Developers",
@@ -67,260 +103,8 @@
     "hasAnchor": true,
     "readings": {
       "investorgain": {
-        "gmp": 22,
-        "pct": 15.7
-      }
-    }
-  },
-  {
-    "name": "Karamtara Engineering",
-    "type": "MAINBOARD",
-    "status": "UPCOMING",
-    "band": [
-      254,
-      254
-    ],
-    "lot": 59,
-    "open": "9 Sep",
-    "close": "11 Sep",
-    "list": "17 Sep",
-    "openISO": "2026-09-09",
-    "closeISO": "2026-09-11",
-    "listISO": "2026-09-17",
-    "prevPct": 21.6,
-    "sub": {
-      "qib": 0,
-      "hni": 0,
-      "retail": 0,
-      "total": 0,
-      "day": 0
-    },
-    "upd": 0,
-    "new": false,
-    "actualList": null,
-    "issueSize": "₹875.00 Cr",
-    "infoUrl": "https://www.investorgain.com/gmp/karamtara-engineering-ipo/1622/",
-    "hasAnchor": true,
-    "readings": {
-      "investorgain": {
-        "gmp": 50,
-        "pct": 19.7
-      }
-    }
-  },
-  {
-    "name": "Asset Reconstruction",
-    "type": "MAINBOARD",
-    "status": "UPCOMING",
-    "band": [
-      139,
-      139
-    ],
-    "lot": 107,
-    "open": "9 Sep",
-    "close": "11 Sep",
-    "list": "17 Sep",
-    "openISO": "2026-09-09",
-    "closeISO": "2026-09-11",
-    "listISO": "2026-09-17",
-    "prevPct": 0,
-    "sub": {
-      "qib": 0,
-      "hni": 0,
-      "retail": 0,
-      "total": 0,
-      "day": 0
-    },
-    "upd": 0,
-    "new": false,
-    "actualList": null,
-    "issueSize": "₹732.97 Cr",
-    "infoUrl": "https://www.investorgain.com/gmp/asset-reconstruction-ipo/1848/",
-    "hasAnchor": true,
-    "readings": {
-      "investorgain": {
-        "gmp": 0,
-        "pct": 0
-      }
-    }
-  },
-  {
-    "name": "Rentomojo",
-    "type": "MAINBOARD",
-    "status": "UPCOMING",
-    "band": [
-      404,
-      404
-    ],
-    "lot": 37,
-    "open": "9 Sep",
-    "close": "11 Sep",
-    "list": "17 Sep",
-    "openISO": "2026-09-09",
-    "closeISO": "2026-09-11",
-    "listISO": "2026-09-17",
-    "prevPct": 38.4,
-    "sub": {
-      "qib": 0,
-      "hni": 0,
-      "retail": 0,
-      "total": 0,
-      "day": 0
-    },
-    "upd": 0,
-    "new": false,
-    "actualList": null,
-    "issueSize": "₹1255.57 Cr",
-    "infoUrl": "https://www.investorgain.com/gmp/rentomojo-ipo/2231/",
-    "hasAnchor": true,
-    "readings": {
-      "investorgain": {
-        "gmp": 155,
-        "pct": 38.4
-      }
-    }
-  },
-  {
-    "name": "LCC Projects",
-    "type": "MAINBOARD",
-    "status": "UPCOMING",
-    "band": [
-      146,
-      146
-    ],
-    "lot": 102,
-    "open": "9 Sep",
-    "close": "11 Sep",
-    "list": "17 Sep",
-    "openISO": "2026-09-09",
-    "closeISO": "2026-09-11",
-    "listISO": "2026-09-17",
-    "prevPct": 17.1,
-    "sub": {
-      "qib": 0,
-      "hni": 0,
-      "retail": 0,
-      "total": 0,
-      "day": 0
-    },
-    "upd": 0,
-    "new": false,
-    "actualList": null,
-    "issueSize": "₹427.14 Cr",
-    "infoUrl": "https://www.investorgain.com/gmp/lcc-projects-ipo/1648/",
-    "hasAnchor": true,
-    "readings": {
-      "investorgain": {
-        "gmp": 25,
-        "pct": 17.1
-      }
-    }
-  },
-  {
-    "name": "Manipal Payment and Identity Solutions",
-    "type": "MAINBOARD",
-    "status": "UPCOMING",
-    "band": [
-      339,
-      339
-    ],
-    "lot": 44,
-    "open": "9 Sep",
-    "close": "11 Sep",
-    "list": "17 Sep",
-    "openISO": "2026-09-09",
-    "closeISO": "2026-09-11",
-    "listISO": "2026-09-17",
-    "prevPct": 8.8,
-    "sub": {
-      "qib": 0,
-      "hni": 0,
-      "retail": 0,
-      "total": 0,
-      "day": 0
-    },
-    "upd": 0,
-    "new": false,
-    "actualList": null,
-    "issueSize": "₹805.00 Cr",
-    "infoUrl": "https://www.investorgain.com/gmp/manipal-payment-and-identity-solutions-ipo/1827/",
-    "hasAnchor": true,
-    "readings": {
-      "investorgain": {
         "gmp": 30,
-        "pct": 8.8
-      }
-    }
-  },
-  {
-    "name": "Vinod Texworld",
-    "type": "SME",
-    "status": "UPCOMING",
-    "band": [
-      94,
-      94
-    ],
-    "lot": 1200,
-    "open": "9 Sep",
-    "close": "11 Sep",
-    "list": "17 Sep",
-    "openISO": "2026-09-09",
-    "closeISO": "2026-09-11",
-    "listISO": "2026-09-17",
-    "prevPct": 4.3,
-    "sub": {
-      "qib": 0,
-      "hni": 0,
-      "retail": 0,
-      "total": 0,
-      "day": 0
-    },
-    "upd": 0,
-    "new": false,
-    "actualList": null,
-    "issueSize": "₹42.83 Cr",
-    "infoUrl": "https://www.investorgain.com/gmp/vinod-texworld-ipo/1977/",
-    "hasAnchor": false,
-    "readings": {
-      "investorgain": {
-        "gmp": 4,
-        "pct": 4.3
-      }
-    }
-  },
-  {
-    "name": "Infrax Renewable",
-    "type": "SME",
-    "status": "UPCOMING",
-    "band": [
-      104,
-      104
-    ],
-    "lot": 1200,
-    "open": "9 Sep",
-    "close": "11 Sep",
-    "list": "17 Sep",
-    "openISO": "2026-09-09",
-    "closeISO": "2026-09-11",
-    "listISO": "2026-09-17",
-    "prevPct": 0,
-    "sub": {
-      "qib": 0,
-      "hni": 0,
-      "retail": 0,
-      "total": 0,
-      "day": 0
-    },
-    "upd": 0,
-    "new": false,
-    "actualList": null,
-    "issueSize": "₹40.88 Cr",
-    "infoUrl": "https://www.investorgain.com/gmp/infrax-renewable-ipo/2318/",
-    "hasAnchor": false,
-    "readings": {
-      "investorgain": {
-        "gmp": 0,
-        "pct": 0
+        "pct": 21.4
       }
     }
   },
@@ -361,6 +145,150 @@
     }
   },
   {
+    "name": "Manipal Payment and Identity Solutions",
+    "type": "MAINBOARD",
+    "status": "UPCOMING",
+    "band": [
+      339,
+      339
+    ],
+    "lot": 44,
+    "open": "9 Sep",
+    "close": "11 Sep",
+    "list": "17 Sep",
+    "openISO": "2026-09-09",
+    "closeISO": "2026-09-11",
+    "listISO": "2026-09-17",
+    "prevPct": 8.8,
+    "sub": {
+      "qib": 0,
+      "hni": 0,
+      "retail": 0,
+      "total": 0,
+      "day": 0
+    },
+    "upd": 0,
+    "new": false,
+    "actualList": null,
+    "issueSize": "₹805.00 Cr",
+    "infoUrl": "https://www.investorgain.com/gmp/manipal-payment-and-identity-solutions-ipo/1827/",
+    "hasAnchor": true,
+    "readings": {
+      "investorgain": {
+        "gmp": 25,
+        "pct": 7.4
+      }
+    }
+  },
+  {
+    "name": "Infrax Renewable",
+    "type": "SME",
+    "status": "UPCOMING",
+    "band": [
+      104,
+      104
+    ],
+    "lot": 1200,
+    "open": "9 Sep",
+    "close": "11 Sep",
+    "list": "17 Sep",
+    "openISO": "2026-09-09",
+    "closeISO": "2026-09-11",
+    "listISO": "2026-09-17",
+    "prevPct": 0,
+    "sub": {
+      "qib": 0,
+      "hni": 0,
+      "retail": 0,
+      "total": 0,
+      "day": 0
+    },
+    "upd": 0,
+    "new": false,
+    "actualList": null,
+    "issueSize": "₹40.88 Cr",
+    "infoUrl": "https://www.investorgain.com/gmp/infrax-renewable-ipo/2318/",
+    "hasAnchor": false,
+    "readings": {
+      "investorgain": {
+        "gmp": 0,
+        "pct": 0
+      }
+    }
+  },
+  {
+    "name": "Vinod Texworld",
+    "type": "SME",
+    "status": "UPCOMING",
+    "band": [
+      94,
+      94
+    ],
+    "lot": 1200,
+    "open": "9 Sep",
+    "close": "11 Sep",
+    "list": "17 Sep",
+    "openISO": "2026-09-09",
+    "closeISO": "2026-09-11",
+    "listISO": "2026-09-17",
+    "prevPct": 4.3,
+    "sub": {
+      "qib": 0,
+      "hni": 0,
+      "retail": 0,
+      "total": 0,
+      "day": 0
+    },
+    "upd": 0,
+    "new": false,
+    "actualList": null,
+    "issueSize": "₹42.83 Cr",
+    "infoUrl": "https://www.investorgain.com/gmp/vinod-texworld-ipo/1977/",
+    "hasAnchor": false,
+    "readings": {
+      "investorgain": {
+        "gmp": 4,
+        "pct": 4.3
+      }
+    }
+  },
+  {
+    "name": "Asset Reconstruction",
+    "type": "MAINBOARD",
+    "status": "UPCOMING",
+    "band": [
+      139,
+      139
+    ],
+    "lot": 107,
+    "open": "9 Sep",
+    "close": "11 Sep",
+    "list": "17 Sep",
+    "openISO": "2026-09-09",
+    "closeISO": "2026-09-11",
+    "listISO": "2026-09-17",
+    "prevPct": 0,
+    "sub": {
+      "qib": 0,
+      "hni": 0,
+      "retail": 0,
+      "total": 0,
+      "day": 0
+    },
+    "upd": 0,
+    "new": false,
+    "actualList": null,
+    "issueSize": "₹732.97 Cr",
+    "infoUrl": "https://www.investorgain.com/gmp/asset-reconstruction-ipo/1848/",
+    "hasAnchor": true,
+    "readings": {
+      "investorgain": {
+        "gmp": 0,
+        "pct": 0
+      }
+    }
+  },
+  {
     "name": "Amtech Esters",
     "type": "SME",
     "status": "UPCOMING",
@@ -397,21 +325,21 @@
     }
   },
   {
-    "name": "Kanohar Electricals",
+    "name": "Rentomojo",
     "type": "MAINBOARD",
     "status": "UPCOMING",
     "band": [
-      632,
-      632
+      404,
+      404
     ],
-    "lot": 23,
-    "open": "8 Sep",
-    "close": "10 Sep",
-    "list": "16 Sep",
-    "openISO": "2026-09-08",
-    "closeISO": "2026-09-10",
-    "listISO": "2026-09-16",
-    "prevPct": 30.1,
+    "lot": 37,
+    "open": "9 Sep",
+    "close": "11 Sep",
+    "list": "17 Sep",
+    "openISO": "2026-09-09",
+    "closeISO": "2026-09-11",
+    "listISO": "2026-09-17",
+    "prevPct": 38.4,
     "sub": {
       "qib": 0,
       "hni": 0,
@@ -422,13 +350,85 @@
     "upd": 0,
     "new": false,
     "actualList": null,
-    "issueSize": "₹1055.74 Cr",
-    "infoUrl": "https://www.investorgain.com/gmp/kanohar-electricals-ipo/2119/",
+    "issueSize": "₹1255.57 Cr",
+    "infoUrl": "https://www.investorgain.com/gmp/rentomojo-ipo/2231/",
     "hasAnchor": true,
     "readings": {
       "investorgain": {
-        "gmp": 190,
-        "pct": 30.1
+        "gmp": 145,
+        "pct": 35.9
+      }
+    }
+  },
+  {
+    "name": "LCC Projects",
+    "type": "MAINBOARD",
+    "status": "UPCOMING",
+    "band": [
+      146,
+      146
+    ],
+    "lot": 102,
+    "open": "9 Sep",
+    "close": "11 Sep",
+    "list": "17 Sep",
+    "openISO": "2026-09-09",
+    "closeISO": "2026-09-11",
+    "listISO": "2026-09-17",
+    "prevPct": 17.1,
+    "sub": {
+      "qib": 0,
+      "hni": 0,
+      "retail": 0,
+      "total": 0,
+      "day": 0
+    },
+    "upd": 0,
+    "new": false,
+    "actualList": null,
+    "issueSize": "₹427.14 Cr",
+    "infoUrl": "https://www.investorgain.com/gmp/lcc-projects-ipo/1648/",
+    "hasAnchor": true,
+    "readings": {
+      "investorgain": {
+        "gmp": 25,
+        "pct": 17.1
+      }
+    }
+  },
+  {
+    "name": "Karamtara Engineering",
+    "type": "MAINBOARD",
+    "status": "UPCOMING",
+    "band": [
+      254,
+      254
+    ],
+    "lot": 59,
+    "open": "9 Sep",
+    "close": "11 Sep",
+    "list": "17 Sep",
+    "openISO": "2026-09-09",
+    "closeISO": "2026-09-11",
+    "listISO": "2026-09-17",
+    "prevPct": 19.7,
+    "sub": {
+      "qib": 0,
+      "hni": 0,
+      "retail": 0,
+      "total": 0,
+      "day": 0
+    },
+    "upd": 0,
+    "new": false,
+    "actualList": null,
+    "issueSize": "₹875.00 Cr",
+    "infoUrl": "https://www.investorgain.com/gmp/karamtara-engineering-ipo/1622/",
+    "hasAnchor": true,
+    "readings": {
+      "investorgain": {
+        "gmp": 55,
+        "pct": 21.6
       }
     }
   },
@@ -469,6 +469,42 @@
     }
   },
   {
+    "name": "Kanohar Electricals",
+    "type": "MAINBOARD",
+    "status": "UPCOMING",
+    "band": [
+      632,
+      632
+    ],
+    "lot": 23,
+    "open": "8 Sep",
+    "close": "10 Sep",
+    "list": "16 Sep",
+    "openISO": "2026-09-08",
+    "closeISO": "2026-09-10",
+    "listISO": "2026-09-16",
+    "prevPct": 30.1,
+    "sub": {
+      "qib": 0,
+      "hni": 0,
+      "retail": 0,
+      "total": 0,
+      "day": 0
+    },
+    "upd": 0,
+    "new": false,
+    "actualList": null,
+    "issueSize": "₹1055.74 Cr",
+    "infoUrl": "https://www.investorgain.com/gmp/kanohar-electricals-ipo/2119/",
+    "hasAnchor": true,
+    "readings": {
+      "investorgain": {
+        "gmp": 205,
+        "pct": 32.4
+      }
+    }
+  },
+  {
     "name": "Glass Wall Systems",
     "type": "MAINBOARD",
     "status": "UPCOMING",
@@ -499,8 +535,44 @@
     "hasAnchor": true,
     "readings": {
       "investorgain": {
-        "gmp": 50,
-        "pct": 27.5
+        "gmp": 41,
+        "pct": 22.5
+      }
+    }
+  },
+  {
+    "name": "Pranav Constructions",
+    "type": "MAINBOARD",
+    "status": "UPCOMING",
+    "band": [
+      124,
+      124
+    ],
+    "lot": 120,
+    "open": "7 Sep",
+    "close": "9 Sep",
+    "list": "15 Sep",
+    "openISO": "2026-09-07",
+    "closeISO": "2026-09-09",
+    "listISO": "2026-09-15",
+    "prevPct": 33.1,
+    "sub": {
+      "qib": 0,
+      "hni": 0,
+      "retail": 0,
+      "total": 0,
+      "day": 0
+    },
+    "upd": 0,
+    "new": false,
+    "actualList": null,
+    "issueSize": "₹351.03 Cr",
+    "infoUrl": "https://www.investorgain.com/gmp/pranav-constructions-ipo/1662/",
+    "hasAnchor": true,
+    "readings": {
+      "investorgain": {
+        "gmp": 35,
+        "pct": 28.2
       }
     }
   },
@@ -541,42 +613,6 @@
     }
   },
   {
-    "name": "Pranav Constructions",
-    "type": "MAINBOARD",
-    "status": "UPCOMING",
-    "band": [
-      124,
-      124
-    ],
-    "lot": 120,
-    "open": "7 Sep",
-    "close": "9 Sep",
-    "list": "15 Sep",
-    "openISO": "2026-09-07",
-    "closeISO": "2026-09-09",
-    "listISO": "2026-09-15",
-    "prevPct": 33.1,
-    "sub": {
-      "qib": 0,
-      "hni": 0,
-      "retail": 0,
-      "total": 0,
-      "day": 0
-    },
-    "upd": 0,
-    "new": false,
-    "actualList": null,
-    "issueSize": "₹351.03 Cr",
-    "infoUrl": "https://www.investorgain.com/gmp/pranav-constructions-ipo/1662/",
-    "hasAnchor": true,
-    "readings": {
-      "investorgain": {
-        "gmp": 41,
-        "pct": 33.1
-      }
-    }
-  },
-  {
     "name": "Qualiance International",
     "type": "SME",
     "status": "OPEN",
@@ -613,38 +649,38 @@
     }
   },
   {
-    "name": "Fly-Hi Maritime",
+    "name": "Farm Peace",
     "type": "SME",
     "status": "CLOSED",
     "band": [
-      102,
-      102
+      59,
+      59
     ],
-    "lot": 1200,
+    "lot": 2000,
     "open": "1 Sep",
     "close": "3 Sep",
     "list": "8 Sep",
     "openISO": "2026-09-01",
     "closeISO": "2026-09-03",
     "listISO": "2026-09-08",
-    "prevPct": 1,
+    "prevPct": 79.7,
     "sub": {
       "qib": 0,
       "hni": 0,
       "retail": 0,
-      "total": 2.12,
+      "total": 1.16,
       "day": 3
     },
     "upd": 0,
     "new": false,
     "actualList": null,
-    "issueSize": "₹52.63 Cr",
-    "infoUrl": "https://www.investorgain.com/gmp/fly-hi-maritime-ipo/2097/",
+    "issueSize": "₹32.00 Cr",
+    "infoUrl": "https://www.investorgain.com/gmp/farm-peace-ipo/1905/",
     "hasAnchor": false,
     "readings": {
       "investorgain": {
-        "gmp": 1,
-        "pct": 1
+        "gmp": 50,
+        "pct": 84.8
       }
     }
   },
@@ -699,7 +735,7 @@
     "openISO": "2026-09-01",
     "closeISO": "2026-09-03",
     "listISO": "2026-09-08",
-    "prevPct": 4.2,
+    "prevPct": 4.6,
     "sub": {
       "qib": 0,
       "hni": 0,
@@ -715,44 +751,80 @@
     "hasAnchor": true,
     "readings": {
       "investorgain": {
-        "gmp": 11,
-        "pct": 4.6
+        "gmp": 14,
+        "pct": 5.9
       }
     }
   },
   {
-    "name": "Farm Peace",
+    "name": "Fly-Hi Maritime",
     "type": "SME",
     "status": "CLOSED",
     "band": [
-      59,
-      59
+      102,
+      102
     ],
-    "lot": 2000,
+    "lot": 1200,
     "open": "1 Sep",
     "close": "3 Sep",
     "list": "8 Sep",
     "openISO": "2026-09-01",
     "closeISO": "2026-09-03",
     "listISO": "2026-09-08",
-    "prevPct": 79.7,
+    "prevPct": 1,
     "sub": {
       "qib": 0,
       "hni": 0,
       "retail": 0,
-      "total": 1.16,
+      "total": 2.12,
       "day": 3
     },
     "upd": 0,
     "new": false,
     "actualList": null,
-    "issueSize": "₹32.00 Cr",
-    "infoUrl": "https://www.investorgain.com/gmp/farm-peace-ipo/1905/",
+    "issueSize": "₹52.63 Cr",
+    "infoUrl": "https://www.investorgain.com/gmp/fly-hi-maritime-ipo/2097/",
     "hasAnchor": false,
     "readings": {
       "investorgain": {
-        "gmp": 47,
-        "pct": 79.7
+        "gmp": 1,
+        "pct": 1
+      }
+    }
+  },
+  {
+    "name": "Shanti Inorganics",
+    "type": "SME",
+    "status": "CLOSED",
+    "band": [
+      83,
+      83
+    ],
+    "lot": 1600,
+    "open": "31 Aug",
+    "close": "2 Sep",
+    "list": "7 Sep",
+    "openISO": "2026-08-31",
+    "closeISO": "2026-09-02",
+    "listISO": "2026-09-07",
+    "prevPct": 56.6,
+    "sub": {
+      "qib": 0,
+      "hni": 0,
+      "retail": 0,
+      "total": 142.17,
+      "day": 3
+    },
+    "upd": 0,
+    "new": false,
+    "actualList": null,
+    "issueSize": "₹47.24 Cr",
+    "infoUrl": "https://www.investorgain.com/gmp/shanti-inorganics-ipo/1994/",
+    "hasAnchor": true,
+    "readings": {
+      "investorgain": {
+        "gmp": 45,
+        "pct": 54.2
       }
     }
   },
@@ -787,44 +859,8 @@
     "hasAnchor": true,
     "readings": {
       "investorgain": {
-        "gmp": -5,
-        "pct": -0.9
-      }
-    }
-  },
-  {
-    "name": "Ashutosh Fibre",
-    "type": "SME",
-    "status": "CLOSED",
-    "band": [
-      92,
-      92
-    ],
-    "lot": 1200,
-    "open": "31 Aug",
-    "close": "2 Sep",
-    "list": "7 Sep",
-    "openISO": "2026-08-31",
-    "closeISO": "2026-09-02",
-    "listISO": "2026-09-07",
-    "prevPct": 54.4,
-    "sub": {
-      "qib": 0,
-      "hni": 0,
-      "retail": 0,
-      "total": 144.65,
-      "day": 3
-    },
-    "upd": 0,
-    "new": false,
-    "actualList": null,
-    "issueSize": "₹56.35 Cr",
-    "infoUrl": "https://www.investorgain.com/gmp/ashutosh-fibre-ipo/2009/",
-    "hasAnchor": true,
-    "readings": {
-      "investorgain": {
-        "gmp": 50,
-        "pct": 54.4
+        "gmp": -10,
+        "pct": -1.7
       }
     }
   },
@@ -865,38 +901,38 @@
     }
   },
   {
-    "name": "Shanti Inorganics",
+    "name": "Ashutosh Fibre",
     "type": "SME",
     "status": "CLOSED",
     "band": [
-      83,
-      83
+      92,
+      92
     ],
-    "lot": 1600,
+    "lot": 1200,
     "open": "31 Aug",
     "close": "2 Sep",
     "list": "7 Sep",
     "openISO": "2026-08-31",
     "closeISO": "2026-09-02",
     "listISO": "2026-09-07",
-    "prevPct": 56.6,
+    "prevPct": 54.4,
     "sub": {
       "qib": 0,
       "hni": 0,
       "retail": 0,
-      "total": 142.17,
+      "total": 144.65,
       "day": 3
     },
     "upd": 0,
     "new": false,
     "actualList": null,
-    "issueSize": "₹47.24 Cr",
-    "infoUrl": "https://www.investorgain.com/gmp/shanti-inorganics-ipo/1994/",
+    "issueSize": "₹56.35 Cr",
+    "infoUrl": "https://www.investorgain.com/gmp/ashutosh-fibre-ipo/2009/",
     "hasAnchor": true,
     "readings": {
       "investorgain": {
-        "gmp": 47,
-        "pct": 56.6
+        "gmp": 53,
+        "pct": 57.1
       }
     }
   },
@@ -929,6 +965,43 @@
     "issueSize": "₹64.83 Cr",
     "infoUrl": "https://www.investorgain.com/gmp/fascinate-textiles-ipo/1992/",
     "hasAnchor": false,
+    "readings": {
+      "investorgain": {
+        "gmp": 0,
+        "pct": 0
+      }
+    },
+    "lastGmpPct": 0
+  },
+  {
+    "name": "Complete Sports and Management",
+    "type": "SME",
+    "status": "LISTED",
+    "band": [
+      135,
+      135
+    ],
+    "lot": 1000,
+    "open": "28 Aug",
+    "close": "1 Sep",
+    "list": "4 Sep",
+    "openISO": "2026-08-28",
+    "closeISO": "2026-09-01",
+    "listISO": "2026-09-04",
+    "prevPct": 0,
+    "sub": {
+      "qib": 0,
+      "hni": 0,
+      "retail": 0,
+      "total": 3.45,
+      "day": 3
+    },
+    "upd": 0,
+    "new": false,
+    "actualList": null,
+    "issueSize": "₹74.93 Cr",
+    "infoUrl": "https://www.investorgain.com/gmp/complete-sports-and-management-ipo/2339/",
+    "hasAnchor": true,
     "readings": {
       "investorgain": {
         "gmp": 0,
@@ -975,43 +1048,6 @@
     "lastGmpPct": 18.8
   },
   {
-    "name": "ESDS Software Solution",
-    "type": "MAINBOARD",
-    "status": "LISTED",
-    "band": [
-      429,
-      429
-    ],
-    "lot": 34,
-    "open": "28 Aug",
-    "close": "1 Sep",
-    "list": "4 Sep",
-    "openISO": "2026-08-28",
-    "closeISO": "2026-09-01",
-    "listISO": "2026-09-04",
-    "prevPct": 72.5,
-    "sub": {
-      "qib": 0,
-      "hni": 0,
-      "retail": 0,
-      "total": 142.88,
-      "day": 3
-    },
-    "upd": 0,
-    "new": false,
-    "actualList": null,
-    "issueSize": "₹720.00 Cr",
-    "infoUrl": "https://www.investorgain.com/gmp/esds-software-ipo/1607/",
-    "hasAnchor": true,
-    "readings": {
-      "investorgain": {
-        "gmp": 311,
-        "pct": 72.5
-      }
-    },
-    "lastGmpPct": 72.5
-  },
-  {
     "name": "Priority Jewels",
     "type": "MAINBOARD",
     "status": "LISTED",
@@ -1049,41 +1085,41 @@
     "lastGmpPct": 14
   },
   {
-    "name": "Complete Sports and Management",
-    "type": "SME",
+    "name": "ESDS Software Solution",
+    "type": "MAINBOARD",
     "status": "LISTED",
     "band": [
-      135,
-      135
+      429,
+      429
     ],
-    "lot": 1000,
+    "lot": 34,
     "open": "28 Aug",
     "close": "1 Sep",
     "list": "4 Sep",
     "openISO": "2026-08-28",
     "closeISO": "2026-09-01",
     "listISO": "2026-09-04",
-    "prevPct": 0,
+    "prevPct": 72.5,
     "sub": {
       "qib": 0,
       "hni": 0,
       "retail": 0,
-      "total": 3.45,
+      "total": 142.88,
       "day": 3
     },
     "upd": 0,
     "new": false,
     "actualList": null,
-    "issueSize": "₹74.93 Cr",
-    "infoUrl": "https://www.investorgain.com/gmp/complete-sports-and-management-ipo/2339/",
+    "issueSize": "₹720.00 Cr",
+    "infoUrl": "https://www.investorgain.com/gmp/esds-software-ipo/1607/",
     "hasAnchor": true,
     "readings": {
       "investorgain": {
-        "gmp": 0,
-        "pct": 0
+        "gmp": 311,
+        "pct": 72.5
       }
     },
-    "lastGmpPct": 0
+    "lastGmpPct": 72.5
   },
   {
     "name": "Kwick Forensic Solutions",
@@ -1160,43 +1196,6 @@
     "lastGmpPct": 46.3
   },
   {
-    "name": "Annu Projects",
-    "type": "MAINBOARD",
-    "status": "LISTED",
-    "band": [
-      99,
-      99
-    ],
-    "lot": 151,
-    "open": "25 Aug",
-    "close": "28 Aug",
-    "list": "2 Sep",
-    "openISO": "2026-08-25",
-    "closeISO": "2026-08-28",
-    "listISO": "2026-09-02",
-    "prevPct": -7.1,
-    "sub": {
-      "qib": 0,
-      "hni": 0,
-      "retail": 0,
-      "total": 2.93,
-      "day": 3
-    },
-    "upd": 0,
-    "new": false,
-    "actualList": null,
-    "issueSize": "₹175.06 Cr",
-    "infoUrl": "https://www.investorgain.com/gmp/annu-projects-ipo/1815/",
-    "hasAnchor": false,
-    "readings": {
-      "investorgain": {
-        "gmp": -7,
-        "pct": -7.1
-      }
-    },
-    "lastGmpPct": -7.1
-  },
-  {
     "name": "Sumax Engineering",
     "type": "SME",
     "status": "LISTED",
@@ -1234,41 +1233,41 @@
     "lastGmpPct": 21.8
   },
   {
-    "name": "Hy-Tech Engineers",
+    "name": "Annu Projects",
     "type": "MAINBOARD",
     "status": "LISTED",
     "band": [
-      53,
-      53
+      99,
+      99
     ],
-    "lot": 283,
-    "open": "24 Aug",
-    "close": "27 Aug",
-    "list": "1 Sep",
-    "openISO": "2026-08-24",
-    "closeISO": "2026-08-27",
-    "listISO": "2026-09-01",
-    "prevPct": 73.6,
+    "lot": 151,
+    "open": "25 Aug",
+    "close": "28 Aug",
+    "list": "2 Sep",
+    "openISO": "2026-08-25",
+    "closeISO": "2026-08-28",
+    "listISO": "2026-09-02",
+    "prevPct": -7.1,
     "sub": {
       "qib": 0,
       "hni": 0,
       "retail": 0,
-      "total": 247.39,
+      "total": 2.93,
       "day": 3
     },
     "upd": 0,
     "new": false,
     "actualList": null,
-    "issueSize": "₹135.73 Cr",
-    "infoUrl": "https://www.investorgain.com/gmp/hy-tech-engineers-ipo/1876/",
-    "hasAnchor": true,
+    "issueSize": "₹175.06 Cr",
+    "infoUrl": "https://www.investorgain.com/gmp/annu-projects-ipo/1815/",
+    "hasAnchor": false,
     "readings": {
       "investorgain": {
-        "gmp": 39,
-        "pct": 73.6
+        "gmp": -7,
+        "pct": -7.1
       }
     },
-    "lastGmpPct": 73.6
+    "lastGmpPct": -7.1
   },
   {
     "name": "ABH Healthcare",
@@ -1308,43 +1307,6 @@
     "lastGmpPct": 0
   },
   {
-    "name": "Skyways Air",
-    "type": "MAINBOARD",
-    "status": "LISTED",
-    "band": [
-      138,
-      138
-    ],
-    "lot": 100,
-    "open": "24 Aug",
-    "close": "27 Aug",
-    "list": "1 Sep",
-    "openISO": "2026-08-24",
-    "closeISO": "2026-08-27",
-    "listISO": "2026-09-01",
-    "prevPct": 23.9,
-    "sub": {
-      "qib": 0,
-      "hni": 0,
-      "retail": 0,
-      "total": 71.25,
-      "day": 3
-    },
-    "upd": 0,
-    "new": false,
-    "actualList": null,
-    "issueSize": "₹582.80 Cr",
-    "infoUrl": "https://www.investorgain.com/gmp/skyways-air-ipo/1820/",
-    "hasAnchor": true,
-    "readings": {
-      "investorgain": {
-        "gmp": 33,
-        "pct": 23.9
-      }
-    },
-    "lastGmpPct": 23.9
-  },
-  {
     "name": "Madhur Knit",
     "type": "SME",
     "status": "LISTED",
@@ -1380,6 +1342,43 @@
       }
     },
     "lastGmpPct": 2
+  },
+  {
+    "name": "Skyways Air",
+    "type": "MAINBOARD",
+    "status": "LISTED",
+    "band": [
+      138,
+      138
+    ],
+    "lot": 100,
+    "open": "24 Aug",
+    "close": "27 Aug",
+    "list": "1 Sep",
+    "openISO": "2026-08-24",
+    "closeISO": "2026-08-27",
+    "listISO": "2026-09-01",
+    "prevPct": 23.9,
+    "sub": {
+      "qib": 0,
+      "hni": 0,
+      "retail": 0,
+      "total": 71.25,
+      "day": 3
+    },
+    "upd": 0,
+    "new": false,
+    "actualList": null,
+    "issueSize": "₹582.80 Cr",
+    "infoUrl": "https://www.investorgain.com/gmp/skyways-air-ipo/1820/",
+    "hasAnchor": true,
+    "readings": {
+      "investorgain": {
+        "gmp": 33,
+        "pct": 23.9
+      }
+    },
+    "lastGmpPct": 23.9
   },
   {
     "name": "Symbiotec Pharmalab",
@@ -1419,40 +1418,40 @@
     "lastGmpPct": 18.7
   },
   {
-    "name": "Augmont Enterprises",
+    "name": "Hy-Tech Engineers",
     "type": "MAINBOARD",
     "status": "LISTED",
     "band": [
-      788,
-      788
+      53,
+      53
     ],
-    "lot": 19,
-    "open": "21 Aug",
-    "close": "25 Aug",
-    "list": "31 Aug",
-    "openISO": "2026-08-21",
-    "closeISO": "2026-08-25",
-    "listISO": "2026-08-31",
-    "prevPct": 36.8,
+    "lot": 283,
+    "open": "24 Aug",
+    "close": "27 Aug",
+    "list": "1 Sep",
+    "openISO": "2026-08-24",
+    "closeISO": "2026-08-27",
+    "listISO": "2026-09-01",
+    "prevPct": 73.6,
     "sub": {
       "qib": 0,
       "hni": 0,
       "retail": 0,
-      "total": 111.18,
+      "total": 247.39,
       "day": 3
     },
     "upd": 0,
     "new": false,
     "actualList": null,
-    "issueSize": "₹825.00 Cr",
-    "infoUrl": "https://www.investorgain.com/gmp/augmont-enterprises-ipo/1938/",
+    "issueSize": "₹135.73 Cr",
+    "infoUrl": "https://www.investorgain.com/gmp/hy-tech-engineers-ipo/1876/",
     "hasAnchor": true,
     "readings": {
       "investorgain": {
-        "gmp": 290,
-        "pct": 36.8
+        "gmp": 39,
+        "pct": 73.6
       }
     },
-    "lastGmpPct": 36.8
+    "lastGmpPct": 73.6
   }
 ]
