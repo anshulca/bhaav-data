@@ -543,7 +543,7 @@
   {
     "name": "Pranav Constructions",
     "type": "MAINBOARD",
-    "status": "UPCOMING",
+    "status": "OPEN",
     "band": [
       124,
       124
@@ -561,7 +561,7 @@
       "hni": 0,
       "retail": 0,
       "total": 0,
-      "day": 0
+      "day": 1
     },
     "upd": 0,
     "new": false,
@@ -579,7 +579,7 @@
   {
     "name": "Apana Logistics",
     "type": "SME",
-    "status": "UPCOMING",
+    "status": "OPEN",
     "band": [
       60,
       60
@@ -597,7 +597,7 @@
       "hni": 0,
       "retail": 0,
       "total": 0,
-      "day": 0
+      "day": 1
     },
     "upd": 0,
     "new": false,
@@ -795,7 +795,7 @@
   {
     "name": "Shanti Inorganics",
     "type": "SME",
-    "status": "CLOSED",
+    "status": "LISTED",
     "band": [
       83,
       83
@@ -826,12 +826,13 @@
         "gmp": 54,
         "pct": 65.1
       }
-    }
+    },
+    "lastGmpPct": 65.1
   },
   {
     "name": "Purple Style Labs",
     "type": "MAINBOARD",
-    "status": "CLOSED",
+    "status": "LISTED",
     "band": [
       575,
       575
@@ -862,12 +863,13 @@
         "gmp": -10,
         "pct": -1.7
       }
-    }
+    },
+    "lastGmpPct": -1.7
   },
   {
     "name": "Phychem Technologies",
     "type": "SME",
-    "status": "CLOSED",
+    "status": "LISTED",
     "band": [
       54,
       54
@@ -898,12 +900,13 @@
         "gmp": 1,
         "pct": 1.9
       }
-    }
+    },
+    "lastGmpPct": 1.9
   },
   {
     "name": "Ashutosh Fibre",
     "type": "SME",
-    "status": "CLOSED",
+    "status": "LISTED",
     "band": [
       92,
       92
@@ -934,7 +937,8 @@
         "gmp": 56,
         "pct": 60.9
       }
-    }
+    },
+    "lastGmpPct": 60.9
   },
   {
     "name": "Fascinate Textiles",
