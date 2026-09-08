@@ -615,7 +615,7 @@
   {
     "name": "Prasol Chemicals",
     "type": "MAINBOARD",
-    "status": "UPCOMING",
+    "status": "OPEN",
     "band": [
       676,
       676
@@ -633,7 +633,7 @@
       "hni": 0,
       "retail": 0,
       "total": 0,
-      "day": 0
+      "day": 1
     },
     "upd": 0,
     "new": false,
@@ -651,7 +651,7 @@
   {
     "name": "Kanohar Electricals",
     "type": "MAINBOARD",
-    "status": "UPCOMING",
+    "status": "OPEN",
     "band": [
       632,
       632
@@ -669,7 +669,7 @@
       "hni": 0,
       "retail": 0,
       "total": 0,
-      "day": 0
+      "day": 1
     },
     "upd": 0,
     "new": false,
@@ -687,7 +687,7 @@
   {
     "name": "Glass Wall Systems",
     "type": "MAINBOARD",
-    "status": "UPCOMING",
+    "status": "OPEN",
     "band": [
       182,
       182
@@ -705,7 +705,7 @@
       "hni": 0,
       "retail": 0,
       "total": 0,
-      "day": 0
+      "day": 1
     },
     "upd": 0,
     "new": false,
@@ -741,7 +741,7 @@
       "hni": 0,
       "retail": 0,
       "total": 6.03,
-      "day": 1
+      "day": 2
     },
     "upd": 0,
     "new": false,
@@ -777,7 +777,7 @@
       "hni": 0,
       "retail": 0,
       "total": 0.21,
-      "day": 1
+      "day": 2
     },
     "upd": 0,
     "new": false,
@@ -831,7 +831,7 @@
   {
     "name": "Rays of Belief",
     "type": "MAINBOARD",
-    "status": "CLOSED",
+    "status": "LISTED",
     "band": [
       239,
       239
@@ -862,12 +862,13 @@
         "gmp": 15,
         "pct": 6.3
       }
-    }
+    },
+    "lastGmpPct": 6.3
   },
   {
     "name": "Farm Peace",
     "type": "SME",
-    "status": "CLOSED",
+    "status": "LISTED",
     "band": [
       59,
       59
@@ -898,12 +899,13 @@
         "gmp": 59,
         "pct": 100
       }
-    }
+    },
+    "lastGmpPct": 100
   },
   {
     "name": "Deepa Jewellers",
     "type": "MAINBOARD",
-    "status": "CLOSED",
+    "status": "LISTED",
     "band": [
       177,
       177
@@ -934,12 +936,13 @@
         "gmp": 25,
         "pct": 14.1
       }
-    }
+    },
+    "lastGmpPct": 14.1
   },
   {
     "name": "Fly-Hi Maritime",
     "type": "SME",
-    "status": "CLOSED",
+    "status": "LISTED",
     "band": [
       102,
       102
@@ -970,7 +973,8 @@
         "gmp": 1,
         "pct": 1
       }
-    }
+    },
+    "lastGmpPct": 1
   },
   {
     "name": "Fascinate Textiles",
