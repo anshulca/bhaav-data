@@ -30,7 +30,7 @@
     "hasAnchor": true,
     "readings": {
       "investorgain": {
-        "gmp": 228,
+        "gmp": 231,
         "pct": null
       }
     },
@@ -60,7 +60,7 @@
       "day": 0
     },
     "upd": 0,
-    "new": true,
+    "new": false,
     "actualList": null,
     "issueSize": "₹56.12 Cr",
     "infoUrl": "https://www.investorgain.com/gmp/injecto-polymers-ipo/1899/",
@@ -134,8 +134,8 @@
     "hasAnchor": true,
     "readings": {
       "investorgain": {
-        "gmp": 20,
-        "pct": 46.5
+        "gmp": 17,
+        "pct": 39.5
       }
     }
   },
@@ -206,8 +206,8 @@
     "hasAnchor": true,
     "readings": {
       "investorgain": {
-        "gmp": 15,
-        "pct": 8.1
+        "gmp": 30,
+        "pct": 16.1
       }
     }
   },
@@ -386,8 +386,8 @@
     "hasAnchor": true,
     "readings": {
       "investorgain": {
-        "gmp": 26,
-        "pct": 17.5
+        "gmp": 30,
+        "pct": 20.6
       }
     }
   },
@@ -422,8 +422,8 @@
     "hasAnchor": true,
     "readings": {
       "investorgain": {
-        "gmp": 58,
-        "pct": 22.8
+        "gmp": 63,
+        "pct": 24.8
       }
     }
   },
@@ -458,8 +458,8 @@
     "hasAnchor": true,
     "readings": {
       "investorgain": {
-        "gmp": 125,
-        "pct": 30.9
+        "gmp": 127,
+        "pct": 31.4
       }
     }
   },
@@ -566,8 +566,8 @@
     "hasAnchor": true,
     "readings": {
       "investorgain": {
-        "gmp": 38,
-        "pct": 11.2
+        "gmp": 36,
+        "pct": 10.6
       }
     }
   },
@@ -663,7 +663,7 @@
       "qib": 0,
       "hni": 0,
       "retail": 0,
-      "total": 0.2,
+      "total": 1.74,
       "day": 1
     },
     "upd": 0,
@@ -674,8 +674,8 @@
     "hasAnchor": true,
     "readings": {
       "investorgain": {
-        "gmp": 196,
-        "pct": 31
+        "gmp": 218,
+        "pct": 34.5
       }
     }
   },
@@ -699,7 +699,7 @@
       "qib": 0,
       "hni": 0,
       "retail": 0,
-      "total": 0.07,
+      "total": 0.32,
       "day": 1
     },
     "upd": 0,
@@ -710,8 +710,8 @@
     "hasAnchor": true,
     "readings": {
       "investorgain": {
-        "gmp": 55,
-        "pct": 8.1
+        "gmp": 40,
+        "pct": 5.9
       }
     }
   },
@@ -735,7 +735,7 @@
       "qib": 0,
       "hni": 0,
       "retail": 0,
-      "total": 0.21,
+      "total": 1.58,
       "day": 1
     },
     "upd": 0,
@@ -746,8 +746,8 @@
     "hasAnchor": true,
     "readings": {
       "investorgain": {
-        "gmp": 51,
-        "pct": 28
+        "gmp": 53,
+        "pct": 29.1
       }
     }
   },
@@ -771,7 +771,7 @@
       "qib": 0,
       "hni": 0,
       "retail": 0,
-      "total": 7.54,
+      "total": 14.49,
       "day": 2
     },
     "upd": 0,
@@ -782,8 +782,8 @@
     "hasAnchor": true,
     "readings": {
       "investorgain": {
-        "gmp": 43,
-        "pct": 34.3
+        "gmp": 45,
+        "pct": 36.3
       }
     }
   },
@@ -807,7 +807,7 @@
       "qib": 0,
       "hni": 0,
       "retail": 0,
-      "total": 0.28,
+      "total": 0.47,
       "day": 2
     },
     "upd": 0,
@@ -843,7 +843,7 @@
       "qib": 0,
       "hni": 0,
       "retail": 0,
-      "total": 91.14,
+      "total": 301.37,
       "day": 3
     },
     "upd": 0,
@@ -854,8 +854,8 @@
     "hasAnchor": true,
     "readings": {
       "investorgain": {
-        "gmp": 60,
-        "pct": 47.2
+        "gmp": 65,
+        "pct": 51.2
       }
     }
   },
