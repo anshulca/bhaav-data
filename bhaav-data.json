@@ -1,5 +1,41 @@
 [
   {
+    "name": "Jindal Supreme",
+    "type": "MAINBOARD",
+    "status": "UPCOMING",
+    "band": [
+      0,
+      0
+    ],
+    "lot": 0,
+    "open": "16 Sep",
+    "close": "18 Sep",
+    "list": "23 Sep",
+    "openISO": "2026-09-16",
+    "closeISO": "2026-09-18",
+    "listISO": "2026-09-23",
+    "prevPct": null,
+    "sub": {
+      "qib": 0,
+      "hni": 0,
+      "retail": 0,
+      "total": 0,
+      "day": 0
+    },
+    "upd": 0,
+    "new": true,
+    "actualList": null,
+    "issueSize": "-",
+    "infoUrl": "https://www.investorgain.com/gmp/jindal-supreme-ipo/2057/",
+    "hasAnchor": true,
+    "readings": {
+      "investorgain": {
+        "gmp": 0,
+        "pct": null
+      }
+    }
+  },
+  {
     "name": "NSE",
     "type": "MAINBOARD",
     "status": "LISTED",
@@ -30,7 +66,7 @@
     "hasAnchor": true,
     "readings": {
       "investorgain": {
-        "gmp": 231,
+        "gmp": 222,
         "pct": null
       }
     },
@@ -458,8 +494,8 @@
     "hasAnchor": true,
     "readings": {
       "investorgain": {
-        "gmp": 127,
-        "pct": 31.4
+        "gmp": 129,
+        "pct": 31.9
       }
     }
   },
@@ -494,8 +530,8 @@
     "hasAnchor": true,
     "readings": {
       "investorgain": {
-        "gmp": 0,
-        "pct": 0
+        "gmp": 25,
+        "pct": 30.9
       }
     }
   },
@@ -566,8 +602,8 @@
     "hasAnchor": true,
     "readings": {
       "investorgain": {
-        "gmp": 36,
-        "pct": 10.6
+        "gmp": 38,
+        "pct": 11.2
       }
     }
   },
@@ -602,8 +638,8 @@
     "hasAnchor": true,
     "readings": {
       "investorgain": {
-        "gmp": 27,
-        "pct": 19.4
+        "gmp": 29,
+        "pct": 20.9
       }
     }
   },
@@ -663,7 +699,7 @@
       "qib": 0,
       "hni": 0,
       "retail": 0,
-      "total": 1.74,
+      "total": 2.03,
       "day": 1
     },
     "upd": 0,
@@ -699,7 +735,7 @@
       "qib": 0,
       "hni": 0,
       "retail": 0,
-      "total": 0.32,
+      "total": 0.36,
       "day": 1
     },
     "upd": 0,
@@ -710,8 +746,8 @@
     "hasAnchor": true,
     "readings": {
       "investorgain": {
-        "gmp": 40,
-        "pct": 5.9
+        "gmp": 50,
+        "pct": 7.4
       }
     }
   },
@@ -735,7 +771,7 @@
       "qib": 0,
       "hni": 0,
       "retail": 0,
-      "total": 1.58,
+      "total": 0.6,
       "day": 1
     },
     "upd": 0,
@@ -771,7 +807,7 @@
       "qib": 0,
       "hni": 0,
       "retail": 0,
-      "total": 14.49,
+      "total": 15.98,
       "day": 2
     },
     "upd": 0,
@@ -807,7 +843,7 @@
       "qib": 0,
       "hni": 0,
       "retail": 0,
-      "total": 0.47,
+      "total": 0.51,
       "day": 2
     },
     "upd": 0,
@@ -843,7 +879,7 @@
       "qib": 0,
       "hni": 0,
       "retail": 0,
-      "total": 301.37,
+      "total": 411.25,
       "day": 3
     },
     "upd": 0,
@@ -1413,42 +1449,5 @@
       }
     },
     "lastGmpPct": 86.7
-  },
-  {
-    "name": "Annu Projects",
-    "type": "MAINBOARD",
-    "status": "LISTED",
-    "band": [
-      99,
-      99
-    ],
-    "lot": 151,
-    "open": "25 Aug",
-    "close": "28 Aug",
-    "list": "2 Sep",
-    "openISO": "2026-08-25",
-    "closeISO": "2026-08-28",
-    "listISO": "2026-09-02",
-    "prevPct": -7.1,
-    "sub": {
-      "qib": 0,
-      "hni": 0,
-      "retail": 0,
-      "total": 2.93,
-      "day": 3
-    },
-    "upd": 0,
-    "new": false,
-    "actualList": null,
-    "issueSize": "₹175.06 Cr",
-    "infoUrl": "https://www.investorgain.com/gmp/annu-projects-ipo/1815/",
-    "hasAnchor": false,
-    "readings": {
-      "investorgain": {
-        "gmp": -7,
-        "pct": -7.1
-      }
-    },
-    "lastGmpPct": -7.1
   }
 ]
