@@ -30,7 +30,7 @@
     "hasAnchor": true,
     "readings": {
       "investorgain": {
-        "gmp": 250,
+        "gmp": 232,
         "pct": null
       }
     },
@@ -51,6 +51,42 @@
     "openISO": "2026-09-18",
     "closeISO": "2026-09-22",
     "listISO": "2026-09-25",
+    "prevPct": 0,
+    "sub": {
+      "qib": 0,
+      "hni": 0,
+      "retail": 0,
+      "total": 0,
+      "day": 0
+    },
+    "upd": 0,
+    "new": false,
+    "actualList": null,
+    "issueSize": "₹49.81 Cr",
+    "infoUrl": "https://www.investorgain.com/gmp/axiom-gas-engineering-ipo/1682/",
+    "hasAnchor": true,
+    "readings": {
+      "investorgain": {
+        "gmp": 0,
+        "pct": 0
+      }
+    }
+  },
+  {
+    "name": "Sonaselection India",
+    "type": "MAINBOARD",
+    "status": "UPCOMING",
+    "band": [
+      0,
+      0
+    ],
+    "lot": 0,
+    "open": "17 Sep",
+    "close": "21 Sep",
+    "list": "24 Sep",
+    "openISO": "2026-09-17",
+    "closeISO": "2026-09-21",
+    "listISO": "2026-09-24",
     "prevPct": null,
     "sub": {
       "qib": 0,
@@ -62,10 +98,15 @@
     "upd": 0,
     "new": true,
     "actualList": null,
-    "issueSize": "₹49.81 Cr",
-    "infoUrl": "https://www.investorgain.com/gmp/axiom-gas-engineering-ipo/1682/",
+    "issueSize": "-",
+    "infoUrl": "https://www.investorgain.com/gmp/sonaselection-india-ipo/2059/",
     "hasAnchor": true,
-    "readings": {}
+    "readings": {
+      "investorgain": {
+        "gmp": 0,
+        "pct": null
+      }
+    }
   },
   {
     "name": "Jindal Supreme",
@@ -98,6 +139,78 @@
     "hasAnchor": true,
     "readings": {
       "investorgain": {
+        "gmp": 11,
+        "pct": 11.8
+      }
+    }
+  },
+  {
+    "name": "SS Retail",
+    "type": "MAINBOARD",
+    "status": "UPCOMING",
+    "band": [
+      0,
+      0
+    ],
+    "lot": 0,
+    "open": "16 Sep",
+    "close": "18 Sep",
+    "list": "23 Sep",
+    "openISO": "2026-09-16",
+    "closeISO": "2026-09-18",
+    "listISO": "2026-09-23",
+    "prevPct": null,
+    "sub": {
+      "qib": 0,
+      "hni": 0,
+      "retail": 0,
+      "total": 0,
+      "day": 0
+    },
+    "upd": 0,
+    "new": true,
+    "actualList": null,
+    "issueSize": "₹500.00 Cr",
+    "infoUrl": "https://www.investorgain.com/gmp/ss-retail-ipo/2076/",
+    "hasAnchor": true,
+    "readings": {
+      "investorgain": {
+        "gmp": 0,
+        "pct": null
+      }
+    }
+  },
+  {
+    "name": "Shakti Polytarp",
+    "type": "SME",
+    "status": "UPCOMING",
+    "band": [
+      59,
+      59
+    ],
+    "lot": 2000,
+    "open": "15 Sep",
+    "close": "17 Sep",
+    "list": "22 Sep",
+    "openISO": "2026-09-15",
+    "closeISO": "2026-09-17",
+    "listISO": "2026-09-22",
+    "prevPct": 0,
+    "sub": {
+      "qib": 0,
+      "hni": 0,
+      "retail": 0,
+      "total": 0,
+      "day": 0
+    },
+    "upd": 0,
+    "new": false,
+    "actualList": null,
+    "issueSize": "₹26.93 Cr",
+    "infoUrl": "https://www.investorgain.com/gmp/shakti-polytarp-ipo/1782/",
+    "hasAnchor": true,
+    "readings": {
+      "investorgain": {
         "gmp": 0,
         "pct": 0
       }
@@ -118,69 +231,7 @@
     "openISO": "2026-09-15",
     "closeISO": "2026-09-17",
     "listISO": "2026-09-22",
-    "prevPct": null,
-    "sub": {
-      "qib": 0,
-      "hni": 0,
-      "retail": 0,
-      "total": 0,
-      "day": 0
-    },
-    "upd": 0,
-    "new": true,
-    "actualList": null,
-    "issueSize": "₹31.02 Cr",
-    "infoUrl": "https://www.investorgain.com/gmp/quanto-agroworld-ipo/1760/",
-    "hasAnchor": false,
-    "readings": {}
-  },
-  {
-    "name": "Shakti Polytarp",
-    "type": "SME",
-    "status": "UPCOMING",
-    "band": [
-      59,
-      59
-    ],
-    "lot": 2000,
-    "open": "15 Sep",
-    "close": "17 Sep",
-    "list": "22 Sep",
-    "openISO": "2026-09-15",
-    "closeISO": "2026-09-17",
-    "listISO": "2026-09-22",
-    "prevPct": null,
-    "sub": {
-      "qib": 0,
-      "hni": 0,
-      "retail": 0,
-      "total": 0,
-      "day": 0
-    },
-    "upd": 0,
-    "new": true,
-    "actualList": null,
-    "issueSize": "₹26.93 Cr",
-    "infoUrl": "https://www.investorgain.com/gmp/shakti-polytarp-ipo/1782/",
-    "hasAnchor": true,
-    "readings": {}
-  },
-  {
-    "name": "Manika Plastech",
-    "type": "MAINBOARD",
-    "status": "UPCOMING",
-    "band": [
-      43,
-      43
-    ],
-    "lot": 348,
-    "open": "11 Sep",
-    "close": "16 Sep",
-    "list": "21 Sep",
-    "openISO": "2026-09-11",
-    "closeISO": "2026-09-16",
-    "listISO": "2026-09-21",
-    "prevPct": 39.5,
+    "prevPct": 0,
     "sub": {
       "qib": 0,
       "hni": 0,
@@ -191,13 +242,13 @@
     "upd": 0,
     "new": false,
     "actualList": null,
-    "issueSize": "₹125.50 Cr",
-    "infoUrl": "https://www.investorgain.com/gmp/manika-plastech-ipo/1806/",
-    "hasAnchor": true,
+    "issueSize": "₹31.02 Cr",
+    "infoUrl": "https://www.investorgain.com/gmp/quanto-agroworld-ipo/1760/",
+    "hasAnchor": false,
     "readings": {
       "investorgain": {
-        "gmp": 17,
-        "pct": 39.5
+        "gmp": 0,
+        "pct": 0
       }
     }
   },
@@ -234,6 +285,42 @@
       "investorgain": {
         "gmp": 0,
         "pct": 0
+      }
+    }
+  },
+  {
+    "name": "Manika Plastech",
+    "type": "MAINBOARD",
+    "status": "UPCOMING",
+    "band": [
+      43,
+      43
+    ],
+    "lot": 348,
+    "open": "11 Sep",
+    "close": "16 Sep",
+    "list": "21 Sep",
+    "openISO": "2026-09-11",
+    "closeISO": "2026-09-16",
+    "listISO": "2026-09-21",
+    "prevPct": 39.5,
+    "sub": {
+      "qib": 0,
+      "hni": 0,
+      "retail": 0,
+      "total": 0,
+      "day": 0
+    },
+    "upd": 0,
+    "new": false,
+    "actualList": null,
+    "issueSize": "₹125.50 Cr",
+    "infoUrl": "https://www.investorgain.com/gmp/manika-plastech-ipo/1806/",
+    "hasAnchor": true,
+    "readings": {
+      "investorgain": {
+        "gmp": 17,
+        "pct": 39.5
       }
     }
   },
@@ -346,21 +433,21 @@
     }
   },
   {
-    "name": "Veegaland Developers",
-    "type": "MAINBOARD",
+    "name": "Panchatv Bharat",
+    "type": "SME",
     "status": "UPCOMING",
     "band": [
       140,
       140
     ],
-    "lot": 107,
+    "lot": 1000,
     "open": "10 Sep",
     "close": "15 Sep",
     "list": "18 Sep",
     "openISO": "2026-09-10",
     "closeISO": "2026-09-15",
     "listISO": "2026-09-18",
-    "prevPct": 23.6,
+    "prevPct": 0,
     "sub": {
       "qib": 0,
       "hni": 0,
@@ -371,13 +458,13 @@
     "upd": 0,
     "new": false,
     "actualList": null,
-    "issueSize": "₹210.00 Cr",
-    "infoUrl": "https://www.investorgain.com/gmp/veegaland-developers-ipo/1601/",
-    "hasAnchor": true,
+    "issueSize": "₹24.58 Cr",
+    "infoUrl": "https://www.investorgain.com/gmp/panchatv-bharat-ipo/1749/",
+    "hasAnchor": false,
     "readings": {
       "investorgain": {
-        "gmp": 33,
-        "pct": 23.6
+        "gmp": 0,
+        "pct": 0
       }
     }
   },
@@ -418,21 +505,21 @@
     }
   },
   {
-    "name": "Panchatv Bharat",
-    "type": "SME",
+    "name": "Veegaland Developers",
+    "type": "MAINBOARD",
     "status": "UPCOMING",
     "band": [
-      120,
-      120
+      140,
+      140
     ],
-    "lot": 1200,
+    "lot": 107,
     "open": "10 Sep",
     "close": "15 Sep",
     "list": "18 Sep",
     "openISO": "2026-09-10",
     "closeISO": "2026-09-15",
     "listISO": "2026-09-18",
-    "prevPct": 0,
+    "prevPct": 23.6,
     "sub": {
       "qib": 0,
       "hni": 0,
@@ -443,8 +530,44 @@
     "upd": 0,
     "new": false,
     "actualList": null,
-    "issueSize": "₹21.08 Cr",
-    "infoUrl": "https://www.investorgain.com/gmp/panchatv-bharat-ipo/1749/",
+    "issueSize": "₹210.00 Cr",
+    "infoUrl": "https://www.investorgain.com/gmp/veegaland-developers-ipo/1601/",
+    "hasAnchor": true,
+    "readings": {
+      "investorgain": {
+        "gmp": 20,
+        "pct": 14.3
+      }
+    }
+  },
+  {
+    "name": "Infrax Renewable",
+    "type": "SME",
+    "status": "OPEN",
+    "band": [
+      104,
+      104
+    ],
+    "lot": 1200,
+    "open": "9 Sep",
+    "close": "11 Sep",
+    "list": "17 Sep",
+    "openISO": "2026-09-09",
+    "closeISO": "2026-09-11",
+    "listISO": "2026-09-17",
+    "prevPct": 0,
+    "sub": {
+      "qib": 0,
+      "hni": 0,
+      "retail": 0,
+      "total": 0.06,
+      "day": 1
+    },
+    "upd": 0,
+    "new": false,
+    "actualList": null,
+    "issueSize": "₹40.88 Cr",
+    "infoUrl": "https://www.investorgain.com/gmp/infrax-renewable-ipo/2318/",
     "hasAnchor": false,
     "readings": {
       "investorgain": {
@@ -473,7 +596,7 @@
       "qib": 0,
       "hni": 0,
       "retail": 0,
-      "total": 0,
+      "total": 0.73,
       "day": 1
     },
     "upd": 0,
@@ -484,44 +607,8 @@
     "hasAnchor": true,
     "readings": {
       "investorgain": {
-        "gmp": 7,
-        "pct": 9.3
-      }
-    }
-  },
-  {
-    "name": "Karamtara Engineering",
-    "type": "MAINBOARD",
-    "status": "OPEN",
-    "band": [
-      254,
-      254
-    ],
-    "lot": 59,
-    "open": "9 Sep",
-    "close": "11 Sep",
-    "list": "17 Sep",
-    "openISO": "2026-09-09",
-    "closeISO": "2026-09-11",
-    "listISO": "2026-09-17",
-    "prevPct": 26.8,
-    "sub": {
-      "qib": 0,
-      "hni": 0,
-      "retail": 0,
-      "total": 0,
-      "day": 1
-    },
-    "upd": 0,
-    "new": false,
-    "actualList": null,
-    "issueSize": "₹875.00 Cr",
-    "infoUrl": "https://www.investorgain.com/gmp/karamtara-engineering-ipo/1622/",
-    "hasAnchor": true,
-    "readings": {
-      "investorgain": {
-        "gmp": 68,
-        "pct": 26.8
+        "gmp": 11,
+        "pct": 14.7
       }
     }
   },
@@ -545,7 +632,7 @@
       "qib": 0,
       "hni": 0,
       "retail": 0,
-      "total": 0,
+      "total": 0.26,
       "day": 1
     },
     "upd": 0,
@@ -556,8 +643,8 @@
     "hasAnchor": true,
     "readings": {
       "investorgain": {
-        "gmp": 18,
-        "pct": 22.2
+        "gmp": 19,
+        "pct": 23.5
       }
     }
   },
@@ -576,12 +663,12 @@
     "openISO": "2026-09-09",
     "closeISO": "2026-09-11",
     "listISO": "2026-09-17",
-    "prevPct": 23.3,
+    "prevPct": 27.4,
     "sub": {
       "qib": 0,
       "hni": 0,
       "retail": 0,
-      "total": 0,
+      "total": 0.63,
       "day": 1
     },
     "upd": 0,
@@ -617,7 +704,7 @@
       "qib": 0,
       "hni": 0,
       "retail": 0,
-      "total": 0,
+      "total": 0.11,
       "day": 1
     },
     "upd": 0,
@@ -628,8 +715,8 @@
     "hasAnchor": true,
     "readings": {
       "investorgain": {
-        "gmp": 37,
-        "pct": 10.9
+        "gmp": 27,
+        "pct": 8
       }
     }
   },
@@ -653,7 +740,7 @@
       "qib": 0,
       "hni": 0,
       "retail": 0,
-      "total": 0,
+      "total": 0.25,
       "day": 1
     },
     "upd": 0,
@@ -664,80 +751,8 @@
     "hasAnchor": true,
     "readings": {
       "investorgain": {
-        "gmp": 30,
-        "pct": 21.6
-      }
-    }
-  },
-  {
-    "name": "Rentomojo",
-    "type": "MAINBOARD",
-    "status": "OPEN",
-    "band": [
-      404,
-      404
-    ],
-    "lot": 37,
-    "open": "9 Sep",
-    "close": "11 Sep",
-    "list": "17 Sep",
-    "openISO": "2026-09-09",
-    "closeISO": "2026-09-11",
-    "listISO": "2026-09-17",
-    "prevPct": 33.2,
-    "sub": {
-      "qib": 0,
-      "hni": 0,
-      "retail": 0,
-      "total": 0,
-      "day": 1
-    },
-    "upd": 0,
-    "new": false,
-    "actualList": null,
-    "issueSize": "₹1255.57 Cr",
-    "infoUrl": "https://www.investorgain.com/gmp/rentomojo-ipo/2231/",
-    "hasAnchor": true,
-    "readings": {
-      "investorgain": {
-        "gmp": 134,
-        "pct": 33.2
-      }
-    }
-  },
-  {
-    "name": "Infrax Renewable",
-    "type": "SME",
-    "status": "OPEN",
-    "band": [
-      104,
-      104
-    ],
-    "lot": 1200,
-    "open": "9 Sep",
-    "close": "11 Sep",
-    "list": "17 Sep",
-    "openISO": "2026-09-09",
-    "closeISO": "2026-09-11",
-    "listISO": "2026-09-17",
-    "prevPct": 0,
-    "sub": {
-      "qib": 0,
-      "hni": 0,
-      "retail": 0,
-      "total": 0,
-      "day": 1
-    },
-    "upd": 0,
-    "new": false,
-    "actualList": null,
-    "issueSize": "₹40.88 Cr",
-    "infoUrl": "https://www.investorgain.com/gmp/infrax-renewable-ipo/2318/",
-    "hasAnchor": false,
-    "readings": {
-      "investorgain": {
-        "gmp": 0,
-        "pct": 0
+        "gmp": 29,
+        "pct": 20.5
       }
     }
   },
@@ -761,7 +776,7 @@
       "qib": 0,
       "hni": 0,
       "retail": 0,
-      "total": 0,
+      "total": 0.03,
       "day": 1
     },
     "upd": 0,
@@ -778,38 +793,74 @@
     }
   },
   {
-    "name": "Glass Wall Systems",
+    "name": "Rentomojo",
     "type": "MAINBOARD",
     "status": "OPEN",
     "band": [
-      182,
-      182
+      404,
+      404
     ],
-    "lot": 82,
-    "open": "8 Sep",
-    "close": "10 Sep",
-    "list": "16 Sep",
-    "openISO": "2026-09-08",
-    "closeISO": "2026-09-10",
-    "listISO": "2026-09-16",
-    "prevPct": 30.8,
+    "lot": 37,
+    "open": "9 Sep",
+    "close": "11 Sep",
+    "list": "17 Sep",
+    "openISO": "2026-09-09",
+    "closeISO": "2026-09-11",
+    "listISO": "2026-09-17",
+    "prevPct": 33.2,
     "sub": {
       "qib": 0,
       "hni": 0,
       "retail": 0,
-      "total": 2.56,
-      "day": 2
+      "total": 0.89,
+      "day": 1
     },
     "upd": 0,
     "new": false,
     "actualList": null,
-    "issueSize": "₹427.89 Cr",
-    "infoUrl": "https://www.investorgain.com/gmp/glass-wall-systems-ipo/1879/",
+    "issueSize": "₹1255.57 Cr",
+    "infoUrl": "https://www.investorgain.com/gmp/rentomojo-ipo/2231/",
     "hasAnchor": true,
     "readings": {
       "investorgain": {
-        "gmp": 56,
-        "pct": 30.8
+        "gmp": 135,
+        "pct": 33.4
+      }
+    }
+  },
+  {
+    "name": "Karamtara Engineering",
+    "type": "MAINBOARD",
+    "status": "OPEN",
+    "band": [
+      254,
+      254
+    ],
+    "lot": 59,
+    "open": "9 Sep",
+    "close": "11 Sep",
+    "list": "17 Sep",
+    "openISO": "2026-09-09",
+    "closeISO": "2026-09-11",
+    "listISO": "2026-09-17",
+    "prevPct": 26.8,
+    "sub": {
+      "qib": 0,
+      "hni": 0,
+      "retail": 0,
+      "total": 1.03,
+      "day": 1
+    },
+    "upd": 0,
+    "new": false,
+    "actualList": null,
+    "issueSize": "₹875.00 Cr",
+    "infoUrl": "https://www.investorgain.com/gmp/karamtara-engineering-ipo/1622/",
+    "hasAnchor": true,
+    "readings": {
+      "investorgain": {
+        "gmp": 65,
+        "pct": 25.6
       }
     }
   },
@@ -833,7 +884,7 @@
       "qib": 0,
       "hni": 0,
       "retail": 0,
-      "total": 0.44,
+      "total": 0.67,
       "day": 2
     },
     "upd": 0,
@@ -844,8 +895,44 @@
     "hasAnchor": true,
     "readings": {
       "investorgain": {
-        "gmp": 30,
-        "pct": 4.4
+        "gmp": 0,
+        "pct": 0
+      }
+    }
+  },
+  {
+    "name": "Glass Wall Systems",
+    "type": "MAINBOARD",
+    "status": "OPEN",
+    "band": [
+      182,
+      182
+    ],
+    "lot": 82,
+    "open": "8 Sep",
+    "close": "10 Sep",
+    "list": "16 Sep",
+    "openISO": "2026-09-08",
+    "closeISO": "2026-09-10",
+    "listISO": "2026-09-16",
+    "prevPct": 30.8,
+    "sub": {
+      "qib": 0,
+      "hni": 0,
+      "retail": 0,
+      "total": 6.24,
+      "day": 2
+    },
+    "upd": 0,
+    "new": false,
+    "actualList": null,
+    "issueSize": "₹427.89 Cr",
+    "infoUrl": "https://www.investorgain.com/gmp/glass-wall-systems-ipo/1879/",
+    "hasAnchor": true,
+    "readings": {
+      "investorgain": {
+        "gmp": 58,
+        "pct": 31.9
       }
     }
   },
@@ -869,7 +956,7 @@
       "qib": 0,
       "hni": 0,
       "retail": 0,
-      "total": 2.73,
+      "total": 6.8,
       "day": 2
     },
     "upd": 0,
@@ -880,44 +967,8 @@
     "hasAnchor": true,
     "readings": {
       "investorgain": {
-        "gmp": 218,
-        "pct": 34.5
-      }
-    }
-  },
-  {
-    "name": "Pranav Constructions",
-    "type": "MAINBOARD",
-    "status": "OPEN",
-    "band": [
-      124,
-      124
-    ],
-    "lot": 120,
-    "open": "7 Sep",
-    "close": "9 Sep",
-    "list": "15 Sep",
-    "openISO": "2026-09-07",
-    "closeISO": "2026-09-09",
-    "listISO": "2026-09-15",
-    "prevPct": 34.7,
-    "sub": {
-      "qib": 0,
-      "hni": 0,
-      "retail": 0,
-      "total": 19.13,
-      "day": 3
-    },
-    "upd": 0,
-    "new": false,
-    "actualList": null,
-    "issueSize": "₹351.03 Cr",
-    "infoUrl": "https://www.investorgain.com/gmp/pranav-constructions-ipo/1662/",
-    "hasAnchor": true,
-    "readings": {
-      "investorgain": {
-        "gmp": 45,
-        "pct": 36.3
+        "gmp": 222,
+        "pct": 35.1
       }
     }
   },
@@ -941,7 +992,7 @@
       "qib": 0,
       "hni": 0,
       "retail": 0,
-      "total": 0.62,
+      "total": 1.04,
       "day": 3
     },
     "upd": 0,
@@ -952,8 +1003,44 @@
     "hasAnchor": false,
     "readings": {
       "investorgain": {
-        "gmp": 5,
-        "pct": 8.3
+        "gmp": 2,
+        "pct": 3.3
+      }
+    }
+  },
+  {
+    "name": "Pranav Constructions",
+    "type": "MAINBOARD",
+    "status": "OPEN",
+    "band": [
+      124,
+      124
+    ],
+    "lot": 120,
+    "open": "7 Sep",
+    "close": "9 Sep",
+    "list": "15 Sep",
+    "openISO": "2026-09-07",
+    "closeISO": "2026-09-09",
+    "listISO": "2026-09-15",
+    "prevPct": 36.3,
+    "sub": {
+      "qib": 0,
+      "hni": 0,
+      "retail": 0,
+      "total": 64.34,
+      "day": 3
+    },
+    "upd": 0,
+    "new": false,
+    "actualList": null,
+    "issueSize": "₹351.03 Cr",
+    "infoUrl": "https://www.investorgain.com/gmp/pranav-constructions-ipo/1662/",
+    "hasAnchor": true,
+    "readings": {
+      "investorgain": {
+        "gmp": 40,
+        "pct": 32.3
       }
     }
   },
