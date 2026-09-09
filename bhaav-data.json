@@ -1,5 +1,41 @@
 [
   {
+    "name": "Kheria Autocomp",
+    "type": "SME",
+    "status": "UPCOMING",
+    "band": [
+      0,
+      0
+    ],
+    "lot": 0,
+    "open": "17 Sep",
+    "close": "21 Sep",
+    "list": "24 Sep",
+    "openISO": "2026-09-17",
+    "closeISO": "2026-09-21",
+    "listISO": "2026-09-24",
+    "prevPct": null,
+    "sub": {
+      "qib": 0,
+      "hni": 0,
+      "retail": 0,
+      "total": 0,
+      "day": 0
+    },
+    "upd": 0,
+    "new": true,
+    "actualList": null,
+    "issueSize": "-",
+    "infoUrl": "https://www.investorgain.com/gmp/kheria-autocomp-ipo/2016/",
+    "hasAnchor": true,
+    "readings": {
+      "investorgain": {
+        "gmp": 0,
+        "pct": null
+      }
+    }
+  },
+  {
     "name": "NSE",
     "type": "MAINBOARD",
     "status": "LISTED",
@@ -30,7 +66,7 @@
     "hasAnchor": true,
     "readings": {
       "investorgain": {
-        "gmp": 216,
+        "gmp": 222,
         "pct": null
       }
     },
@@ -319,8 +355,8 @@
     "hasAnchor": true,
     "readings": {
       "investorgain": {
-        "gmp": 17,
-        "pct": 39.5
+        "gmp": 13,
+        "pct": 30.2
       }
     }
   },
@@ -519,7 +555,7 @@
     "openISO": "2026-09-10",
     "closeISO": "2026-09-15",
     "listISO": "2026-09-18",
-    "prevPct": 14.3,
+    "prevPct": 7.1,
     "sub": {
       "qib": 0,
       "hni": 0,
@@ -535,8 +571,8 @@
     "hasAnchor": true,
     "readings": {
       "investorgain": {
-        "gmp": 10,
-        "pct": 7.1
+        "gmp": 24,
+        "pct": 17.1
       }
     }
   },
@@ -627,7 +663,7 @@
     "openISO": "2026-09-09",
     "closeISO": "2026-09-11",
     "listISO": "2026-09-17",
-    "prevPct": 23.5,
+    "prevPct": 24.7,
     "sub": {
       "qib": 0,
       "hni": 0,
@@ -699,7 +735,7 @@
     "openISO": "2026-09-09",
     "closeISO": "2026-09-11",
     "listISO": "2026-09-17",
-    "prevPct": 8,
+    "prevPct": 3.8,
     "sub": {
       "qib": 0,
       "hni": 0,
@@ -715,8 +751,8 @@
     "hasAnchor": true,
     "readings": {
       "investorgain": {
-        "gmp": 13,
-        "pct": 3.8
+        "gmp": 8,
+        "pct": 2.4
       }
     }
   },
@@ -735,7 +771,7 @@
     "openISO": "2026-09-09",
     "closeISO": "2026-09-11",
     "listISO": "2026-09-17",
-    "prevPct": 20.5,
+    "prevPct": 17.3,
     "sub": {
       "qib": 0,
       "hni": 0,
@@ -787,8 +823,8 @@
     "hasAnchor": false,
     "readings": {
       "investorgain": {
-        "gmp": 15,
-        "pct": 16
+        "gmp": 20,
+        "pct": 21.3
       }
     }
   },
@@ -807,7 +843,7 @@
     "openISO": "2026-09-09",
     "closeISO": "2026-09-11",
     "listISO": "2026-09-17",
-    "prevPct": 33.4,
+    "prevPct": 35.4,
     "sub": {
       "qib": 0,
       "hni": 0,
@@ -843,7 +879,7 @@
     "openISO": "2026-09-09",
     "closeISO": "2026-09-11",
     "listISO": "2026-09-17",
-    "prevPct": 25.6,
+    "prevPct": 28.4,
     "sub": {
       "qib": 0,
       "hni": 0,
@@ -859,8 +895,8 @@
     "hasAnchor": true,
     "readings": {
       "investorgain": {
-        "gmp": 72,
-        "pct": 28.4
+        "gmp": 75,
+        "pct": 29.5
       }
     }
   },
@@ -915,7 +951,7 @@
     "openISO": "2026-09-08",
     "closeISO": "2026-09-10",
     "listISO": "2026-09-16",
-    "prevPct": 31.9,
+    "prevPct": 34.1,
     "sub": {
       "qib": 0,
       "hni": 0,
@@ -931,8 +967,8 @@
     "hasAnchor": true,
     "readings": {
       "investorgain": {
-        "gmp": 62,
-        "pct": 34.1
+        "gmp": 66,
+        "pct": 36.3
       }
     }
   },
@@ -951,7 +987,7 @@
     "openISO": "2026-09-08",
     "closeISO": "2026-09-10",
     "listISO": "2026-09-16",
-    "prevPct": 35.1,
+    "prevPct": 35.3,
     "sub": {
       "qib": 0,
       "hni": 0,
@@ -987,7 +1023,7 @@
     "openISO": "2026-09-07",
     "closeISO": "2026-09-09",
     "listISO": "2026-09-15",
-    "prevPct": 3.3,
+    "prevPct": 1.7,
     "sub": {
       "qib": 0,
       "hni": 0,
@@ -1075,8 +1111,8 @@
     "hasAnchor": true,
     "readings": {
       "investorgain": {
-        "gmp": 65,
-        "pct": 51.2
+        "gmp": 80,
+        "pct": 63
       }
     }
   },
