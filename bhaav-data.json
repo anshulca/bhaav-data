@@ -23,7 +23,7 @@
       "day": 0
     },
     "upd": 0,
-    "new": true,
+    "new": false,
     "actualList": null,
     "issueSize": "-",
     "infoUrl": "https://www.investorgain.com/gmp/kheria-autocomp-ipo/2016/",
@@ -339,7 +339,7 @@
     "openISO": "2026-09-11",
     "closeISO": "2026-09-16",
     "listISO": "2026-09-21",
-    "prevPct": 39.5,
+    "prevPct": 30.2,
     "sub": {
       "qib": 0,
       "hni": 0,
@@ -555,7 +555,7 @@
     "openISO": "2026-09-10",
     "closeISO": "2026-09-15",
     "listISO": "2026-09-18",
-    "prevPct": 7.1,
+    "prevPct": 17.1,
     "sub": {
       "qib": 0,
       "hni": 0,
@@ -735,7 +735,7 @@
     "openISO": "2026-09-09",
     "closeISO": "2026-09-11",
     "listISO": "2026-09-17",
-    "prevPct": 3.8,
+    "prevPct": 2.4,
     "sub": {
       "qib": 0,
       "hni": 0,
@@ -807,7 +807,7 @@
     "openISO": "2026-09-09",
     "closeISO": "2026-09-11",
     "listISO": "2026-09-17",
-    "prevPct": 16,
+    "prevPct": 21.3,
     "sub": {
       "qib": 0,
       "hni": 0,
@@ -879,7 +879,7 @@
     "openISO": "2026-09-09",
     "closeISO": "2026-09-11",
     "listISO": "2026-09-17",
-    "prevPct": 28.4,
+    "prevPct": 29.5,
     "sub": {
       "qib": 0,
       "hni": 0,
@@ -951,7 +951,7 @@
     "openISO": "2026-09-08",
     "closeISO": "2026-09-10",
     "listISO": "2026-09-16",
-    "prevPct": 34.1,
+    "prevPct": 36.3,
     "sub": {
       "qib": 0,
       "hni": 0,
@@ -1095,7 +1095,7 @@
     "openISO": "2026-09-04",
     "closeISO": "2026-09-08",
     "listISO": "2026-09-11",
-    "prevPct": 51.2,
+    "prevPct": 63,
     "sub": {
       "qib": 0,
       "hni": 0,
