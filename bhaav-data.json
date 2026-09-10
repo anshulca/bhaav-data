@@ -187,13 +187,13 @@
       0,
       0
     ],
-    "lot": 0,
-    "open": "16 Sep",
-    "close": "18 Sep",
-    "list": "23 Sep",
-    "openISO": "2026-09-16",
-    "closeISO": "2026-09-18",
-    "listISO": "2026-09-23",
+    "lot": 8,
+    "open": "17 Sep",
+    "close": "21 Sep",
+    "list": "24 Sep",
+    "openISO": "2026-09-17",
+    "closeISO": "2026-09-21",
+    "listISO": "2026-09-24",
     "prevPct": null,
     "sub": {
       "qib": 0,
@@ -205,12 +205,12 @@
     "upd": 0,
     "new": false,
     "actualList": null,
-    "issueSize": "-",
+    "issueSize": "₹26579.64 Cr",
     "infoUrl": "https://www.investorgain.com/gmp/nse-ipo/2305/",
     "hasAnchor": true,
     "readings": {
       "investorgain": {
-        "gmp": 228,
+        "gmp": 210,
         "pct": null
       }
     }
@@ -487,7 +487,7 @@
       "qib": 0,
       "hni": 0,
       "retail": 0,
-      "total": 0.24,
+      "total": 0.29,
       "day": 1
     },
     "upd": 0,
@@ -523,7 +523,7 @@
       "qib": 0,
       "hni": 0,
       "retail": 0,
-      "total": 0.61,
+      "total": 0.62,
       "day": 1
     },
     "upd": 0,
@@ -559,7 +559,7 @@
       "qib": 0,
       "hni": 0,
       "retail": 0,
-      "total": 0.38,
+      "total": 0.67,
       "day": 1
     },
     "upd": 0,
@@ -631,7 +631,7 @@
       "qib": 0,
       "hni": 0,
       "retail": 0,
-      "total": 0.34,
+      "total": 0.49,
       "day": 1
     },
     "upd": 0,
@@ -667,7 +667,7 @@
       "qib": 0,
       "hni": 0,
       "retail": 0,
-      "total": 2.78,
+      "total": 3.93,
       "day": 2
     },
     "upd": 0,
@@ -703,7 +703,7 @@
       "qib": 0,
       "hni": 0,
       "retail": 0,
-      "total": 2.95,
+      "total": 3.8,
       "day": 2
     },
     "upd": 0,
@@ -739,7 +739,7 @@
       "qib": 0,
       "hni": 0,
       "retail": 0,
-      "total": 2.09,
+      "total": 2.82,
       "day": 2
     },
     "upd": 0,
@@ -775,7 +775,7 @@
       "qib": 0,
       "hni": 0,
       "retail": 0,
-      "total": 0.68,
+      "total": 0.87,
       "day": 2
     },
     "upd": 0,
@@ -786,8 +786,8 @@
     "hasAnchor": true,
     "readings": {
       "investorgain": {
-        "gmp": 14,
-        "pct": 10.1
+        "gmp": 15,
+        "pct": 10.4
       }
     }
   },
@@ -811,7 +811,7 @@
       "qib": 0,
       "hni": 0,
       "retail": 0,
-      "total": 0.25,
+      "total": 0.31,
       "day": 2
     },
     "upd": 0,
@@ -822,8 +822,8 @@
     "hasAnchor": true,
     "readings": {
       "investorgain": {
-        "gmp": 8,
-        "pct": 2.4
+        "gmp": 5,
+        "pct": 1.5
       }
     }
   },
@@ -847,7 +847,7 @@
       "qib": 0,
       "hni": 0,
       "retail": 0,
-      "total": 0.41,
+      "total": 0.58,
       "day": 2
     },
     "upd": 0,
@@ -883,7 +883,7 @@
       "qib": 0,
       "hni": 0,
       "retail": 0,
-      "total": 1.25,
+      "total": 2.32,
       "day": 2
     },
     "upd": 0,
@@ -894,8 +894,8 @@
     "hasAnchor": true,
     "readings": {
       "investorgain": {
-        "gmp": 21,
-        "pct": 25.9
+        "gmp": 22,
+        "pct": 27.2
       }
     }
   },
@@ -919,7 +919,7 @@
       "qib": 0,
       "hni": 0,
       "retail": 0,
-      "total": 0.16,
+      "total": 0.21,
       "day": 2
     },
     "upd": 0,
@@ -955,7 +955,7 @@
       "qib": 0,
       "hni": 0,
       "retail": 0,
-      "total": 3.37,
+      "total": 4.71,
       "day": 2
     },
     "upd": 0,
@@ -991,7 +991,7 @@
       "qib": 0,
       "hni": 0,
       "retail": 0,
-      "total": 34.99,
+      "total": 90.59,
       "day": 3
     },
     "upd": 0,
@@ -1002,8 +1002,8 @@
     "hasAnchor": true,
     "readings": {
       "investorgain": {
-        "gmp": 225,
-        "pct": 35.6
+        "gmp": 235,
+        "pct": 37.2
       }
     }
   },
@@ -1027,7 +1027,7 @@
       "qib": 0,
       "hni": 0,
       "retail": 0,
-      "total": 29.44,
+      "total": 81.65,
       "day": 3
     },
     "upd": 0,
@@ -1038,8 +1038,8 @@
     "hasAnchor": true,
     "readings": {
       "investorgain": {
-        "gmp": 52,
-        "pct": 28.6
+        "gmp": 48,
+        "pct": 26.4
       }
     }
   },
@@ -1063,7 +1063,7 @@
       "qib": 0,
       "hni": 0,
       "retail": 0,
-      "total": 2.67,
+      "total": 3.47,
       "day": 3
     },
     "upd": 0,
@@ -1074,8 +1074,8 @@
     "hasAnchor": true,
     "readings": {
       "investorgain": {
-        "gmp": 0,
-        "pct": 0
+        "gmp": 4,
+        "pct": 0.6
       }
     }
   },
@@ -1110,8 +1110,8 @@
     "hasAnchor": true,
     "readings": {
       "investorgain": {
-        "gmp": 50,
-        "pct": 40.3
+        "gmp": 44,
+        "pct": 35.5
       }
     }
   },
