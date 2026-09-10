@@ -50,7 +50,7 @@
     "openISO": "2026-09-17",
     "closeISO": "2026-09-21",
     "listISO": "2026-09-24",
-    "prevPct": 11.76,
+    "prevPct": 11.8,
     "sub": {
       "qib": 0,
       "hni": 0,
@@ -66,8 +66,8 @@
     "hasAnchor": true,
     "readings": {
       "investorgain": {
-        "gmp": 210,
-        "pct": 11.8
+        "gmp": 192,
+        "pct": 10.8
       }
     }
   },
@@ -158,7 +158,7 @@
     "openISO": "2026-09-16",
     "closeISO": "2026-09-18",
     "listISO": "2026-09-23",
-    "prevPct": 14,
+    "prevPct": 20.4,
     "sub": {
       "qib": 0,
       "hni": 0,
@@ -194,7 +194,7 @@
     "openISO": "2026-09-16",
     "closeISO": "2026-09-18",
     "listISO": "2026-09-23",
-    "prevPct": 0,
+    "prevPct": 7.1,
     "sub": {
       "qib": 0,
       "hni": 0,
@@ -205,7 +205,7 @@
     "upd": 0,
     "new": false,
     "actualList": null,
-    "issueSize": "₹500.75 Cr",
+    "issueSize": "₹500.00 Cr",
     "infoUrl": "https://www.investorgain.com/gmp/ss-retail-ipo/2076/",
     "hasAnchor": true,
     "readings": {
@@ -246,8 +246,8 @@
     "hasAnchor": true,
     "readings": {
       "investorgain": {
-        "gmp": 0,
-        "pct": 0
+        "gmp": 8,
+        "pct": 9.5
       }
     }
   },
@@ -590,7 +590,7 @@
     "openISO": "2026-09-10",
     "closeISO": "2026-09-15",
     "listISO": "2026-09-18",
-    "prevPct": 0,
+    "prevPct": 5,
     "sub": {
       "qib": 0,
       "hni": 0,
@@ -662,7 +662,7 @@
     "openISO": "2026-09-09",
     "closeISO": "2026-09-11",
     "listISO": "2026-09-17",
-    "prevPct": 34,
+    "prevPct": 34.3,
     "sub": {
       "qib": 0,
       "hni": 0,
@@ -678,8 +678,8 @@
     "hasAnchor": true,
     "readings": {
       "investorgain": {
-        "gmp": 50,
-        "pct": 34.3
+        "gmp": 51,
+        "pct": 34.9
       }
     }
   },
@@ -698,7 +698,7 @@
     "openISO": "2026-09-09",
     "closeISO": "2026-09-11",
     "listISO": "2026-09-17",
-    "prevPct": 26.4,
+    "prevPct": 27.2,
     "sub": {
       "qib": 0,
       "hni": 0,
@@ -770,7 +770,7 @@
     "openISO": "2026-09-09",
     "closeISO": "2026-09-11",
     "listISO": "2026-09-17",
-    "prevPct": 10.4,
+    "prevPct": 10.1,
     "sub": {
       "qib": 0,
       "hni": 0,
@@ -806,7 +806,7 @@
     "openISO": "2026-09-09",
     "closeISO": "2026-09-11",
     "listISO": "2026-09-17",
-    "prevPct": 1.5,
+    "prevPct": 1.2,
     "sub": {
       "qib": 0,
       "hni": 0,
@@ -842,7 +842,7 @@
     "openISO": "2026-09-09",
     "closeISO": "2026-09-11",
     "listISO": "2026-09-17",
-    "prevPct": 21.3,
+    "prevPct": 19.1,
     "sub": {
       "qib": 0,
       "hni": 0,
@@ -858,8 +858,8 @@
     "hasAnchor": false,
     "readings": {
       "investorgain": {
-        "gmp": 18,
-        "pct": 19.1
+        "gmp": 15,
+        "pct": 16
       }
     }
   },
@@ -894,8 +894,8 @@
     "hasAnchor": true,
     "readings": {
       "investorgain": {
-        "gmp": 22,
-        "pct": 27.2
+        "gmp": 23,
+        "pct": 28.4
       }
     }
   },
@@ -966,8 +966,8 @@
     "hasAnchor": true,
     "readings": {
       "investorgain": {
-        "gmp": 141,
-        "pct": 34.9
+        "gmp": 135,
+        "pct": 33.4
       }
     }
   },
@@ -986,7 +986,7 @@
     "openISO": "2026-09-08",
     "closeISO": "2026-09-10",
     "listISO": "2026-09-16",
-    "prevPct": 37.2,
+    "prevPct": 38,
     "sub": {
       "qib": 0,
       "hni": 0,
@@ -1022,7 +1022,7 @@
     "openISO": "2026-09-08",
     "closeISO": "2026-09-10",
     "listISO": "2026-09-16",
-    "prevPct": 26.4,
+    "prevPct": 24.7,
     "sub": {
       "qib": 0,
       "hni": 0,
@@ -1058,7 +1058,7 @@
     "openISO": "2026-09-08",
     "closeISO": "2026-09-10",
     "listISO": "2026-09-16",
-    "prevPct": 0.6,
+    "prevPct": 0,
     "sub": {
       "qib": 0,
       "hni": 0,
@@ -1094,7 +1094,7 @@
     "openISO": "2026-09-07",
     "closeISO": "2026-09-09",
     "listISO": "2026-09-15",
-    "prevPct": 35.5,
+    "prevPct": 34.7,
     "sub": {
       "qib": 0,
       "hni": 0,
@@ -1110,8 +1110,8 @@
     "hasAnchor": true,
     "readings": {
       "investorgain": {
-        "gmp": 43,
-        "pct": 34.7
+        "gmp": 52,
+        "pct": 41.9
       }
     }
   },
@@ -1130,7 +1130,7 @@
     "openISO": "2026-09-07",
     "closeISO": "2026-09-09",
     "listISO": "2026-09-15",
-    "prevPct": 1.7,
+    "prevPct": 0,
     "sub": {
       "qib": 0,
       "hni": 0,
@@ -1166,7 +1166,7 @@
     "openISO": "2026-09-04",
     "closeISO": "2026-09-08",
     "listISO": "2026-09-11",
-    "prevPct": 63,
+    "prevPct": 66.1,
     "sub": {
       "qib": 0,
       "hni": 0,
@@ -1182,8 +1182,8 @@
     "hasAnchor": true,
     "readings": {
       "investorgain": {
-        "gmp": 84,
-        "pct": 66.1
+        "gmp": 81,
+        "pct": 63.8
       }
     }
   }
