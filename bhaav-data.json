@@ -36,6 +36,42 @@
     }
   },
   {
+    "name": "NSE",
+    "type": "MAINBOARD",
+    "status": "UPCOMING",
+    "band": [
+      1785,
+      1785
+    ],
+    "lot": 8,
+    "open": "17 Sep",
+    "close": "21 Sep",
+    "list": "24 Sep",
+    "openISO": "2026-09-17",
+    "closeISO": "2026-09-21",
+    "listISO": "2026-09-24",
+    "prevPct": 11.76,
+    "sub": {
+      "qib": 0,
+      "hni": 0,
+      "retail": 0,
+      "total": 0,
+      "day": 0
+    },
+    "upd": 0,
+    "new": false,
+    "actualList": null,
+    "issueSize": "₹26579.64 Cr",
+    "infoUrl": "https://www.investorgain.com/gmp/nse-ipo/2305/",
+    "hasAnchor": true,
+    "readings": {
+      "investorgain": {
+        "gmp": 210,
+        "pct": 11.8
+      }
+    }
+  },
+  {
     "name": "Kheria Autocomp",
     "type": "SME",
     "status": "UPCOMING",
@@ -138,8 +174,8 @@
     "hasAnchor": true,
     "readings": {
       "investorgain": {
-        "gmp": 13,
-        "pct": 14
+        "gmp": 19,
+        "pct": 20.4
       }
     }
   },
@@ -174,44 +210,8 @@
     "hasAnchor": true,
     "readings": {
       "investorgain": {
-        "gmp": 0,
-        "pct": 0
-      }
-    }
-  },
-  {
-    "name": "NSE",
-    "type": "MAINBOARD",
-    "status": "UPCOMING",
-    "band": [
-      0,
-      0
-    ],
-    "lot": 8,
-    "open": "17 Sep",
-    "close": "21 Sep",
-    "list": "24 Sep",
-    "openISO": "2026-09-17",
-    "closeISO": "2026-09-21",
-    "listISO": "2026-09-24",
-    "prevPct": null,
-    "sub": {
-      "qib": 0,
-      "hni": 0,
-      "retail": 0,
-      "total": 0,
-      "day": 0
-    },
-    "upd": 0,
-    "new": false,
-    "actualList": null,
-    "issueSize": "₹26579.64 Cr",
-    "infoUrl": "https://www.investorgain.com/gmp/nse-ipo/2305/",
-    "hasAnchor": true,
-    "readings": {
-      "investorgain": {
-        "gmp": 210,
-        "pct": null
+        "gmp": 30,
+        "pct": 7.1
       }
     }
   },
@@ -606,8 +606,8 @@
     "hasAnchor": false,
     "readings": {
       "investorgain": {
-        "gmp": 0,
-        "pct": 0
+        "gmp": 7,
+        "pct": 5
       }
     }
   },
@@ -679,7 +679,7 @@
     "readings": {
       "investorgain": {
         "gmp": 50,
-        "pct": 34
+        "pct": 34.3
       }
     }
   },
@@ -714,8 +714,8 @@
     "hasAnchor": true,
     "readings": {
       "investorgain": {
-        "gmp": 67,
-        "pct": 26.4
+        "gmp": 69,
+        "pct": 27.2
       }
     }
   },
@@ -770,7 +770,7 @@
     "openISO": "2026-09-09",
     "closeISO": "2026-09-11",
     "listISO": "2026-09-17",
-    "prevPct": 10.1,
+    "prevPct": 10.4,
     "sub": {
       "qib": 0,
       "hni": 0,
@@ -786,8 +786,8 @@
     "hasAnchor": true,
     "readings": {
       "investorgain": {
-        "gmp": 15,
-        "pct": 10.4
+        "gmp": 14,
+        "pct": 10.1
       }
     }
   },
@@ -806,7 +806,7 @@
     "openISO": "2026-09-09",
     "closeISO": "2026-09-11",
     "listISO": "2026-09-17",
-    "prevPct": 2.4,
+    "prevPct": 1.5,
     "sub": {
       "qib": 0,
       "hni": 0,
@@ -822,8 +822,8 @@
     "hasAnchor": true,
     "readings": {
       "investorgain": {
-        "gmp": 5,
-        "pct": 1.5
+        "gmp": 4,
+        "pct": 1.2
       }
     }
   },
@@ -847,7 +847,7 @@
       "qib": 0,
       "hni": 0,
       "retail": 0,
-      "total": 0.58,
+      "total": 0.59,
       "day": 2
     },
     "upd": 0,
@@ -858,8 +858,8 @@
     "hasAnchor": false,
     "readings": {
       "investorgain": {
-        "gmp": 20,
-        "pct": 21.3
+        "gmp": 18,
+        "pct": 19.1
       }
     }
   },
@@ -878,7 +878,7 @@
     "openISO": "2026-09-09",
     "closeISO": "2026-09-11",
     "listISO": "2026-09-17",
-    "prevPct": 25.9,
+    "prevPct": 27.2,
     "sub": {
       "qib": 0,
       "hni": 0,
@@ -986,7 +986,7 @@
     "openISO": "2026-09-08",
     "closeISO": "2026-09-10",
     "listISO": "2026-09-16",
-    "prevPct": 35.6,
+    "prevPct": 37.2,
     "sub": {
       "qib": 0,
       "hni": 0,
@@ -1002,8 +1002,8 @@
     "hasAnchor": true,
     "readings": {
       "investorgain": {
-        "gmp": 235,
-        "pct": 37.2
+        "gmp": 240,
+        "pct": 38
       }
     }
   },
@@ -1022,7 +1022,7 @@
     "openISO": "2026-09-08",
     "closeISO": "2026-09-10",
     "listISO": "2026-09-16",
-    "prevPct": 28.6,
+    "prevPct": 26.4,
     "sub": {
       "qib": 0,
       "hni": 0,
@@ -1038,8 +1038,8 @@
     "hasAnchor": true,
     "readings": {
       "investorgain": {
-        "gmp": 48,
-        "pct": 26.4
+        "gmp": 45,
+        "pct": 24.7
       }
     }
   },
@@ -1058,7 +1058,7 @@
     "openISO": "2026-09-08",
     "closeISO": "2026-09-10",
     "listISO": "2026-09-16",
-    "prevPct": 0,
+    "prevPct": 0.6,
     "sub": {
       "qib": 0,
       "hni": 0,
@@ -1074,8 +1074,8 @@
     "hasAnchor": true,
     "readings": {
       "investorgain": {
-        "gmp": 4,
-        "pct": 0.6
+        "gmp": 0,
+        "pct": 0
       }
     }
   },
@@ -1094,7 +1094,7 @@
     "openISO": "2026-09-07",
     "closeISO": "2026-09-09",
     "listISO": "2026-09-15",
-    "prevPct": 40.3,
+    "prevPct": 35.5,
     "sub": {
       "qib": 0,
       "hni": 0,
@@ -1110,8 +1110,8 @@
     "hasAnchor": true,
     "readings": {
       "investorgain": {
-        "gmp": 44,
-        "pct": 35.5
+        "gmp": 43,
+        "pct": 34.7
       }
     }
   },
@@ -1146,8 +1146,8 @@
     "hasAnchor": false,
     "readings": {
       "investorgain": {
-        "gmp": 1,
-        "pct": 1.7
+        "gmp": 0,
+        "pct": 0
       }
     }
   },
@@ -1182,8 +1182,8 @@
     "hasAnchor": true,
     "readings": {
       "investorgain": {
-        "gmp": 80,
-        "pct": 63
+        "gmp": 84,
+        "pct": 66.1
       }
     }
   }
