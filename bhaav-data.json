@@ -138,8 +138,8 @@
     "hasAnchor": true,
     "readings": {
       "investorgain": {
-        "gmp": 11,
-        "pct": 11.8
+        "gmp": 13,
+        "pct": 14
       }
     }
   },
@@ -210,7 +210,7 @@
     "hasAnchor": true,
     "readings": {
       "investorgain": {
-        "gmp": 224,
+        "gmp": 228,
         "pct": null
       }
     }
@@ -239,7 +239,7 @@
       "day": 0
     },
     "upd": 0,
-    "new": true,
+    "new": false,
     "actualList": null,
     "issueSize": "₹1000.00 Cr",
     "infoUrl": "https://www.investorgain.com/gmp/hero-motors-ipo/1688/",
@@ -266,7 +266,7 @@
     "openISO": "2026-09-15",
     "closeISO": "2026-09-17",
     "listISO": "2026-09-22",
-    "prevPct": null,
+    "prevPct": 0,
     "sub": {
       "qib": 0,
       "hni": 0,
@@ -275,12 +275,17 @@
       "day": 0
     },
     "upd": 0,
-    "new": true,
+    "new": false,
     "actualList": null,
     "issueSize": "₹49.54 Cr",
     "infoUrl": "https://www.investorgain.com/gmp/vama-wovenfab-ipo/1969/",
     "hasAnchor": false,
-    "readings": {}
+    "readings": {
+      "investorgain": {
+        "gmp": 0,
+        "pct": 0
+      }
+    }
   },
   {
     "name": "Shakti Polytarp",
@@ -482,7 +487,7 @@
       "qib": 0,
       "hni": 0,
       "retail": 0,
-      "total": 0.2,
+      "total": 0.24,
       "day": 1
     },
     "upd": 0,
@@ -518,7 +523,7 @@
       "qib": 0,
       "hni": 0,
       "retail": 0,
-      "total": 0.53,
+      "total": 0.61,
       "day": 1
     },
     "upd": 0,
@@ -554,7 +559,7 @@
       "qib": 0,
       "hni": 0,
       "retail": 0,
-      "total": 0,
+      "total": 0.38,
       "day": 1
     },
     "upd": 0,
@@ -565,8 +570,8 @@
     "hasAnchor": true,
     "readings": {
       "investorgain": {
-        "gmp": 24,
-        "pct": 17.1
+        "gmp": 25,
+        "pct": 17.9
       }
     }
   },
@@ -590,7 +595,7 @@
       "qib": 0,
       "hni": 0,
       "retail": 0,
-      "total": 0,
+      "total": 0.01,
       "day": 1
     },
     "upd": 0,
@@ -621,12 +626,12 @@
     "openISO": "2026-09-10",
     "closeISO": "2026-09-15",
     "listISO": "2026-09-18",
-    "prevPct": 9.2,
+    "prevPct": 4.8,
     "sub": {
       "qib": 0,
       "hni": 0,
       "retail": 0,
-      "total": 0.32,
+      "total": 0.34,
       "day": 1
     },
     "upd": 0,
@@ -637,8 +642,8 @@
     "hasAnchor": true,
     "readings": {
       "investorgain": {
-        "gmp": 13,
-        "pct": 4.8
+        "gmp": 28,
+        "pct": 10.3
       }
     }
   },
@@ -657,12 +662,12 @@
     "openISO": "2026-09-09",
     "closeISO": "2026-09-11",
     "listISO": "2026-09-17",
-    "prevPct": 30.8,
+    "prevPct": 34.3,
     "sub": {
       "qib": 0,
       "hni": 0,
       "retail": 0,
-      "total": 2.13,
+      "total": 2.78,
       "day": 2
     },
     "upd": 0,
@@ -674,7 +679,7 @@
     "readings": {
       "investorgain": {
         "gmp": 50,
-        "pct": 34.3
+        "pct": 34
       }
     }
   },
@@ -693,12 +698,12 @@
     "openISO": "2026-09-09",
     "closeISO": "2026-09-11",
     "listISO": "2026-09-17",
-    "prevPct": 29.5,
+    "prevPct": 28.4,
     "sub": {
       "qib": 0,
       "hni": 0,
       "retail": 0,
-      "total": 2.04,
+      "total": 2.95,
       "day": 2
     },
     "upd": 0,
@@ -709,8 +714,8 @@
     "hasAnchor": true,
     "readings": {
       "investorgain": {
-        "gmp": 72,
-        "pct": 28.4
+        "gmp": 67,
+        "pct": 26.4
       }
     }
   },
@@ -734,7 +739,7 @@
       "qib": 0,
       "hni": 0,
       "retail": 0,
-      "total": 1.64,
+      "total": 2.09,
       "day": 2
     },
     "upd": 0,
@@ -770,7 +775,7 @@
       "qib": 0,
       "hni": 0,
       "retail": 0,
-      "total": 0.58,
+      "total": 0.68,
       "day": 2
     },
     "upd": 0,
@@ -781,8 +786,8 @@
     "hasAnchor": true,
     "readings": {
       "investorgain": {
-        "gmp": 24,
-        "pct": 17.3
+        "gmp": 14,
+        "pct": 10.1
       }
     }
   },
@@ -801,12 +806,12 @@
     "openISO": "2026-09-09",
     "closeISO": "2026-09-11",
     "listISO": "2026-09-17",
-    "prevPct": 2.4,
+    "prevPct": 0,
     "sub": {
       "qib": 0,
       "hni": 0,
       "retail": 0,
-      "total": 0.22,
+      "total": 0.25,
       "day": 2
     },
     "upd": 0,
@@ -817,8 +822,8 @@
     "hasAnchor": true,
     "readings": {
       "investorgain": {
-        "gmp": 0,
-        "pct": 0
+        "gmp": 8,
+        "pct": 2.4
       }
     }
   },
@@ -842,7 +847,7 @@
       "qib": 0,
       "hni": 0,
       "retail": 0,
-      "total": 0.25,
+      "total": 0.41,
       "day": 2
     },
     "upd": 0,
@@ -873,12 +878,12 @@
     "openISO": "2026-09-09",
     "closeISO": "2026-09-11",
     "listISO": "2026-09-17",
-    "prevPct": 24.7,
+    "prevPct": 27.2,
     "sub": {
       "qib": 0,
       "hni": 0,
       "retail": 0,
-      "total": 0.88,
+      "total": 1.25,
       "day": 2
     },
     "upd": 0,
@@ -889,8 +894,8 @@
     "hasAnchor": true,
     "readings": {
       "investorgain": {
-        "gmp": 22,
-        "pct": 27.2
+        "gmp": 21,
+        "pct": 25.9
       }
     }
   },
@@ -914,7 +919,7 @@
       "qib": 0,
       "hni": 0,
       "retail": 0,
-      "total": 0.14,
+      "total": 0.16,
       "day": 2
     },
     "upd": 0,
@@ -945,12 +950,12 @@
     "openISO": "2026-09-09",
     "closeISO": "2026-09-11",
     "listISO": "2026-09-17",
-    "prevPct": 35.4,
+    "prevPct": 35.6,
     "sub": {
       "qib": 0,
       "hni": 0,
       "retail": 0,
-      "total": 2.42,
+      "total": 3.37,
       "day": 2
     },
     "upd": 0,
@@ -961,8 +966,8 @@
     "hasAnchor": true,
     "readings": {
       "investorgain": {
-        "gmp": 144,
-        "pct": 35.6
+        "gmp": 141,
+        "pct": 34.9
       }
     }
   },
@@ -981,12 +986,12 @@
     "openISO": "2026-09-08",
     "closeISO": "2026-09-10",
     "listISO": "2026-09-16",
-    "prevPct": 35.3,
+    "prevPct": 35.9,
     "sub": {
       "qib": 0,
       "hni": 0,
       "retail": 0,
-      "total": 16.46,
+      "total": 34.99,
       "day": 3
     },
     "upd": 0,
@@ -997,8 +1002,8 @@
     "hasAnchor": true,
     "readings": {
       "investorgain": {
-        "gmp": 227,
-        "pct": 35.9
+        "gmp": 225,
+        "pct": 35.6
       }
     }
   },
@@ -1017,12 +1022,12 @@
     "openISO": "2026-09-08",
     "closeISO": "2026-09-10",
     "listISO": "2026-09-16",
-    "prevPct": 36.3,
+    "prevPct": 30.2,
     "sub": {
       "qib": 0,
       "hni": 0,
       "retail": 0,
-      "total": 10.67,
+      "total": 29.44,
       "day": 3
     },
     "upd": 0,
@@ -1033,8 +1038,8 @@
     "hasAnchor": true,
     "readings": {
       "investorgain": {
-        "gmp": 55,
-        "pct": 30.2
+        "gmp": 52,
+        "pct": 28.6
       }
     }
   },
@@ -1053,12 +1058,12 @@
     "openISO": "2026-09-08",
     "closeISO": "2026-09-10",
     "listISO": "2026-09-16",
-    "prevPct": 0,
+    "prevPct": 0.4,
     "sub": {
       "qib": 0,
       "hni": 0,
       "retail": 0,
-      "total": 1.32,
+      "total": 2.67,
       "day": 3
     },
     "upd": 0,
@@ -1069,8 +1074,8 @@
     "hasAnchor": true,
     "readings": {
       "investorgain": {
-        "gmp": 3,
-        "pct": 0.4
+        "gmp": 0,
+        "pct": 0
       }
     }
   },
@@ -1089,7 +1094,7 @@
     "openISO": "2026-09-07",
     "closeISO": "2026-09-09",
     "listISO": "2026-09-15",
-    "prevPct": 32.3,
+    "prevPct": 33.5,
     "sub": {
       "qib": 0,
       "hni": 0,
@@ -1105,8 +1110,8 @@
     "hasAnchor": true,
     "readings": {
       "investorgain": {
-        "gmp": 42,
-        "pct": 33.5
+        "gmp": 50,
+        "pct": 40.3
       }
     }
   },
