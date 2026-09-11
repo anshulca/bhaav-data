@@ -1,5 +1,36 @@
 [
   {
+    "name": "SpectraA Technology Solutions",
+    "type": "SME",
+    "status": "UPCOMING",
+    "band": [
+      118,
+      118
+    ],
+    "lot": 1200,
+    "open": "17 Sep",
+    "close": "21 Sep",
+    "list": "24 Sep",
+    "openISO": "2026-09-17",
+    "closeISO": "2026-09-21",
+    "listISO": "2026-09-24",
+    "prevPct": null,
+    "sub": {
+      "qib": 0,
+      "hni": 0,
+      "retail": 0,
+      "total": 0,
+      "day": 0
+    },
+    "upd": 0,
+    "new": true,
+    "actualList": null,
+    "issueSize": "₹42.52 Cr",
+    "infoUrl": "https://www.investorgain.com/gmp/spectraa-technology-solutions-ipo/2211/",
+    "hasAnchor": true,
+    "readings": {}
+  },
+  {
     "name": "Axiom Gas Engineering",
     "type": "SME",
     "status": "UPCOMING",
@@ -61,13 +92,13 @@
     "upd": 0,
     "new": false,
     "actualList": null,
-    "issueSize": "₹26579.64 Cr",
+    "issueSize": "₹22561.57 Cr",
     "infoUrl": "https://www.investorgain.com/gmp/nse-ipo/2305/",
     "hasAnchor": true,
     "readings": {
       "investorgain": {
-        "gmp": 192,
-        "pct": 10.8
+        "gmp": 190,
+        "pct": 10.6
       }
     }
   },
@@ -362,7 +393,7 @@
   {
     "name": "Injecto Polymers",
     "type": "SME",
-    "status": "UPCOMING",
+    "status": "OPEN",
     "band": [
       100,
       100
@@ -380,7 +411,7 @@
       "hni": 0,
       "retail": 0,
       "total": 0,
-      "day": 0
+      "day": 1
     },
     "upd": 0,
     "new": false,
@@ -398,7 +429,7 @@
   {
     "name": "Century Business Media",
     "type": "SME",
-    "status": "UPCOMING",
+    "status": "OPEN",
     "band": [
       74,
       74
@@ -416,7 +447,7 @@
       "hni": 0,
       "retail": 0,
       "total": 0,
-      "day": 0
+      "day": 1
     },
     "upd": 0,
     "new": false,
@@ -434,7 +465,7 @@
   {
     "name": "Manika Plastech",
     "type": "MAINBOARD",
-    "status": "UPCOMING",
+    "status": "OPEN",
     "band": [
       43,
       43
@@ -452,7 +483,7 @@
       "hni": 0,
       "retail": 0,
       "total": 0,
-      "day": 0
+      "day": 1
     },
     "upd": 0,
     "new": false,
@@ -488,7 +519,7 @@
       "hni": 0,
       "retail": 0,
       "total": 0.29,
-      "day": 1
+      "day": 2
     },
     "upd": 0,
     "new": false,
@@ -524,7 +555,7 @@
       "hni": 0,
       "retail": 0,
       "total": 0.62,
-      "day": 1
+      "day": 2
     },
     "upd": 0,
     "new": false,
@@ -560,7 +591,7 @@
       "hni": 0,
       "retail": 0,
       "total": 0.67,
-      "day": 1
+      "day": 2
     },
     "upd": 0,
     "new": false,
@@ -596,7 +627,7 @@
       "hni": 0,
       "retail": 0,
       "total": 0.01,
-      "day": 1
+      "day": 2
     },
     "upd": 0,
     "new": false,
@@ -632,7 +663,7 @@
       "hni": 0,
       "retail": 0,
       "total": 0.49,
-      "day": 1
+      "day": 2
     },
     "upd": 0,
     "new": false,
@@ -668,7 +699,7 @@
       "hni": 0,
       "retail": 0,
       "total": 3.93,
-      "day": 2
+      "day": 3
     },
     "upd": 0,
     "new": false,
@@ -704,7 +735,7 @@
       "hni": 0,
       "retail": 0,
       "total": 3.8,
-      "day": 2
+      "day": 3
     },
     "upd": 0,
     "new": false,
@@ -740,7 +771,7 @@
       "hni": 0,
       "retail": 0,
       "total": 2.82,
-      "day": 2
+      "day": 3
     },
     "upd": 0,
     "new": false,
@@ -776,7 +807,7 @@
       "hni": 0,
       "retail": 0,
       "total": 0.87,
-      "day": 2
+      "day": 3
     },
     "upd": 0,
     "new": false,
@@ -812,7 +843,7 @@
       "hni": 0,
       "retail": 0,
       "total": 0.31,
-      "day": 2
+      "day": 3
     },
     "upd": 0,
     "new": false,
@@ -848,7 +879,7 @@
       "hni": 0,
       "retail": 0,
       "total": 0.59,
-      "day": 2
+      "day": 3
     },
     "upd": 0,
     "new": false,
@@ -884,7 +915,7 @@
       "hni": 0,
       "retail": 0,
       "total": 2.32,
-      "day": 2
+      "day": 3
     },
     "upd": 0,
     "new": false,
@@ -920,7 +951,7 @@
       "hni": 0,
       "retail": 0,
       "total": 0.21,
-      "day": 2
+      "day": 3
     },
     "upd": 0,
     "new": false,
@@ -956,7 +987,7 @@
       "hni": 0,
       "retail": 0,
       "total": 4.71,
-      "day": 2
+      "day": 3
     },
     "upd": 0,
     "new": false,
@@ -974,7 +1005,7 @@
   {
     "name": "Kanohar Electricals",
     "type": "MAINBOARD",
-    "status": "OPEN",
+    "status": "CLOSED",
     "band": [
       632,
       632
@@ -1010,7 +1041,7 @@
   {
     "name": "Glass Wall Systems",
     "type": "MAINBOARD",
-    "status": "OPEN",
+    "status": "CLOSED",
     "band": [
       182,
       182
@@ -1046,7 +1077,7 @@
   {
     "name": "Prasol Chemicals",
     "type": "MAINBOARD",
-    "status": "OPEN",
+    "status": "CLOSED",
     "band": [
       676,
       676
@@ -1110,8 +1141,8 @@
     "hasAnchor": true,
     "readings": {
       "investorgain": {
-        "gmp": 52,
-        "pct": 41.9
+        "gmp": 50,
+        "pct": 40.3
       }
     }
   },
@@ -1154,7 +1185,7 @@
   {
     "name": "Qualiance International",
     "type": "SME",
-    "status": "CLOSED",
+    "status": "LISTED",
     "band": [
       127,
       127
@@ -1185,6 +1216,7 @@
         "gmp": 81,
         "pct": 63.8
       }
-    }
+    },
+    "lastGmpPct": 63.8
   }
 ]
