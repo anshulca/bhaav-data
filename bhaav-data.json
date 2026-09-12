@@ -416,7 +416,7 @@
       "hni": 0,
       "retail": 0,
       "total": 0.29,
-      "day": 1
+      "day": 2
     },
     "upd": 0,
     "new": false,
@@ -452,7 +452,7 @@
       "hni": 0,
       "retail": 0,
       "total": 1.15,
-      "day": 1
+      "day": 2
     },
     "upd": 0,
     "new": false,
@@ -488,7 +488,7 @@
       "hni": 0,
       "retail": 0,
       "total": 1.49,
-      "day": 1
+      "day": 2
     },
     "upd": 0,
     "new": false,
@@ -524,7 +524,7 @@
       "hni": 0,
       "retail": 0,
       "total": 0.04,
-      "day": 2
+      "day": 3
     },
     "upd": 0,
     "new": false,
@@ -560,7 +560,7 @@
       "hni": 0,
       "retail": 0,
       "total": 0.48,
-      "day": 2
+      "day": 3
     },
     "upd": 0,
     "new": false,
@@ -596,7 +596,7 @@
       "hni": 0,
       "retail": 0,
       "total": 1.25,
-      "day": 2
+      "day": 3
     },
     "upd": 0,
     "new": false,
@@ -632,7 +632,7 @@
       "hni": 0,
       "retail": 0,
       "total": 0.95,
-      "day": 2
+      "day": 3
     },
     "upd": 0,
     "new": false,
@@ -668,7 +668,7 @@
       "hni": 0,
       "retail": 0,
       "total": 1.31,
-      "day": 2
+      "day": 3
     },
     "upd": 0,
     "new": false,
@@ -686,7 +686,7 @@
   {
     "name": "Karamtara Engineering",
     "type": "MAINBOARD",
-    "status": "OPEN",
+    "status": "CLOSED",
     "band": [
       254,
       254
@@ -722,7 +722,7 @@
   {
     "name": "Amtech Esters",
     "type": "SME",
-    "status": "OPEN",
+    "status": "CLOSED",
     "band": [
       75,
       75
@@ -758,7 +758,7 @@
   {
     "name": "Rentomojo",
     "type": "MAINBOARD",
-    "status": "OPEN",
+    "status": "CLOSED",
     "band": [
       404,
       404
@@ -794,7 +794,7 @@
   {
     "name": "Infrax Renewable",
     "type": "SME",
-    "status": "OPEN",
+    "status": "CLOSED",
     "band": [
       104,
       104
@@ -830,7 +830,7 @@
   {
     "name": "Vinod Texworld",
     "type": "SME",
-    "status": "OPEN",
+    "status": "CLOSED",
     "band": [
       94,
       94
@@ -866,7 +866,7 @@
   {
     "name": "Steamhouse",
     "type": "MAINBOARD",
-    "status": "OPEN",
+    "status": "CLOSED",
     "band": [
       81,
       81
@@ -902,7 +902,7 @@
   {
     "name": "Asset Reconstruction",
     "type": "MAINBOARD",
-    "status": "OPEN",
+    "status": "CLOSED",
     "band": [
       139,
       139
@@ -938,7 +938,7 @@
   {
     "name": "LCC Projects",
     "type": "MAINBOARD",
-    "status": "OPEN",
+    "status": "CLOSED",
     "band": [
       146,
       146
@@ -966,15 +966,15 @@
     "hasAnchor": true,
     "readings": {
       "investorgain": {
-        "gmp": 78,
-        "pct": 53.4
+        "gmp": 75,
+        "pct": 51.4
       }
     }
   },
   {
     "name": "Manipal Payment and Identity Solutions",
     "type": "MAINBOARD",
-    "status": "OPEN",
+    "status": "CLOSED",
     "band": [
       339,
       339
