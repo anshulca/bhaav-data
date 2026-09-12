@@ -86,7 +86,7 @@
     "openISO": "2026-09-17",
     "closeISO": "2026-09-21",
     "listISO": "2026-09-24",
-    "prevPct": 12.2,
+    "prevPct": 12,
     "sub": {
       "qib": 0,
       "hni": 0,
@@ -102,8 +102,8 @@
     "hasAnchor": true,
     "readings": {
       "investorgain": {
-        "gmp": 214,
-        "pct": 12
+        "gmp": 208,
+        "pct": 11.7
       }
     }
   },
@@ -194,7 +194,7 @@
     "openISO": "2026-09-16",
     "closeISO": "2026-09-18",
     "listISO": "2026-09-23",
-    "prevPct": 18.9,
+    "prevPct": 22.4,
     "sub": {
       "qib": 0,
       "hni": 0,
@@ -210,8 +210,8 @@
     "hasAnchor": true,
     "readings": {
       "investorgain": {
-        "gmp": 95,
-        "pct": 22.4
+        "gmp": 110,
+        "pct": 25.9
       }
     }
   },
@@ -266,7 +266,7 @@
     "openISO": "2026-09-16",
     "closeISO": "2026-09-18",
     "listISO": "2026-09-23",
-    "prevPct": 11.9,
+    "prevPct": 29.8,
     "sub": {
       "qib": 0,
       "hni": 0,
@@ -282,8 +282,8 @@
     "hasAnchor": true,
     "readings": {
       "investorgain": {
-        "gmp": 25,
-        "pct": 29.8
+        "gmp": 24,
+        "pct": 28.6
       }
     }
   },
@@ -482,7 +482,7 @@
     "openISO": "2026-09-11",
     "closeISO": "2026-09-16",
     "listISO": "2026-09-21",
-    "prevPct": 16.3,
+    "prevPct": 7,
     "sub": {
       "qib": 0,
       "hni": 0,
@@ -518,7 +518,7 @@
     "openISO": "2026-09-10",
     "closeISO": "2026-09-15",
     "listISO": "2026-09-18",
-    "prevPct": 5,
+    "prevPct": 7.9,
     "sub": {
       "qib": 0,
       "hni": 0,
@@ -590,7 +590,7 @@
     "openISO": "2026-09-10",
     "closeISO": "2026-09-15",
     "listISO": "2026-09-18",
-    "prevPct": 14.3,
+    "prevPct": 7.1,
     "sub": {
       "qib": 0,
       "hni": 0,
@@ -714,8 +714,8 @@
     "hasAnchor": true,
     "readings": {
       "investorgain": {
-        "gmp": 67,
-        "pct": 26.4
+        "gmp": 68,
+        "pct": 26.8
       }
     }
   },
@@ -770,7 +770,7 @@
     "openISO": "2026-09-09",
     "closeISO": "2026-09-11",
     "listISO": "2026-09-17",
-    "prevPct": 36.6,
+    "prevPct": 39.6,
     "sub": {
       "qib": 0,
       "hni": 0,
@@ -786,8 +786,8 @@
     "hasAnchor": true,
     "readings": {
       "investorgain": {
-        "gmp": 160,
-        "pct": 39.6
+        "gmp": 161,
+        "pct": 39.9
       }
     }
   },
@@ -950,7 +950,7 @@
     "openISO": "2026-09-09",
     "closeISO": "2026-09-11",
     "listISO": "2026-09-17",
-    "prevPct": 51.4,
+    "prevPct": 54.8,
     "sub": {
       "qib": 0,
       "hni": 0,
@@ -966,8 +966,8 @@
     "hasAnchor": true,
     "readings": {
       "investorgain": {
-        "gmp": 80,
-        "pct": 54.8
+        "gmp": 81,
+        "pct": 55.5
       }
     }
   },
@@ -1022,7 +1022,7 @@
     "openISO": "2026-09-08",
     "closeISO": "2026-09-10",
     "listISO": "2026-09-16",
-    "prevPct": 26.4,
+    "prevPct": 27.5,
     "sub": {
       "qib": 0,
       "hni": 0,
@@ -1094,7 +1094,7 @@
     "openISO": "2026-09-08",
     "closeISO": "2026-09-10",
     "listISO": "2026-09-16",
-    "prevPct": 36.7,
+    "prevPct": 37.5,
     "sub": {
       "qib": 0,
       "hni": 0,
@@ -1110,8 +1110,8 @@
     "hasAnchor": true,
     "readings": {
       "investorgain": {
-        "gmp": 237,
-        "pct": 37.5
+        "gmp": 240,
+        "pct": 38
       }
     }
   },
@@ -1166,7 +1166,7 @@
     "openISO": "2026-09-07",
     "closeISO": "2026-09-09",
     "listISO": "2026-09-15",
-    "prevPct": 39.5,
+    "prevPct": 36.3,
     "sub": {
       "qib": 0,
       "hni": 0,
