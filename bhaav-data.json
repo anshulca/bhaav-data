@@ -86,7 +86,7 @@
     "openISO": "2026-09-21",
     "closeISO": "2026-09-23",
     "listISO": "2026-09-28",
-    "prevPct": 0,
+    "prevPct": 14.2,
     "sub": {
       "qib": 0,
       "hni": 0,
@@ -131,7 +131,7 @@
       "day": 0
     },
     "upd": 0,
-    "new": true,
+    "new": false,
     "actualList": null,
     "issueSize": "-",
     "infoUrl": "https://www.investorgain.com/gmp/fx-multitech-ipo/1589/",
@@ -194,7 +194,7 @@
     "openISO": "2026-09-17",
     "closeISO": "2026-09-21",
     "listISO": "2026-09-24",
-    "prevPct": 11.7,
+    "prevPct": 11.8,
     "sub": {
       "qib": 0,
       "hni": 0,
@@ -230,7 +230,7 @@
     "openISO": "2026-09-17",
     "closeISO": "2026-09-21",
     "listISO": "2026-09-24",
-    "prevPct": 22.9,
+    "prevPct": 37.3,
     "sub": {
       "qib": 0,
       "hni": 0,
@@ -410,7 +410,7 @@
     "openISO": "2026-09-16",
     "closeISO": "2026-09-18",
     "listISO": "2026-09-23",
-    "prevPct": 31.8,
+    "prevPct": 31.6,
     "sub": {
       "qib": 0,
       "hni": 0,
@@ -770,7 +770,7 @@
     "openISO": "2026-09-10",
     "closeISO": "2026-09-15",
     "listISO": "2026-09-18",
-    "prevPct": 11,
+    "prevPct": 20.1,
     "sub": {
       "qib": 0,
       "hni": 0,
@@ -878,7 +878,7 @@
     "openISO": "2026-09-09",
     "closeISO": "2026-09-11",
     "listISO": "2026-09-17",
-    "prevPct": -0.6,
+    "prevPct": 0.3,
     "sub": {
       "qib": 0,
       "hni": 0,
@@ -1130,7 +1130,7 @@
     "openISO": "2026-09-09",
     "closeISO": "2026-09-11",
     "listISO": "2026-09-17",
-    "prevPct": 26.5,
+    "prevPct": 27.8,
     "sub": {
       "qib": 0,
       "hni": 0,
@@ -1166,7 +1166,7 @@
     "openISO": "2026-09-08",
     "closeISO": "2026-09-10",
     "listISO": "2026-09-16",
-    "prevPct": 28.6,
+    "prevPct": 28.9,
     "sub": {
       "qib": 0,
       "hni": 0,
@@ -1202,7 +1202,7 @@
     "openISO": "2026-09-08",
     "closeISO": "2026-09-10",
     "listISO": "2026-09-16",
-    "prevPct": -2.2,
+    "prevPct": -1.9,
     "sub": {
       "qib": 0,
       "hni": 0,
