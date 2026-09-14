@@ -36,6 +36,78 @@
     }
   },
   {
+    "name": "S.K.Offset",
+    "type": "SME",
+    "status": "UPCOMING",
+    "band": [
+      125,
+      125
+    ],
+    "lot": 1000,
+    "open": "23 Sep",
+    "close": "25 Sep",
+    "list": "30 Sep",
+    "openISO": "2026-09-23",
+    "closeISO": "2026-09-25",
+    "listISO": "2026-09-30",
+    "prevPct": 0,
+    "sub": {
+      "qib": 0,
+      "hni": 0,
+      "retail": 0,
+      "total": 0,
+      "day": 0
+    },
+    "upd": 0,
+    "new": true,
+    "actualList": null,
+    "issueSize": "₹29.06 Cr",
+    "infoUrl": "https://www.investorgain.com/gmp/skoffset-ipo/2304/",
+    "hasAnchor": true,
+    "readings": {
+      "investorgain": {
+        "gmp": 0,
+        "pct": 0
+      }
+    }
+  },
+  {
+    "name": "Robokidz Eduventures",
+    "type": "SME",
+    "status": "UPCOMING",
+    "band": [
+      106,
+      106
+    ],
+    "lot": 1200,
+    "open": "21 Sep",
+    "close": "23 Sep",
+    "list": "28 Sep",
+    "openISO": "2026-09-21",
+    "closeISO": "2026-09-23",
+    "listISO": "2026-09-28",
+    "prevPct": 0,
+    "sub": {
+      "qib": 0,
+      "hni": 0,
+      "retail": 0,
+      "total": 0,
+      "day": 0
+    },
+    "upd": 0,
+    "new": true,
+    "actualList": null,
+    "issueSize": "₹31.09 Cr",
+    "infoUrl": "https://www.investorgain.com/gmp/robokidz-eduventures-ipo/2359/",
+    "hasAnchor": true,
+    "readings": {
+      "investorgain": {
+        "gmp": 0,
+        "pct": 0
+      }
+    }
+  },
+  {
     "name": "Axiom Gas Engineering",
     "type": "SME",
     "status": "UPCOMING",
@@ -72,6 +144,42 @@
     }
   },
   {
+    "name": "NSE",
+    "type": "MAINBOARD",
+    "status": "UPCOMING",
+    "band": [
+      1785,
+      1785
+    ],
+    "lot": 8,
+    "open": "17 Sep",
+    "close": "21 Sep",
+    "list": "24 Sep",
+    "openISO": "2026-09-17",
+    "closeISO": "2026-09-21",
+    "listISO": "2026-09-24",
+    "prevPct": 11.8,
+    "sub": {
+      "qib": 0,
+      "hni": 0,
+      "retail": 0,
+      "total": 0,
+      "day": 0
+    },
+    "upd": 0,
+    "new": false,
+    "actualList": null,
+    "issueSize": "₹22561.57 Cr",
+    "infoUrl": "https://www.investorgain.com/gmp/nse-ipo/2305/",
+    "hasAnchor": true,
+    "readings": {
+      "investorgain": {
+        "gmp": 208,
+        "pct": 11.7
+      }
+    }
+  },
+  {
     "name": "Kheria Autocomp",
     "type": "SME",
     "status": "UPCOMING",
@@ -99,6 +207,42 @@
     "actualList": null,
     "issueSize": "₹46.44 Cr",
     "infoUrl": "https://www.investorgain.com/gmp/kheria-autocomp-ipo/2016/",
+    "hasAnchor": true,
+    "readings": {
+      "investorgain": {
+        "gmp": 0,
+        "pct": 0
+      }
+    }
+  },
+  {
+    "name": "Sonaselection India",
+    "type": "MAINBOARD",
+    "status": "UPCOMING",
+    "band": [
+      99,
+      99
+    ],
+    "lot": 150,
+    "open": "17 Sep",
+    "close": "21 Sep",
+    "list": "24 Sep",
+    "openISO": "2026-09-17",
+    "closeISO": "2026-09-21",
+    "listISO": "2026-09-24",
+    "prevPct": 0,
+    "sub": {
+      "qib": 0,
+      "hni": 0,
+      "retail": 0,
+      "total": 0,
+      "day": 0
+    },
+    "upd": 0,
+    "new": false,
+    "actualList": null,
+    "issueSize": "₹141.57 Cr",
+    "infoUrl": "https://www.investorgain.com/gmp/sonaselection-india-ipo/2059/",
     "hasAnchor": true,
     "readings": {
       "investorgain": {
@@ -140,114 +284,6 @@
       "investorgain": {
         "gmp": 27,
         "pct": 22.9
-      }
-    }
-  },
-  {
-    "name": "Sonaselection India",
-    "type": "MAINBOARD",
-    "status": "UPCOMING",
-    "band": [
-      99,
-      99
-    ],
-    "lot": 150,
-    "open": "17 Sep",
-    "close": "21 Sep",
-    "list": "24 Sep",
-    "openISO": "2026-09-17",
-    "closeISO": "2026-09-21",
-    "listISO": "2026-09-24",
-    "prevPct": 0,
-    "sub": {
-      "qib": 0,
-      "hni": 0,
-      "retail": 0,
-      "total": 0,
-      "day": 0
-    },
-    "upd": 0,
-    "new": false,
-    "actualList": null,
-    "issueSize": "₹141.57 Cr",
-    "infoUrl": "https://www.investorgain.com/gmp/sonaselection-india-ipo/2059/",
-    "hasAnchor": true,
-    "readings": {
-      "investorgain": {
-        "gmp": 0,
-        "pct": 0
-      }
-    }
-  },
-  {
-    "name": "NSE",
-    "type": "MAINBOARD",
-    "status": "UPCOMING",
-    "band": [
-      1785,
-      1785
-    ],
-    "lot": 8,
-    "open": "17 Sep",
-    "close": "21 Sep",
-    "list": "24 Sep",
-    "openISO": "2026-09-17",
-    "closeISO": "2026-09-21",
-    "listISO": "2026-09-24",
-    "prevPct": 11.8,
-    "sub": {
-      "qib": 0,
-      "hni": 0,
-      "retail": 0,
-      "total": 0,
-      "day": 0
-    },
-    "upd": 0,
-    "new": false,
-    "actualList": null,
-    "issueSize": "₹22561.57 Cr",
-    "infoUrl": "https://www.investorgain.com/gmp/nse-ipo/2305/",
-    "hasAnchor": true,
-    "readings": {
-      "investorgain": {
-        "gmp": 210,
-        "pct": 11.8
-      }
-    }
-  },
-  {
-    "name": "SS Retail",
-    "type": "MAINBOARD",
-    "status": "UPCOMING",
-    "band": [
-      424,
-      424
-    ],
-    "lot": 35,
-    "open": "16 Sep",
-    "close": "18 Sep",
-    "list": "23 Sep",
-    "openISO": "2026-09-16",
-    "closeISO": "2026-09-18",
-    "listISO": "2026-09-23",
-    "prevPct": 28.3,
-    "sub": {
-      "qib": 0,
-      "hni": 0,
-      "retail": 0,
-      "total": 0,
-      "day": 0
-    },
-    "upd": 0,
-    "new": false,
-    "actualList": null,
-    "issueSize": "₹500.00 Cr",
-    "infoUrl": "https://www.investorgain.com/gmp/ss-retail-ipo/2076/",
-    "hasAnchor": true,
-    "readings": {
-      "investorgain": {
-        "gmp": 120,
-        "pct": 28.3
       }
     }
   },
@@ -320,6 +356,42 @@
       "investorgain": {
         "gmp": 27,
         "pct": 29
+      }
+    }
+  },
+  {
+    "name": "SS Retail",
+    "type": "MAINBOARD",
+    "status": "UPCOMING",
+    "band": [
+      424,
+      424
+    ],
+    "lot": 35,
+    "open": "16 Sep",
+    "close": "18 Sep",
+    "list": "23 Sep",
+    "openISO": "2026-09-16",
+    "closeISO": "2026-09-18",
+    "listISO": "2026-09-23",
+    "prevPct": 28.3,
+    "sub": {
+      "qib": 0,
+      "hni": 0,
+      "retail": 0,
+      "total": 0,
+      "day": 0
+    },
+    "upd": 0,
+    "new": false,
+    "actualList": null,
+    "issueSize": "₹500.00 Cr",
+    "infoUrl": "https://www.investorgain.com/gmp/ss-retail-ipo/2076/",
+    "hasAnchor": true,
+    "readings": {
+      "investorgain": {
+        "gmp": 135,
+        "pct": 31.8
       }
     }
   },
@@ -426,6 +498,42 @@
     "hasAnchor": false,
     "readings": {
       "investorgain": {
+        "gmp": 10,
+        "pct": 2.9
+      }
+    }
+  },
+  {
+    "name": "Century Business Media",
+    "type": "SME",
+    "status": "OPEN",
+    "band": [
+      74,
+      74
+    ],
+    "lot": 1600,
+    "open": "11 Sep",
+    "close": "16 Sep",
+    "list": "21 Sep",
+    "openISO": "2026-09-11",
+    "closeISO": "2026-09-16",
+    "listISO": "2026-09-21",
+    "prevPct": 0,
+    "sub": {
+      "qib": 0,
+      "hni": 0,
+      "retail": 0,
+      "total": 1.15,
+      "day": 3
+    },
+    "upd": 0,
+    "new": false,
+    "actualList": null,
+    "issueSize": "₹17.11 Cr",
+    "infoUrl": "https://www.investorgain.com/gmp/century-business-media-ipo/1887/",
+    "hasAnchor": true,
+    "readings": {
+      "investorgain": {
         "gmp": 0,
         "pct": 0
       }
@@ -459,42 +567,6 @@
     "actualList": null,
     "issueSize": "₹56.12 Cr",
     "infoUrl": "https://www.investorgain.com/gmp/injecto-polymers-ipo/1899/",
-    "hasAnchor": true,
-    "readings": {
-      "investorgain": {
-        "gmp": 0,
-        "pct": 0
-      }
-    }
-  },
-  {
-    "name": "Century Business Media",
-    "type": "SME",
-    "status": "OPEN",
-    "band": [
-      74,
-      74
-    ],
-    "lot": 1600,
-    "open": "11 Sep",
-    "close": "16 Sep",
-    "list": "21 Sep",
-    "openISO": "2026-09-11",
-    "closeISO": "2026-09-16",
-    "listISO": "2026-09-21",
-    "prevPct": 0,
-    "sub": {
-      "qib": 0,
-      "hni": 0,
-      "retail": 0,
-      "total": 1.15,
-      "day": 3
-    },
-    "upd": 0,
-    "new": false,
-    "actualList": null,
-    "issueSize": "₹17.11 Cr",
-    "infoUrl": "https://www.investorgain.com/gmp/century-business-media-ipo/1887/",
     "hasAnchor": true,
     "readings": {
       "investorgain": {
@@ -540,38 +612,38 @@
     }
   },
   {
-    "name": "Raksan Transformers",
-    "type": "SME",
+    "name": "Veegaland Developers",
+    "type": "MAINBOARD",
     "status": "OPEN",
     "band": [
-      273,
-      273
+      140,
+      140
     ],
-    "lot": 400,
+    "lot": 107,
     "open": "10 Sep",
     "close": "15 Sep",
     "list": "18 Sep",
     "openISO": "2026-09-10",
     "closeISO": "2026-09-15",
     "listISO": "2026-09-18",
-    "prevPct": 11,
+    "prevPct": 10.7,
     "sub": {
       "qib": 0,
       "hni": 0,
       "retail": 0,
-      "total": 1.31,
+      "total": 1.25,
       "day": 3
     },
     "upd": 0,
     "new": false,
     "actualList": null,
-    "issueSize": "₹150.50 Cr",
-    "infoUrl": "https://www.investorgain.com/gmp/raksan-transformers-ipo/2022/",
+    "issueSize": "₹210.00 Cr",
+    "infoUrl": "https://www.investorgain.com/gmp/veegaland-developers-ipo/1601/",
     "hasAnchor": true,
     "readings": {
       "investorgain": {
-        "gmp": 30,
-        "pct": 11
+        "gmp": 22,
+        "pct": 15.7
       }
     }
   },
@@ -612,38 +684,38 @@
     }
   },
   {
-    "name": "Panchatv Bharat",
+    "name": "Raksan Transformers",
     "type": "SME",
     "status": "OPEN",
     "band": [
-      140,
-      140
+      273,
+      273
     ],
-    "lot": 1000,
+    "lot": 400,
     "open": "10 Sep",
     "close": "15 Sep",
     "list": "18 Sep",
     "openISO": "2026-09-10",
     "closeISO": "2026-09-15",
     "listISO": "2026-09-18",
-    "prevPct": 7.9,
+    "prevPct": 11,
     "sub": {
       "qib": 0,
       "hni": 0,
       "retail": 0,
-      "total": 0.04,
+      "total": 1.31,
       "day": 3
     },
     "upd": 0,
     "new": false,
     "actualList": null,
-    "issueSize": "₹24.58 Cr",
-    "infoUrl": "https://www.investorgain.com/gmp/panchatv-bharat-ipo/1749/",
-    "hasAnchor": false,
+    "issueSize": "₹150.50 Cr",
+    "infoUrl": "https://www.investorgain.com/gmp/raksan-transformers-ipo/2022/",
+    "hasAnchor": true,
     "readings": {
       "investorgain": {
-        "gmp": 11,
-        "pct": 7.9
+        "gmp": 30,
+        "pct": 11
       }
     }
   },
@@ -684,38 +756,38 @@
     }
   },
   {
-    "name": "Veegaland Developers",
-    "type": "MAINBOARD",
+    "name": "Panchatv Bharat",
+    "type": "SME",
     "status": "OPEN",
     "band": [
       140,
       140
     ],
-    "lot": 107,
+    "lot": 1000,
     "open": "10 Sep",
     "close": "15 Sep",
     "list": "18 Sep",
     "openISO": "2026-09-10",
     "closeISO": "2026-09-15",
     "listISO": "2026-09-18",
-    "prevPct": 10.7,
+    "prevPct": 7.9,
     "sub": {
       "qib": 0,
       "hni": 0,
       "retail": 0,
-      "total": 1.25,
+      "total": 0.04,
       "day": 3
     },
     "upd": 0,
     "new": false,
     "actualList": null,
-    "issueSize": "₹210.00 Cr",
-    "infoUrl": "https://www.investorgain.com/gmp/veegaland-developers-ipo/1601/",
-    "hasAnchor": true,
+    "issueSize": "₹24.58 Cr",
+    "infoUrl": "https://www.investorgain.com/gmp/panchatv-bharat-ipo/1749/",
+    "hasAnchor": false,
     "readings": {
       "investorgain": {
-        "gmp": 15,
-        "pct": 10.7
+        "gmp": 18,
+        "pct": 12.9
       }
     }
   },
@@ -786,8 +858,80 @@
     "hasAnchor": true,
     "readings": {
       "investorgain": {
-        "gmp": 21,
-        "pct": 25.9
+        "gmp": 22,
+        "pct": 26.5
+      }
+    }
+  },
+  {
+    "name": "Vinod Texworld",
+    "type": "SME",
+    "status": "CLOSED",
+    "band": [
+      94,
+      94
+    ],
+    "lot": 1200,
+    "open": "9 Sep",
+    "close": "11 Sep",
+    "list": "17 Sep",
+    "openISO": "2026-09-09",
+    "closeISO": "2026-09-11",
+    "listISO": "2026-09-17",
+    "prevPct": 1.1,
+    "sub": {
+      "qib": 0,
+      "hni": 0,
+      "retail": 0,
+      "total": 1.6,
+      "day": 3
+    },
+    "upd": 0,
+    "new": false,
+    "actualList": null,
+    "issueSize": "₹42.83 Cr",
+    "infoUrl": "https://www.investorgain.com/gmp/vinod-texworld-ipo/1977/",
+    "hasAnchor": false,
+    "readings": {
+      "investorgain": {
+        "gmp": 1,
+        "pct": 1.1
+      }
+    }
+  },
+  {
+    "name": "Asset Reconstruction",
+    "type": "MAINBOARD",
+    "status": "CLOSED",
+    "band": [
+      139,
+      139
+    ],
+    "lot": 107,
+    "open": "9 Sep",
+    "close": "11 Sep",
+    "list": "17 Sep",
+    "openISO": "2026-09-09",
+    "closeISO": "2026-09-11",
+    "listISO": "2026-09-17",
+    "prevPct": 10.8,
+    "sub": {
+      "qib": 0,
+      "hni": 0,
+      "retail": 0,
+      "total": 20.1,
+      "day": 3
+    },
+    "upd": 0,
+    "new": false,
+    "actualList": null,
+    "issueSize": "₹732.97 Cr",
+    "infoUrl": "https://www.investorgain.com/gmp/asset-reconstruction-ipo/1848/",
+    "hasAnchor": true,
+    "readings": {
+      "investorgain": {
+        "gmp": 16,
+        "pct": 11.5
       }
     }
   },
@@ -914,7 +1058,7 @@
     "openISO": "2026-09-09",
     "closeISO": "2026-09-11",
     "listISO": "2026-09-17",
-    "prevPct": 38.9,
+    "prevPct": 39.6,
     "sub": {
       "qib": 0,
       "hni": 0,
@@ -930,44 +1074,8 @@
     "hasAnchor": true,
     "readings": {
       "investorgain": {
-        "gmp": 160,
-        "pct": 39.6
-      }
-    }
-  },
-  {
-    "name": "Vinod Texworld",
-    "type": "SME",
-    "status": "CLOSED",
-    "band": [
-      94,
-      94
-    ],
-    "lot": 1200,
-    "open": "9 Sep",
-    "close": "11 Sep",
-    "list": "17 Sep",
-    "openISO": "2026-09-09",
-    "closeISO": "2026-09-11",
-    "listISO": "2026-09-17",
-    "prevPct": 1.1,
-    "sub": {
-      "qib": 0,
-      "hni": 0,
-      "retail": 0,
-      "total": 1.6,
-      "day": 3
-    },
-    "upd": 0,
-    "new": false,
-    "actualList": null,
-    "issueSize": "₹42.83 Cr",
-    "infoUrl": "https://www.investorgain.com/gmp/vinod-texworld-ipo/1977/",
-    "hasAnchor": false,
-    "readings": {
-      "investorgain": {
-        "gmp": 1,
-        "pct": 1.1
+        "gmp": 158,
+        "pct": 39.1
       }
     }
   },
@@ -1008,74 +1116,38 @@
     }
   },
   {
-    "name": "Asset Reconstruction",
+    "name": "Prasol Chemicals",
     "type": "MAINBOARD",
     "status": "CLOSED",
     "band": [
-      139,
-      139
+      676,
+      676
     ],
-    "lot": 107,
-    "open": "9 Sep",
-    "close": "11 Sep",
-    "list": "17 Sep",
-    "openISO": "2026-09-09",
-    "closeISO": "2026-09-11",
-    "listISO": "2026-09-17",
-    "prevPct": 10.8,
-    "sub": {
-      "qib": 0,
-      "hni": 0,
-      "retail": 0,
-      "total": 20.1,
-      "day": 3
-    },
-    "upd": 0,
-    "new": false,
-    "actualList": null,
-    "issueSize": "₹732.97 Cr",
-    "infoUrl": "https://www.investorgain.com/gmp/asset-reconstruction-ipo/1848/",
-    "hasAnchor": true,
-    "readings": {
-      "investorgain": {
-        "gmp": 15,
-        "pct": 10.8
-      }
-    }
-  },
-  {
-    "name": "Kanohar Electricals",
-    "type": "MAINBOARD",
-    "status": "CLOSED",
-    "band": [
-      632,
-      632
-    ],
-    "lot": 23,
+    "lot": 22,
     "open": "8 Sep",
     "close": "10 Sep",
     "list": "16 Sep",
     "openISO": "2026-09-08",
     "closeISO": "2026-09-10",
     "listISO": "2026-09-16",
-    "prevPct": 38.1,
+    "prevPct": -2.2,
     "sub": {
       "qib": 0,
       "hni": 0,
       "retail": 0,
-      "total": 90.59,
+      "total": 3.47,
       "day": 3
     },
     "upd": 0,
     "new": false,
     "actualList": null,
-    "issueSize": "₹1055.74 Cr",
-    "infoUrl": "https://www.investorgain.com/gmp/kanohar-electricals-ipo/2119/",
+    "issueSize": "₹500.00 Cr",
+    "infoUrl": "https://www.investorgain.com/gmp/prasol-chemicals-ipo/2030/",
     "hasAnchor": true,
     "readings": {
       "investorgain": {
-        "gmp": 241,
-        "pct": 38.1
+        "gmp": -15,
+        "pct": -2.2
       }
     }
   },
@@ -1116,74 +1188,38 @@
     }
   },
   {
-    "name": "Prasol Chemicals",
+    "name": "Kanohar Electricals",
     "type": "MAINBOARD",
     "status": "CLOSED",
     "band": [
-      676,
-      676
+      632,
+      632
     ],
-    "lot": 22,
+    "lot": 23,
     "open": "8 Sep",
     "close": "10 Sep",
     "list": "16 Sep",
     "openISO": "2026-09-08",
     "closeISO": "2026-09-10",
     "listISO": "2026-09-16",
-    "prevPct": -2.2,
+    "prevPct": 38.1,
     "sub": {
       "qib": 0,
       "hni": 0,
       "retail": 0,
-      "total": 3.47,
+      "total": 90.59,
       "day": 3
     },
     "upd": 0,
     "new": false,
     "actualList": null,
-    "issueSize": "₹500.00 Cr",
-    "infoUrl": "https://www.investorgain.com/gmp/prasol-chemicals-ipo/2030/",
+    "issueSize": "₹1055.74 Cr",
+    "infoUrl": "https://www.investorgain.com/gmp/kanohar-electricals-ipo/2119/",
     "hasAnchor": true,
     "readings": {
       "investorgain": {
-        "gmp": -15,
-        "pct": -2.2
-      }
-    }
-  },
-  {
-    "name": "Pranav Constructions",
-    "type": "MAINBOARD",
-    "status": "CLOSED",
-    "band": [
-      124,
-      124
-    ],
-    "lot": 120,
-    "open": "7 Sep",
-    "close": "9 Sep",
-    "list": "15 Sep",
-    "openISO": "2026-09-07",
-    "closeISO": "2026-09-09",
-    "listISO": "2026-09-15",
-    "prevPct": 36.3,
-    "sub": {
-      "qib": 0,
-      "hni": 0,
-      "retail": 0,
-      "total": 126.34,
-      "day": 3
-    },
-    "upd": 0,
-    "new": false,
-    "actualList": null,
-    "issueSize": "₹351.03 Cr",
-    "infoUrl": "https://www.investorgain.com/gmp/pranav-constructions-ipo/1662/",
-    "hasAnchor": true,
-    "readings": {
-      "investorgain": {
-        "gmp": 45,
-        "pct": 36.3
+        "gmp": 241,
+        "pct": 38.1
       }
     }
   },
