@@ -102,8 +102,8 @@
     "hasAnchor": true,
     "readings": {
       "investorgain": {
-        "gmp": 15,
-        "pct": 14.2
+        "gmp": 40,
+        "pct": 37.7
       }
     }
   },
@@ -210,8 +210,8 @@
     "hasAnchor": true,
     "readings": {
       "investorgain": {
-        "gmp": 210,
-        "pct": 11.8
+        "gmp": 208,
+        "pct": 11.7
       }
     }
   },
@@ -426,8 +426,8 @@
     "hasAnchor": true,
     "readings": {
       "investorgain": {
-        "gmp": 134,
-        "pct": 31.6
+        "gmp": 140,
+        "pct": 33
       }
     }
   },
@@ -678,8 +678,8 @@
     "hasAnchor": true,
     "readings": {
       "investorgain": {
-        "gmp": 22,
-        "pct": 15.7
+        "gmp": 23,
+        "pct": 16.4
       }
     }
   },
@@ -750,8 +750,8 @@
     "hasAnchor": true,
     "readings": {
       "investorgain": {
-        "gmp": 45,
-        "pct": 24.2
+        "gmp": 40,
+        "pct": 21.5
       }
     }
   },
@@ -1074,8 +1074,8 @@
     "hasAnchor": true,
     "readings": {
       "investorgain": {
-        "gmp": 64,
-        "pct": 43.8
+        "gmp": 63,
+        "pct": 43.1
       }
     }
   },
@@ -1146,8 +1146,8 @@
     "hasAnchor": true,
     "readings": {
       "investorgain": {
-        "gmp": 23,
-        "pct": 27.8
+        "gmp": 24,
+        "pct": 29.6
       }
     }
   },
@@ -1254,8 +1254,8 @@
     "hasAnchor": true,
     "readings": {
       "investorgain": {
-        "gmp": 241,
-        "pct": 38.1
+        "gmp": 240,
+        "pct": 38
       }
     }
   }
