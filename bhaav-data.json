@@ -434,7 +434,7 @@
   {
     "name": "Vama Wovenfab",
     "type": "SME",
-    "status": "UPCOMING",
+    "status": "OPEN",
     "band": [
       341,
       341
@@ -452,7 +452,7 @@
       "hni": 0,
       "retail": 0,
       "total": 0,
-      "day": 0
+      "day": 1
     },
     "upd": 0,
     "new": false,
@@ -470,7 +470,7 @@
   {
     "name": "Shakti Polytarp",
     "type": "SME",
-    "status": "UPCOMING",
+    "status": "OPEN",
     "band": [
       59,
       59
@@ -488,7 +488,7 @@
       "hni": 0,
       "retail": 0,
       "total": 0,
-      "day": 0
+      "day": 1
     },
     "upd": 0,
     "new": false,
@@ -506,7 +506,7 @@
   {
     "name": "Quanto Agroworld",
     "type": "SME",
-    "status": "UPCOMING",
+    "status": "OPEN",
     "band": [
       67,
       67
@@ -524,7 +524,7 @@
       "hni": 0,
       "retail": 0,
       "total": 0,
-      "day": 0
+      "day": 1
     },
     "upd": 0,
     "new": false,
