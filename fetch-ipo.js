@@ -391,25 +391,28 @@ async function maybeNotifyAllotment(out){
   const due = (out||[]).filter(r => r.allotISO===today && r.status!=="LISTED");
   console.log(`Allotment check: today(IST)=${today}, due=${due.length}`);
   if(!testMode && !due.length){ console.log('No allotment due today - silent.'); return; }
-  let msg = "🎯 *Bhaav Allotment tonight* - "+today+"\n\n";
+  // HTML parse mode (not Markdown): registrar URLs contain underscores (Initial_Offer, IRMS_V2)
+  // which break Telegram Markdown parsing and silently drop this 2nd msg. Morning msg untouched.
+  const esc = s => String(s||"").replace(/&/g,"&amp;").replace(/</g,"&lt;").replace(/>/g,"&gt;");
+  let msg = "🎯 <b>Bhaav Allotment tonight</b> - "+esc(today)+"\n\n";
   msg += "Allotment expected in next 3-4 hrs (~9 PM). Check here:\n\n";
   if(testMode && !due.length){
-    msg += "_(test message - evening allotment alerts are working.)_\n\n";
+    msg += "<i>(test message - evening allotment alerts are working.)</i>\n\n";
   }
   due.forEach(r=>{
     const rk = r.registrar && REGISTRARS[r.registrar] ? r.registrar : null;
     const rname = rk ? (rk==="MUFG"?"MUFG":rk==="KFIN"?"KFin":rk==="BIGSHARE"?"Bigshare":rk==="MAASHITLA"?"Maashitla":rk==="SKYLINE"?"Skyline":"Integrated") : "Registrar";
     const link = rk ? REGISTRARS[rk] : null;
-    msg += `• *${r.name}* (${r.type}) — ${rname}\n`;
-    if(link) msg += `   👉 ${link}\n`;
+    msg += `• <b>${esc(r.name)}</b> (${esc(r.type)}) — ${esc(rname)}\n`;
+    if(link) msg += `   👉 <a href="${link}">${link}</a>\n`;
   });
-  msg += "\n_Have PAN / application no. ready. GMP unofficial - verify._\n\n";
-  msg += "Posted automatically by *Bhaav*\n";
-  msg += "Made by [CA Anshul Karwa](https://www.linkedin.com/in/anshulkarwa/)";
+  msg += "\n<i>Have PAN / application no. ready. GMP unofficial - verify.</i>\n\n";
+  msg += "Posted automatically by <b>Bhaav</b>\n";
+  msg += 'Made by <a href="https://www.linkedin.com/in/anshulkarwa/">CA Anshul Karwa</a>';
   try{
     const res = await fetch(`https://api.telegram.org/bot${token}/sendMessage`, {
       method:"POST", headers:{"Content-Type":"application/json"},
-      body: JSON.stringify({ chat_id:chat, text:msg, parse_mode:"Markdown", disable_web_page_preview:true })
+      body: JSON.stringify({ chat_id:chat, text:msg, parse_mode:"HTML", disable_web_page_preview:true })
     });
     const j = await res.json();
     if(j.ok){ console.log('Allotment alert posted.'); if(!testMode) fs.writeFileSync('.tg-allot-last', today); }
