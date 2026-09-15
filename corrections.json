@@ -3,5 +3,16 @@
   "Xtranet Technologies": { "actualList": 136 },
   "Lohia Corp": { "actualList": 461 },
   "Caliber Mining": { "actualList": 500 },
-  "Alpine Texworld": { "actualList": 105 }
+  "Alpine Texworld": { "actualList": 105 },
+  "Karamtara Engineering": { "registrar": "MUFG" },
+  "Manipal Payment and Identity Solutions": { "registrar": "MUFG" },
+  "Asset Reconstruction": { "registrar": "MUFG" },
+  "Steamhouse": { "registrar": "KFIN" },
+  "LCC Projects": { "registrar": "KFIN" },
+  "Rentomojo": { "registrar": "KFIN" },
+  "Vinod Texworld": { "registrar": "KFIN" },
+  "Amtech Esters": { "registrar": "MAASHITLA" },
+  "Panchatv Bharat": { "registrar": "MAASHITLA" },
+  "Shakti Polytarp": { "registrar": "SKYLINE" },
+  "Injecto Polymers": { "registrar": "INTEGRATED" }
 }

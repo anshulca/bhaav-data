@@ -7,6 +7,8 @@ on:
     # extra runs to guarantee the 10 AM IST Telegram window (10:00 & 10:15 IST = 04:30 & 04:45 UTC)
     - cron: '30 4 * * *'
     - cron: '45 4 * * *'
+    # evening allotment alert window (8 PM IST = 14:30 UTC) - morning msg untouched
+    - cron: '30 14 * * *'
   workflow_dispatch:
     inputs:
       test_telegram:

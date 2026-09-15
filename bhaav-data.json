@@ -14,6 +14,7 @@
     "openISO": "2026-09-24",
     "closeISO": "2026-09-28",
     "listISO": "2026-10-01",
+    "allotISO": "2026-09-29",
     "prevPct": null,
     "sub": {
       "qib": 0,
@@ -33,7 +34,8 @@
         "gmp": 0,
         "pct": null
       }
-    }
+    },
+    "registrar": "BIGSHARE"
   },
   {
     "name": "S.K.Offset",
@@ -50,6 +52,7 @@
     "openISO": "2026-09-23",
     "closeISO": "2026-09-25",
     "listISO": "2026-09-30",
+    "allotISO": "2026-09-28",
     "prevPct": 0,
     "sub": {
       "qib": 0,
@@ -69,7 +72,8 @@
         "gmp": 0,
         "pct": 0
       }
-    }
+    },
+    "registrar": "MAASHITLA"
   },
   {
     "name": "Robokidz Eduventures",
@@ -86,7 +90,8 @@
     "openISO": "2026-09-21",
     "closeISO": "2026-09-23",
     "listISO": "2026-09-28",
-    "prevPct": 14.2,
+    "allotISO": "2026-09-24",
+    "prevPct": 42.5,
     "sub": {
       "qib": 0,
       "hni": 0,
@@ -105,7 +110,8 @@
         "gmp": 45,
         "pct": 42.5
       }
-    }
+    },
+    "registrar": "MAASHITLA"
   },
   {
     "name": "FX Multitech",
@@ -122,6 +128,7 @@
     "openISO": "2026-09-21",
     "closeISO": "2026-09-23",
     "listISO": "2026-09-28",
+    "allotISO": "2026-09-24",
     "prevPct": null,
     "sub": {
       "qib": 0,
@@ -141,7 +148,8 @@
         "gmp": 0,
         "pct": null
       }
-    }
+    },
+    "registrar": "MUFG"
   },
   {
     "name": "Axiom Gas Engineering",
@@ -158,6 +166,7 @@
     "openISO": "2026-09-18",
     "closeISO": "2026-09-22",
     "listISO": "2026-09-25",
+    "allotISO": "2026-09-23",
     "prevPct": 0,
     "sub": {
       "qib": 0,
@@ -177,7 +186,8 @@
         "gmp": 0,
         "pct": 0
       }
-    }
+    },
+    "registrar": "KFIN"
   },
   {
     "name": "Sonaselection India",
@@ -194,7 +204,8 @@
     "openISO": "2026-09-17",
     "closeISO": "2026-09-21",
     "listISO": "2026-09-24",
-    "prevPct": 5,
+    "allotISO": "2026-09-22",
+    "prevPct": 8.1,
     "sub": {
       "qib": 0,
       "hni": 0,
@@ -213,7 +224,8 @@
         "gmp": 8,
         "pct": 8.1
       }
-    }
+    },
+    "registrar": "KFIN"
   },
   {
     "name": "SpectraA Technology Solutions",
@@ -230,6 +242,7 @@
     "openISO": "2026-09-17",
     "closeISO": "2026-09-21",
     "listISO": "2026-09-24",
+    "allotISO": "2026-09-22",
     "prevPct": 42.4,
     "sub": {
       "qib": 0,
@@ -249,7 +262,8 @@
         "gmp": 50,
         "pct": 42.4
       }
-    }
+    },
+    "registrar": "MAASHITLA"
   },
   {
     "name": "NSE",
@@ -266,7 +280,8 @@
     "openISO": "2026-09-17",
     "closeISO": "2026-09-21",
     "listISO": "2026-09-24",
-    "prevPct": 10,
+    "allotISO": "2026-09-22",
+    "prevPct": 9,
     "sub": {
       "qib": 0,
       "hni": 0,
@@ -285,7 +300,8 @@
         "gmp": 160,
         "pct": 9
       }
-    }
+    },
+    "registrar": "MUFG"
   },
   {
     "name": "Kheria Autocomp",
@@ -302,6 +318,7 @@
     "openISO": "2026-09-17",
     "closeISO": "2026-09-21",
     "listISO": "2026-09-24",
+    "allotISO": "2026-09-22",
     "prevPct": 9.9,
     "sub": {
       "qib": 0,
@@ -321,7 +338,8 @@
         "gmp": 10,
         "pct": 9.9
       }
-    }
+    },
+    "registrar": "KFIN"
   },
   {
     "name": "SS Retail",
@@ -338,7 +356,8 @@
     "openISO": "2026-09-16",
     "closeISO": "2026-09-18",
     "listISO": "2026-09-23",
-    "prevPct": 34.2,
+    "allotISO": "2026-09-21",
+    "prevPct": 30.2,
     "sub": {
       "qib": 0,
       "hni": 0,
@@ -357,7 +376,8 @@
         "gmp": 128,
         "pct": 30.2
       }
-    }
+    },
+    "registrar": "KFIN"
   },
   {
     "name": "Hero Motors",
@@ -374,7 +394,8 @@
     "openISO": "2026-09-16",
     "closeISO": "2026-09-18",
     "listISO": "2026-09-23",
-    "prevPct": 26.2,
+    "allotISO": "2026-09-21",
+    "prevPct": 22.6,
     "sub": {
       "qib": 0,
       "hni": 0,
@@ -393,7 +414,8 @@
         "gmp": 19,
         "pct": 22.6
       }
-    }
+    },
+    "registrar": "KFIN"
   },
   {
     "name": "Jindal Supreme",
@@ -410,6 +432,7 @@
     "openISO": "2026-09-16",
     "closeISO": "2026-09-18",
     "listISO": "2026-09-23",
+    "allotISO": "2026-09-21",
     "prevPct": 29,
     "sub": {
       "qib": 0,
@@ -429,7 +452,8 @@
         "gmp": 27,
         "pct": 29
       }
-    }
+    },
+    "registrar": "BIGSHARE"
   },
   {
     "name": "Quanto Agroworld",
@@ -446,6 +470,7 @@
     "openISO": "2026-09-15",
     "closeISO": "2026-09-17",
     "listISO": "2026-09-22",
+    "allotISO": "2026-09-18",
     "prevPct": 0,
     "sub": {
       "qib": 0,
@@ -465,7 +490,8 @@
         "gmp": 0,
         "pct": 0
       }
-    }
+    },
+    "registrar": "MUFG"
   },
   {
     "name": "Vama Wovenfab",
@@ -482,7 +508,8 @@
     "openISO": "2026-09-15",
     "closeISO": "2026-09-17",
     "listISO": "2026-09-22",
-    "prevPct": 2.9,
+    "allotISO": "2026-09-18",
+    "prevPct": 8.8,
     "sub": {
       "qib": 0,
       "hni": 0,
@@ -501,7 +528,8 @@
         "gmp": 30,
         "pct": 8.8
       }
-    }
+    },
+    "registrar": "MAASHITLA"
   },
   {
     "name": "Shakti Polytarp",
@@ -518,6 +546,7 @@
     "openISO": "2026-09-15",
     "closeISO": "2026-09-17",
     "listISO": "2026-09-22",
+    "allotISO": "2026-09-18",
     "prevPct": 0,
     "sub": {
       "qib": 0,
@@ -537,7 +566,8 @@
         "gmp": 0,
         "pct": 0
       }
-    }
+    },
+    "registrar": "SKYLINE"
   },
   {
     "name": "Century Business Media",
@@ -554,6 +584,7 @@
     "openISO": "2026-09-11",
     "closeISO": "2026-09-16",
     "listISO": "2026-09-21",
+    "allotISO": "2026-09-17",
     "prevPct": 0,
     "sub": {
       "qib": 0,
@@ -573,7 +604,8 @@
         "gmp": 0,
         "pct": 0
       }
-    }
+    },
+    "registrar": "KFIN"
   },
   {
     "name": "Injecto Polymers",
@@ -590,6 +622,7 @@
     "openISO": "2026-09-11",
     "closeISO": "2026-09-16",
     "listISO": "2026-09-21",
+    "allotISO": "2026-09-17",
     "prevPct": 0,
     "sub": {
       "qib": 0,
@@ -609,7 +642,8 @@
         "gmp": 0,
         "pct": 0
       }
-    }
+    },
+    "registrar": "INTEGRATED"
   },
   {
     "name": "Manika Plastech",
@@ -626,7 +660,8 @@
     "openISO": "2026-09-11",
     "closeISO": "2026-09-16",
     "listISO": "2026-09-21",
-    "prevPct": 9.3,
+    "allotISO": "2026-09-17",
+    "prevPct": 7,
     "sub": {
       "qib": 0,
       "hni": 0,
@@ -645,7 +680,8 @@
         "gmp": 3,
         "pct": 7
       }
-    }
+    },
+    "registrar": "MUFG"
   },
   {
     "name": "Panchatv Bharat",
@@ -662,6 +698,7 @@
     "openISO": "2026-09-10",
     "closeISO": "2026-09-15",
     "listISO": "2026-09-18",
+    "allotISO": "2026-09-16",
     "prevPct": 2.1,
     "sub": {
       "qib": 0,
@@ -681,7 +718,8 @@
         "gmp": 3,
         "pct": 2.1
       }
-    }
+    },
+    "registrar": "MAASHITLA"
   },
   {
     "name": "Raksan Transformers",
@@ -698,6 +736,7 @@
     "openISO": "2026-09-10",
     "closeISO": "2026-09-15",
     "listISO": "2026-09-18",
+    "allotISO": "2026-09-16",
     "prevPct": 18.3,
     "sub": {
       "qib": 0,
@@ -717,7 +756,8 @@
         "gmp": 50,
         "pct": 18.3
       }
-    }
+    },
+    "registrar": "BIGSHARE"
   },
   {
     "name": "Om Galaxy",
@@ -734,6 +774,7 @@
     "openISO": "2026-09-10",
     "closeISO": "2026-09-15",
     "listISO": "2026-09-18",
+    "allotISO": "2026-09-16",
     "prevPct": 0,
     "sub": {
       "qib": 0,
@@ -753,7 +794,8 @@
         "gmp": 0,
         "pct": 0
       }
-    }
+    },
+    "registrar": "BIGSHARE"
   },
   {
     "name": "Maharaja & Speedex India",
@@ -770,6 +812,7 @@
     "openISO": "2026-09-10",
     "closeISO": "2026-09-15",
     "listISO": "2026-09-18",
+    "allotISO": "2026-09-16",
     "prevPct": 15.1,
     "sub": {
       "qib": 0,
@@ -789,7 +832,8 @@
         "gmp": 28,
         "pct": 15.1
       }
-    }
+    },
+    "registrar": "MAASHITLA"
   },
   {
     "name": "Veegaland Developers",
@@ -806,7 +850,8 @@
     "openISO": "2026-09-10",
     "closeISO": "2026-09-15",
     "listISO": "2026-09-18",
-    "prevPct": 5,
+    "allotISO": "2026-09-16",
+    "prevPct": 7.1,
     "sub": {
       "qib": 0,
       "hni": 0,
@@ -825,7 +870,8 @@
         "gmp": 10,
         "pct": 7.1
       }
-    }
+    },
+    "registrar": "MUFG"
   },
   {
     "name": "Steamhouse",
@@ -842,7 +888,8 @@
     "openISO": "2026-09-09",
     "closeISO": "2026-09-11",
     "listISO": "2026-09-17",
-    "prevPct": 28.4,
+    "allotISO": "2026-09-15",
+    "prevPct": 24.1,
     "sub": {
       "qib": 0,
       "hni": 0,
@@ -861,7 +908,8 @@
         "gmp": 20,
         "pct": 24.1
       }
-    }
+    },
+    "registrar": "KFIN"
   },
   {
     "name": "Manipal Payment and Identity Solutions",
@@ -878,6 +926,7 @@
     "openISO": "2026-09-09",
     "closeISO": "2026-09-11",
     "listISO": "2026-09-17",
+    "allotISO": "2026-09-15",
     "prevPct": -3,
     "sub": {
       "qib": 0,
@@ -897,7 +946,8 @@
         "gmp": -10,
         "pct": -3
       }
-    }
+    },
+    "registrar": "MUFG"
   },
   {
     "name": "Asset Reconstruction",
@@ -914,7 +964,8 @@
     "openISO": "2026-09-09",
     "closeISO": "2026-09-11",
     "listISO": "2026-09-17",
-    "prevPct": 11.2,
+    "allotISO": "2026-09-15",
+    "prevPct": 10.1,
     "sub": {
       "qib": 0,
       "hni": 0,
@@ -933,7 +984,8 @@
         "gmp": 14,
         "pct": 10.1
       }
-    }
+    },
+    "registrar": "MUFG"
   },
   {
     "name": "LCC Projects",
@@ -950,6 +1002,7 @@
     "openISO": "2026-09-09",
     "closeISO": "2026-09-11",
     "listISO": "2026-09-17",
+    "allotISO": "2026-09-15",
     "prevPct": 37,
     "sub": {
       "qib": 0,
@@ -966,10 +1019,11 @@
     "hasAnchor": true,
     "readings": {
       "investorgain": {
-        "gmp": 55,
-        "pct": 37.7
+        "gmp": 54,
+        "pct": 37
       }
-    }
+    },
+    "registrar": "KFIN"
   },
   {
     "name": "Vinod Texworld",
@@ -986,6 +1040,7 @@
     "openISO": "2026-09-09",
     "closeISO": "2026-09-11",
     "listISO": "2026-09-17",
+    "allotISO": "2026-09-15",
     "prevPct": 1.1,
     "sub": {
       "qib": 0,
@@ -1005,7 +1060,8 @@
         "gmp": 1,
         "pct": 1.1
       }
-    }
+    },
+    "registrar": "KFIN"
   },
   {
     "name": "Amtech Esters",
@@ -1022,7 +1078,8 @@
     "openISO": "2026-09-09",
     "closeISO": "2026-09-11",
     "listISO": "2026-09-17",
-    "prevPct": 9.3,
+    "allotISO": "2026-09-15",
+    "prevPct": 13.3,
     "sub": {
       "qib": 0,
       "hni": 0,
@@ -1038,10 +1095,11 @@
     "hasAnchor": true,
     "readings": {
       "investorgain": {
-        "gmp": 7,
-        "pct": 9.3
+        "gmp": 10,
+        "pct": 13.3
       }
-    }
+    },
+    "registrar": "MAASHITLA"
   },
   {
     "name": "Karamtara Engineering",
@@ -1058,7 +1116,8 @@
     "openISO": "2026-09-09",
     "closeISO": "2026-09-11",
     "listISO": "2026-09-17",
-    "prevPct": 25.6,
+    "allotISO": "2026-09-15",
+    "prevPct": 22.4,
     "sub": {
       "qib": 0,
       "hni": 0,
@@ -1074,10 +1133,11 @@
     "hasAnchor": true,
     "readings": {
       "investorgain": {
-        "gmp": 60,
-        "pct": 23.6
+        "gmp": 57,
+        "pct": 22.4
       }
-    }
+    },
+    "registrar": "MUFG"
   },
   {
     "name": "Rentomojo",
@@ -1094,7 +1154,8 @@
     "openISO": "2026-09-09",
     "closeISO": "2026-09-11",
     "listISO": "2026-09-17",
-    "prevPct": 35.1,
+    "allotISO": "2026-09-15",
+    "prevPct": 33.4,
     "sub": {
       "qib": 0,
       "hni": 0,
@@ -1113,7 +1174,8 @@
         "gmp": 135,
         "pct": 33.4
       }
-    }
+    },
+    "registrar": "KFIN"
   },
   {
     "name": "Infrax Renewable",
@@ -1130,6 +1192,7 @@
     "openISO": "2026-09-09",
     "closeISO": "2026-09-11",
     "listISO": "2026-09-17",
+    "allotISO": "2026-09-15",
     "prevPct": 0,
     "sub": {
       "qib": 0,
@@ -1149,7 +1212,8 @@
         "gmp": 0,
         "pct": 0
       }
-    }
+    },
+    "registrar": "BIGSHARE"
   },
   {
     "name": "Prasol Chemicals",
@@ -1166,6 +1230,7 @@
     "openISO": "2026-09-08",
     "closeISO": "2026-09-10",
     "listISO": "2026-09-16",
+    "allotISO": "2026-09-11",
     "prevPct": -1.9,
     "sub": {
       "qib": 0,
@@ -1185,7 +1250,8 @@
         "gmp": -13,
         "pct": -1.9
       }
-    }
+    },
+    "registrar": "KFIN"
   },
   {
     "name": "Glass Wall Systems",
@@ -1202,6 +1268,7 @@
     "openISO": "2026-09-08",
     "closeISO": "2026-09-10",
     "listISO": "2026-09-16",
+    "allotISO": "2026-09-11",
     "prevPct": 22.5,
     "sub": {
       "qib": 0,
@@ -1221,7 +1288,8 @@
         "gmp": 41,
         "pct": 22.5
       }
-    }
+    },
+    "registrar": "MUFG"
   },
   {
     "name": "Kanohar Electricals",
@@ -1238,7 +1306,8 @@
     "openISO": "2026-09-08",
     "closeISO": "2026-09-10",
     "listISO": "2026-09-16",
-    "prevPct": 33.1,
+    "allotISO": "2026-09-11",
+    "prevPct": 30.4,
     "sub": {
       "qib": 0,
       "hni": 0,
@@ -1257,7 +1326,8 @@
         "gmp": 192,
         "pct": 30.4
       }
-    }
+    },
+    "registrar": "MUFG"
   },
   {
     "name": "One Mobikwik Systems",
@@ -1274,6 +1344,7 @@
     "openISO": "2024-12-11",
     "closeISO": "2024-12-13",
     "listISO": "2024-12-18",
+    "allotISO": "2024-12-16",
     "prevPct": null,
     "sub": {
       "qib": 0,
@@ -1306,6 +1377,7 @@
     "openISO": "2026-09-07",
     "closeISO": "2026-09-09",
     "listISO": "2026-09-15",
+    "allotISO": "2026-09-10",
     "prevPct": 0,
     "sub": {
       "qib": 0,
@@ -1343,6 +1415,7 @@
     "openISO": "2026-09-07",
     "closeISO": "2026-09-09",
     "listISO": "2026-09-15",
+    "allotISO": "2026-09-10",
     "prevPct": 42.7,
     "sub": {
       "qib": 0,
@@ -1380,6 +1453,7 @@
     "openISO": "2026-09-04",
     "closeISO": "2026-09-08",
     "listISO": "2026-09-11",
+    "allotISO": "2026-09-09",
     "prevPct": 63.8,
     "sub": {
       "qib": 0,

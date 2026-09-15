@@ -62,6 +62,8 @@ function transform(row){
   const openI  = isoDate(row['~Srt_Open']);
   const closeI = isoDate(row['~Srt_Close']);
   const listI  = isoDate(row['~Str_Listing']);
+  // allotment date (BoA Dt) comes straight from feed - exact incl. holidays. e.g. Rentomojo 11 Sep close -> 15 Sep BoA.
+  const allotI = isoDate(row['~Srt_BoA_Dt']);
 
   // subscription (times, e.g. "1.74x"). Try several fields; strip HTML; sanity-cap.
   function parseSub(v){
@@ -126,7 +128,7 @@ function transform(row){
     name, type, status,
     band:[lo||0, hi||0], lot,
     open:dispDate(openI), close:dispDate(closeI), list:dispDate(listI),
-    openISO:openI, closeISO:closeI, listISO:listI,
+    openISO:openI, closeISO:closeI, listISO:listI, allotISO:allotI,
     prevPct: gmpPct,
     sub:{ qib:subQib, hni:subHni, retail:subRet, total: subTotal||0, day:0 },
     upd:0, new:false, actualList,
@@ -158,6 +160,39 @@ function weightedGmp(readings){
   }
   let wS=0,pS=0; for(const [k,v] of used){ const w=SOURCE_WEIGHTS[k]; wS+=w; pS+=v.pct*w; }
   return wS? +(pS/wS).toFixed(1) : null;
+}
+
+/* ---------- registrar portals: same link per registrar, only the right one is shown ----------
+   Verified 15-Sep-2026 from investorgain /ipo/ detail pages. Feed has NO registrar field,
+   so we guess from name (static map, no network) + allow corrections.json override.
+   Morning telegram text is NOT touched by this. */
+const REGISTRARS = {
+  MUFG:      "https://in.mpms.mufg.com/Initial_Offer/public-issues.html",
+  KFIN:      "https://ipostatus.kfintech.com",
+  BIGSHARE:  "https://ipo.bigshareonline.com/ipo_status.html",
+  MAASHITLA: "https://maashitla.com/allotment-status/public-issues",
+  SKYLINE:   "https://www.skylinerta.com/ipo.php",
+  INTEGRATED:"https://www.integratedregistry.in/IRMS_V2/IPOListing.aspx",
+};
+const REGISTRAR_PATTERNS = [
+  [/karamtara/, "MUFG"], [/manipal\s*payment/, "MUFG"], [/asset\s*reconstruction|arcil/, "MUFG"],
+  [/fx\s*multitech/, "MUFG"], [/^nse$/, "MUFG"], [/quanto\s*agroworld/, "MUFG"],
+  [/manika\s*plastech/, "MUFG"], [/veegaland/, "MUFG"], [/glass\s*wall/, "MUFG"], [/kanohar/, "MUFG"],
+  [/steamhouse/, "KFIN"], [/lcc\s*projects/, "KFIN"], [/rentomojo|rento/, "KFIN"], [/vinod\s*tex/, "KFIN"],
+  [/axiom\s*gas/, "KFIN"], [/sonaselection/, "KFIN"], [/kheria\s*autocomp/, "KFIN"], [/ss\s*retail/, "KFIN"],
+  [/hero\s*motors/, "KFIN"], [/century\s*business/, "KFIN"], [/prasol\s*chemicals/, "KFIN"],
+  [/a-one\s*steels/, "BIGSHARE"], [/jindal\s*supreme/, "BIGSHARE"], [/raksan\s*transformers/, "BIGSHARE"],
+  [/om\s*galaxy/, "BIGSHARE"], [/infrax\s*renewable/, "BIGSHARE"],
+  [/s\.k\.offset|skoffset/, "MAASHITLA"], [/robokidz/, "MAASHITLA"], [/spectraa/, "MAASHITLA"],
+  [/vama\s*wovenfab/, "MAASHITLA"], [/panchatv/, "MAASHITLA"], [/maharaja.*speedex|speedex/, "MAASHITLA"],
+  [/amtech\s*esters/, "MAASHITLA"],
+  [/shakti\s*polytarp/, "SKYLINE"],
+  [/injecto\s*polymers/, "INTEGRATED"],
+];
+function guessRegistrar(name){
+  const n = String(name||"").toLowerCase().trim();
+  for(const [re,k] of REGISTRAR_PATTERNS){ if(re.test(n)) return k; }
+  return null;
 }
 
 /* ---------- main ---------- */
@@ -201,6 +236,14 @@ async function main(){
   let out = rows.map(transform).filter(Boolean);
   console.log('transformed', out.length, 'IPOs from', okUrl);
 
+  // registrar name only (portal links are fixed per registrar in bhaav.html + telegram).
+  // Static map, no network, never throws. corrections.json can still override below.
+  try {
+    let guessed = 0;
+    out.forEach(r => { if(!r.registrar){ const g = guessRegistrar(r.name); if(g){ r.registrar = g; guessed++; } } });
+    console.log('registrar guessed for '+guessed+'/'+out.length+' IPOs');
+  } catch(e){ console.log('registrar guess skipped:', e.message); }
+
   // preserve trend from previous file if present
   try {
     if(fs.existsSync('bhaav-data.json')){
@@ -237,6 +280,8 @@ async function main(){
         }
         if(c.type) r.type = c.type;
         if(c.issueSize) r.issueSize = c.issueSize;
+        if(c.registrar) r.registrar = c.registrar;
+        if(c.allotISO) r.allotISO = c.allotISO;
         applied++;
       });
       if(applied) console.log('applied '+applied+' manual correction(s) from corrections.json');
@@ -247,6 +292,7 @@ async function main(){
   console.log('WROTE bhaav-data.json with '+out.length+' IPOs');
 
   await maybeNotifyTelegram(out);
+  await maybeNotifyAllotment(out);
 }
 
 /* ---------- Telegram daily reminder ----------
@@ -320,6 +366,55 @@ async function maybeNotifyTelegram(out){
     if(j.ok){ console.log('Telegram posted.'); if(!testMode) fs.writeFileSync('.tg-last', today); }
     else console.log('Telegram error:', JSON.stringify(j).slice(0,300));
   }catch(e){ console.log('Telegram send failed:', e.message); }
+}
+
+/* ---------- Telegram evening allotment alert (NEW, separate) ----------
+   Sends around 8 PM IST on allotment day: "allotment in next 3-4 hrs on this link".
+   Does NOT touch morning msg: separate guard file .tg-allot-last, separate hour check.
+   Silent on days with no allotment. */
+async function maybeNotifyAllotment(out){
+  const token = process.env.TELEGRAM_BOT_TOKEN;
+  const chat  = process.env.TELEGRAM_CHAT_ID;
+  if(!token || !chat){ return; }
+  const nowIST = new Date(Date.now() + (5.5*60 - new Date().getTimezoneOffset())*60000);
+  const today = nowIST.toISOString().slice(0,10);
+  const istHour = nowIST.getUTCHours();
+  const testMode = process.env.TG_TEST==="1";
+  const SEND_AFTER_IST_HOUR = 20;   // 8 PM IST
+  if(!testMode && istHour < SEND_AFTER_IST_HOUR){
+    console.log(`Allotment alert: before 20:00 IST (hour=${istHour}) - waiting.`);
+    return;
+  }
+  if(!testMode){
+    try{ if(fs.existsSync('.tg-allot-last') && fs.readFileSync('.tg-allot-last','utf8').trim()===today){ console.log('Allotment alert already posted today for '+today+'.'); return; } }catch(e){}
+  }
+  const due = (out||[]).filter(r => r.allotISO===today && r.status!=="LISTED");
+  console.log(`Allotment check: today(IST)=${today}, due=${due.length}`);
+  if(!testMode && !due.length){ console.log('No allotment due today - silent.'); return; }
+  let msg = "🎯 *Bhaav Allotment tonight* - "+today+"\n\n";
+  msg += "Allotment expected in next 3-4 hrs (~9 PM). Check here:\n\n";
+  if(testMode && !due.length){
+    msg += "_(test message - evening allotment alerts are working.)_\n\n";
+  }
+  due.forEach(r=>{
+    const rk = r.registrar && REGISTRARS[r.registrar] ? r.registrar : null;
+    const rname = rk ? (rk==="MUFG"?"MUFG":rk==="KFIN"?"KFin":rk==="BIGSHARE"?"Bigshare":rk==="MAASHITLA"?"Maashitla":rk==="SKYLINE"?"Skyline":"Integrated") : "Registrar";
+    const link = rk ? REGISTRARS[rk] : null;
+    msg += `• *${r.name}* (${r.type}) — ${rname}\n`;
+    if(link) msg += `   👉 ${link}\n`;
+  });
+  msg += "\n_Have PAN / application no. ready. GMP unofficial - verify._\n\n";
+  msg += "Posted automatically by *Bhaav*\n";
+  msg += "Made by [CA Anshul Karwa](https://www.linkedin.com/in/anshulkarwa/)";
+  try{
+    const res = await fetch(`https://api.telegram.org/bot${token}/sendMessage`, {
+      method:"POST", headers:{"Content-Type":"application/json"},
+      body: JSON.stringify({ chat_id:chat, text:msg, parse_mode:"Markdown", disable_web_page_preview:true })
+    });
+    const j = await res.json();
+    if(j.ok){ console.log('Allotment alert posted.'); if(!testMode) fs.writeFileSync('.tg-allot-last', today); }
+    else console.log('Allotment alert error:', JSON.stringify(j).slice(0,300));
+  }catch(e){ console.log('Allotment alert send failed:', e.message); }
 }
 
 main();
