@@ -1,5 +1,37 @@
 [
   {
+    "name": "One Mobikwik Systems",
+    "type": "MAINBOARD",
+    "status": "LISTED",
+    "band": [
+      279,
+      279
+    ],
+    "lot": 0,
+    "open": "11 Dec",
+    "close": "13 Dec",
+    "list": "18 Dec",
+    "openISO": "2024-12-11",
+    "closeISO": "2024-12-13",
+    "listISO": "2024-12-18",
+    "prevPct": null,
+    "sub": {
+      "qib": 0,
+      "hni": 0,
+      "retail": 0,
+      "total": 0,
+      "day": 3
+    },
+    "upd": 0,
+    "new": true,
+    "actualList": null,
+    "issueSize": "₹572.00 Cr",
+    "infoUrl": "https://www.investorgain.com/gmp/mobikwik-ipo/162/",
+    "hasAnchor": true,
+    "readings": {},
+    "lastGmpPct": 0
+  },
+  {
     "name": "A-One Steels",
     "type": "MAINBOARD",
     "status": "UPCOMING",
@@ -318,8 +350,8 @@
     "hasAnchor": true,
     "readings": {
       "investorgain": {
-        "gmp": 0,
-        "pct": 0
+        "gmp": 10,
+        "pct": 9.9
       }
     }
   },
@@ -487,7 +519,7 @@
       "qib": 0,
       "hni": 0,
       "retail": 0,
-      "total": 0.38,
+      "total": 0.64,
       "day": 1
     },
     "upd": 0,
@@ -523,7 +555,7 @@
       "qib": 0,
       "hni": 0,
       "retail": 0,
-      "total": 0.01,
+      "total": 0.02,
       "day": 1
     },
     "upd": 0,
@@ -559,7 +591,7 @@
       "qib": 0,
       "hni": 0,
       "retail": 0,
-      "total": 0.5,
+      "total": 0.85,
       "day": 3
     },
     "upd": 0,
@@ -595,7 +627,7 @@
       "qib": 0,
       "hni": 0,
       "retail": 0,
-      "total": 1.27,
+      "total": 1.45,
       "day": 3
     },
     "upd": 0,
@@ -631,7 +663,7 @@
       "qib": 0,
       "hni": 0,
       "retail": 0,
-      "total": 7.11,
+      "total": 8.74,
       "day": 3
     },
     "upd": 0,
@@ -667,7 +699,7 @@
       "qib": 0,
       "hni": 0,
       "retail": 0,
-      "total": 9.72,
+      "total": 14.6,
       "day": 3
     },
     "upd": 0,
@@ -703,7 +735,7 @@
       "qib": 0,
       "hni": 0,
       "retail": 0,
-      "total": 0.91,
+      "total": 1.4,
       "day": 3
     },
     "upd": 0,
@@ -714,8 +746,8 @@
     "hasAnchor": false,
     "readings": {
       "investorgain": {
-        "gmp": 21,
-        "pct": 15
+        "gmp": 3,
+        "pct": 2.1
       }
     }
   },
@@ -739,7 +771,7 @@
       "qib": 0,
       "hni": 0,
       "retail": 0,
-      "total": 15.18,
+      "total": 32.41,
       "day": 3
     },
     "upd": 0,
@@ -750,8 +782,8 @@
     "hasAnchor": true,
     "readings": {
       "investorgain": {
-        "gmp": 20,
-        "pct": 10.8
+        "gmp": 28,
+        "pct": 15.1
       }
     }
   },
@@ -775,7 +807,7 @@
       "qib": 0,
       "hni": 0,
       "retail": 0,
-      "total": 22.05,
+      "total": 47.43,
       "day": 3
     },
     "upd": 0,
@@ -811,7 +843,7 @@
       "qib": 0,
       "hni": 0,
       "retail": 0,
-      "total": 1.37,
+      "total": 2.07,
       "day": 3
     },
     "upd": 0,
