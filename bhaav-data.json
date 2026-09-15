@@ -35,7 +35,10 @@
         "pct": null
       }
     },
-    "registrar": "BIGSHARE"
+    "registrar": "BIGSHARE",
+    "trend": [
+      null
+    ]
   },
   {
     "name": "S.K.Offset",
@@ -73,7 +76,10 @@
         "pct": 0
       }
     },
-    "registrar": "MAASHITLA"
+    "registrar": "MAASHITLA",
+    "trend": [
+      0
+    ]
   },
   {
     "name": "Robokidz Eduventures",
@@ -111,7 +117,10 @@
         "pct": 42.5
       }
     },
-    "registrar": "MAASHITLA"
+    "registrar": "MAASHITLA",
+    "trend": [
+      42.5
+    ]
   },
   {
     "name": "FX Multitech",
@@ -149,7 +158,10 @@
         "pct": null
       }
     },
-    "registrar": "MUFG"
+    "registrar": "MUFG",
+    "trend": [
+      null
+    ]
   },
   {
     "name": "Axiom Gas Engineering",
@@ -187,7 +199,10 @@
         "pct": 0
       }
     },
-    "registrar": "KFIN"
+    "registrar": "KFIN",
+    "trend": [
+      0
+    ]
   },
   {
     "name": "Sonaselection India",
@@ -225,7 +240,10 @@
         "pct": 8.1
       }
     },
-    "registrar": "KFIN"
+    "registrar": "KFIN",
+    "trend": [
+      8.1
+    ]
   },
   {
     "name": "SpectraA Technology Solutions",
@@ -263,7 +281,10 @@
         "pct": 42.4
       }
     },
-    "registrar": "MAASHITLA"
+    "registrar": "MAASHITLA",
+    "trend": [
+      42.4
+    ]
   },
   {
     "name": "NSE",
@@ -301,7 +322,10 @@
         "pct": 9
       }
     },
-    "registrar": "MUFG"
+    "registrar": "MUFG",
+    "trend": [
+      9
+    ]
   },
   {
     "name": "Kheria Autocomp",
@@ -339,7 +363,10 @@
         "pct": 9.9
       }
     },
-    "registrar": "KFIN"
+    "registrar": "KFIN",
+    "trend": [
+      9.9
+    ]
   },
   {
     "name": "SS Retail",
@@ -377,7 +404,10 @@
         "pct": 30.2
       }
     },
-    "registrar": "KFIN"
+    "registrar": "KFIN",
+    "trend": [
+      30.2
+    ]
   },
   {
     "name": "Hero Motors",
@@ -415,7 +445,10 @@
         "pct": 22.6
       }
     },
-    "registrar": "KFIN"
+    "registrar": "KFIN",
+    "trend": [
+      22.6
+    ]
   },
   {
     "name": "Jindal Supreme",
@@ -453,7 +486,10 @@
         "pct": 29
       }
     },
-    "registrar": "BIGSHARE"
+    "registrar": "BIGSHARE",
+    "trend": [
+      29
+    ]
   },
   {
     "name": "Quanto Agroworld",
@@ -491,7 +527,10 @@
         "pct": 0
       }
     },
-    "registrar": "MUFG"
+    "registrar": "MUFG",
+    "trend": [
+      0
+    ]
   },
   {
     "name": "Vama Wovenfab",
@@ -529,7 +568,10 @@
         "pct": 8.8
       }
     },
-    "registrar": "MAASHITLA"
+    "registrar": "MAASHITLA",
+    "trend": [
+      8.8
+    ]
   },
   {
     "name": "Shakti Polytarp",
@@ -567,7 +609,10 @@
         "pct": 0
       }
     },
-    "registrar": "SKYLINE"
+    "registrar": "SKYLINE",
+    "trend": [
+      0
+    ]
   },
   {
     "name": "Century Business Media",
@@ -605,7 +650,10 @@
         "pct": 0
       }
     },
-    "registrar": "KFIN"
+    "registrar": "KFIN",
+    "trend": [
+      0
+    ]
   },
   {
     "name": "Injecto Polymers",
@@ -643,7 +691,10 @@
         "pct": 0
       }
     },
-    "registrar": "INTEGRATED"
+    "registrar": "INTEGRATED",
+    "trend": [
+      0
+    ]
   },
   {
     "name": "Manika Plastech",
@@ -681,7 +732,10 @@
         "pct": 7
       }
     },
-    "registrar": "MUFG"
+    "registrar": "MUFG",
+    "trend": [
+      7
+    ]
   },
   {
     "name": "Panchatv Bharat",
@@ -719,7 +773,10 @@
         "pct": 2.1
       }
     },
-    "registrar": "MAASHITLA"
+    "registrar": "MAASHITLA",
+    "trend": [
+      2.1
+    ]
   },
   {
     "name": "Raksan Transformers",
@@ -757,7 +814,10 @@
         "pct": 18.3
       }
     },
-    "registrar": "BIGSHARE"
+    "registrar": "BIGSHARE",
+    "trend": [
+      18.3
+    ]
   },
   {
     "name": "Om Galaxy",
@@ -795,7 +855,10 @@
         "pct": 0
       }
     },
-    "registrar": "BIGSHARE"
+    "registrar": "BIGSHARE",
+    "trend": [
+      0
+    ]
   },
   {
     "name": "Maharaja & Speedex India",
@@ -833,7 +896,10 @@
         "pct": 15.1
       }
     },
-    "registrar": "MAASHITLA"
+    "registrar": "MAASHITLA",
+    "trend": [
+      15.1
+    ]
   },
   {
     "name": "Veegaland Developers",
@@ -871,7 +937,10 @@
         "pct": 7.1
       }
     },
-    "registrar": "MUFG"
+    "registrar": "MUFG",
+    "trend": [
+      7.1
+    ]
   },
   {
     "name": "Steamhouse",
@@ -909,7 +978,10 @@
         "pct": 24.1
       }
     },
-    "registrar": "KFIN"
+    "registrar": "KFIN",
+    "trend": [
+      24.1
+    ]
   },
   {
     "name": "Manipal Payment and Identity Solutions",
@@ -947,7 +1019,10 @@
         "pct": -3
       }
     },
-    "registrar": "MUFG"
+    "registrar": "MUFG",
+    "trend": [
+      -3
+    ]
   },
   {
     "name": "Asset Reconstruction",
@@ -985,7 +1060,10 @@
         "pct": 10.1
       }
     },
-    "registrar": "MUFG"
+    "registrar": "MUFG",
+    "trend": [
+      10.1
+    ]
   },
   {
     "name": "LCC Projects",
@@ -1023,7 +1101,10 @@
         "pct": 37
       }
     },
-    "registrar": "KFIN"
+    "registrar": "KFIN",
+    "trend": [
+      37
+    ]
   },
   {
     "name": "Vinod Texworld",
@@ -1061,7 +1142,10 @@
         "pct": 1.1
       }
     },
-    "registrar": "KFIN"
+    "registrar": "KFIN",
+    "trend": [
+      1.1
+    ]
   },
   {
     "name": "Amtech Esters",
@@ -1099,7 +1183,10 @@
         "pct": 13.3
       }
     },
-    "registrar": "MAASHITLA"
+    "registrar": "MAASHITLA",
+    "trend": [
+      13.3
+    ]
   },
   {
     "name": "Karamtara Engineering",
@@ -1137,7 +1224,10 @@
         "pct": 22.4
       }
     },
-    "registrar": "MUFG"
+    "registrar": "MUFG",
+    "trend": [
+      22.4
+    ]
   },
   {
     "name": "Rentomojo",
@@ -1175,7 +1265,10 @@
         "pct": 33.4
       }
     },
-    "registrar": "KFIN"
+    "registrar": "KFIN",
+    "trend": [
+      33.4
+    ]
   },
   {
     "name": "Infrax Renewable",
@@ -1213,7 +1306,10 @@
         "pct": 0
       }
     },
-    "registrar": "BIGSHARE"
+    "registrar": "BIGSHARE",
+    "trend": [
+      0
+    ]
   },
   {
     "name": "Prasol Chemicals",
@@ -1251,7 +1347,10 @@
         "pct": -1.9
       }
     },
-    "registrar": "KFIN"
+    "registrar": "KFIN",
+    "trend": [
+      -1.9
+    ]
   },
   {
     "name": "Glass Wall Systems",
@@ -1289,7 +1388,10 @@
         "pct": 22.5
       }
     },
-    "registrar": "MUFG"
+    "registrar": "MUFG",
+    "trend": [
+      22.5
+    ]
   },
   {
     "name": "Kanohar Electricals",
@@ -1327,7 +1429,10 @@
         "pct": 30.4
       }
     },
-    "registrar": "MUFG"
+    "registrar": "MUFG",
+    "trend": [
+      30.4
+    ]
   },
   {
     "name": "One Mobikwik Systems",
@@ -1398,7 +1503,10 @@
         "pct": 0
       }
     },
-    "lastGmpPct": 0
+    "lastGmpPct": 0,
+    "trend": [
+      0
+    ]
   },
   {
     "name": "Pranav Constructions",
@@ -1436,7 +1544,10 @@
         "pct": 42.7
       }
     },
-    "lastGmpPct": 42.7
+    "lastGmpPct": 42.7,
+    "trend": [
+      42.7
+    ]
   },
   {
     "name": "Qualiance International",
@@ -1474,6 +1585,9 @@
         "pct": 63.8
       }
     },
-    "lastGmpPct": 63.8
+    "lastGmpPct": 63.8,
+    "trend": [
+      63.8
+    ]
   }
 ]

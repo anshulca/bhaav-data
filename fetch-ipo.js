@@ -251,11 +251,39 @@ async function main(){
       const pmap={}; prev.forEach(p=>{ if(p.name) pmap[p.name.toLowerCase()]=p; });
       out.forEach(r=>{
         const key=r.name.toLowerCase();
-        if(pmap[key]){ const oldW=weightedGmp(pmap[key].readings||{}); if(oldW!=null) r.prevPct=oldW; r.new=false; }
+        if(pmap[key]){
+          const oldW=weightedGmp(pmap[key].readings||{}); if(oldW!=null) r.prevPct=oldW; r.new=false;
+          if(Array.isArray(pmap[key].trend)) r.trend = pmap[key].trend.slice(-7); // carry 7-day sparkline
+        }
         else { r.new=true; }
       });
     }
   } catch(e){ /* ignore */ }
+
+  /* ---------- daily GMP history for sparklines (NEW, additive) ----------
+     Appends one point per IPO per IST day to gmp-history.json (keeps 30).
+     Attaches last-7 pcts as r.trend for cards. Telegram untouched. */
+  try {
+    const nowISTh = new Date(Date.now() + (5.5*60 - new Date().getTimezoneOffset())*60000);
+    const todayH = nowISTh.toISOString().slice(0,10);
+    let hist = {};
+    try{ if(fs.existsSync('gmp-history.json')) hist = JSON.parse(fs.readFileSync('gmp-history.json','utf8')); }catch(e){}
+    let touched = false;
+    out.forEach(r=>{
+      const g = r.readings && r.readings.investorgain;
+      if(!g || g.pct==null) return;
+      const key = r.name.toLowerCase();
+      if(!Array.isArray(hist[key])) hist[key] = [];
+      const arr = hist[key];
+      if(arr.length && arr[arr.length-1].d===todayH){ arr[arr.length-1].pct = +g.pct.toFixed(1); }
+      else { arr.push({ d: todayH, pct: +g.pct.toFixed(1) }); touched = true; }
+      while(arr.length>30) arr.shift();
+      r.trend = arr.slice(-7).map(p=>p.pct);
+    });
+    fs.writeFileSync('gmp-history.json', JSON.stringify(hist));
+    if(touched) console.log('history appended for '+todayH);
+    else console.log('history up to date for '+todayH);
+  } catch(e){ console.log('history skipped:', e.message); }
 
   /* ---------- manual corrections (optional) ----------
      The feed has NO listing price, so add real listing prices (or fix any figure)
