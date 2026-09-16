@@ -234,13 +234,13 @@
     "hasAnchor": true,
     "readings": {
       "investorgain": {
-        "gmp": 45,
-        "pct": 42.5
+        "gmp": 51,
+        "pct": 48.1
       }
     },
     "registrar": "MAASHITLA",
     "trend": [
-      42.5
+      48.1
     ]
   },
   {
@@ -316,13 +316,13 @@
     "hasAnchor": true,
     "readings": {
       "investorgain": {
-        "gmp": 167,
-        "pct": 9.4
+        "gmp": 160,
+        "pct": 9
       }
     },
     "registrar": "MUFG",
     "trend": [
-      9.4
+      9
     ]
   },
   {
@@ -398,13 +398,13 @@
     "hasAnchor": true,
     "readings": {
       "investorgain": {
-        "gmp": 6,
-        "pct": 6.1
+        "gmp": 7,
+        "pct": 7.1
       }
     },
     "registrar": "KFIN",
     "trend": [
-      6.1
+      7.1
     ]
   },
   {
@@ -469,7 +469,7 @@
       "qib": 0,
       "hni": 0,
       "retail": 0,
-      "total": 1.16,
+      "total": 1.48,
       "day": 1
     },
     "upd": 0,
@@ -480,13 +480,13 @@
     "hasAnchor": true,
     "readings": {
       "investorgain": {
-        "gmp": 12,
-        "pct": 14.3
+        "gmp": 13,
+        "pct": 15.5
       }
     },
     "registrar": "KFIN",
     "trend": [
-      14.3
+      15.5
     ]
   },
   {
@@ -510,7 +510,7 @@
       "qib": 0,
       "hni": 0,
       "retail": 0,
-      "total": 5.59,
+      "total": 7.56,
       "day": 1
     },
     "upd": 0,
@@ -521,13 +521,13 @@
     "hasAnchor": true,
     "readings": {
       "investorgain": {
-        "gmp": 24,
-        "pct": 25.8
+        "gmp": 25,
+        "pct": 26.9
       }
     },
     "registrar": "BIGSHARE",
     "trend": [
-      25.8
+      26.9
     ]
   },
   {
@@ -551,7 +551,7 @@
       "qib": 0,
       "hni": 0,
       "retail": 0,
-      "total": 1.03,
+      "total": 1.52,
       "day": 1
     },
     "upd": 0,
@@ -562,13 +562,13 @@
     "hasAnchor": true,
     "readings": {
       "investorgain": {
-        "gmp": 115,
-        "pct": 27.1
+        "gmp": 100,
+        "pct": 23.6
       }
     },
     "registrar": "KFIN",
     "trend": [
-      27.1
+      23.6
     ]
   },
   {
@@ -592,7 +592,7 @@
       "qib": 0,
       "hni": 0,
       "retail": 0,
-      "total": 0.05,
+      "total": 0.06,
       "day": 2
     },
     "upd": 0,
@@ -633,7 +633,7 @@
       "qib": 0,
       "hni": 0,
       "retail": 0,
-      "total": 0.68,
+      "total": 0.72,
       "day": 2
     },
     "upd": 0,
@@ -674,7 +674,7 @@
       "qib": 0,
       "hni": 0,
       "retail": 0,
-      "total": 0.12,
+      "total": 0.45,
       "day": 2
     },
     "upd": 0,
@@ -715,7 +715,7 @@
       "qib": 0,
       "hni": 0,
       "retail": 0,
-      "total": 14.82,
+      "total": 57.93,
       "day": 3
     },
     "upd": 0,
@@ -756,7 +756,7 @@
       "qib": 0,
       "hni": 0,
       "retail": 0,
-      "total": 1.15,
+      "total": 1.23,
       "day": 3
     },
     "upd": 0,
@@ -797,7 +797,7 @@
       "qib": 0,
       "hni": 0,
       "retail": 0,
-      "total": 20.02,
+      "total": 29.46,
       "day": 3
     },
     "upd": 0,
@@ -808,13 +808,13 @@
     "hasAnchor": true,
     "readings": {
       "investorgain": {
-        "gmp": 3,
-        "pct": 7
+        "gmp": 2,
+        "pct": 4.7
       }
     },
     "registrar": "MUFG",
     "trend": [
-      7
+      4.7
     ]
   },
   {
@@ -972,13 +972,13 @@
     "hasAnchor": true,
     "readings": {
       "investorgain": {
-        "gmp": 6,
-        "pct": 4.3
+        "gmp": 8,
+        "pct": 5.7
       }
     },
     "registrar": "MUFG",
     "trend": [
-      4.3
+      5.7
     ]
   },
   {
@@ -1095,13 +1095,13 @@
     "hasAnchor": true,
     "readings": {
       "investorgain": {
-        "gmp": 43,
-        "pct": 29.4
+        "gmp": 38,
+        "pct": 26
       }
     },
     "registrar": "KFIN",
     "trend": [
-      29.4
+      26
     ]
   },
   {
@@ -1177,13 +1177,13 @@
     "hasAnchor": true,
     "readings": {
       "investorgain": {
-        "gmp": 43,
-        "pct": 16.9
+        "gmp": 47,
+        "pct": 18.5
       }
     },
     "registrar": "MUFG",
     "trend": [
-      16.9
+      18.5
     ]
   },
   {
@@ -1218,13 +1218,13 @@
     "hasAnchor": true,
     "readings": {
       "investorgain": {
-        "gmp": 103,
-        "pct": 25.5
+        "gmp": 82,
+        "pct": 20.3
       }
     },
     "registrar": "KFIN",
     "trend": [
-      25.5
+      20.3
     ]
   },
   {
@@ -1341,13 +1341,13 @@
     "hasAnchor": true,
     "readings": {
       "investorgain": {
-        "gmp": 16,
-        "pct": 19.8
+        "gmp": 15,
+        "pct": 18.5
       }
     },
     "registrar": "KFIN",
     "trend": [
-      19.8
+      18.5
     ]
   },
   {
@@ -1382,13 +1382,13 @@
     "hasAnchor": true,
     "readings": {
       "investorgain": {
-        "gmp": 13,
-        "pct": 17.3
+        "gmp": 16,
+        "pct": 21.3
       }
     },
     "registrar": "MAASHITLA",
     "trend": [
-      17.3
+      21.3
     ]
   },
   {
