@@ -15,7 +15,7 @@
     "closeISO": "2026-09-28",
     "listISO": "2026-10-01",
     "allotISO": "2026-09-29",
-    "prevPct": 13.1,
+    "prevPct": 13.6,
     "sub": {
       "qib": 0,
       "hni": 0,
@@ -293,7 +293,7 @@
     "closeISO": "2026-09-24",
     "listISO": "2026-09-29",
     "allotISO": "2026-09-25",
-    "prevPct": null,
+    "prevPct": 0,
     "sub": {
       "qib": 0,
       "hni": 0,
@@ -307,7 +307,15 @@
     "issueSize": "₹25.52 Cr",
     "infoUrl": "https://www.investorgain.com/gmp/anand-seamless-ipo/2269/",
     "hasAnchor": false,
-    "readings": {}
+    "readings": {
+      "investorgain": {
+        "gmp": 0,
+        "pct": 0
+      }
+    },
+    "trend": [
+      0
+    ]
   },
   {
     "name": "Vivekanand Cotspin",
@@ -497,7 +505,7 @@
       "qib": 0,
       "hni": 0,
       "retail": 0,
-      "total": 4.6,
+      "total": 5.66,
       "day": 1
     },
     "upd": 0,
@@ -534,12 +542,12 @@
     "closeISO": "2026-09-21",
     "listISO": "2026-09-24",
     "allotISO": "2026-09-22",
-    "prevPct": 8.5,
+    "prevPct": 8.2,
     "sub": {
       "qib": 0,
       "hni": 0,
       "retail": 0,
-      "total": 0.39,
+      "total": 0.43,
       "day": 1
     },
     "upd": 0,
@@ -550,14 +558,14 @@
     "hasAnchor": true,
     "readings": {
       "investorgain": {
-        "gmp": 147,
-        "pct": 8.2
+        "gmp": 150,
+        "pct": 8.4
       }
     },
     "registrar": "MUFG",
     "trend": [
       8.1,
-      8.2
+      8.4
     ]
   },
   {
@@ -576,12 +584,12 @@
     "closeISO": "2026-09-21",
     "listISO": "2026-09-24",
     "allotISO": "2026-09-22",
-    "prevPct": 9.9,
+    "prevPct": 5,
     "sub": {
       "qib": 0,
       "hni": 0,
       "retail": 0,
-      "total": 0.1,
+      "total": 0.21,
       "day": 1
     },
     "upd": 0,
@@ -592,14 +600,14 @@
     "hasAnchor": true,
     "readings": {
       "investorgain": {
-        "gmp": 5,
-        "pct": 5
+        "gmp": 10,
+        "pct": 9.9
       }
     },
     "registrar": "KFIN",
     "trend": [
       9.9,
-      5
+      9.9
     ]
   },
   {
@@ -618,12 +626,12 @@
     "closeISO": "2026-09-21",
     "listISO": "2026-09-24",
     "allotISO": "2026-09-22",
-    "prevPct": 7.1,
+    "prevPct": 4,
     "sub": {
       "qib": 0,
       "hni": 0,
       "retail": 0,
-      "total": 0.39,
+      "total": 0.47,
       "day": 1
     },
     "upd": 0,
@@ -665,7 +673,7 @@
       "qib": 0,
       "hni": 0,
       "retail": 0,
-      "total": 3.24,
+      "total": 3.58,
       "day": 2
     },
     "upd": 0,
@@ -676,14 +684,14 @@
     "hasAnchor": true,
     "readings": {
       "investorgain": {
-        "gmp": 7,
-        "pct": 8.3
+        "gmp": 6,
+        "pct": 6.5
       }
     },
     "registrar": "KFIN",
     "trend": [
       15.5,
-      8.3
+      6.5
     ]
   },
   {
@@ -702,12 +710,12 @@
     "closeISO": "2026-09-18",
     "listISO": "2026-09-23",
     "allotISO": "2026-09-21",
-    "prevPct": 31.2,
+    "prevPct": 32.3,
     "sub": {
       "qib": 0,
       "hni": 0,
       "retail": 0,
-      "total": 27.58,
+      "total": 31.54,
       "day": 2
     },
     "upd": 0,
@@ -744,12 +752,12 @@
     "closeISO": "2026-09-18",
     "listISO": "2026-09-23",
     "allotISO": "2026-09-21",
-    "prevPct": 31.1,
+    "prevPct": 31.4,
     "sub": {
       "qib": 0,
       "hni": 0,
       "retail": 0,
-      "total": 4.99,
+      "total": 6.1,
       "day": 2
     },
     "upd": 0,
@@ -760,14 +768,14 @@
     "hasAnchor": true,
     "readings": {
       "investorgain": {
-        "gmp": 133,
-        "pct": 31.4
+        "gmp": 132,
+        "pct": 31.1
       }
     },
     "registrar": "KFIN",
     "trend": [
       21.2,
-      31.4
+      31.1
     ]
   },
   {
@@ -791,7 +799,7 @@
       "qib": 0,
       "hni": 0,
       "retail": 0,
-      "total": 2.54,
+      "total": 2.53,
       "day": 3
     },
     "upd": 0,
@@ -833,7 +841,7 @@
       "qib": 0,
       "hni": 0,
       "retail": 0,
-      "total": 3.96,
+      "total": 11.87,
       "day": 3
     },
     "upd": 0,
@@ -844,14 +852,14 @@
     "hasAnchor": true,
     "readings": {
       "investorgain": {
-        "gmp": 0,
-        "pct": 0
+        "gmp": 6,
+        "pct": 10.2
       }
     },
     "registrar": "SKYLINE",
     "trend": [
       0,
-      0
+      10.2
     ]
   },
   {
@@ -875,7 +883,7 @@
       "qib": 0,
       "hni": 0,
       "retail": 0,
-      "total": 1.29,
+      "total": 1.39,
       "day": 3
     },
     "upd": 0,
@@ -1206,7 +1214,7 @@
     "closeISO": "2026-09-15",
     "listISO": "2026-09-18",
     "allotISO": "2026-09-16",
-    "prevPct": 7.7,
+    "prevPct": 7,
     "sub": {
       "qib": 0,
       "hni": 0,
@@ -1222,14 +1230,14 @@
     "hasAnchor": true,
     "readings": {
       "investorgain": {
-        "gmp": 19,
-        "pct": 7
+        "gmp": 10,
+        "pct": 3.7
       }
     },
     "registrar": "BIGSHARE",
     "trend": [
       7.7,
-      7
+      3.7
     ]
   },
   {
