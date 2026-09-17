@@ -24,7 +24,7 @@
       "day": 0
     },
     "upd": 0,
-    "new": true,
+    "new": false,
     "actualList": null,
     "issueSize": "-",
     "infoUrl": "https://www.investorgain.com/gmp/unitec-fibres-ipo/2326/",
@@ -36,6 +36,7 @@
       }
     },
     "trend": [
+      null,
       null
     ]
   },
@@ -64,7 +65,7 @@
       "day": 0
     },
     "upd": 0,
-    "new": true,
+    "new": false,
     "actualList": null,
     "issueSize": "₹2100.00 Cr",
     "infoUrl": "https://www.investorgain.com/gmp/elevate-campuses-ipo/1917/",
@@ -76,6 +77,7 @@
       }
     },
     "trend": [
+      null,
       null
     ]
   },
@@ -118,6 +120,7 @@
     "registrar": "BIGSHARE",
     "trend": [
       null,
+      13.6,
       13.6
     ]
   },
@@ -158,6 +161,7 @@
       }
     },
     "trend": [
+      null,
       null
     ]
   },
@@ -198,6 +202,7 @@
       }
     },
     "trend": [
+      0,
       0
     ]
   },
@@ -240,6 +245,7 @@
     "registrar": "MAASHITLA",
     "trend": [
       0,
+      0,
       0
     ]
   },
@@ -280,6 +286,7 @@
       }
     },
     "trend": [
+      null,
       null
     ]
   },
@@ -321,6 +328,7 @@
     },
     "trend": [
       0,
+      0,
       0
     ]
   },
@@ -340,7 +348,7 @@
     "closeISO": "2026-09-24",
     "listISO": "2026-09-29",
     "allotISO": "2026-09-25",
-    "prevPct": 0,
+    "prevPct": 6.8,
     "sub": {
       "qib": 0,
       "hni": 0,
@@ -362,6 +370,7 @@
     },
     "trend": [
       null,
+      6.8,
       6.8
     ]
   },
@@ -402,6 +411,7 @@
       }
     },
     "trend": [
+      0,
       0
     ]
   },
@@ -442,6 +452,7 @@
       }
     },
     "trend": [
+      0,
       0,
       0
     ]
@@ -485,6 +496,7 @@
     "registrar": "MUFG",
     "trend": [
       0,
+      0,
       0
     ]
   },
@@ -526,6 +538,7 @@
     },
     "registrar": "MAASHITLA",
     "trend": [
+      48.1,
       48.1,
       48.1
     ]
@@ -569,6 +582,7 @@
     "registrar": "KFIN",
     "trend": [
       0,
+      0,
       0
     ]
   },
@@ -611,6 +625,7 @@
     "registrar": "MAASHITLA",
     "trend": [
       42.4,
+      25.4,
       25.4
     ]
   },
@@ -630,7 +645,7 @@
     "closeISO": "2026-09-21",
     "listISO": "2026-09-24",
     "allotISO": "2026-09-22",
-    "prevPct": 8.4,
+    "prevPct": 8,
     "sub": {
       "qib": 0,
       "hni": 0,
@@ -653,6 +668,7 @@
     "registrar": "MUFG",
     "trend": [
       8.1,
+      8,
       8
     ]
   },
@@ -695,6 +711,7 @@
     "registrar": "KFIN",
     "trend": [
       9.9,
+      9.9,
       9.9
     ]
   },
@@ -714,7 +731,7 @@
     "closeISO": "2026-09-21",
     "listISO": "2026-09-24",
     "allotISO": "2026-09-22",
-    "prevPct": 4,
+    "prevPct": 2,
     "sub": {
       "qib": 0,
       "hni": 0,
@@ -737,6 +754,7 @@
     "registrar": "KFIN",
     "trend": [
       7.1,
+      2,
       2
     ]
   },
@@ -779,6 +797,7 @@
     "registrar": "KFIN",
     "trend": [
       15.5,
+      6.5,
       6.5
     ]
   },
@@ -821,6 +840,7 @@
     "registrar": "BIGSHARE",
     "trend": [
       26.9,
+      32.3,
       32.3
     ]
   },
@@ -840,7 +860,7 @@
     "closeISO": "2026-09-18",
     "listISO": "2026-09-23",
     "allotISO": "2026-09-21",
-    "prevPct": 31.1,
+    "prevPct": 32.3,
     "sub": {
       "qib": 0,
       "hni": 0,
@@ -863,6 +883,7 @@
     "registrar": "KFIN",
     "trend": [
       21.2,
+      32.3,
       32.3
     ]
   },
@@ -905,6 +926,7 @@
     "registrar": "MAASHITLA",
     "trend": [
       20.5,
+      0.9,
       0.9
     ]
   },
@@ -947,6 +969,7 @@
     "registrar": "SKYLINE",
     "trend": [
       0,
+      10.2,
       10.2
     ]
   },
@@ -988,6 +1011,7 @@
     },
     "registrar": "MUFG",
     "trend": [
+      0,
       0,
       0
     ]
@@ -1031,6 +1055,7 @@
     "registrar": "KFIN",
     "trend": [
       0,
+      0,
       0
     ]
   },
@@ -1073,6 +1098,7 @@
     "registrar": "INTEGRATED",
     "trend": [
       0,
+      0,
       0
     ]
   },
@@ -1092,7 +1118,7 @@
     "closeISO": "2026-09-16",
     "listISO": "2026-09-21",
     "allotISO": "2026-09-17",
-    "prevPct": 4.7,
+    "prevPct": 5.2,
     "sub": {
       "qib": 0,
       "hni": 0,
@@ -1115,6 +1141,7 @@
     "registrar": "MUFG",
     "trend": [
       4.7,
+      5.2,
       5.2
     ]
   },
@@ -1156,6 +1183,7 @@
     },
     "registrar": "MAASHITLA",
     "trend": [
+      2.1,
       2.1,
       2.1
     ]
@@ -1199,6 +1227,7 @@
     "registrar": "BIGSHARE",
     "trend": [
       0,
+      0,
       0
     ]
   },
@@ -1241,6 +1270,7 @@
     "registrar": "MAASHITLA",
     "trend": [
       15.1,
+      15.1,
       15.1
     ]
   },
@@ -1260,7 +1290,7 @@
     "closeISO": "2026-09-15",
     "listISO": "2026-09-18",
     "allotISO": "2026-09-16",
-    "prevPct": 4.3,
+    "prevPct": 6.1,
     "sub": {
       "qib": 0,
       "hni": 0,
@@ -1283,6 +1313,7 @@
     "registrar": "MUFG",
     "trend": [
       3.6,
+      6.1,
       6.1
     ]
   },
@@ -1302,7 +1333,7 @@
     "closeISO": "2026-09-15",
     "listISO": "2026-09-18",
     "allotISO": "2026-09-16",
-    "prevPct": 3.7,
+    "prevPct": 4,
     "sub": {
       "qib": 0,
       "hni": 0,
@@ -1325,6 +1356,7 @@
     "registrar": "BIGSHARE",
     "trend": [
       7.7,
+      4,
       4
     ]
   },
@@ -1367,6 +1399,7 @@
     "lastGmpPct": 8.6,
     "registrar": "MUFG",
     "trend": [
+      8.6,
       8.6,
       8.6
     ]
@@ -1411,6 +1444,7 @@
     "registrar": "KFIN",
     "trend": [
       16.7,
+      16.7,
       16.7
     ]
   },
@@ -1453,6 +1487,7 @@
     "lastGmpPct": 1.1,
     "registrar": "KFIN",
     "trend": [
+      1.1,
       1.1,
       1.1
     ]
