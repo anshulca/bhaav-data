@@ -31,14 +31,14 @@
     "hasAnchor": true,
     "readings": {
       "investorgain": {
-        "gmp": 53,
-        "pct": 13.1
+        "gmp": 55,
+        "pct": 13.6
       }
     },
     "registrar": "BIGSHARE",
     "trend": [
       null,
-      13.1
+      13.6
     ]
   },
   {
@@ -182,7 +182,7 @@
     "upd": 0,
     "new": false,
     "actualList": null,
-    "issueSize": "-",
+    "issueSize": "₹300.00 Cr",
     "infoUrl": "https://www.investorgain.com/gmp/armee-infotech-ipo/1667/",
     "hasAnchor": true,
     "readings": {
@@ -497,7 +497,7 @@
       "qib": 0,
       "hni": 0,
       "retail": 0,
-      "total": 4.06,
+      "total": 4.6,
       "day": 1
     },
     "upd": 0,
@@ -539,7 +539,7 @@
       "qib": 0,
       "hni": 0,
       "retail": 0,
-      "total": 0.13,
+      "total": 0.39,
       "day": 1
     },
     "upd": 0,
@@ -550,14 +550,14 @@
     "hasAnchor": true,
     "readings": {
       "investorgain": {
-        "gmp": 152,
-        "pct": 8.5
+        "gmp": 147,
+        "pct": 8.2
       }
     },
     "registrar": "MUFG",
     "trend": [
       8.1,
-      8.5
+      8.2
     ]
   },
   {
@@ -581,7 +581,7 @@
       "qib": 0,
       "hni": 0,
       "retail": 0,
-      "total": 0.09,
+      "total": 0.1,
       "day": 1
     },
     "upd": 0,
@@ -592,14 +592,14 @@
     "hasAnchor": true,
     "readings": {
       "investorgain": {
-        "gmp": 10,
-        "pct": 9.9
+        "gmp": 5,
+        "pct": 5
       }
     },
     "registrar": "KFIN",
     "trend": [
       9.9,
-      9.9
+      5
     ]
   },
   {
@@ -623,7 +623,7 @@
       "qib": 0,
       "hni": 0,
       "retail": 0,
-      "total": 0.35,
+      "total": 0.39,
       "day": 1
     },
     "upd": 0,
@@ -634,14 +634,14 @@
     "hasAnchor": true,
     "readings": {
       "investorgain": {
-        "gmp": 7,
-        "pct": 7.1
+        "gmp": 4,
+        "pct": 4
       }
     },
     "registrar": "KFIN",
     "trend": [
       7.1,
-      7.1
+      4
     ]
   },
   {
@@ -665,7 +665,7 @@
       "qib": 0,
       "hni": 0,
       "retail": 0,
-      "total": 3.05,
+      "total": 3.24,
       "day": 2
     },
     "upd": 0,
@@ -707,7 +707,7 @@
       "qib": 0,
       "hni": 0,
       "retail": 0,
-      "total": 24.62,
+      "total": 27.58,
       "day": 2
     },
     "upd": 0,
@@ -718,14 +718,14 @@
     "hasAnchor": true,
     "readings": {
       "investorgain": {
-        "gmp": 29,
-        "pct": 31.2
+        "gmp": 30,
+        "pct": 32.3
       }
     },
     "registrar": "BIGSHARE",
     "trend": [
       26.9,
-      31.2
+      32.3
     ]
   },
   {
@@ -749,7 +749,7 @@
       "qib": 0,
       "hni": 0,
       "retail": 0,
-      "total": 4.3,
+      "total": 4.99,
       "day": 2
     },
     "upd": 0,
@@ -760,14 +760,14 @@
     "hasAnchor": true,
     "readings": {
       "investorgain": {
-        "gmp": 132,
-        "pct": 31.1
+        "gmp": 133,
+        "pct": 31.4
       }
     },
     "registrar": "KFIN",
     "trend": [
       21.2,
-      31.1
+      31.4
     ]
   },
   {
@@ -791,7 +791,7 @@
       "qib": 0,
       "hni": 0,
       "retail": 0,
-      "total": 2.26,
+      "total": 2.54,
       "day": 3
     },
     "upd": 0,
@@ -833,7 +833,7 @@
       "qib": 0,
       "hni": 0,
       "retail": 0,
-      "total": 1.68,
+      "total": 3.96,
       "day": 3
     },
     "upd": 0,
@@ -875,7 +875,7 @@
       "qib": 0,
       "hni": 0,
       "retail": 0,
-      "total": 0.89,
+      "total": 1.29,
       "day": 3
     },
     "upd": 0,
@@ -1222,14 +1222,14 @@
     "hasAnchor": true,
     "readings": {
       "investorgain": {
-        "gmp": 21,
-        "pct": 7.7
+        "gmp": 19,
+        "pct": 7
       }
     },
     "registrar": "BIGSHARE",
     "trend": [
       7.7,
-      7.7
+      7
     ]
   },
   {
