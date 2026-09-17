@@ -15,7 +15,7 @@
     "closeISO": "2026-09-28",
     "listISO": "2026-10-01",
     "allotISO": "2026-09-29",
-    "prevPct": 0,
+    "prevPct": 13.1,
     "sub": {
       "qib": 0,
       "hni": 0,
@@ -66,7 +66,7 @@
       "day": 0
     },
     "upd": 0,
-    "new": true,
+    "new": false,
     "actualList": null,
     "issueSize": null,
     "infoUrl": "https://www.investorgain.com/gmp/liqvd-digital-ipo/2008/",
@@ -492,7 +492,7 @@
     "closeISO": "2026-09-21",
     "listISO": "2026-09-24",
     "allotISO": "2026-09-22",
-    "prevPct": 42.4,
+    "prevPct": 25.4,
     "sub": {
       "qib": 0,
       "hni": 0,
@@ -534,7 +534,7 @@
     "closeISO": "2026-09-21",
     "listISO": "2026-09-24",
     "allotISO": "2026-09-22",
-    "prevPct": 7.8,
+    "prevPct": 8.5,
     "sub": {
       "qib": 0,
       "hni": 0,
@@ -660,7 +660,7 @@
     "closeISO": "2026-09-18",
     "listISO": "2026-09-23",
     "allotISO": "2026-09-21",
-    "prevPct": 15.5,
+    "prevPct": 8.3,
     "sub": {
       "qib": 0,
       "hni": 0,
@@ -702,7 +702,7 @@
     "closeISO": "2026-09-18",
     "listISO": "2026-09-23",
     "allotISO": "2026-09-21",
-    "prevPct": 26.9,
+    "prevPct": 31.2,
     "sub": {
       "qib": 0,
       "hni": 0,
@@ -744,7 +744,7 @@
     "closeISO": "2026-09-18",
     "listISO": "2026-09-23",
     "allotISO": "2026-09-21",
-    "prevPct": 18.9,
+    "prevPct": 31.1,
     "sub": {
       "qib": 0,
       "hni": 0,
@@ -786,7 +786,7 @@
     "closeISO": "2026-09-17",
     "listISO": "2026-09-22",
     "allotISO": "2026-09-18",
-    "prevPct": 20.5,
+    "prevPct": 0.9,
     "sub": {
       "qib": 0,
       "hni": 0,
@@ -1164,7 +1164,7 @@
     "closeISO": "2026-09-15",
     "listISO": "2026-09-18",
     "allotISO": "2026-09-16",
-    "prevPct": 3.6,
+    "prevPct": 4.3,
     "sub": {
       "qib": 0,
       "hni": 0,
