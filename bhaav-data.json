@@ -31,15 +31,87 @@
     "hasAnchor": true,
     "readings": {
       "investorgain": {
-        "gmp": 0,
-        "pct": 0
+        "gmp": 53,
+        "pct": 13.1
       }
     },
     "registrar": "BIGSHARE",
     "trend": [
       null,
-      0
+      13.1
     ]
+  },
+  {
+    "name": "Liqvd Digital",
+    "type": "SME",
+    "status": "UPCOMING",
+    "band": [
+      0,
+      0
+    ],
+    "lot": 0,
+    "open": "23 Sep",
+    "close": "25 Sep",
+    "list": "30 Sep",
+    "openISO": "2026-09-23",
+    "closeISO": "2026-09-25",
+    "listISO": "2026-09-30",
+    "allotISO": "2026-09-28",
+    "prevPct": null,
+    "sub": {
+      "qib": 0,
+      "hni": 0,
+      "retail": 0,
+      "total": 0,
+      "day": 0
+    },
+    "upd": 0,
+    "new": true,
+    "actualList": null,
+    "issueSize": null,
+    "infoUrl": "https://www.investorgain.com/gmp/liqvd-digital-ipo/2008/",
+    "hasAnchor": false,
+    "readings": {
+      "investorgain": {
+        "gmp": 0,
+        "pct": null
+      }
+    },
+    "trend": [
+      null
+    ]
+  },
+  {
+    "name": "Sai Urja Indo",
+    "type": "SME",
+    "status": "UPCOMING",
+    "band": [
+      113,
+      113
+    ],
+    "lot": 1200,
+    "open": "23 Sep",
+    "close": "25 Sep",
+    "list": "30 Sep",
+    "openISO": "2026-09-23",
+    "closeISO": "2026-09-25",
+    "listISO": "2026-09-30",
+    "allotISO": "2026-09-28",
+    "prevPct": null,
+    "sub": {
+      "qib": 0,
+      "hni": 0,
+      "retail": 0,
+      "total": 0,
+      "day": 0
+    },
+    "upd": 0,
+    "new": false,
+    "actualList": null,
+    "issueSize": "₹24.95 Cr",
+    "infoUrl": "https://www.investorgain.com/gmp/sai-urja-indo-ipo/1924/",
+    "hasAnchor": true,
+    "readings": {}
   },
   {
     "name": "S.K.Offset",
@@ -108,7 +180,7 @@
       "day": 0
     },
     "upd": 0,
-    "new": true,
+    "new": false,
     "actualList": null,
     "issueSize": "-",
     "infoUrl": "https://www.investorgain.com/gmp/armee-infotech-ipo/1667/",
@@ -124,22 +196,22 @@
     ]
   },
   {
-    "name": "Sai Urja Indo",
+    "name": "Himalaya Nutravedics",
     "type": "SME",
     "status": "UPCOMING",
     "band": [
-      113,
-      113
+      106,
+      106
     ],
     "lot": 1200,
-    "open": "23 Sep",
-    "close": "25 Sep",
-    "list": "30 Sep",
-    "openISO": "2026-09-23",
-    "closeISO": "2026-09-25",
-    "listISO": "2026-09-30",
-    "allotISO": "2026-09-28",
-    "prevPct": null,
+    "open": "22 Sep",
+    "close": "24 Sep",
+    "list": "29 Sep",
+    "openISO": "2026-09-22",
+    "closeISO": "2026-09-24",
+    "listISO": "2026-09-29",
+    "allotISO": "2026-09-25",
+    "prevPct": 0,
     "sub": {
       "qib": 0,
       "hni": 0,
@@ -148,12 +220,21 @@
       "day": 0
     },
     "upd": 0,
-    "new": true,
+    "new": false,
     "actualList": null,
-    "issueSize": "₹24.95 Cr",
-    "infoUrl": "https://www.investorgain.com/gmp/sai-urja-indo-ipo/1924/",
+    "issueSize": "₹26.50 Cr",
+    "infoUrl": "https://www.investorgain.com/gmp/himalaya-nutravedics-ipo/2230/",
     "hasAnchor": true,
-    "readings": {}
+    "readings": {
+      "investorgain": {
+        "gmp": 0,
+        "pct": 0
+      }
+    },
+    "trend": [
+      0,
+      0
+    ]
   },
   {
     "name": "Varmora Granito",
@@ -182,7 +263,7 @@
     "upd": 0,
     "new": false,
     "actualList": null,
-    "issueSize": "₹1096.04 Cr",
+    "issueSize": "₹708.02 Cr",
     "infoUrl": "https://www.investorgain.com/gmp/varmora-granito-ipo/1852/",
     "hasAnchor": true,
     "readings": {
@@ -221,7 +302,7 @@
       "day": 0
     },
     "upd": 0,
-    "new": true,
+    "new": false,
     "actualList": null,
     "issueSize": "₹25.52 Cr",
     "infoUrl": "https://www.investorgain.com/gmp/anand-seamless-ipo/2269/",
@@ -229,21 +310,21 @@
     "readings": {}
   },
   {
-    "name": "Himalaya Nutravedics",
+    "name": "Vivekanand Cotspin",
     "type": "SME",
     "status": "UPCOMING",
     "band": [
-      106,
-      106
+      37,
+      37
     ],
-    "lot": 1200,
-    "open": "22 Sep",
-    "close": "24 Sep",
-    "list": "29 Sep",
-    "openISO": "2026-09-22",
-    "closeISO": "2026-09-24",
-    "listISO": "2026-09-29",
-    "allotISO": "2026-09-25",
+    "lot": 3000,
+    "open": "21 Sep",
+    "close": "23 Sep",
+    "list": "28 Sep",
+    "openISO": "2026-09-21",
+    "closeISO": "2026-09-23",
+    "listISO": "2026-09-28",
+    "allotISO": "2026-09-24",
     "prevPct": 0,
     "sub": {
       "qib": 0,
@@ -255,8 +336,8 @@
     "upd": 0,
     "new": false,
     "actualList": null,
-    "issueSize": "₹26.50 Cr",
-    "infoUrl": "https://www.investorgain.com/gmp/himalaya-nutravedics-ipo/2230/",
+    "issueSize": "₹22.20 Cr",
+    "infoUrl": "https://www.investorgain.com/gmp/vivekanand-cotspin-ipo/1636/",
     "hasAnchor": true,
     "readings": {
       "investorgain": {
@@ -264,6 +345,48 @@
         "pct": 0
       }
     },
+    "trend": [
+      0,
+      0
+    ]
+  },
+  {
+    "name": "FX Multitech",
+    "type": "SME",
+    "status": "UPCOMING",
+    "band": [
+      116,
+      116
+    ],
+    "lot": 1200,
+    "open": "21 Sep",
+    "close": "23 Sep",
+    "list": "28 Sep",
+    "openISO": "2026-09-21",
+    "closeISO": "2026-09-23",
+    "listISO": "2026-09-28",
+    "allotISO": "2026-09-24",
+    "prevPct": 0,
+    "sub": {
+      "qib": 0,
+      "hni": 0,
+      "retail": 0,
+      "total": 0,
+      "day": 0
+    },
+    "upd": 0,
+    "new": false,
+    "actualList": null,
+    "issueSize": "₹45.24 Cr",
+    "infoUrl": "https://www.investorgain.com/gmp/fx-multitech-ipo/1589/",
+    "hasAnchor": true,
+    "readings": {
+      "investorgain": {
+        "gmp": 0,
+        "pct": 0
+      }
+    },
+    "registrar": "MUFG",
     "trend": [
       0,
       0
@@ -312,89 +435,6 @@
     ]
   },
   {
-    "name": "FX Multitech",
-    "type": "SME",
-    "status": "UPCOMING",
-    "band": [
-      116,
-      116
-    ],
-    "lot": 1200,
-    "open": "21 Sep",
-    "close": "23 Sep",
-    "list": "28 Sep",
-    "openISO": "2026-09-21",
-    "closeISO": "2026-09-23",
-    "listISO": "2026-09-28",
-    "allotISO": "2026-09-24",
-    "prevPct": 0,
-    "sub": {
-      "qib": 0,
-      "hni": 0,
-      "retail": 0,
-      "total": 0,
-      "day": 0
-    },
-    "upd": 0,
-    "new": false,
-    "actualList": null,
-    "issueSize": "₹45.24 Cr",
-    "infoUrl": "https://www.investorgain.com/gmp/fx-multitech-ipo/1589/",
-    "hasAnchor": true,
-    "readings": {
-      "investorgain": {
-        "gmp": 0,
-        "pct": 0
-      }
-    },
-    "registrar": "MUFG",
-    "trend": [
-      0,
-      0
-    ]
-  },
-  {
-    "name": "Vivekanand Cotspin",
-    "type": "SME",
-    "status": "UPCOMING",
-    "band": [
-      37,
-      37
-    ],
-    "lot": 3000,
-    "open": "21 Sep",
-    "close": "23 Sep",
-    "list": "28 Sep",
-    "openISO": "2026-09-21",
-    "closeISO": "2026-09-23",
-    "listISO": "2026-09-28",
-    "allotISO": "2026-09-24",
-    "prevPct": 0,
-    "sub": {
-      "qib": 0,
-      "hni": 0,
-      "retail": 0,
-      "total": 0,
-      "day": 0
-    },
-    "upd": 0,
-    "new": false,
-    "actualList": null,
-    "issueSize": "₹24.05 Cr",
-    "infoUrl": "https://www.investorgain.com/gmp/vivekanand-cotspin-ipo/1636/",
-    "hasAnchor": true,
-    "readings": {
-      "investorgain": {
-        "gmp": 0,
-        "pct": 0
-      }
-    },
-    "trend": [
-      0,
-      0
-    ]
-  },
-  {
     "name": "Axiom Gas Engineering",
     "type": "SME",
     "status": "UPCOMING",
@@ -437,90 +477,6 @@
     ]
   },
   {
-    "name": "Kheria Autocomp",
-    "type": "SME",
-    "status": "OPEN",
-    "band": [
-      101,
-      101
-    ],
-    "lot": 1200,
-    "open": "17 Sep",
-    "close": "21 Sep",
-    "list": "24 Sep",
-    "openISO": "2026-09-17",
-    "closeISO": "2026-09-21",
-    "listISO": "2026-09-24",
-    "allotISO": "2026-09-22",
-    "prevPct": 9.9,
-    "sub": {
-      "qib": 0,
-      "hni": 0,
-      "retail": 0,
-      "total": 0,
-      "day": 1
-    },
-    "upd": 0,
-    "new": false,
-    "actualList": null,
-    "issueSize": "₹46.44 Cr",
-    "infoUrl": "https://www.investorgain.com/gmp/kheria-autocomp-ipo/2016/",
-    "hasAnchor": true,
-    "readings": {
-      "investorgain": {
-        "gmp": 10,
-        "pct": 9.9
-      }
-    },
-    "registrar": "KFIN",
-    "trend": [
-      9.9,
-      9.9
-    ]
-  },
-  {
-    "name": "NSE",
-    "type": "MAINBOARD",
-    "status": "OPEN",
-    "band": [
-      1785,
-      1785
-    ],
-    "lot": 8,
-    "open": "17 Sep",
-    "close": "21 Sep",
-    "list": "24 Sep",
-    "openISO": "2026-09-17",
-    "closeISO": "2026-09-21",
-    "listISO": "2026-09-24",
-    "allotISO": "2026-09-22",
-    "prevPct": 8.1,
-    "sub": {
-      "qib": 0,
-      "hni": 0,
-      "retail": 0,
-      "total": 0.08,
-      "day": 1
-    },
-    "upd": 0,
-    "new": false,
-    "actualList": null,
-    "issueSize": "₹22561.57 Cr",
-    "infoUrl": "https://www.investorgain.com/gmp/nse-ipo/2305/",
-    "hasAnchor": true,
-    "readings": {
-      "investorgain": {
-        "gmp": 140,
-        "pct": 7.8
-      }
-    },
-    "registrar": "MUFG",
-    "trend": [
-      8.1,
-      7.8
-    ]
-  },
-  {
     "name": "SpectraA Technology Solutions",
     "type": "SME",
     "status": "OPEN",
@@ -541,7 +497,7 @@
       "qib": 0,
       "hni": 0,
       "retail": 0,
-      "total": 0,
+      "total": 4.06,
       "day": 1
     },
     "upd": 0,
@@ -552,14 +508,98 @@
     "hasAnchor": true,
     "readings": {
       "investorgain": {
-        "gmp": 50,
-        "pct": 42.4
+        "gmp": 30,
+        "pct": 25.4
       }
     },
     "registrar": "MAASHITLA",
     "trend": [
       42.4,
-      42.4
+      25.4
+    ]
+  },
+  {
+    "name": "NSE",
+    "type": "MAINBOARD",
+    "status": "OPEN",
+    "band": [
+      1785,
+      1785
+    ],
+    "lot": 8,
+    "open": "17 Sep",
+    "close": "21 Sep",
+    "list": "24 Sep",
+    "openISO": "2026-09-17",
+    "closeISO": "2026-09-21",
+    "listISO": "2026-09-24",
+    "allotISO": "2026-09-22",
+    "prevPct": 7.8,
+    "sub": {
+      "qib": 0,
+      "hni": 0,
+      "retail": 0,
+      "total": 0.13,
+      "day": 1
+    },
+    "upd": 0,
+    "new": false,
+    "actualList": null,
+    "issueSize": "₹22561.57 Cr",
+    "infoUrl": "https://www.investorgain.com/gmp/nse-ipo/2305/",
+    "hasAnchor": true,
+    "readings": {
+      "investorgain": {
+        "gmp": 152,
+        "pct": 8.5
+      }
+    },
+    "registrar": "MUFG",
+    "trend": [
+      8.1,
+      8.5
+    ]
+  },
+  {
+    "name": "Kheria Autocomp",
+    "type": "SME",
+    "status": "OPEN",
+    "band": [
+      101,
+      101
+    ],
+    "lot": 1200,
+    "open": "17 Sep",
+    "close": "21 Sep",
+    "list": "24 Sep",
+    "openISO": "2026-09-17",
+    "closeISO": "2026-09-21",
+    "listISO": "2026-09-24",
+    "allotISO": "2026-09-22",
+    "prevPct": 9.9,
+    "sub": {
+      "qib": 0,
+      "hni": 0,
+      "retail": 0,
+      "total": 0.09,
+      "day": 1
+    },
+    "upd": 0,
+    "new": false,
+    "actualList": null,
+    "issueSize": "₹46.44 Cr",
+    "infoUrl": "https://www.investorgain.com/gmp/kheria-autocomp-ipo/2016/",
+    "hasAnchor": true,
+    "readings": {
+      "investorgain": {
+        "gmp": 10,
+        "pct": 9.9
+      }
+    },
+    "registrar": "KFIN",
+    "trend": [
+      9.9,
+      9.9
     ]
   },
   {
@@ -583,7 +623,7 @@
       "qib": 0,
       "hni": 0,
       "retail": 0,
-      "total": 0.03,
+      "total": 0.35,
       "day": 1
     },
     "upd": 0,
@@ -602,90 +642,6 @@
     "trend": [
       7.1,
       7.1
-    ]
-  },
-  {
-    "name": "SS Retail",
-    "type": "MAINBOARD",
-    "status": "OPEN",
-    "band": [
-      424,
-      424
-    ],
-    "lot": 35,
-    "open": "16 Sep",
-    "close": "18 Sep",
-    "list": "23 Sep",
-    "openISO": "2026-09-16",
-    "closeISO": "2026-09-18",
-    "listISO": "2026-09-23",
-    "allotISO": "2026-09-21",
-    "prevPct": 21.2,
-    "sub": {
-      "qib": 0,
-      "hni": 0,
-      "retail": 0,
-      "total": 1.75,
-      "day": 2
-    },
-    "upd": 0,
-    "new": false,
-    "actualList": null,
-    "issueSize": "₹500.00 Cr",
-    "infoUrl": "https://www.investorgain.com/gmp/ss-retail-ipo/2076/",
-    "hasAnchor": true,
-    "readings": {
-      "investorgain": {
-        "gmp": 80,
-        "pct": 18.9
-      }
-    },
-    "registrar": "KFIN",
-    "trend": [
-      21.2,
-      18.9
-    ]
-  },
-  {
-    "name": "Jindal Supreme",
-    "type": "MAINBOARD",
-    "status": "OPEN",
-    "band": [
-      93,
-      93
-    ],
-    "lot": 161,
-    "open": "16 Sep",
-    "close": "18 Sep",
-    "list": "23 Sep",
-    "openISO": "2026-09-16",
-    "closeISO": "2026-09-18",
-    "listISO": "2026-09-23",
-    "allotISO": "2026-09-21",
-    "prevPct": 26.9,
-    "sub": {
-      "qib": 0,
-      "hni": 0,
-      "retail": 0,
-      "total": 8.83,
-      "day": 2
-    },
-    "upd": 0,
-    "new": false,
-    "actualList": null,
-    "issueSize": "₹124.88 Cr",
-    "infoUrl": "https://www.investorgain.com/gmp/jindal-supreme-ipo/2057/",
-    "hasAnchor": true,
-    "readings": {
-      "investorgain": {
-        "gmp": 25,
-        "pct": 26.9
-      }
-    },
-    "registrar": "BIGSHARE",
-    "trend": [
-      26.9,
-      26.9
     ]
   },
   {
@@ -709,7 +665,7 @@
       "qib": 0,
       "hni": 0,
       "retail": 0,
-      "total": 1.7,
+      "total": 3.05,
       "day": 2
     },
     "upd": 0,
@@ -720,14 +676,98 @@
     "hasAnchor": true,
     "readings": {
       "investorgain": {
-        "gmp": 13,
-        "pct": 15.5
+        "gmp": 7,
+        "pct": 8.3
       }
     },
     "registrar": "KFIN",
     "trend": [
       15.5,
-      15.5
+      8.3
+    ]
+  },
+  {
+    "name": "Jindal Supreme",
+    "type": "MAINBOARD",
+    "status": "OPEN",
+    "band": [
+      93,
+      93
+    ],
+    "lot": 161,
+    "open": "16 Sep",
+    "close": "18 Sep",
+    "list": "23 Sep",
+    "openISO": "2026-09-16",
+    "closeISO": "2026-09-18",
+    "listISO": "2026-09-23",
+    "allotISO": "2026-09-21",
+    "prevPct": 26.9,
+    "sub": {
+      "qib": 0,
+      "hni": 0,
+      "retail": 0,
+      "total": 24.62,
+      "day": 2
+    },
+    "upd": 0,
+    "new": false,
+    "actualList": null,
+    "issueSize": "₹124.88 Cr",
+    "infoUrl": "https://www.investorgain.com/gmp/jindal-supreme-ipo/2057/",
+    "hasAnchor": true,
+    "readings": {
+      "investorgain": {
+        "gmp": 29,
+        "pct": 31.2
+      }
+    },
+    "registrar": "BIGSHARE",
+    "trend": [
+      26.9,
+      31.2
+    ]
+  },
+  {
+    "name": "SS Retail",
+    "type": "MAINBOARD",
+    "status": "OPEN",
+    "band": [
+      424,
+      424
+    ],
+    "lot": 35,
+    "open": "16 Sep",
+    "close": "18 Sep",
+    "list": "23 Sep",
+    "openISO": "2026-09-16",
+    "closeISO": "2026-09-18",
+    "listISO": "2026-09-23",
+    "allotISO": "2026-09-21",
+    "prevPct": 18.9,
+    "sub": {
+      "qib": 0,
+      "hni": 0,
+      "retail": 0,
+      "total": 4.3,
+      "day": 2
+    },
+    "upd": 0,
+    "new": false,
+    "actualList": null,
+    "issueSize": "₹500.00 Cr",
+    "infoUrl": "https://www.investorgain.com/gmp/ss-retail-ipo/2076/",
+    "hasAnchor": true,
+    "readings": {
+      "investorgain": {
+        "gmp": 132,
+        "pct": 31.1
+      }
+    },
+    "registrar": "KFIN",
+    "trend": [
+      21.2,
+      31.1
     ]
   },
   {
@@ -751,7 +791,7 @@
       "qib": 0,
       "hni": 0,
       "retail": 0,
-      "total": 0.58,
+      "total": 2.26,
       "day": 3
     },
     "upd": 0,
@@ -762,14 +802,14 @@
     "hasAnchor": false,
     "readings": {
       "investorgain": {
-        "gmp": 70,
-        "pct": 20.5
+        "gmp": 3,
+        "pct": 0.9
       }
     },
     "registrar": "MAASHITLA",
     "trend": [
       20.5,
-      20.5
+      0.9
     ]
   },
   {
@@ -793,7 +833,7 @@
       "qib": 0,
       "hni": 0,
       "retail": 0,
-      "total": 0.73,
+      "total": 1.68,
       "day": 3
     },
     "upd": 0,
@@ -835,7 +875,7 @@
       "qib": 0,
       "hni": 0,
       "retail": 0,
-      "total": 0.08,
+      "total": 0.89,
       "day": 3
     },
     "upd": 0,
@@ -851,48 +891,6 @@
       }
     },
     "registrar": "MUFG",
-    "trend": [
-      0,
-      0
-    ]
-  },
-  {
-    "name": "Injecto Polymers",
-    "type": "SME",
-    "status": "CLOSED",
-    "band": [
-      100,
-      100
-    ],
-    "lot": 1200,
-    "open": "11 Sep",
-    "close": "16 Sep",
-    "list": "21 Sep",
-    "openISO": "2026-09-11",
-    "closeISO": "2026-09-16",
-    "listISO": "2026-09-21",
-    "allotISO": "2026-09-17",
-    "prevPct": 0,
-    "sub": {
-      "qib": 0,
-      "hni": 0,
-      "retail": 0,
-      "total": 1.23,
-      "day": 3
-    },
-    "upd": 0,
-    "new": false,
-    "actualList": null,
-    "issueSize": "₹56.12 Cr",
-    "infoUrl": "https://www.investorgain.com/gmp/injecto-polymers-ipo/1899/",
-    "hasAnchor": true,
-    "readings": {
-      "investorgain": {
-        "gmp": 0,
-        "pct": 0
-      }
-    },
-    "registrar": "INTEGRATED",
     "trend": [
       0,
       0
@@ -941,6 +939,48 @@
     ]
   },
   {
+    "name": "Injecto Polymers",
+    "type": "SME",
+    "status": "CLOSED",
+    "band": [
+      100,
+      100
+    ],
+    "lot": 1200,
+    "open": "11 Sep",
+    "close": "16 Sep",
+    "list": "21 Sep",
+    "openISO": "2026-09-11",
+    "closeISO": "2026-09-16",
+    "listISO": "2026-09-21",
+    "allotISO": "2026-09-17",
+    "prevPct": 0,
+    "sub": {
+      "qib": 0,
+      "hni": 0,
+      "retail": 0,
+      "total": 1.23,
+      "day": 3
+    },
+    "upd": 0,
+    "new": false,
+    "actualList": null,
+    "issueSize": "₹56.12 Cr",
+    "infoUrl": "https://www.investorgain.com/gmp/injecto-polymers-ipo/1899/",
+    "hasAnchor": true,
+    "readings": {
+      "investorgain": {
+        "gmp": 0,
+        "pct": 0
+      }
+    },
+    "registrar": "INTEGRATED",
+    "trend": [
+      0,
+      0
+    ]
+  },
+  {
     "name": "Manika Plastech",
     "type": "MAINBOARD",
     "status": "CLOSED",
@@ -980,6 +1020,48 @@
     "trend": [
       4.7,
       4.7
+    ]
+  },
+  {
+    "name": "Panchatv Bharat",
+    "type": "SME",
+    "status": "CLOSED",
+    "band": [
+      140,
+      140
+    ],
+    "lot": 1000,
+    "open": "10 Sep",
+    "close": "15 Sep",
+    "list": "18 Sep",
+    "openISO": "2026-09-10",
+    "closeISO": "2026-09-15",
+    "listISO": "2026-09-18",
+    "allotISO": "2026-09-16",
+    "prevPct": 2.1,
+    "sub": {
+      "qib": 0,
+      "hni": 0,
+      "retail": 0,
+      "total": 1.4,
+      "day": 3
+    },
+    "upd": 0,
+    "new": false,
+    "actualList": null,
+    "issueSize": "₹24.58 Cr",
+    "infoUrl": "https://www.investorgain.com/gmp/panchatv-bharat-ipo/1749/",
+    "hasAnchor": false,
+    "readings": {
+      "investorgain": {
+        "gmp": 3,
+        "pct": 2.1
+      }
+    },
+    "registrar": "MAASHITLA",
+    "trend": [
+      2.1,
+      2.1
     ]
   },
   {
@@ -1098,14 +1180,14 @@
     "hasAnchor": true,
     "readings": {
       "investorgain": {
-        "gmp": 5,
-        "pct": 3.6
+        "gmp": 6,
+        "pct": 4.3
       }
     },
     "registrar": "MUFG",
     "trend": [
       3.6,
-      3.6
+      4.3
     ]
   },
   {
@@ -1148,48 +1230,6 @@
     "trend": [
       7.7,
       7.7
-    ]
-  },
-  {
-    "name": "Panchatv Bharat",
-    "type": "SME",
-    "status": "CLOSED",
-    "band": [
-      140,
-      140
-    ],
-    "lot": 1000,
-    "open": "10 Sep",
-    "close": "15 Sep",
-    "list": "18 Sep",
-    "openISO": "2026-09-10",
-    "closeISO": "2026-09-15",
-    "listISO": "2026-09-18",
-    "allotISO": "2026-09-16",
-    "prevPct": 2.1,
-    "sub": {
-      "qib": 0,
-      "hni": 0,
-      "retail": 0,
-      "total": 1.4,
-      "day": 3
-    },
-    "upd": 0,
-    "new": false,
-    "actualList": null,
-    "issueSize": "₹24.58 Cr",
-    "infoUrl": "https://www.investorgain.com/gmp/panchatv-bharat-ipo/1749/",
-    "hasAnchor": false,
-    "readings": {
-      "investorgain": {
-        "gmp": 3,
-        "pct": 2.1
-      }
-    },
-    "registrar": "MAASHITLA",
-    "trend": [
-      2.1,
-      2.1
     ]
   },
   {
