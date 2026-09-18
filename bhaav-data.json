@@ -31,15 +31,15 @@
     "hasAnchor": true,
     "readings": {
       "investorgain": {
-        "gmp": 56,
-        "pct": 13.8
+        "gmp": 59,
+        "pct": 14.6
       }
     },
     "registrar": "BIGSHARE",
     "trend": [
       null,
       13.6,
-      13.8
+      14.6
     ]
   },
   {
@@ -237,13 +237,13 @@
     "hasAnchor": true,
     "readings": {
       "investorgain": {
-        "gmp": 0,
-        "pct": 0
+        "gmp": 15,
+        "pct": 4.1
       }
     },
     "trend": [
       null,
-      0
+      4.1
     ]
   },
   {
@@ -305,7 +305,7 @@
     "closeISO": "2026-09-25",
     "listISO": "2026-09-30",
     "allotISO": "2026-09-28",
-    "prevPct": 1.6,
+    "prevPct": 2.7,
     "sub": {
       "qib": 0,
       "hni": 0,
@@ -402,12 +402,12 @@
     "hasAnchor": true,
     "readings": {
       "investorgain": {
-        "gmp": 0,
-        "pct": 0
+        "gmp": 18,
+        "pct": 13.4
       }
     },
     "trend": [
-      0
+      13.4
     ]
   },
   {
@@ -426,7 +426,7 @@
     "closeISO": "2026-09-24",
     "listISO": "2026-09-29",
     "allotISO": "2026-09-25",
-    "prevPct": 4.7,
+    "prevPct": 7.4,
     "sub": {
       "qib": 0,
       "hni": 0,
@@ -442,14 +442,14 @@
     "hasAnchor": true,
     "readings": {
       "investorgain": {
-        "gmp": 11,
-        "pct": 7.4
+        "gmp": 15,
+        "pct": 10.1
       }
     },
     "trend": [
       null,
       6.8,
-      7.4
+      10.1
     ]
   },
   {
@@ -684,7 +684,7 @@
       "qib": 0,
       "hni": 0,
       "retail": 0,
-      "total": 0.56,
+      "total": 0.62,
       "day": 1
     },
     "upd": 0,
@@ -765,7 +765,7 @@
     "closeISO": "2026-09-21",
     "listISO": "2026-09-24",
     "allotISO": "2026-09-22",
-    "prevPct": 5.9,
+    "prevPct": 6.2,
     "sub": {
       "qib": 0,
       "hni": 0,
@@ -781,15 +781,15 @@
     "hasAnchor": true,
     "readings": {
       "investorgain": {
-        "gmp": 110,
-        "pct": 6.2
+        "gmp": 113,
+        "pct": 6.3
       }
     },
     "registrar": "MUFG",
     "trend": [
       8.1,
       8,
-      6.2
+      6.3
     ]
   },
   {
@@ -813,7 +813,7 @@
       "qib": 0,
       "hni": 0,
       "retail": 0,
-      "total": 18.01,
+      "total": 19.93,
       "day": 2
     },
     "upd": 0,
@@ -824,15 +824,15 @@
     "hasAnchor": true,
     "readings": {
       "investorgain": {
-        "gmp": 30,
-        "pct": 25.4
+        "gmp": 45,
+        "pct": 38.1
       }
     },
     "registrar": "MAASHITLA",
     "trend": [
       42.4,
       25.4,
-      25.4
+      38.1
     ]
   },
   {
@@ -851,12 +851,12 @@
     "closeISO": "2026-09-21",
     "listISO": "2026-09-24",
     "allotISO": "2026-09-22",
-    "prevPct": 5.9,
+    "prevPct": 9.9,
     "sub": {
       "qib": 0,
       "hni": 0,
       "retail": 0,
-      "total": 0.38,
+      "total": 0.41,
       "day": 2
     },
     "upd": 0,
@@ -894,7 +894,7 @@
     "closeISO": "2026-09-18",
     "listISO": "2026-09-23",
     "allotISO": "2026-09-21",
-    "prevPct": 4.8,
+    "prevPct": 0,
     "sub": {
       "qib": 0,
       "hni": 0,
@@ -937,7 +937,7 @@
     "closeISO": "2026-09-18",
     "listISO": "2026-09-23",
     "allotISO": "2026-09-21",
-    "prevPct": 35.5,
+    "prevPct": 33.3,
     "sub": {
       "qib": 0,
       "hni": 0,
@@ -953,15 +953,15 @@
     "hasAnchor": true,
     "readings": {
       "investorgain": {
-        "gmp": 31,
-        "pct": 33.3
+        "gmp": 26,
+        "pct": 28
       }
     },
     "registrar": "BIGSHARE",
     "trend": [
       26.9,
       32.3,
-      33.3
+      28
     ]
   },
   {
@@ -980,7 +980,7 @@
     "closeISO": "2026-09-18",
     "listISO": "2026-09-23",
     "allotISO": "2026-09-21",
-    "prevPct": 35.1,
+    "prevPct": 33.7,
     "sub": {
       "qib": 0,
       "hni": 0,
@@ -996,15 +996,15 @@
     "hasAnchor": true,
     "readings": {
       "investorgain": {
-        "gmp": 143,
-        "pct": 33.7
+        "gmp": 145,
+        "pct": 34.2
       }
     },
     "registrar": "KFIN",
     "trend": [
       21.2,
       32.3,
-      33.7
+      34.2
     ]
   },
   {
@@ -1152,7 +1152,7 @@
     "closeISO": "2026-09-16",
     "listISO": "2026-09-21",
     "allotISO": "2026-09-17",
-    "prevPct": 5.2,
+    "prevPct": 4.7,
     "sub": {
       "qib": 0,
       "hni": 0,
@@ -1169,14 +1169,14 @@
     "readings": {
       "investorgain": {
         "gmp": 2,
-        "pct": 4.7
+        "pct": 3.5
       }
     },
     "registrar": "MUFG",
     "trend": [
       4.7,
       5.2,
-      4.7
+      3.5
     ]
   },
   {
