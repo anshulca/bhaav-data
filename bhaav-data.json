@@ -15,7 +15,7 @@
     "closeISO": "2026-09-28",
     "listISO": "2026-10-01",
     "allotISO": "2026-09-29",
-    "prevPct": 13.6,
+    "prevPct": 13.8,
     "sub": {
       "qib": 0,
       "hni": 0,
@@ -305,7 +305,7 @@
     "closeISO": "2026-09-25",
     "listISO": "2026-09-30",
     "allotISO": "2026-09-28",
-    "prevPct": 0,
+    "prevPct": 1.6,
     "sub": {
       "qib": 0,
       "hni": 0,
@@ -426,7 +426,7 @@
     "closeISO": "2026-09-24",
     "listISO": "2026-09-29",
     "allotISO": "2026-09-25",
-    "prevPct": 6.8,
+    "prevPct": 4.7,
     "sub": {
       "qib": 0,
       "hni": 0,
@@ -765,7 +765,7 @@
     "closeISO": "2026-09-21",
     "listISO": "2026-09-24",
     "allotISO": "2026-09-22",
-    "prevPct": 7.5,
+    "prevPct": 5.9,
     "sub": {
       "qib": 0,
       "hni": 0,
@@ -808,7 +808,7 @@
     "closeISO": "2026-09-21",
     "listISO": "2026-09-24",
     "allotISO": "2026-09-22",
-    "prevPct": 42.4,
+    "prevPct": 25.4,
     "sub": {
       "qib": 0,
       "hni": 0,
@@ -851,7 +851,7 @@
     "closeISO": "2026-09-21",
     "listISO": "2026-09-24",
     "allotISO": "2026-09-22",
-    "prevPct": 7.9,
+    "prevPct": 5.9,
     "sub": {
       "qib": 0,
       "hni": 0,
@@ -894,7 +894,7 @@
     "closeISO": "2026-09-18",
     "listISO": "2026-09-23",
     "allotISO": "2026-09-21",
-    "prevPct": 6.5,
+    "prevPct": 4.8,
     "sub": {
       "qib": 0,
       "hni": 0,
@@ -937,7 +937,7 @@
     "closeISO": "2026-09-18",
     "listISO": "2026-09-23",
     "allotISO": "2026-09-21",
-    "prevPct": 33.3,
+    "prevPct": 35.5,
     "sub": {
       "qib": 0,
       "hni": 0,
@@ -980,7 +980,7 @@
     "closeISO": "2026-09-18",
     "listISO": "2026-09-23",
     "allotISO": "2026-09-21",
-    "prevPct": 32.3,
+    "prevPct": 35.1,
     "sub": {
       "qib": 0,
       "hni": 0,
@@ -1413,7 +1413,7 @@
     "closeISO": "2026-09-15",
     "listISO": "2026-09-18",
     "allotISO": "2026-09-16",
-    "prevPct": 5.71,
+    "prevPct": 5.7,
     "sub": {
       "qib": 0,
       "hni": 0,
@@ -1422,7 +1422,7 @@
       "day": 3
     },
     "upd": 0,
-    "new": true,
+    "new": false,
     "actualList": null,
     "issueSize": "₹210.00 Cr",
     "infoUrl": "https://www.investorgain.com/gmp/veegaland-developers-ipo/1601/",
@@ -1466,7 +1466,7 @@
       "day": 3
     },
     "upd": 0,
-    "new": true,
+    "new": false,
     "actualList": null,
     "issueSize": "₹105.00 Cr",
     "infoUrl": "https://www.investorgain.com/gmp/om-galaxy-ipo/2249/",
@@ -1501,7 +1501,7 @@
     "closeISO": "2026-09-11",
     "listISO": "2026-09-17",
     "allotISO": "2026-09-15",
-    "prevPct": 1.06,
+    "prevPct": 1.1,
     "sub": {
       "qib": 0,
       "hni": 0,
@@ -1510,7 +1510,7 @@
       "day": 3
     },
     "upd": 0,
-    "new": true,
+    "new": false,
     "actualList": null,
     "issueSize": "₹42.83 Cr",
     "infoUrl": "https://www.investorgain.com/gmp/vinod-texworld-ipo/1977/",
@@ -1545,7 +1545,7 @@
     "closeISO": "2026-09-11",
     "listISO": "2026-09-17",
     "allotISO": "2026-09-15",
-    "prevPct": 8.63,
+    "prevPct": 8.6,
     "sub": {
       "qib": 0,
       "hni": 0,
@@ -1554,7 +1554,7 @@
       "day": 3
     },
     "upd": 0,
-    "new": true,
+    "new": false,
     "actualList": null,
     "issueSize": "₹732.97 Cr",
     "infoUrl": "https://www.investorgain.com/gmp/asset-reconstruction-ipo/1848/",
@@ -1589,7 +1589,7 @@
     "closeISO": "2026-09-11",
     "listISO": "2026-09-17",
     "allotISO": "2026-09-15",
-    "prevPct": -1.77,
+    "prevPct": -1.8,
     "sub": {
       "qib": 0,
       "hni": 0,
@@ -1598,7 +1598,7 @@
       "day": 3
     },
     "upd": 0,
-    "new": true,
+    "new": false,
     "actualList": null,
     "issueSize": "₹805.00 Cr",
     "infoUrl": "https://www.investorgain.com/gmp/manipal-payment-and-identity-solutions-ipo/1827/",
@@ -1633,7 +1633,7 @@
     "closeISO": "2026-09-11",
     "listISO": "2026-09-17",
     "allotISO": "2026-09-15",
-    "prevPct": 21.33,
+    "prevPct": 21.3,
     "sub": {
       "qib": 0,
       "hni": 0,
@@ -1642,7 +1642,7 @@
       "day": 3
     },
     "upd": 0,
-    "new": true,
+    "new": false,
     "actualList": null,
     "issueSize": "₹17.88 Cr",
     "infoUrl": "https://www.investorgain.com/gmp/amtech-esters-ipo/1685/",
@@ -1677,7 +1677,7 @@
     "closeISO": "2026-09-11",
     "listISO": "2026-09-17",
     "allotISO": "2026-09-15",
-    "prevPct": 24.66,
+    "prevPct": 24.7,
     "sub": {
       "qib": 0,
       "hni": 0,
@@ -1686,7 +1686,7 @@
       "day": 3
     },
     "upd": 0,
-    "new": true,
+    "new": false,
     "actualList": null,
     "issueSize": "₹427.14 Cr",
     "infoUrl": "https://www.investorgain.com/gmp/lcc-projects-ipo/1648/",
@@ -1721,7 +1721,7 @@
     "closeISO": "2026-09-11",
     "listISO": "2026-09-17",
     "allotISO": "2026-09-15",
-    "prevPct": 18.11,
+    "prevPct": 18.1,
     "sub": {
       "qib": 0,
       "hni": 0,
@@ -1730,7 +1730,7 @@
       "day": 3
     },
     "upd": 0,
-    "new": true,
+    "new": false,
     "actualList": null,
     "issueSize": "₹875.00 Cr",
     "infoUrl": "https://www.investorgain.com/gmp/karamtara-engineering-ipo/1622/",
@@ -1765,7 +1765,7 @@
     "closeISO": "2026-09-11",
     "listISO": "2026-09-17",
     "allotISO": "2026-09-15",
-    "prevPct": 21.53,
+    "prevPct": 21.5,
     "sub": {
       "qib": 0,
       "hni": 0,
@@ -1774,7 +1774,7 @@
       "day": 3
     },
     "upd": 0,
-    "new": true,
+    "new": false,
     "actualList": null,
     "issueSize": "₹1255.57 Cr",
     "infoUrl": "https://www.investorgain.com/gmp/rentomojo-ipo/2231/",
@@ -1818,7 +1818,7 @@
       "day": 3
     },
     "upd": 0,
-    "new": true,
+    "new": false,
     "actualList": null,
     "issueSize": "₹40.88 Cr",
     "infoUrl": "https://www.investorgain.com/gmp/infrax-renewable-ipo/2318/",
@@ -1853,7 +1853,7 @@
     "closeISO": "2026-09-11",
     "listISO": "2026-09-17",
     "allotISO": "2026-09-15",
-    "prevPct": 16.67,
+    "prevPct": 16.7,
     "sub": {
       "qib": 0,
       "hni": 0,
@@ -1862,7 +1862,7 @@
       "day": 3
     },
     "upd": 0,
-    "new": true,
+    "new": false,
     "actualList": null,
     "issueSize": "₹414.00 Cr",
     "infoUrl": "https://www.investorgain.com/gmp/steamhouse-india-ipo/1823/",
@@ -1906,7 +1906,7 @@
       "day": 3
     },
     "upd": 0,
-    "new": true,
+    "new": false,
     "actualList": null,
     "issueSize": "₹1055.74 Cr",
     "infoUrl": "https://www.investorgain.com/gmp/kanohar-electricals-ipo/2119/",
@@ -1941,7 +1941,7 @@
     "closeISO": "2026-09-10",
     "listISO": "2026-09-16",
     "allotISO": "2026-09-11",
-    "prevPct": -1.92,
+    "prevPct": -1.9,
     "sub": {
       "qib": 0,
       "hni": 0,
@@ -1950,7 +1950,7 @@
       "day": 3
     },
     "upd": 0,
-    "new": true,
+    "new": false,
     "actualList": null,
     "issueSize": "₹500.00 Cr",
     "infoUrl": "https://www.investorgain.com/gmp/prasol-chemicals-ipo/2030/",
@@ -1985,7 +1985,7 @@
     "closeISO": "2026-09-10",
     "listISO": "2026-09-16",
     "allotISO": "2026-09-11",
-    "prevPct": 21.43,
+    "prevPct": 21.4,
     "sub": {
       "qib": 0,
       "hni": 0,
@@ -1994,7 +1994,7 @@
       "day": 3
     },
     "upd": 0,
-    "new": true,
+    "new": false,
     "actualList": null,
     "issueSize": "₹427.89 Cr",
     "infoUrl": "https://www.investorgain.com/gmp/glass-wall-systems-ipo/1879/",
@@ -2038,7 +2038,7 @@
       "day": 3
     },
     "upd": 0,
-    "new": true,
+    "new": false,
     "actualList": null,
     "issueSize": "₹34.14 Cr",
     "infoUrl": "https://www.investorgain.com/gmp/apana-logistics-ipo/2018/",
@@ -2071,7 +2071,7 @@
     "closeISO": "2026-09-09",
     "listISO": "2026-09-15",
     "allotISO": "2026-09-10",
-    "prevPct": 42.74,
+    "prevPct": 42.7,
     "sub": {
       "qib": 0,
       "hni": 0,
@@ -2080,7 +2080,7 @@
       "day": 3
     },
     "upd": 0,
-    "new": true,
+    "new": false,
     "actualList": null,
     "issueSize": "₹351.03 Cr",
     "infoUrl": "https://www.investorgain.com/gmp/pranav-constructions-ipo/1662/",
@@ -2113,7 +2113,7 @@
     "closeISO": "2026-09-08",
     "listISO": "2026-09-11",
     "allotISO": "2026-09-09",
-    "prevPct": 63.78,
+    "prevPct": 63.8,
     "sub": {
       "qib": 0,
       "hni": 0,
@@ -2122,7 +2122,7 @@
       "day": 3
     },
     "upd": 0,
-    "new": true,
+    "new": false,
     "actualList": null,
     "issueSize": "₹45.11 Cr",
     "infoUrl": "https://www.investorgain.com/gmp/qualiance-international-ipo/2240/",
