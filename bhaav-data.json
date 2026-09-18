@@ -546,7 +546,7 @@
   {
     "name": "Axiom Gas Engineering",
     "type": "SME",
-    "status": "UPCOMING",
+    "status": "OPEN",
     "band": [
       54,
       54
@@ -565,7 +565,7 @@
       "hni": 0,
       "retail": 0,
       "total": 0,
-      "day": 0
+      "day": 1
     },
     "upd": 0,
     "new": false,
@@ -608,7 +608,7 @@
       "hni": 0,
       "retail": 0,
       "total": 5.66,
-      "day": 1
+      "day": 2
     },
     "upd": 0,
     "new": false,
@@ -651,7 +651,7 @@
       "hni": 0,
       "retail": 0,
       "total": 0.43,
-      "day": 1
+      "day": 2
     },
     "upd": 0,
     "new": false,
@@ -694,7 +694,7 @@
       "hni": 0,
       "retail": 0,
       "total": 0.21,
-      "day": 1
+      "day": 2
     },
     "upd": 0,
     "new": false,
@@ -737,7 +737,7 @@
       "hni": 0,
       "retail": 0,
       "total": 0.47,
-      "day": 1
+      "day": 2
     },
     "upd": 0,
     "new": false,
@@ -780,7 +780,7 @@
       "hni": 0,
       "retail": 0,
       "total": 3.58,
-      "day": 2
+      "day": 3
     },
     "upd": 0,
     "new": false,
@@ -823,7 +823,7 @@
       "hni": 0,
       "retail": 0,
       "total": 31.54,
-      "day": 2
+      "day": 3
     },
     "upd": 0,
     "new": false,
@@ -866,7 +866,7 @@
       "hni": 0,
       "retail": 0,
       "total": 6.1,
-      "day": 2
+      "day": 3
     },
     "upd": 0,
     "new": false,
@@ -890,7 +890,7 @@
   {
     "name": "Vama Wovenfab",
     "type": "SME",
-    "status": "OPEN",
+    "status": "CLOSED",
     "band": [
       341,
       341
@@ -933,7 +933,7 @@
   {
     "name": "Shakti Polytarp",
     "type": "SME",
-    "status": "OPEN",
+    "status": "CLOSED",
     "band": [
       59,
       59
@@ -976,7 +976,7 @@
   {
     "name": "Quanto Agroworld",
     "type": "SME",
-    "status": "OPEN",
+    "status": "CLOSED",
     "band": [
       67,
       67
@@ -1148,7 +1148,7 @@
   {
     "name": "Panchatv Bharat",
     "type": "SME",
-    "status": "CLOSED",
+    "status": "LISTED",
     "band": [
       140,
       140
@@ -1181,6 +1181,7 @@
         "pct": 2.1
       }
     },
+    "lastGmpPct": 2.1,
     "registrar": "MAASHITLA",
     "trend": [
       2.1,
@@ -1191,7 +1192,7 @@
   {
     "name": "Om Galaxy",
     "type": "SME",
-    "status": "CLOSED",
+    "status": "LISTED",
     "band": [
       90,
       90
@@ -1224,6 +1225,7 @@
         "pct": 0
       }
     },
+    "lastGmpPct": 0,
     "registrar": "BIGSHARE",
     "trend": [
       0,
@@ -1234,7 +1236,7 @@
   {
     "name": "Maharaja & Speedex India",
     "type": "SME",
-    "status": "CLOSED",
+    "status": "LISTED",
     "band": [
       186,
       186
@@ -1267,6 +1269,7 @@
         "pct": 15.1
       }
     },
+    "lastGmpPct": 15.1,
     "registrar": "MAASHITLA",
     "trend": [
       15.1,
@@ -1277,7 +1280,7 @@
   {
     "name": "Veegaland Developers",
     "type": "MAINBOARD",
-    "status": "CLOSED",
+    "status": "LISTED",
     "band": [
       140,
       140
@@ -1310,6 +1313,7 @@
         "pct": 6.1
       }
     },
+    "lastGmpPct": 6.1,
     "registrar": "MUFG",
     "trend": [
       3.6,
@@ -1320,7 +1324,7 @@
   {
     "name": "Raksan Transformers",
     "type": "SME",
-    "status": "CLOSED",
+    "status": "LISTED",
     "band": [
       273,
       273
@@ -1353,6 +1357,7 @@
         "pct": 4
       }
     },
+    "lastGmpPct": 4,
     "registrar": "BIGSHARE",
     "trend": [
       7.7,
