@@ -31,15 +31,15 @@
     "hasAnchor": true,
     "readings": {
       "investorgain": {
-        "gmp": 55,
-        "pct": 13.6
+        "gmp": 56,
+        "pct": 13.8
       }
     },
     "registrar": "BIGSHARE",
     "trend": [
       null,
       13.6,
-      13.6
+      13.8
     ]
   },
   {
@@ -99,7 +99,7 @@
     "closeISO": "2026-09-25",
     "listISO": "2026-09-30",
     "allotISO": "2026-09-28",
-    "prevPct": null,
+    "prevPct": 0,
     "sub": {
       "qib": 0,
       "hni": 0,
@@ -108,12 +108,20 @@
       "day": 0
     },
     "upd": 0,
-    "new": true,
+    "new": false,
     "actualList": null,
     "issueSize": "₹44.23 Cr",
     "infoUrl": "https://www.investorgain.com/gmp/pooja-logistics-ipo/1982/",
     "hasAnchor": true,
-    "readings": {}
+    "readings": {
+      "investorgain": {
+        "gmp": 0,
+        "pct": 0
+      }
+    },
+    "trend": [
+      0
+    ]
   },
   {
     "name": "Sai Urja Indo",
@@ -306,19 +314,19 @@
       "day": 0
     },
     "upd": 0,
-    "new": true,
+    "new": false,
     "actualList": null,
-    "issueSize": "₹160.87 Cr",
+    "issueSize": "₹160.88 Cr",
     "infoUrl": "https://www.investorgain.com/gmp/swastika-infra-ipo/1708/",
     "hasAnchor": true,
     "readings": {
       "investorgain": {
-        "gmp": 0,
-        "pct": 0
+        "gmp": 3,
+        "pct": 1.6
       }
     },
     "trend": [
-      0
+      1.6
     ]
   },
   {
@@ -378,7 +386,7 @@
     "closeISO": "2026-09-25",
     "listISO": "2026-09-30",
     "allotISO": "2026-09-28",
-    "prevPct": null,
+    "prevPct": 0,
     "sub": {
       "qib": 0,
       "hni": 0,
@@ -387,12 +395,20 @@
       "day": 0
     },
     "upd": 0,
-    "new": true,
+    "new": false,
     "actualList": null,
     "issueSize": "₹150.71 Cr",
     "infoUrl": "https://www.investorgain.com/gmp/adroit-industries-ipo/2268/",
     "hasAnchor": true,
-    "readings": {}
+    "readings": {
+      "investorgain": {
+        "gmp": 0,
+        "pct": 0
+      }
+    },
+    "trend": [
+      0
+    ]
   },
   {
     "name": "Varmora Granito",
@@ -426,14 +442,14 @@
     "hasAnchor": true,
     "readings": {
       "investorgain": {
-        "gmp": 10,
-        "pct": 6.8
+        "gmp": 7,
+        "pct": 4.7
       }
     },
     "trend": [
       null,
       6.8,
-      6.8
+      4.7
     ]
   },
   {
@@ -668,7 +684,7 @@
       "qib": 0,
       "hni": 0,
       "retail": 0,
-      "total": 0.04,
+      "total": 0.33,
       "day": 1
     },
     "upd": 0,
@@ -711,7 +727,7 @@
       "qib": 0,
       "hni": 0,
       "retail": 0,
-      "total": 0.56,
+      "total": 0.68,
       "day": 2
     },
     "upd": 0,
@@ -749,12 +765,12 @@
     "closeISO": "2026-09-21",
     "listISO": "2026-09-24",
     "allotISO": "2026-09-22",
-    "prevPct": 8,
+    "prevPct": 7.5,
     "sub": {
       "qib": 0,
       "hni": 0,
       "retail": 0,
-      "total": 0.43,
+      "total": 1.45,
       "day": 2
     },
     "upd": 0,
@@ -765,15 +781,15 @@
     "hasAnchor": true,
     "readings": {
       "investorgain": {
-        "gmp": 134,
-        "pct": 7.5
+        "gmp": 106,
+        "pct": 5.9
       }
     },
     "registrar": "MUFG",
     "trend": [
       8.1,
       8,
-      7.5
+      5.9
     ]
   },
   {
@@ -792,12 +808,12 @@
     "closeISO": "2026-09-21",
     "listISO": "2026-09-24",
     "allotISO": "2026-09-22",
-    "prevPct": 25.4,
+    "prevPct": 42.4,
     "sub": {
       "qib": 0,
       "hni": 0,
       "retail": 0,
-      "total": 8.78,
+      "total": 15.11,
       "day": 2
     },
     "upd": 0,
@@ -808,15 +824,15 @@
     "hasAnchor": true,
     "readings": {
       "investorgain": {
-        "gmp": 50,
-        "pct": 42.4
+        "gmp": 30,
+        "pct": 25.4
       }
     },
     "registrar": "MAASHITLA",
     "trend": [
       42.4,
       25.4,
-      42.4
+      25.4
     ]
   },
   {
@@ -835,12 +851,12 @@
     "closeISO": "2026-09-21",
     "listISO": "2026-09-24",
     "allotISO": "2026-09-22",
-    "prevPct": 9.9,
+    "prevPct": 7.9,
     "sub": {
       "qib": 0,
       "hni": 0,
       "retail": 0,
-      "total": 0.21,
+      "total": 0.28,
       "day": 2
     },
     "upd": 0,
@@ -851,15 +867,15 @@
     "hasAnchor": true,
     "readings": {
       "investorgain": {
-        "gmp": 8,
-        "pct": 7.9
+        "gmp": 6,
+        "pct": 5.9
       }
     },
     "registrar": "KFIN",
     "trend": [
       9.9,
       9.9,
-      7.9
+      5.9
     ]
   },
   {
@@ -883,7 +899,7 @@
       "qib": 0,
       "hni": 0,
       "retail": 0,
-      "total": 4.24,
+      "total": 8.18,
       "day": 3
     },
     "upd": 0,
@@ -894,15 +910,15 @@
     "hasAnchor": true,
     "readings": {
       "investorgain": {
-        "gmp": 6,
-        "pct": 6.5
+        "gmp": 4,
+        "pct": 4.8
       }
     },
     "registrar": "KFIN",
     "trend": [
       15.5,
       6.5,
-      6.5
+      4.8
     ]
   },
   {
@@ -921,12 +937,12 @@
     "closeISO": "2026-09-18",
     "listISO": "2026-09-23",
     "allotISO": "2026-09-21",
-    "prevPct": 32.3,
+    "prevPct": 33.3,
     "sub": {
       "qib": 0,
       "hni": 0,
       "retail": 0,
-      "total": 49.44,
+      "total": 148.23,
       "day": 3
     },
     "upd": 0,
@@ -937,15 +953,15 @@
     "hasAnchor": true,
     "readings": {
       "investorgain": {
-        "gmp": 31,
-        "pct": 33.3
+        "gmp": 33,
+        "pct": 35.5
       }
     },
     "registrar": "BIGSHARE",
     "trend": [
       26.9,
       32.3,
-      33.3
+      35.5
     ]
   },
   {
@@ -969,7 +985,7 @@
       "qib": 0,
       "hni": 0,
       "retail": 0,
-      "total": 10.87,
+      "total": 54.69,
       "day": 3
     },
     "upd": 0,
@@ -980,15 +996,15 @@
     "hasAnchor": true,
     "readings": {
       "investorgain": {
-        "gmp": 137,
-        "pct": 32.3
+        "gmp": 149,
+        "pct": 35.1
       }
     },
     "registrar": "KFIN",
     "trend": [
       21.2,
       32.3,
-      32.3
+      35.1
     ]
   },
   {
@@ -1265,7 +1281,7 @@
     "closeISO": "2026-09-15",
     "listISO": "2026-09-18",
     "allotISO": "2026-09-16",
-    "prevPct": 4,
+    "prevPct": 4.4,
     "sub": {
       "qib": 0,
       "hni": 0,
@@ -1379,6 +1395,748 @@
       15.1,
       15.1,
       15.1
+    ]
+  },
+  {
+    "name": "Veegaland Developers",
+    "type": "MAINBOARD",
+    "status": "LISTED",
+    "band": [
+      140,
+      140
+    ],
+    "lot": 107,
+    "open": "10 Sep",
+    "close": "15 Sep",
+    "list": "18 Sep",
+    "openISO": "2026-09-10",
+    "closeISO": "2026-09-15",
+    "listISO": "2026-09-18",
+    "allotISO": "2026-09-16",
+    "prevPct": 5.71,
+    "sub": {
+      "qib": 0,
+      "hni": 0,
+      "retail": 0,
+      "total": 14.6,
+      "day": 3
+    },
+    "upd": 0,
+    "new": true,
+    "actualList": null,
+    "issueSize": "₹210.00 Cr",
+    "infoUrl": "https://www.investorgain.com/gmp/veegaland-developers-ipo/1601/",
+    "hasAnchor": true,
+    "readings": {
+      "investorgain": {
+        "gmp": 8,
+        "pct": 5.7
+      }
+    },
+    "lastGmpPct": 5.7,
+    "registrar": "MUFG",
+    "trend": [
+      3.6,
+      6.1,
+      5.7
+    ]
+  },
+  {
+    "name": "Om Galaxy",
+    "type": "SME",
+    "status": "LISTED",
+    "band": [
+      90,
+      90
+    ],
+    "lot": 1600,
+    "open": "10 Sep",
+    "close": "15 Sep",
+    "list": "18 Sep",
+    "openISO": "2026-09-10",
+    "closeISO": "2026-09-15",
+    "listISO": "2026-09-18",
+    "allotISO": "2026-09-16",
+    "prevPct": 0,
+    "sub": {
+      "qib": 0,
+      "hni": 0,
+      "retail": 0,
+      "total": 2.07,
+      "day": 3
+    },
+    "upd": 0,
+    "new": true,
+    "actualList": null,
+    "issueSize": "₹105.00 Cr",
+    "infoUrl": "https://www.investorgain.com/gmp/om-galaxy-ipo/2249/",
+    "hasAnchor": true,
+    "readings": {
+      "investorgain": {
+        "gmp": 0,
+        "pct": 0
+      }
+    },
+    "lastGmpPct": 0,
+    "registrar": "BIGSHARE",
+    "trend": [
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "name": "Vinod Texworld",
+    "type": "SME",
+    "status": "LISTED",
+    "band": [
+      94,
+      94
+    ],
+    "lot": 1200,
+    "open": "9 Sep",
+    "close": "11 Sep",
+    "list": "17 Sep",
+    "openISO": "2026-09-09",
+    "closeISO": "2026-09-11",
+    "listISO": "2026-09-17",
+    "allotISO": "2026-09-15",
+    "prevPct": 1.06,
+    "sub": {
+      "qib": 0,
+      "hni": 0,
+      "retail": 0,
+      "total": 1.6,
+      "day": 3
+    },
+    "upd": 0,
+    "new": true,
+    "actualList": null,
+    "issueSize": "₹42.83 Cr",
+    "infoUrl": "https://www.investorgain.com/gmp/vinod-texworld-ipo/1977/",
+    "hasAnchor": false,
+    "readings": {
+      "investorgain": {
+        "gmp": 1,
+        "pct": 1.1
+      }
+    },
+    "lastGmpPct": 1.1,
+    "registrar": "KFIN",
+    "trend": [
+      1.1,
+      1.1,
+      1.1
+    ]
+  },
+  {
+    "name": "Asset Reconstruction",
+    "type": "MAINBOARD",
+    "status": "LISTED",
+    "band": [
+      139,
+      139
+    ],
+    "lot": 107,
+    "open": "9 Sep",
+    "close": "11 Sep",
+    "list": "17 Sep",
+    "openISO": "2026-09-09",
+    "closeISO": "2026-09-11",
+    "listISO": "2026-09-17",
+    "allotISO": "2026-09-15",
+    "prevPct": 8.63,
+    "sub": {
+      "qib": 0,
+      "hni": 0,
+      "retail": 0,
+      "total": 20.1,
+      "day": 3
+    },
+    "upd": 0,
+    "new": true,
+    "actualList": null,
+    "issueSize": "₹732.97 Cr",
+    "infoUrl": "https://www.investorgain.com/gmp/asset-reconstruction-ipo/1848/",
+    "hasAnchor": true,
+    "readings": {
+      "investorgain": {
+        "gmp": 12,
+        "pct": 8.6
+      }
+    },
+    "lastGmpPct": 8.6,
+    "registrar": "MUFG",
+    "trend": [
+      8.6,
+      8.6,
+      8.6
+    ]
+  },
+  {
+    "name": "Manipal Payment and Identity Solutions",
+    "type": "MAINBOARD",
+    "status": "LISTED",
+    "band": [
+      339,
+      339
+    ],
+    "lot": 44,
+    "open": "9 Sep",
+    "close": "11 Sep",
+    "list": "17 Sep",
+    "openISO": "2026-09-09",
+    "closeISO": "2026-09-11",
+    "listISO": "2026-09-17",
+    "allotISO": "2026-09-15",
+    "prevPct": -1.77,
+    "sub": {
+      "qib": 0,
+      "hni": 0,
+      "retail": 0,
+      "total": 1.42,
+      "day": 3
+    },
+    "upd": 0,
+    "new": true,
+    "actualList": null,
+    "issueSize": "₹805.00 Cr",
+    "infoUrl": "https://www.investorgain.com/gmp/manipal-payment-and-identity-solutions-ipo/1827/",
+    "hasAnchor": true,
+    "readings": {
+      "investorgain": {
+        "gmp": -6,
+        "pct": -1.8
+      }
+    },
+    "lastGmpPct": -1.8,
+    "registrar": "MUFG",
+    "trend": [
+      -1.8,
+      -1.8,
+      -1.8
+    ]
+  },
+  {
+    "name": "Amtech Esters",
+    "type": "SME",
+    "status": "LISTED",
+    "band": [
+      75,
+      75
+    ],
+    "lot": 1600,
+    "open": "9 Sep",
+    "close": "11 Sep",
+    "list": "17 Sep",
+    "openISO": "2026-09-09",
+    "closeISO": "2026-09-11",
+    "listISO": "2026-09-17",
+    "allotISO": "2026-09-15",
+    "prevPct": 21.33,
+    "sub": {
+      "qib": 0,
+      "hni": 0,
+      "retail": 0,
+      "total": 25.7,
+      "day": 3
+    },
+    "upd": 0,
+    "new": true,
+    "actualList": null,
+    "issueSize": "₹17.88 Cr",
+    "infoUrl": "https://www.investorgain.com/gmp/amtech-esters-ipo/1685/",
+    "hasAnchor": true,
+    "readings": {
+      "investorgain": {
+        "gmp": 16,
+        "pct": 21.3
+      }
+    },
+    "lastGmpPct": 21.3,
+    "registrar": "MAASHITLA",
+    "trend": [
+      21.3,
+      21.3,
+      21.3
+    ]
+  },
+  {
+    "name": "LCC Projects",
+    "type": "MAINBOARD",
+    "status": "LISTED",
+    "band": [
+      146,
+      146
+    ],
+    "lot": 102,
+    "open": "9 Sep",
+    "close": "11 Sep",
+    "list": "17 Sep",
+    "openISO": "2026-09-09",
+    "closeISO": "2026-09-11",
+    "listISO": "2026-09-17",
+    "allotISO": "2026-09-15",
+    "prevPct": 24.66,
+    "sub": {
+      "qib": 0,
+      "hni": 0,
+      "retail": 0,
+      "total": 49.57,
+      "day": 3
+    },
+    "upd": 0,
+    "new": true,
+    "actualList": null,
+    "issueSize": "₹427.14 Cr",
+    "infoUrl": "https://www.investorgain.com/gmp/lcc-projects-ipo/1648/",
+    "hasAnchor": true,
+    "readings": {
+      "investorgain": {
+        "gmp": 36,
+        "pct": 24.7
+      }
+    },
+    "lastGmpPct": 24.7,
+    "registrar": "KFIN",
+    "trend": [
+      24.7,
+      24.7,
+      24.7
+    ]
+  },
+  {
+    "name": "Karamtara Engineering",
+    "type": "MAINBOARD",
+    "status": "LISTED",
+    "band": [
+      254,
+      254
+    ],
+    "lot": 59,
+    "open": "9 Sep",
+    "close": "11 Sep",
+    "list": "17 Sep",
+    "openISO": "2026-09-09",
+    "closeISO": "2026-09-11",
+    "listISO": "2026-09-17",
+    "allotISO": "2026-09-15",
+    "prevPct": 18.11,
+    "sub": {
+      "qib": 0,
+      "hni": 0,
+      "retail": 0,
+      "total": 66.01,
+      "day": 3
+    },
+    "upd": 0,
+    "new": true,
+    "actualList": null,
+    "issueSize": "₹875.00 Cr",
+    "infoUrl": "https://www.investorgain.com/gmp/karamtara-engineering-ipo/1622/",
+    "hasAnchor": true,
+    "readings": {
+      "investorgain": {
+        "gmp": 46,
+        "pct": 18.1
+      }
+    },
+    "lastGmpPct": 18.1,
+    "registrar": "MUFG",
+    "trend": [
+      18.9,
+      18.9,
+      18.1
+    ]
+  },
+  {
+    "name": "Rentomojo",
+    "type": "MAINBOARD",
+    "status": "LISTED",
+    "band": [
+      404,
+      404
+    ],
+    "lot": 37,
+    "open": "9 Sep",
+    "close": "11 Sep",
+    "list": "17 Sep",
+    "openISO": "2026-09-09",
+    "closeISO": "2026-09-11",
+    "listISO": "2026-09-17",
+    "allotISO": "2026-09-15",
+    "prevPct": 21.53,
+    "sub": {
+      "qib": 0,
+      "hni": 0,
+      "retail": 0,
+      "total": 72.89,
+      "day": 3
+    },
+    "upd": 0,
+    "new": true,
+    "actualList": null,
+    "issueSize": "₹1255.57 Cr",
+    "infoUrl": "https://www.investorgain.com/gmp/rentomojo-ipo/2231/",
+    "hasAnchor": true,
+    "readings": {
+      "investorgain": {
+        "gmp": 87,
+        "pct": 21.5
+      }
+    },
+    "lastGmpPct": 21.5,
+    "registrar": "KFIN",
+    "trend": [
+      21.3,
+      21.3,
+      21.5
+    ]
+  },
+  {
+    "name": "Infrax Renewable",
+    "type": "SME",
+    "status": "LISTED",
+    "band": [
+      104,
+      104
+    ],
+    "lot": 1200,
+    "open": "9 Sep",
+    "close": "11 Sep",
+    "list": "17 Sep",
+    "openISO": "2026-09-09",
+    "closeISO": "2026-09-11",
+    "listISO": "2026-09-17",
+    "allotISO": "2026-09-15",
+    "prevPct": 0,
+    "sub": {
+      "qib": 0,
+      "hni": 0,
+      "retail": 0,
+      "total": 2.05,
+      "day": 3
+    },
+    "upd": 0,
+    "new": true,
+    "actualList": null,
+    "issueSize": "₹40.88 Cr",
+    "infoUrl": "https://www.investorgain.com/gmp/infrax-renewable-ipo/2318/",
+    "hasAnchor": false,
+    "readings": {
+      "investorgain": {
+        "gmp": 0,
+        "pct": 0
+      }
+    },
+    "lastGmpPct": 0,
+    "registrar": "BIGSHARE",
+    "trend": [
+      0,
+      0,
+      0
+    ]
+  },
+  {
+    "name": "Steamhouse",
+    "type": "MAINBOARD",
+    "status": "LISTED",
+    "band": [
+      81,
+      81
+    ],
+    "lot": 185,
+    "open": "9 Sep",
+    "close": "11 Sep",
+    "list": "17 Sep",
+    "openISO": "2026-09-09",
+    "closeISO": "2026-09-11",
+    "listISO": "2026-09-17",
+    "allotISO": "2026-09-15",
+    "prevPct": 16.67,
+    "sub": {
+      "qib": 0,
+      "hni": 0,
+      "retail": 0,
+      "total": 32.07,
+      "day": 3
+    },
+    "upd": 0,
+    "new": true,
+    "actualList": null,
+    "issueSize": "₹414.00 Cr",
+    "infoUrl": "https://www.investorgain.com/gmp/steamhouse-india-ipo/1823/",
+    "hasAnchor": true,
+    "readings": {
+      "investorgain": {
+        "gmp": 14,
+        "pct": 16.7
+      }
+    },
+    "lastGmpPct": 16.7,
+    "registrar": "KFIN",
+    "trend": [
+      16.7,
+      16.7,
+      16.7
+    ]
+  },
+  {
+    "name": "Kanohar Electricals",
+    "type": "MAINBOARD",
+    "status": "LISTED",
+    "band": [
+      632,
+      632
+    ],
+    "lot": 23,
+    "open": "8 Sep",
+    "close": "10 Sep",
+    "list": "16 Sep",
+    "openISO": "2026-09-08",
+    "closeISO": "2026-09-10",
+    "listISO": "2026-09-16",
+    "allotISO": "2026-09-11",
+    "prevPct": 28.8,
+    "sub": {
+      "qib": 0,
+      "hni": 0,
+      "retail": 0,
+      "total": 90.59,
+      "day": 3
+    },
+    "upd": 0,
+    "new": true,
+    "actualList": null,
+    "issueSize": "₹1055.74 Cr",
+    "infoUrl": "https://www.investorgain.com/gmp/kanohar-electricals-ipo/2119/",
+    "hasAnchor": true,
+    "readings": {
+      "investorgain": {
+        "gmp": 182,
+        "pct": 28.8
+      }
+    },
+    "lastGmpPct": 28.8,
+    "registrar": "MUFG",
+    "trend": [
+      28.8,
+      28.8,
+      28.8
+    ]
+  },
+  {
+    "name": "Prasol Chemicals",
+    "type": "MAINBOARD",
+    "status": "LISTED",
+    "band": [
+      676,
+      676
+    ],
+    "lot": 22,
+    "open": "8 Sep",
+    "close": "10 Sep",
+    "list": "16 Sep",
+    "openISO": "2026-09-08",
+    "closeISO": "2026-09-10",
+    "listISO": "2026-09-16",
+    "allotISO": "2026-09-11",
+    "prevPct": -1.92,
+    "sub": {
+      "qib": 0,
+      "hni": 0,
+      "retail": 0,
+      "total": 3.47,
+      "day": 3
+    },
+    "upd": 0,
+    "new": true,
+    "actualList": null,
+    "issueSize": "₹500.00 Cr",
+    "infoUrl": "https://www.investorgain.com/gmp/prasol-chemicals-ipo/2030/",
+    "hasAnchor": true,
+    "readings": {
+      "investorgain": {
+        "gmp": -13,
+        "pct": -1.9
+      }
+    },
+    "lastGmpPct": -1.9,
+    "registrar": "KFIN",
+    "trend": [
+      -1.9,
+      -1.9,
+      -1.9
+    ]
+  },
+  {
+    "name": "Glass Wall Systems",
+    "type": "MAINBOARD",
+    "status": "LISTED",
+    "band": [
+      182,
+      182
+    ],
+    "lot": 82,
+    "open": "8 Sep",
+    "close": "10 Sep",
+    "list": "16 Sep",
+    "openISO": "2026-09-08",
+    "closeISO": "2026-09-10",
+    "listISO": "2026-09-16",
+    "allotISO": "2026-09-11",
+    "prevPct": 21.43,
+    "sub": {
+      "qib": 0,
+      "hni": 0,
+      "retail": 0,
+      "total": 81.65,
+      "day": 3
+    },
+    "upd": 0,
+    "new": true,
+    "actualList": null,
+    "issueSize": "₹427.89 Cr",
+    "infoUrl": "https://www.investorgain.com/gmp/glass-wall-systems-ipo/1879/",
+    "hasAnchor": true,
+    "readings": {
+      "investorgain": {
+        "gmp": 39,
+        "pct": 21.4
+      }
+    },
+    "lastGmpPct": 21.4,
+    "registrar": "MUFG",
+    "trend": [
+      21.4,
+      21.4,
+      21.4
+    ]
+  },
+  {
+    "name": "Apana Logistics",
+    "type": "SME",
+    "status": "LISTED",
+    "band": [
+      60,
+      60
+    ],
+    "lot": 2000,
+    "open": "7 Sep",
+    "close": "9 Sep",
+    "list": "15 Sep",
+    "openISO": "2026-09-07",
+    "closeISO": "2026-09-09",
+    "listISO": "2026-09-15",
+    "allotISO": "2026-09-10",
+    "prevPct": 0,
+    "sub": {
+      "qib": 0,
+      "hni": 0,
+      "retail": 0,
+      "total": 1.26,
+      "day": 3
+    },
+    "upd": 0,
+    "new": true,
+    "actualList": null,
+    "issueSize": "₹34.14 Cr",
+    "infoUrl": "https://www.investorgain.com/gmp/apana-logistics-ipo/2018/",
+    "hasAnchor": false,
+    "readings": {
+      "investorgain": {
+        "gmp": 0,
+        "pct": 0
+      }
+    },
+    "lastGmpPct": 0,
+    "trend": [
+      0,
+      0
+    ]
+  },
+  {
+    "name": "Pranav Constructions",
+    "type": "MAINBOARD",
+    "status": "LISTED",
+    "band": [
+      124,
+      124
+    ],
+    "lot": 120,
+    "open": "7 Sep",
+    "close": "9 Sep",
+    "list": "15 Sep",
+    "openISO": "2026-09-07",
+    "closeISO": "2026-09-09",
+    "listISO": "2026-09-15",
+    "allotISO": "2026-09-10",
+    "prevPct": 42.74,
+    "sub": {
+      "qib": 0,
+      "hni": 0,
+      "retail": 0,
+      "total": 126.34,
+      "day": 3
+    },
+    "upd": 0,
+    "new": true,
+    "actualList": null,
+    "issueSize": "₹351.03 Cr",
+    "infoUrl": "https://www.investorgain.com/gmp/pranav-constructions-ipo/1662/",
+    "hasAnchor": true,
+    "readings": {
+      "investorgain": {
+        "gmp": 53,
+        "pct": 42.7
+      }
+    },
+    "lastGmpPct": 42.7,
+    "trend": [
+      42.7,
+      42.7
+    ]
+  },
+  {
+    "name": "Qualiance International",
+    "type": "SME",
+    "status": "LISTED",
+    "band": [
+      127,
+      127
+    ],
+    "lot": 1000,
+    "open": "4 Sep",
+    "close": "8 Sep",
+    "list": "11 Sep",
+    "openISO": "2026-09-04",
+    "closeISO": "2026-09-08",
+    "listISO": "2026-09-11",
+    "allotISO": "2026-09-09",
+    "prevPct": 63.78,
+    "sub": {
+      "qib": 0,
+      "hni": 0,
+      "retail": 0,
+      "total": 459.22,
+      "day": 3
+    },
+    "upd": 0,
+    "new": true,
+    "actualList": null,
+    "issueSize": "₹45.11 Cr",
+    "infoUrl": "https://www.investorgain.com/gmp/qualiance-international-ipo/2240/",
+    "hasAnchor": true,
+    "readings": {
+      "investorgain": {
+        "gmp": 81,
+        "pct": 63.8
+      }
+    },
+    "lastGmpPct": 63.8,
+    "trend": [
+      63.8,
+      63.8
     ]
   }
 ]
