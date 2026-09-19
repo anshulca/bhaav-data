@@ -24,7 +24,7 @@
       "day": 0
     },
     "upd": 0,
-    "new": true,
+    "new": false,
     "actualList": null,
     "issueSize": "-",
     "infoUrl": "https://www.investorgain.com/gmp/peshwa-wheat-ipo/2063/",
@@ -139,7 +139,7 @@
     "closeISO": "2026-09-25",
     "listISO": "2026-09-30",
     "allotISO": "2026-09-28",
-    "prevPct": 30.6,
+    "prevPct": 26.1,
     "sub": {
       "qib": 0,
       "hni": 0,
@@ -895,7 +895,7 @@
     "closeISO": "2026-09-21",
     "listISO": "2026-09-24",
     "allotISO": "2026-09-22",
-    "prevPct": 4.1,
+    "prevPct": 3,
     "sub": {
       "qib": 0,
       "hni": 0,
@@ -911,8 +911,8 @@
     "hasAnchor": true,
     "readings": {
       "investorgain": {
-        "gmp": 53,
-        "pct": 3
+        "gmp": 61,
+        "pct": 3.4
       }
     },
     "registrar": "MUFG",
@@ -920,7 +920,7 @@
       8.1,
       8,
       6.3,
-      3
+      3.4
     ]
   },
   {
