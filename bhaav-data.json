@@ -24,7 +24,7 @@
       "day": 0
     },
     "upd": 0,
-    "new": true,
+    "new": false,
     "actualList": null,
     "issueSize": "-",
     "infoUrl": "https://www.investorgain.com/gmp/bench-mark-infotech-services-ipo/2366/",
@@ -55,7 +55,7 @@
     "closeISO": "2026-09-28",
     "listISO": "2026-10-01",
     "allotISO": "2026-09-29",
-    "prevPct": 14.8,
+    "prevPct": 15.3,
     "sub": {
       "qib": 0,
       "hni": 0,
@@ -99,7 +99,7 @@
     "closeISO": "2026-09-25",
     "listISO": "2026-09-30",
     "allotISO": "2026-09-28",
-    "prevPct": 27.6,
+    "prevPct": 30.6,
     "sub": {
       "qib": 0,
       "hni": 0,
@@ -224,7 +224,7 @@
     "closeISO": "2026-09-25",
     "listISO": "2026-09-30",
     "allotISO": "2026-09-28",
-    "prevPct": 2.7,
+    "prevPct": 1.6,
     "sub": {
       "qib": 0,
       "hni": 0,
@@ -351,7 +351,7 @@
     "closeISO": "2026-09-25",
     "listISO": "2026-09-30",
     "allotISO": "2026-09-28",
-    "prevPct": 4.1,
+    "prevPct": 4.4,
     "sub": {
       "qib": 0,
       "hni": 0,
@@ -855,7 +855,7 @@
     "closeISO": "2026-09-21",
     "listISO": "2026-09-24",
     "allotISO": "2026-09-22",
-    "prevPct": 6.2,
+    "prevPct": 4.8,
     "sub": {
       "qib": 0,
       "hni": 0,
@@ -943,7 +943,7 @@
     "closeISO": "2026-09-21",
     "listISO": "2026-09-24",
     "allotISO": "2026-09-22",
-    "prevPct": 0,
+    "prevPct": 2,
     "sub": {
       "qib": 0,
       "hni": 0,
@@ -987,7 +987,7 @@
     "closeISO": "2026-09-18",
     "listISO": "2026-09-23",
     "allotISO": "2026-09-21",
-    "prevPct": 28.5,
+    "prevPct": 29,
     "sub": {
       "qib": 0,
       "hni": 0,
@@ -1031,7 +1031,7 @@
     "closeISO": "2026-09-18",
     "listISO": "2026-09-23",
     "allotISO": "2026-09-21",
-    "prevPct": 34.2,
+    "prevPct": 34.7,
     "sub": {
       "qib": 0,
       "hni": 0,
@@ -1251,7 +1251,7 @@
     "closeISO": "2026-09-16",
     "listISO": "2026-09-21",
     "allotISO": "2026-09-17",
-    "prevPct": 3.7,
+    "prevPct": 4.7,
     "sub": {
       "qib": 0,
       "hni": 0,
